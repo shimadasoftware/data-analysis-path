@@ -22,7 +22,7 @@ Habilidades:
 - análisis de datos
 - R Markdown
 
-Para más información acceder al link: https://www.coursera.org/professional-certificates/analisis-de-datos-de-google?utm_medium=sem&utm_source=gg&utm_campaign=B2C_LATAM_analisis-de-datos-de-google_google_FTCOF_professional-certificates_countrygroup-1-language-es&campaignid=20783698063&adgroupid=155077244065&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=680970515926&hide_mobile_promo&gclid=Cj0KCQiA6vaqBhCbARIsACF9M6ljtj3qXsEs6Hye7d1ws7Uz78HnUAty274ZWrn2RPU8PhmSWhK1Uw0aAi-_EALw_wcB
+Para más información acceder al link: https://www.coursera.org/professional-certificates/analisis-de-datos-de-google
 
 A continuación, se enumeran los módulos de este curso:
 <ul dir="auto">
