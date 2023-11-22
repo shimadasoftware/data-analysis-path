@@ -1,4 +1,4 @@
-# Learning <img src="https://github.com/shimadasoftware/Introduction-to-version-control-with-Git/assets/73977456/801ea14c-dd83-46bb-ab5b-d229a151bc5c" alt="Italian Trulli" style="width:25px;height:25px;"> Curso Análisis de Datos de Google
+# <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Curso Análisis de Datos de Google
 **©** Copyright es reservado para la plataforma Google y Coursera.
 
 Este repositorio contiene el curso el desarrollo del curso 'Análisis de Datos de Google' propuesto por Coursera.
