@@ -103,3 +103,165 @@ Fases del análisis de datos:
 
 ![image](./img/modulo%2001%20img%2001.png)
 
+### Hoja de ruta del certificado de análisis computacional de datos
+
+#### Aspectos básicos
+
+##### Lo que aprenderás:
+
+- Roles y responsabilidades en la vida real de un analista de datos junior
+- Cómo las empresas transforman datos en ideas viables
+- Conceptos básicos sobre las hojas de cálculo
+- Conceptos básicos sobre bases de datos y consultas
+- Conceptos básicos sobre visualización de datos
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Uso de datos en la vida cotidiana
+- Pensamiento analítico
+- Aplicación de herramientas del kit de herramientas del análisis computacional de datos
+- Exhibición de tendencias y patrones con las visualizaciones de datos
+- Cómo asegurarte de que tu análisis de datos sea justo
+
+#### Preguntar
+
+##### Lo que aprenderás:
+
+- Cómo los analistas de datos resuelven problemas con los datos
+- El uso del análisis para tomar decisiones basadas en datos
+- Fórmulas y funciones de las hojas de cálculo
+- Conceptos básicos sobre el panel, que incluyen una introducción a Tableau
+- Conceptos básicos sobre informes de datos
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Formular preguntas SMART y efectivas
+- Estructurar tus pensamientos
+- Resumen de datos
+- Contextualizar cada cosa
+- Gestionar las expectativas del equipo y los interesados
+- Resolución de problemas y conflictos
+
+#### Preparar
+
+##### Lo que aprenderás:
+
+- Cómo se generan los datos
+- Características de diferentes tipos, campos y valores de datos
+- Estructuras de las bases de datos
+- La función de los metadatos en el análisis computacional de datos
+- Funciones del Lenguaje de consulta estructurado (SQL)
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Garantizar el uso de prácticas éticas en el análisis de datos
+- Abordar los problemas de sesgo y credibilidad
+- Acceso a bases de datos e importación de datos
+- Escribir consultas sencillas
+- Organización y protección de los datos
+- Conectarse con la comunidad de datos (opcional)
+
+#### Procesar
+
+##### Lo que aprenderás:
+
+- Integridad de datos y la importancia de la limpieza de los datos
+- Las herramientas y los procesos utilizados por los analistas de datos para limpiar datos
+- Verificación e informes de la limpieza de datos
+- Estadística, comprobación de hipótesis y margen de error
+- Armado de currículum e interpretación de ofertas de empleo (opcional)
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Conectar los objetivos de negocios con el análisis de datos
+- Identificar datos limpios y sucios
+- Limpiar pequeños conjuntos de datos mediante el uso de las herramientas de hojas de cálculo
+- Limpiar grandes conjuntos de datos mediante la escritura de consultas SQL
+- Documentar los procesos de limpieza de datos
+
+#### Analizar
+
+##### Lo que aprenderás:
+
+- Pasos que realizan los analistas de datos para organizar los datos
+- Cómo combinar datos de varias fuentes
+- Cálculos y tablas dinámicas de las hojas de datos
+- Cálculos en SQL
+- Tablas temporales
+- Validación de datos
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Ordenación de datos en hojas de cálculo y mediante la escritura de consultas SQL
+- Filtrado de datos en hojas de cálculo y mediante la escritura de consultas SQL
+- Convertir datos
+- Formatear datos
+- Corroborar los procesos de análisis de datos
+- Obtener comentarios y apoyo de terceros durante el análisis de datos
+
+#### Compartir
+
+##### Lo que aprenderás:
+
+- Design Thinking
+- Cómo los analistas de datos utilizan visualizaciones para comunicar los datos
+- Los beneficios de Tableau para presentar las conclusiones del análisis de datos
+- Narración basada en datos
+- Paneles y filtros de panel
+- Estrategias para crear una presentación de datos efectiva
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Creación de visualizaciones y paneles en Tableau
+- Abordaje de problemas de accesibilidad al comunicar los datos
+- Entender el propósito de diferentes herramientas de comunicación empresarial
+- Narrar una historia basada en datos
+- Realizar una presentación relacionada con los datos a terceros
+- Responder preguntas sobre datos
+
+#### Actuar
+
+Lo que aprenderás:
+
+- Programación de lenguajes y entornos
+- Paquetes de R
+- Funciones de R, variables, tipos de datos, tuberías y vectores
+- Marcos de datos de R
+- El sesgo y la credibilidad en R
+- Herramientas de visualización de R
+- R Markdown para documentar, generar estructura y dar énfasis
+
+Conjuntos de habilidades que desarrollarás:
+
+- Codificación en R
+- Escribir funciones en R
+- Acceder a datos en R
+- Limpiar datos en R
+- Crear visualizaciones de datos en R
+- Informar sobre análisis de datos a los interesados
+
+#### Proyecto final
+
+Lo que aprenderás:
+
+- Cómo un portfolio de análisis de datos te distingue de otros candidatos
+- Resolución de problemas práctica y realista
+- Estrategias para sacar conclusiones a partir de los datos
+- Presentación clara de las conclusiones relacionadas con los datos
+- Motivación y capacidad para tomar la iniciativa
+
+Conjuntos de habilidades que desarrollarás:
+
+- La creación de un portfolio
+- Aumentar tu empleabilidad
+- Resaltar tus conocimientos en análisis computacional de datos, destrezas y experiencia técnica
+- Compartir tu trabajo durante una entrevista
+- Comunicar tu propuesta de valor única a un empleador potencial
+
+#### Preguntas
+
+¿Qué herramientas o plataformas se abordan en el plan de estudios?
+Hojas de cálculo, SQL, herramientas de presentación, Tableau, RStudio y Kaggle.
+
+¿Enseñarán R o Python?
+En este programa se enseña el lenguaje de programación de código abierto, R, que es excelente para el análisis de datos básicos y ofrece paquetes útiles para que los principiantes se postulen a sus proyectos. No abordamos Python en el plan de estudios.
