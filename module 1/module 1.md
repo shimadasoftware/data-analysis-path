@@ -414,7 +414,7 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 8. Esta es una selección de una hoja de cálculo que clasifica las 10 ciudades más pobladas de Carolina del Norte. Para poner en orden alfabético los nombres de los condados en la columna D, ¿qué herramienta de la hoja de cálculo utilizarías?
 
-![image](./img/module%2001%20img%2002.png)
+    ![image](./img/module%2001%20img%2002.png)
 
     - Rango de nombres
     
