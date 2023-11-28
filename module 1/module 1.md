@@ -24,7 +24,9 @@ Este primer modulo se divide en:
 
 ## 1. Bienvenida 👋
 
-### Bienvenido al certificado de Google Data Analytics
+### Bienvenido al certificado de Google Data Analytics 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 ### Conceptos básicos
 
@@ -48,6 +50,8 @@ En pocas palabras, un analista de datos es alguien que colecciona, transforma y 
 
 ### Ejercicio: Piensa en los datos de la vida cotidiana
 
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+
 #### Descripción general
 
 A esta altura, ya has empezado a descubrir cuán potentes pueden ser los datos. A lo largo de este curso, se te pedirá que hagas entradas en un registro de aprendizaje. El registro será un espacio personal en el que podrás realizar un seguimiento de tus ideas y reflexiones sobre tu experiencia en relación con la recopilación y el análisis de datos. Las reflexiones pueden incluir lo que te gustó, lo que cambiarías y las preguntas que se plantearon. Cuando completes la entrada de esta actividad, tendrás un mayor conocimiento del análisis de datos.
@@ -67,6 +71,13 @@ Antes de escribir una entrada en el registro de aprendizaje, piensa dónde y có
 - ¿Cuántas horas duermes cada día? 
 
 A continuación, seleccionarás una de las cinco preguntas de tu lista para explorar más a fondo y anotar los tipos de datos que podrías recopilar para tomar una decisión. ¡Esto es el análisis de datos en acción!
+
+#### Accede al registro de aprendizaje
+
+Para utilizar el registro de aprendizaje de este elemento del curso, haz clic en el enlace de abajo y selecciona «Usar plantilla». 
+
+Enlace a la plantilla de registro de aprendizaje: 
+[Piensa en los datos de la vida cotidiana](https://docs.google.com/document/d/13ItzzrF_d2r2rDmnDCCAPnL0SdfAxeCt21VTZNMLyWY/template/preview)
 
 #### Desarrollo
 
@@ -96,7 +107,9 @@ Después de considerar cómo utilizas el análisis de datos en tu propia vida, t
 
 Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, asegúrate de guardar el documento para que se pueda acceder a tu respuesta en algún lugar. Esto te ayudará a seguir aplicando el análisis de datos a tu vida cotidiana. También podrás realizar un seguimiento de tu avance y crecimiento como analista de datos.
 
-### Introducción al curso
+### Introducción al curso 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 Esta es una introducción al maravilloso mundo del análisis computacional de datos. Dado que el análisis computacional de datos es la ciencia de los datos, usarás este curso para empezar a aprender todo sobre los datos. Los datos son básicamente una recopilación de hechos o información y, mediante el análisis, aprenderás a usarlos para sacar conclusiones, hacer predicciones y tomar decisiones.
 
@@ -119,6 +132,8 @@ Fases del análisis de datos:
 ![image](./img/module%2001%20img%2001.png)
 
 ### Hoja de ruta del certificado de análisis computacional de datos
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 #### Aspectos básicos
 
@@ -282,6 +297,8 @@ Hojas de cálculo, SQL, herramientas de presentación, Tableau, RStudio y Kaggle
 En este programa se enseña el lenguaje de programación de código abierto, R, que es excelente para el análisis de datos básicos y ofrece paquetes útiles para que los principiantes se postulen a sus proyectos. No abordamos Python en el plan de estudios.
 
 ### Cuestionario de diagnóstico
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 ¿Que tanto conoces sobre el análisis computacional de datos?
 
@@ -472,7 +489,9 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 ## 2. Transformación de datos en conocimiento 🧠
 
-### Análisis de datos en la vida cotidiana
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+
+### Análisis de datos en la vida cotidiana 🎬
 
 ¡Bienvenido nuevamente! A esta altura, ya te han presentado al mundo del análisis computacional de datos y lo que hacen los analistas de datos. También has aprendido cómo este curso te preparará para una carrera exitosa como analista. En el futuro, aprenderás todas las formas en que se pueden usar los datos, y descubrirás por qué hay una demanda tan alta de analistas de datos. 
 
@@ -487,6 +506,8 @@ Como recordatorio, la definición más detallada que aprendiste antes es que el 
 Por ejemplo, tal vez los datos las lleven a un nuevo producto o a un servicio único, o tal vez las ayuden a encontrar una nueva forma de ofrecer una experiencia de cliente increíble. Son este tipo de momentos en los que puedes ayudar a las empresas a alcanzar otro nivel, y eso hace que los analistas de datos sean vitales para cualquier negocio. Ahora que sabes más acerca de las increíbles formas en que se usan los datos todos los días, puedes ver por qué hay una demanda tan alta de analistas de datos. Seguiremos analizando cómo los analistas pueden transformar los datos en ideas que conduzcan a la acción. Y antes de que te des cuenta, estarás listo para ayudar a cualquier organización a encontrar nuevas y emocionantes formas de transformar sus datos.
 
 ### Caso práctico: Nuevas perspectivas de datos
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 Tal y como has aprendido, puedes encontrar datos prácticamente en todas partes. Cada vez que observas y evalúas algo en el mundo, recopilas y analizas datos. El análisis te ayuda a encontrar formas más fáciles de hacer las cosas, identificar patrones para ahorrar tiempo y descubrir nuevas perspectivas sorprendentes que pueden cambiar por completo la forma en que experimentas las cosas.
 
@@ -661,10 +682,57 @@ Resultados:
 
 Pep Worx permitió a PepsiCo distinguir 24 millones de hogares de su conjunto de datos de 110 millones de hogares estadounidenses que tendrían más probabilidades de estar interesados ​​en Quaker Overnight Oats. Luego, la empresa identificó minoristas específicos en los que estos hogares podrían comprar y se dirigió a sus audiencias específicas. En última instancia, estos clientes impulsaron el 80 por ciento del crecimiento de las ventas del producto en los primeros 12 meses después del lanzamiento.
 
+### Ejercicio: Considerar cómo abordan las tareas los analistas de datos
 
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
+#### Descripción general
 
+Anteriormente aprendiste cómo los analistas de datos de una organización utilizaban los datos para mejorar la retención de empleados. Ahora, completarás una entrada en tu registro de aprendizaje para hacer un seguimiento de tus ideas y reflexiones sobre el proceso de estos analistas de datos y cómo abordaron este problema. Cuando completes la actividad, comprenderás mejor cómo se pueden utilizar las seis fases del proceso de análisis de datos para desglosar tareas y abordar grandes preguntas. Esto te ayudará a aplicar los pasos a futuras tareas de análisis y empezar a abordar preguntas importantes tú mismo.
 
+#### Revisa las seis fases del análisis de datos
+
+Antes de escribir la entrada en el registro de aprendizaje, reflexiona sobre el caso práctico anterior. Los analistas de datos querían utilizar los datos para mejorar la retención de los empleados. Para ello, tuvieron que dividir este proyecto más amplio en tareas manejables. Los analistas organizaron esas tareas y actividades en torno a las seis fases del proceso de análisis de datos: 
+
+1. Preguntar
+2. Preparar
+3. Procesar
+4. Analizar
+5. Compartir
+6. Actuar
+
+Los analistas hicieron preguntas para definir tanto el problema a resolver como lo que equivaldría a un resultado exitoso. Luego, se prepararon y crearon un cronograma y recopilaron datos de encuestas a los empleados diseñadas para ser inclusivas. Procesaron los datos. Para ello, los limpiaron y se aseguraron de que estuvieran completos, correctos, pertinentes y sin errores ni valores atípicos. Analizaron los datos limpios de las encuestas hechas a los empleados. Luego, los analistas compartieron sus hallazgos y recomendaciones con los líderes del equipo. Posteriormente, los líderes actuaron en función de los resultados y se centraron en mejorar las áreas clave. 
+
+#### Accede al registro de aprendizaje
+
+Para utilizar la plantilla de este elemento del curso, haz clic en el enlace de abajo y selecciona «Usar plantilla». 
+
+Enlace a la plantilla de registro de aprendizaje: 
+[Considerar cómo abordan las tareas los analistas de datos](https://docs.google.com/document/d/19zcvG84yVPojvWxEwpOqT4m10JSVs8zL2NYBLC23N8w/template/preview)
+
+#### Desarrollo
+
+Pregunta: ¿Cómo abordan las tareas los analistas de datos?
+
+Considera cómo los analistas de datos de Google usaron el proceso de análisis de datos para desglosar tu proyecto de análisis:
+
+Los analistas hicieron preguntas para definir tanto el problema a resolver como lo que equivaldría a un resultado exitoso. A continuación, se prepararon al elaborar un cronograma y recopilar datos con encuestas a los empleados, que deben ser inclusivas. Procesaron los datos. Para ello, los limpiaron y se aseguraron de que estuvieran completos, correctos, pertinentes y sin errores ni valores atípicos. Analizaron los datos limpios de las encuestas hechas a los empleados. Luego, los analistas compartieron sus conclusiones y recomendaciones con los líderes de equipos. Posteriormente, los líderes actuaron en función de los resultados y se centraron en mejorar las áreas clave.
+
+#### Reflexión
+
+En tu plantilla de registro de aprendizaje, escribe 2 o 3 frases (40-60 palabras) de reflexión sobre lo que has aprendido del caso práctico y responde a cada una de las siguientes preguntas:
+
+¿Los detalles del caso práctico ayudaron a cambiar tu forma de pensar sobre el análisis de datos? ¿Por qué o por qué no?
+
+¿Te sorprendió la forma en que los analistas de datos abordaron su tarea?
+
+¿Qué más te gustaría saber sobre el análisis de datos?
+
+Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, asegúrate de guardar el documento para que se pueda acceder a tu respuesta en algún lugar. Esto te ayudará a seguir aplicando el análisis de datos a tu vida cotidiana. También podrás realizar un seguimiento de tu avance y crecimiento como analista de datos.
+
+### Dimensiones de la analítica de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 
 
