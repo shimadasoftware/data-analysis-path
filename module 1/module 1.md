@@ -24,6 +24,19 @@ Este primer modulo se divide en:
 
 ## 1. Bienvenida 👋
 
+### Temario: 
+
+- Bienvenido al certificado de Google Data Analytics (Video - 9 min)
+- Descripcion del programa y plan de estudios (Reading - 10 min)
+- Registro de aprendizaje: Piensa en los datos de la vida cotidiana (Reading - 20 min)
+- Introducción al curso (Video - 4min)
+- Recursos utiles para empezar (Reading - 10 min)
+- Queremos conocerte Discussion (Prompt - 10 min)
+- Hoja de ruta del certificado de analisis computacional de datos (Ungraded Plugin - 15 min)
+- Decidir si tomar la via rapida (Reading - 10 min)
+- Opcional: ¿Conoces el analisis computacional de datos? Realiza nuestro cuestionario de diagnóstico (Practice Quiz - 10 questions)
+- Opcional: La puntuacion del cuestionario de diagnéstico y lo que significa (Reading - 10 min)
+
 ### Bienvenido al certificado de Google Data Analytics 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
@@ -489,9 +502,16 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 ## 2. Transformación de datos en conocimiento 🧠
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+### Temario: 
+
+- Analisis de datos en la vida cotidiana (Video - 4min)
+- Caso practico: Nuevas perspectivas de datos (Reading - 10 min)
+- Registro de aprendizaje: considerar como abordan las tareas los analistas de datos (Reading - 20 min)
+- Cassie: Dimensiones de la analitica de datos (Video - 4min)
 
 ### Análisis de datos en la vida cotidiana 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
 ¡Bienvenido nuevamente! A esta altura, ya te han presentado al mundo del análisis computacional de datos y lo que hacen los analistas de datos. También has aprendido cómo este curso te preparará para una carrera exitosa como analista. En el futuro, aprenderás todas las formas en que se pueden usar los datos, y descubrirás por qué hay una demanda tan alta de analistas de datos. 
 
@@ -734,42 +754,63 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
+La inteligencia de decisiones es una combinación de ciencia de datos aplicada y ciencias sociales y gerenciales. Se trata de aprovechar el poder y la belleza de los datos. Un analista de datos es un explorador, un detective y un artista, todo en uno. El análisis es la búsqueda de inspiración. No sabes qué va a inspirarte antes de explorar, antes de echar un vistazo. Cuando empiezas, no tienes idea de qué vas a encontrar y si incluso vas a encontrar algo. Tienes que sumergirte valientemente en lo desconocido y descubrir lo que hay en tus datos. 
 
+Existe un mito generalizado de que alguien que trabaja en datos debería saber todo sobre ellos. Creo que eso es poco útil porque el universo de los datos se ha expandido. Se ha expandido tanto, que la especialización se vuelve importante. Es muy, muy difícil para una persona conocer y dominarlo todo en materia de datos. Es por eso que necesitamos estas diferentes funciones. El consejo que doy a quienes están empezando es que elijan una especialización en función del gusto, del tipo de impacto que mejor se adapta a su personalidad. 
 
+Ahora, la ciencia de datos, la disciplina de hacer útiles los datos, es un término general que abarca **tres disciplinas: aprendizaje automático, estadísticas y análisis**. Estas están separadas por cuántas decisiones sabes que quieres tomar antes de empezar con ellas. 
 
+1. Si quieres tomar unas cuantas decisiones importantes con incertidumbre, eso es **estadística**.
 
+2. Si quieres **automatizar**, en otras palabras, tomar muchas, muchas, muchas decisiones con incertidumbre, eso es aprendizaje automático e IA.
 
+3. Pero ¿qué sucede si no sabes cuántas decisiones quieres tomar antes de empezar? ¿Qué pasa si lo que estás buscando es inspiración? Quieres encontrar tus incógnitas desconocidas. Quieres entender tu mundo. Eso es **análisis**.
 
+Cuando consideras la ciencia de datos y eliges en qué área especializarte, recomiendo aceptar tu personalidad. ¿Cuál de las tres excelencias en ciencia de datos parecería ajustarse mejor a ti? 
 
+1. La excelencia de la **estadística** es exactitud. Los estadísticos son esencialmente filósofos, epistemólogos. Son muy, muy cuidadosos en proteger a los responsables de la toma de decisiones para que no lleguen a una conclusión equivocada. Si ese cuidado y rigor es lo que te apasiona, recomiendo la estadística.
 
+2. El rendimiento es la excelencia del **aprendizaje automático y el ingeniero de IA**. Sabes que es lo tuyo cuando alguien te dice «Apuesto a que no podías construir un sistema de automatización que lleve a cabo esta tarea con un 99,99999 por ciento de precisión» y tu respuesta es
+«Mírame».
 
+3. ¿Qué hay de los análisis? La excelencia de un **analista** es la velocidad. ¿Qué tan rápido puedes ahondar en grandes cantidades de datos y explorarlos y
+descubrir algo interesante, el hermoso potencial de la información que vale la pena conocer y llevar a los responsables de la toma de decisiones? ¿Te emociona la ambigüedad de la exploración? ¿Te entusiasma la idea de trabajar con muchas cosas diferentes, observar un montón de fuentes de datos diferentes y pensar en vastas cantidades de información, y a la vez prometer no pasar por alto información que pueda ser importante? ¿Te parece bien que te digan «Aquí hay muchos datos. Nadie los ha mirado antes. Ve a buscar algo interesante»? ¿Prosperas en proyectos abiertos y creativos? Si es así, entonces los análisis sean probablemente la mejor opción para ti. Un consejo que tengo para los analistas que recién empiezan es que quizá sea bastante aterrador explorar lo desconocido. Pero sugiero que dejes ir un poco cualquier tentación hacia el perfeccionismo y, en cambio, te diviertas y disfrutes de la exploración. No te preocupes por las respuestas correctas. Ve lo rápido que puedes desenvolver este regalo y averigua si hay algo divertido. Es como tu cumpleaños, desenvuelves un montón de cosas. Algunas de ellas te gustan. Otras no. Pero ¿no es divertido averiguar qué hay?
 
+## 3. Comprender el ecosistema de datos 🕵🏻‍♀️ 
 
+---
 
+### Temario: 
 
+- ¿Qué es el ecosistema de datos? (Video - 4min)
+- Como los datos informan mejores decisiones (Video - 4min)
+- Datos e instinto (Reading - 10 min)
+- Origenes del proceso de analisis de datos (Reading - 10 min)
+- Pon a prueba tus conocimientos sobre el ecosistema de datos (Practice Quiz - 4 questions)
 
+### Dimensiones de la analítica de datos 🎬
 
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
 
+Ya has aprendido acerca de la función de un analista de datos y cómo este programa te ayudará a prepararte para tu futura carrera. Ahora, es momento de explorar el ecosistema de datos, descubrir dónde encaja el análisis computacional de datos en ese sistema, y repasar algunas ideas erróneas que podrías encontrar en el campo del análisis computacional de datos. 
 
+En pocas palabras, un **ecosistema es un grupo de elementos que interactúan uno con el otro**. Los ecosistemas pueden ser grandes, como la jungla en una selva tropical o el desierto australiano. O diminutos, como renacuajos en un charco, o bacterias en la piel. Y, al igual que los canguros y osos koala en el desierto australiano, los datos también viven dentro de su propio ecosistema. Los ecosistemas de datos se componen de varios elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos. Estos elementos incluyen hardware y herramientas de software y las personas que los usan. Personas como tú. Los datos también se pueden encontrar en algo llamado nube. 
 
+La nube es un lugar para mantener los datos en línea, en lugar de en el disco duro de una computadora. Así que en lugar de almacenar datos en algún lugar dentro de la red de tu organización, a los datos se accede a través de Internet. La nube es solo un término que usamos para describir la ubicación virtual. La nube desempeña un papel importante en el ecosistema de datos y, como analista de datos, es tu trabajo aprovechar el poder de este ecosistema, buscar la información correcta, y proporcionar análisis al equipo que los ayude a tomar decisiones inteligentes. 
 
+Por ejemplo, podrías aprovechar la base de datos de tu tienda minorista, que es un ecosistema de nombres de clientes, direcciones, compras anteriores y opiniones de clientes. Como analista de datos, podrías usar esta información para predecir lo que estos clientes comprarán en el futuro, y asegurarte de que la tienda tenga los productos y existencias cuando se necesiten. 
 
+Como otro ejemplo, pensemos en el ecosistema de un departamento de recursos humanos. Este ecosistema incluiría información como publicaciones de sitios web de trabajo, estadísticas sobre el mercado laboral actual, tasas de empleo y datos en las redes sobre los posibles empleados. Un analista de datos podría usar esta información para ayudar a su equipo a contratar nuevos trabajadores y mejorar el compromiso de los empleados y las tasas de retención. Pero los ecosistemas de datos no son solo para tiendas y oficinas. También funcionan en granjas. Las empresas agrícolas regularmente usan ecosistemas de datos que incluyen información tal como los patrones geológicos en los movimientos climáticos. 
 
+Los analistas de datos pueden usar estos datos para ayudar a los agricultores a predecir el rendimiento de los cultivos. Algunos analistas de datos incluso usan ecosistemas de datos para proteger los ecosistemas ambientales reales. En Scripps Institution of Oceanography, los arrecifes de coral de todas partes del mundo se supervisan digitalmente, por lo que puedes ver cómo cambian los organismos con el tiempo, realizar un seguimiento de su crecimiento y medir cualquier aumento o disminución en las colonias individuales. Las posibilidades son infinitas. 
 
+Ahora vamos a hablar de algunas ideas erróneas frecuentes que podrías encontrar. En primer lugar, es la **diferencia entre científicos de datos y analistas de datos**. Es fácil confundirlos, pero lo que hacen en realidad es muy diferente. **La ciencia de datos se define como crear nuevas formas de modelar y entender lo desconocido mediante el uso de datos sin procesar**. He aquí una buena forma de pensarlo. **Los científicos de datos crean nuevas preguntas con los datos, mientras que los analistas encuentran respuestas a las preguntas existentes y crean información a partir de las fuentes de datos**. También hay muchas palabras y frases que escucharás a lo largo de este curso, que son fáciles de confundir. 
 
+Por ejemplo, **análisis de datos y análisis computacional de datos suenan igual, pero en realidad son muy diferentes**. Comencemos con el **análisis de datos**. Ya has aprendido que el **análisis de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones informada**. El **análisis computacional de datos**, en los términos más sencillos, **es la ciencia de los datos**. Es un concepto muy amplio que abarca todo, desde el trabajo de gestión y el uso de los datos hasta las herramientas y los métodos que los trabajadores de datos usan todos los días. Así que, cuando pienses en datos, análisis de datos y el ecosistema de datos, es importante entender que todo esto encaja en la definición de análisis computacional de datos. 
 
+Muy bien, ahora que sabes un poco más sobre el ecosistema de datos y las diferencias entre el análisis de datos y el análisis computacional de datos, estás listo para analizar cómo se usan los datos a fin de tomar decisiones eficaces. Podrás ver la toma de decisiones basada en datos en acción.
 
-
-
-
-
-
-
-
-
-
-
-
+![image](/img/module%2001%20img%2009.png)
 
 
 
@@ -777,16 +818,23 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 TO DO:
 
----
-
-## 3. Comprender el ecosistema de datos 🕵🏻‍♀️ 
-
----
-
 ## 4. Expectativas del programa y foro 🤞🏻
 
 ---
 
+### Temario: 
+
+- Qué esperar para seguir adelante (Video - 1 min)
+- Comprométete a finalizar el programa (Ungraded Plugin - 15 min)
+- Encuestas del programa (Reading - 10 min)
+- Foros de debate (Reading - 10 min)
+- Conoce a tus companieros de clase (Reading - 10 min)
+- Queremos conocerte (Discussion Prompt - 10 min)
+- Pon a prueba tus conocimientos sobre el uso adecuado del foro de debate Practice (Quiz - 3 questions)
+
 ## 5. Desafio semanal 🏆
 
 ---
+
+- Glosario: Términos y definiciones (Reading - 5min)
+- Desafio semanal 1 (Quiz - 8 questions)
