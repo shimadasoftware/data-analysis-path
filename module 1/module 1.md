@@ -1082,9 +1082,6 @@ Pon a prueba tus conocimientos sobre el ecosistema de datos
     
       ❌ Incorrecto. 
 
-
-TO DO:
-
 ## 4. Expectativas del programa y foro 🤞🏻
 
 ---
@@ -1103,5 +1100,78 @@ TO DO:
 
 ---
 
+### Temario: 
+
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 1 (Quiz - 8 questions)
+
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Análisis (computacional) de datos: La ciencia de los datos.
+  
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para impulsar la toma de decisiones fundamentada.
+
+B
+
+C
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido.
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad.
+
+D
+
+- Datos: Una colección de hechos.
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+
+T
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial.
+
+U
+V
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+Desafio semanal 1
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+
+
+
+
+
+
+
+
+
