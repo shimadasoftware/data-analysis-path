@@ -1283,7 +1283,7 @@ Desafio semanal 1
     
     - Toma de decisiones basada en datos.
     
-      ✅ Correcto.  
+      ✅ Correcto. Compartir los resultados de su análisis con personas que están familiarizadas con el problema empresarial es un ejemplo de toma de decisiones basada en datos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial.
       
     - Análisis computacional de datos.
     
@@ -1300,20 +1300,8 @@ Desafio semanal 1
     
       ✅ Correcto. Compartir articulos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Ademas, las publicaciones deben ser relevantes para el analisis computacional de datos, y deberia verificarse si tiene errores tipograficos y gramaticales.
 
----
 
-1. El análisis de datos abarca los diversos elementos que interactúan entre sí para proporcionar, gestionar, almacenar, organizar, analizar y compartir datos.
-
-    - Verdadero.
-    
-      ❌ Incorrecto. Esa es la definición de un ecosistema de datos.
-  
-    - Falso.
-    
-      ✅ Correcto. El análisis computacional de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
-
-
-2. En el análisis computacional de datos, ¿qué término describe una colección de elementos que interactúan entre sí?
+9. En el análisis computacional de datos, ¿qué término describe una colección de elementos que interactúan entre sí?
 
     - El entorno de nube.
     
@@ -1332,7 +1320,7 @@ Desafio semanal 1
       ❌ Incorrecto. 
 
 
-3. Completa el espacio en blanco: El objetivo principal de un _____ de datos es crear nuevas preguntas con datos.
+10. Completa el espacio en blanco: El objetivo principal de un _____ de datos es crear nuevas preguntas con datos.
 
     - analista.
     
@@ -1351,7 +1339,7 @@ Desafio semanal 1
       ❌ Incorrecto. 
 
 
-4. Completa el espacio en blanco: El término _____ se define como una comprensión intuitiva de algo con poca o ninguna explicación.
+11. Completa el espacio en blanco: El término _____ se define como una comprensión intuitiva de algo con poca o ninguna explicación.
     
     - conciencia.
     
@@ -1370,7 +1358,7 @@ Desafio semanal 1
       ❌ Incorrecto. 
 
 
-5. Un fabricante de muebles quiere encontrar una forma más respetuosa con el medio ambiente de fabricar sus productos. Un analista de datos ayuda a resolver este problema al recopilar datos relevantes, analizarlos y utilizarlos para sacar conclusiones. A continuación, el analista comparte su análisis con expertos en la materia del equipo de fabricación, que validan los hallazgos. Por último, se pone en marcha un plan. En este escenario se describe la ciencia de datos.
+12. Un fabricante de muebles quiere encontrar una forma más respetuosa con el medio ambiente de fabricar sus productos. Un analista de datos ayuda a resolver este problema al recopilar datos relevantes, analizarlos y utilizarlos para sacar conclusiones. A continuación, el analista comparte su análisis con expertos en la materia del equipo de fabricación, que validan los hallazgos. Por último, se pone en marcha un plan. En este escenario se describe la ciencia de datos.
 
     - Verdadero.
     
@@ -1381,9 +1369,9 @@ Desafio semanal 1
       ✅ Correcto. 
 
 
-6. ¿Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
+13. ¿Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
 
-    - Consultan los resultados del análisis de datos e identifican cualquier incoherencia..
+    - Consultan los resultados del análisis de datos e identifican cualquier incoherencia.
     
       ✅ Correcto. Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman. 
   
@@ -1400,26 +1388,7 @@ Desafio semanal 1
       ✅ Correcto. Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman. 
 
 
-7. ¿Qué práctica respalda el hecho de compartir los resultados de su análisis con colegas que están muy familiarizados con el problema empresarial?
-
-    - Ciencia de análisis de datos.
-    
-      ❌ Incorrecto. 
-  
-    - Toma de decisiones basada en datos.
-    
-      ✅ Correcto. Esta empresa ha colocado los datos en el centro de su estrategia empresarial para lograr una toma de decisiones basada en datos. 
-    
-    - Análisis computacional de datos.
-    
-      ❌ Incorrecto. 
-      
-    - Gestión de datos.
-    
-      ❌ Incorrecto. 
-
-
-8. Lees un artículo interesante en una revista y quieres compartirlo en el foro de debate. ¿Qué debes hacer al publicar? Selecciona todas las opciones correctas.
+14. Lees un artículo interesante en una revista y quieres compartirlo en el foro de debate. ¿Qué debes hacer al publicar? Selecciona todas las opciones correctas.
 
     - Incluir tu dirección de correo electrónico para que las personas envíen preguntas o comentarios.
     
@@ -1436,6 +1405,62 @@ Desafio semanal 1
     - Asegurarte de que el artículo sea relevante para el análisis computacional de datos.
     
       ✅ Correcto. Las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+
+
+16. ¿Qué describe la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada?
+
+    - Análisis de datos.
+    
+      ✅ Correcto. La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada describe al análisis de datos.
+  
+    - Ciclo de vida de datos.
+    
+      ❌ Incorrecto.
+    
+    - Análisis computacional de datos.
+      
+      ❌ Incorrecto.
+      
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto.
+
+17. Billings Tapholstery ha definido un problema que debe resolver: encontrar una forma más respetuosa con el medio ambiente de producir sus muebles. Un analista de datos recopila datos relevantes, los analiza y los utiliza para sacar conclusiones. A continuación, el analista comparte su análisis con expertos en la materia del equipo de fabricación, que validan los hallazgos. Por último, se pone en marcha un plan. En este escenario, ¿se describe qué proceso?
+
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto.
+  
+    - Toma de decisiones basada en datos.
+    
+       ✅ Correcto. Esta empresa ha colocado los datos en el centro de su estrategia empresarial para lograr una toma de decisiones basada en datos.
+    
+    - Identificación de tendencias.
+      
+      ❌ Incorrecto.
+      
+    - Servicio al cliente.
+    
+      ❌ Incorrecto.
+      
+18. Recientemente te has suscrito a una revista de análisis computacional de datos en línea. Te ha gustado mucho un artículo y quieres compartirlo en el foro de debate. ¿Cuál de las siguientes opciones sería apropiada en una publicación? Selecciona todas las opciones correctas.
+
+    - Incluir tus propias ideas sobre el artículo.
+    
+      ✅ Correcto. Compartir artículos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Además, las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+  
+    - Incluir un anuncio sobre cómo suscribirse a la revista de análisis computacional de datos.
+    
+      ❌ Incorrecto.
+    
+    - Dar crédito al autor original.
+      
+      ✅ Correcto. Compartir artículos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Además, las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+      
+    - Comprobar si hay errores tipográficos o gramaticales en tu publicación.
+    
+      ✅ Correcto. Compartir artículos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Además, las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+
 
 
 
