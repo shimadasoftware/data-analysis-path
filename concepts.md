@@ -53,6 +53,10 @@ La ciencia de datos, la disciplina de hacer útiles los datos, es un término ge
 5. Share (Compartir): Compartir datos con tu audiencia.
 6. Act (Actuar): Actuar en función de los datos y utilizar los resultados del análisis.
 
+## Expertos en la materia
+
+Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman.
+
 ## Ecosistema de datos
 
 - Un ecosistema es un grupo de elementos que interactúan uno con el otro.
@@ -137,6 +141,10 @@ Data science, the discipline of making data useful, is an umbrella term that enc
 4. Analyze (Análisis): Analyze data to find patterns, relationships and trends.
 5. Share (Compartir): Share data with your audience.
 6. Act (Actuar): Act on data and use analysis results.
+
+## Subject matter experts
+
+Subject matter experts can provide insight into the business problem, identify inconsistencies in the analysis, and validate the decisions being made.
    
 ## Data ecosystems
 
