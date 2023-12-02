@@ -1,7 +1,7 @@
 # <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 1: Presentación del análisis computacional de datos
 **©** Copyright es reservado para la plataforma Google y Coursera.
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-145%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-145%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 ## Objetivos
 
@@ -39,7 +39,7 @@ Este primer modulo se divide en:
 
 ### Bienvenido al certificado de Google Data Analytics 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 ### Conceptos básicos
 
@@ -63,7 +63,7 @@ En pocas palabras, un analista de datos es alguien que colecciona, transforma y 
 
 ### Ejercicio: Piensa en los datos de la vida cotidiana 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 #### Descripción general
 
@@ -122,7 +122,7 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 ### Introducción al curso 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Esta es una introducción al maravilloso mundo del análisis computacional de datos. Dado que el análisis computacional de datos es la ciencia de los datos, usarás este curso para empezar a aprender todo sobre los datos. Los datos son básicamente una recopilación de hechos o información y, mediante el análisis, aprenderás a usarlos para sacar conclusiones, hacer predicciones y tomar decisiones.
 
@@ -146,7 +146,7 @@ Fases del análisis de datos:
 
 ### Hoja de ruta del certificado de análisis computacional de datos 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 #### Aspectos básicos
 
@@ -311,7 +311,7 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 ### Cuestionario de diagnóstico 📑
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 ¿Que tanto conoces sobre el análisis computacional de datos?
 
@@ -511,7 +511,7 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 ### Análisis de datos en la vida cotidiana 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 ¡Bienvenido nuevamente! A esta altura, ya te han presentado al mundo del análisis computacional de datos y lo que hacen los analistas de datos. También has aprendido cómo este curso te preparará para una carrera exitosa como analista. En el futuro, aprenderás todas las formas en que se pueden usar los datos, y descubrirás por qué hay una demanda tan alta de analistas de datos. 
 
@@ -527,7 +527,7 @@ Por ejemplo, tal vez los datos las lleven a un nuevo producto o a un servicio ú
 
 ### Caso práctico: Nuevas perspectivas de datos
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Tal y como has aprendido, puedes encontrar datos prácticamente en todas partes. Cada vez que observas y evalúas algo en el mundo, recopilas y analizas datos. El análisis te ayuda a encontrar formas más fáciles de hacer las cosas, identificar patrones para ahorrar tiempo y descubrir nuevas perspectivas sorprendentes que pueden cambiar por completo la forma en que experimentas las cosas.
 
@@ -704,7 +704,7 @@ Pep Worx permitió a PepsiCo distinguir 24 millones de hogares de su conjunto de
 
 ### Ejercicio: Considerar cómo abordan las tareas los analistas de datos 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 #### Descripción general
 
@@ -752,7 +752,7 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 ### Dimensiones de la analítica de datos 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 La inteligencia de decisiones es una combinación de ciencia de datos aplicada y ciencias sociales y gerenciales. Se trata de aprovechar el poder y la belleza de los datos. Un analista de datos es un explorador, un detective y un artista, todo en uno. El análisis es la búsqueda de inspiración. No sabes qué va a inspirarte antes de explorar, antes de echar un vistazo. Cuando empiezas, no tienes idea de qué vas a encontrar y si incluso vas a encontrar algo. Tienes que sumergirte valientemente en lo desconocido y descubrir lo que hay en tus datos. 
 
@@ -790,7 +790,7 @@ descubrir algo interesante, el hermoso potencial de la información que vale la 
 
 ### Dimensiones de la analítica de datos 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Ya has aprendido acerca de la función de un analista de datos y cómo este programa te ayudará a prepararte para tu futura carrera. Ahora, es momento de explorar el ecosistema de datos, descubrir dónde encaja el análisis computacional de datos en ese sistema, y repasar algunas ideas erróneas que podrías encontrar en el campo del análisis computacional de datos. 
 
@@ -814,7 +814,7 @@ Muy bien, ahora que sabes un poco más sobre el ecosistema de datos y las difere
 
 ### Cómo los datos informan mejores decisiones 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Hasta ahora, has descubierto que hay muchas formas diferentes de usar los datos. En nuestra vida cotidiana, usamos datos cuando monitoreamos nuestra actividad física o leemos reseñas de productos para tomar una decisión de compra. Y, en los negocios, usamos datos para obtener más información sobre nuestros clientes, optimizar los procesos y ayudar a los empleados a realizar mejor su trabajo. Pero esto es solo la punta del iceberg. 
 
@@ -835,7 +835,7 @@ Para sacar el máximo provecho de la toma de decisiones basada en datos es impor
 
 ### Datos e instinto 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)]
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Los detectives y los analistas de datos tienen mucho en común. Ambos dependen de hechos y pistas para tomar decisiones. Ambos recopilan y observan la evidencia. Ambos hablan con personas que conocen parte de la historia. Y ambos podrían incluso seguir algunas huellas para ver hacia dónde llevan. Tanto si eres detective como analista de datos, tu trabajo consiste en seguir pasos para recopilar y entender los hechos.
 
@@ -881,7 +881,7 @@ Por ejemplo, si estás trabajando en un proyecto urgente, es posible que tengas 
 
 ### Orígenes del proceso de análisis de datos 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)] 
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Hablemos sobre los orígenes del análisis de datos. No sabemos a ciencia cierta cuándo ni por qué la primera persona decidió registrar datos sobre personas y cosas. Pero sí sabemos que fue útil porque la idea sigue existiendo hoy. 
 
