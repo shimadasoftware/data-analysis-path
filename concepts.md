@@ -15,6 +15,14 @@
 ## Datos  
 
 - Los datos son una colección de hechos. Esta colección puede incluir números, imágenes, videos, palabras, mediciones, observaciones y más. Una vez que tienes los datos, se los analiza mediante el análisis.
+
+## Dataset
+
+- Una colección de datos que pueden ser manipulados o analizados como una unidad.
+
+## Ciencia de datos
+
+- Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido.
   
 ## Científico de datos vs Analistas de datos
 
@@ -98,6 +106,10 @@ The collection, transformation, and organization of data in order to draw conclu
 ## Data 
 
 - A collection of facts or information.
+
+## Dataset
+
+- A collection of data that can be manipulated or analyzed as a unit.
 
 ## Data science
 
