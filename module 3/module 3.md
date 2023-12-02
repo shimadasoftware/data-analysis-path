@@ -1,7 +1,7 @@
 # <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 3: El maravilloso mundo de los datos
 **©** Copyright es reservado para la plataforma Google y Coursera.
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-72%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+[![Tiempo](https://img.shields.io/badge/Tiempo-90%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Los datos tienen su propio ciclo de vida, y el trabajo de los analistas de datos suele coincidir con ese ciclo. En esta parte del curso, conocerás la manera en que el ciclo de vida de los datos y el trabajo de los analistas de datos se relacionan con tu progreso en este programa. También aprenderás sobre las aplicaciones utilizadas en el proceso de análisis de datos.
 
