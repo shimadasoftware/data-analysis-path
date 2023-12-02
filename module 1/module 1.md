@@ -1378,7 +1378,7 @@ Desafio semanal 1
   
     - Falso.
     
-      ✅ Correcto.
+      ✅ Correcto. 
 
 
 6. ¿Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
