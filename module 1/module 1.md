@@ -1,7 +1,7 @@
 # <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 1: Presentación del análisis computacional de datos
 **©** Copyright es reservado para la plataforma Google y Coursera.
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-145%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-145%20minutos-blue.svg)]
 
 ## Objetivos
 
@@ -39,7 +39,7 @@ Este primer modulo se divide en:
 
 ### Bienvenido al certificado de Google Data Analytics 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-9%20minutos-blue.svg)]
 
 ### Conceptos básicos
 
@@ -61,9 +61,9 @@ Aquí, en Google, procesamos más de 40,000 búsquedas por segundo. Eso equivale
 
 En pocas palabras, un analista de datos es alguien que colecciona, transforma y organiza datos con el fin de ayudar a tomar decisiones fundamentadas. Además de su rol en sí, una de las partes más emocionantes de ser analista de datos es la cantidad de oportunidades disponibles. La demanda de analistas de datos es mayor que la cantidad de personas calificadas para ocupar estas vacantes de empleo. 
 
-### Ejercicio: Piensa en los datos de la vida cotidiana
+### Ejercicio: Piensa en los datos de la vida cotidiana 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)]
 
 #### Descripción general
 
@@ -122,7 +122,7 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 ### Introducción al curso 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
 
 Esta es una introducción al maravilloso mundo del análisis computacional de datos. Dado que el análisis computacional de datos es la ciencia de los datos, usarás este curso para empezar a aprender todo sobre los datos. Los datos son básicamente una recopilación de hechos o información y, mediante el análisis, aprenderás a usarlos para sacar conclusiones, hacer predicciones y tomar decisiones.
 
@@ -136,7 +136,7 @@ El análisis computacional de datos es un gran mundo lleno de oportunidades. Hay
 Fases del análisis de datos:
 
 1. Ask (Preguntar)
-2. Prepare (Prepatación)
+2. Prepare (Preparación)
 3. Process (Proceso)
 4. Analyze (Análisis)
 5. Share (Compartir)
@@ -144,9 +144,9 @@ Fases del análisis de datos:
 
 ![image](./img/module%2001%20img%2001.png)
 
-### Hoja de ruta del certificado de análisis computacional de datos
+### Hoja de ruta del certificado de análisis computacional de datos 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)]
 
 #### Aspectos básicos
 
@@ -309,9 +309,9 @@ Hojas de cálculo, SQL, herramientas de presentación, Tableau, RStudio y Kaggle
 ¿Enseñarán R o Python?
 En este programa se enseña el lenguaje de programación de código abierto, R, que es excelente para el análisis de datos básicos y ofrece paquetes útiles para que los principiantes se postulen a sus proyectos. No abordamos Python en el plan de estudios.
 
-### Cuestionario de diagnóstico
+### Cuestionario de diagnóstico 📑
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)]
 
 ¿Que tanto conoces sobre el análisis computacional de datos?
 
@@ -511,7 +511,7 @@ En este programa se enseña el lenguaje de programación de código abierto, R, 
 
 ### Análisis de datos en la vida cotidiana 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
 
 ¡Bienvenido nuevamente! A esta altura, ya te han presentado al mundo del análisis computacional de datos y lo que hacen los analistas de datos. También has aprendido cómo este curso te preparará para una carrera exitosa como analista. En el futuro, aprenderás todas las formas en que se pueden usar los datos, y descubrirás por qué hay una demanda tan alta de analistas de datos. 
 
@@ -527,7 +527,7 @@ Por ejemplo, tal vez los datos las lleven a un nuevo producto o a un servicio ú
 
 ### Caso práctico: Nuevas perspectivas de datos
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)]
 
 Tal y como has aprendido, puedes encontrar datos prácticamente en todas partes. Cada vez que observas y evalúas algo en el mundo, recopilas y analizas datos. El análisis te ayuda a encontrar formas más fáciles de hacer las cosas, identificar patrones para ahorrar tiempo y descubrir nuevas perspectivas sorprendentes que pueden cambiar por completo la forma en que experimentas las cosas.
 
@@ -541,7 +541,7 @@ Los seis pasos del proceso de análisis de datos que has estado aprendiendo en e
 
 Una organización estaba teniendo una alta tasa de rotación entre los nuevos empleados. Muchos empleados abandonaron la empresa antes del final de su primer año de trabajo. Los analistas utilizaron el proceso de análisis de datos para responder la siguiente pregunta: ¿cómo puede la organización mejorar la tasa de retención de los nuevos empleados? 
 
-#### Pasos para el análisis de datos
+#### Pasos para el análisis de datos 📖
 
 ![image](./img/module%2001%20img%2003.png)
 
@@ -702,9 +702,9 @@ Resultados:
 
 Pep Worx permitió a PepsiCo distinguir 24 millones de hogares de su conjunto de datos de 110 millones de hogares estadounidenses que tendrían más probabilidades de estar interesados ​​en Quaker Overnight Oats. Luego, la empresa identificó minoristas específicos en los que estos hogares podrían comprar y se dirigió a sus audiencias específicas. En última instancia, estos clientes impulsaron el 80 por ciento del crecimiento de las ventas del producto en los primeros 12 meses después del lanzamiento.
 
-### Ejercicio: Considerar cómo abordan las tareas los analistas de datos
+### Ejercicio: Considerar cómo abordan las tareas los analistas de datos 📖
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)]
 
 #### Descripción general
 
@@ -728,7 +728,7 @@ Los analistas hicieron preguntas para definir tanto el problema a resolver como 
 Para utilizar la plantilla de este elemento del curso, haz clic en el enlace de abajo y selecciona «Usar plantilla». 
 
 Enlace a la plantilla de registro de aprendizaje: 
-[Considerar cómo abordan las tareas los analistas de datos](https://docs.google.com/document/d/19zcvG84yVPojvWxEwpOqT4m10JSVs8zL2NYBLC23N8w/template/preview)
+[Considerar cómo abordan las tareas los analistas de datos]
 
 #### Desarrollo
 
@@ -752,7 +752,7 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 ### Dimensiones de la analítica de datos 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
 
 La inteligencia de decisiones es una combinación de ciencia de datos aplicada y ciencias sociales y gerenciales. Se trata de aprovechar el poder y la belleza de los datos. Un analista de datos es un explorador, un detective y un artista, todo en uno. El análisis es la búsqueda de inspiración. No sabes qué va a inspirarte antes de explorar, antes de echar un vistazo. Cuando empiezas, no tienes idea de qué vas a encontrar y si incluso vas a encontrar algo. Tienes que sumergirte valientemente en lo desconocido y descubrir lo que hay en tus datos. 
 
@@ -790,7 +790,7 @@ descubrir algo interesante, el hermoso potencial de la información que vale la 
 
 ### Dimensiones de la analítica de datos 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://learn.microsoft.com/es-mx/training/paths/intro-to-vc-git/)
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
 
 Ya has aprendido acerca de la función de un analista de datos y cómo este programa te ayudará a prepararte para tu futura carrera. Ahora, es momento de explorar el ecosistema de datos, descubrir dónde encaja el análisis computacional de datos en ese sistema, y repasar algunas ideas erróneas que podrías encontrar en el campo del análisis computacional de datos. 
 
@@ -810,7 +810,201 @@ Por ejemplo, **análisis de datos y análisis computacional de datos suenan igua
 
 Muy bien, ahora que sabes un poco más sobre el ecosistema de datos y las diferencias entre el análisis de datos y el análisis computacional de datos, estás listo para analizar cómo se usan los datos a fin de tomar decisiones eficaces. Podrás ver la toma de decisiones basada en datos en acción.
 
-![image](/img/module%2001%20img%2009.png)
+![image](./img/module%2001%20img%2009.png)
+
+### Cómo los datos informan mejores decisiones 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)]
+
+Hasta ahora, has descubierto que hay muchas formas diferentes de usar los datos. En nuestra vida cotidiana, usamos datos cuando monitoreamos nuestra actividad física o leemos reseñas de productos para tomar una decisión de compra. Y, en los negocios, usamos datos para obtener más información sobre nuestros clientes, optimizar los procesos y ayudar a los empleados a realizar mejor su trabajo. Pero esto es solo la punta del iceberg. 
+
+Una de las formas más poderosas de usar los datos es al momento de tomar decisiones basadas en ellos. Este proceso se define como el uso de datos para guiar la estrategia empresarial (**Data-driven decision-making**). Las organizaciones de distintas industrias tienen el poder de tomar mejores decisiones basadas en datos gracias al trabajo de los analistas de datos. El **primer paso de este proceso es descubrir la necesidad del negocio**. Por lo general, suele ser un problema que hay que resolver. 
+
+Por ejemplo, puede que una nueva empresa necesite establecer un mejor reconocimiento de marca para competir con otras empresas más grandes y conocidas. O tal vez una organización quiera mejorar un producto y necesite averiguar cómo obtener las piezas de una forma más sostenible o de un proveedor éticamente responsable. O bien, podría tratarse de un negocio que intenta resolver el problema de empleados descontentos, bajos niveles de compromiso, satisfacción y retención. Cualquiera sea el problema, una vez definido, un analista de datos encuentra datos, los analiza y los usa para descubrir tendencias,
+patrones y relaciones. A veces, la estrategia basada en datos se sustenta en lo que ha funcionado en el pasado. Otras veces, sirve para guiar un negocio a fin de que se ramifique en una dirección totalmente nueva. 
+
+Veamos un ejemplo del mundo real. Piensa en un servicio de streaming de música o películas. ¿Cómo saben estas empresas lo que las personas quieren ver o escuchar, y cómo lo proporcionan? Bueno, recurren a la toma de decisiones basada en datos. Recopilan información sobre lo que los clientes escuchan actualmente, la analizan y, luego, la usan para hacer sugerencias de lo que las personas podrían disfrutar más en el futuro. Esto mantiene contentos a los clientes, que vuelven por más, lo que a su vez significa más ingresos para la empresa. 
+
+Otro ejemplo de toma de decisiones basada en datos puede verse en el auge del comercio electrónico. No hace mucho tiempo la mayoría de las compras se hacían en una tienda física, pero los datos muestran que las preferencias cambiaron. Así que muchas empresas crearon nuevos modelos de negocio que eliminan la tienda física y permiten realizar las compras directamente desde una computadora o un teléfono móvil, y la entrega se realiza directamente en la puerta. De hecho, la toma de decisiones basada en datos puede ser tan poderosa hasta el punto de lograr que todos los métodos comerciales se vuelvan obsoletos. 
+
+Por ejemplo, los datos ayudaron a las empresas a alejarse completamente de los teléfonos con cable y a reemplazarlos por teléfonos móviles. Al asegurarse de que los datos se compilen en cada estrategia empresarial, los analistas de datos desempeñan un papel fundamental en el éxito de sus empresas, pero es importante tener en cuenta que no importa cuán valiosa sea la toma de decisiones basada en datos, los datos por sí solos nunca serán tan poderosos como cuando se los combina con la experiencia humana, la observación y, a veces, incluso la intuición. 
+
+Para sacar el máximo provecho de la toma de decisiones basada en datos es importante incluir información de personas que estén familiarizadas con el problema empresarial. A estas personas se las llama expertos en la materia, y tienen la capacidad de observar los resultados del análisis de datos e identificar cualquier incoherencia, dar sentido a las zonas grises y eventualmente validar las decisiones que se tomen. Las organizaciones que trabajan de esta manera ponen los datos en el centro de todas las estrategias empresariales, pero también se benefician de la percepción de su gente. Todos ganan. Como analista de datos, desempeñas un papel clave al empoderar a estas organizaciones para que tomen decisiones basadas en datos, razón por la cual es tan importante que comprendas cómo juegan los datos en el proceso de toma de decisiones.
+
+![image](./img/module%2001%20img%2010.png)
+
+### Datos e instinto 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)]
+
+Los detectives y los analistas de datos tienen mucho en común. Ambos dependen de hechos y pistas para tomar decisiones. Ambos recopilan y observan la evidencia. Ambos hablan con personas que conocen parte de la historia. Y ambos podrían incluso seguir algunas huellas para ver hacia dónde llevan. Tanto si eres detective como analista de datos, tu trabajo consiste en seguir pasos para recopilar y entender los hechos.
+
+Los analistas utilizan la toma de decisiones basada en datos y siguen un proceso paso a paso. Has aprendido que hay seis pasos en este proceso:
+
+1. **Hacer** preguntas y definir el problema.
+
+2. **Preparar** datos al recopilar y almacenar la información.
+
+3. **Procesar** los datos al limpiar y comprobar la información.
+
+4. **Analizar** los datos para encontrar patrones, relaciones y tendencias.
+
+5. **Compartir** datos con tu audiencia.
+
+6. **Actuar** en función de los datos y utilizar los resultados del análisis.
+
+Pero hay otros factores que influyen en el proceso de toma de decisiones. Es posible que hayas leído casos de misterio en los que el detective utilizó su instinto y siguió una corazonada que lo ayudó a resolver el caso. El **instinto es una comprensión intuitiva de algo con poca o ninguna explicación**. No siempre es algo consciente; a menudo captamos señales sin siquiera darnos cuenta. Solo tienes la «sensación» de que es así.
+
+#### Por qué el instinto puede ser un problema
+
+El centro de la toma de decisiones basada en datos son los datos. Por lo tanto, es esencial que los analistas de datos se centren en ellos para garantizar que toman decisiones informadas. Si ignoras los datos y prefieres tomar decisiones basadas en tu propia experiencia, tus decisiones pueden ser sesgadas. Pero lo que es peor, las decisiones basadas en el instinto, sin datos para respaldarlas, pueden generar errores.
+
+Considera el ejemplo de un promotor inmobiliario que licita para redesarrollar una parte del distrito central de una ciudad. Se los conoce por la preservación de edificios históricos. Aprovechando su reputación, los planificadores de la agencia siguieron su instinto e incluyeron la preservación de varios edificios para obtener apoyo y la aprobación del proyecto. Sin embargo, las donaciones privadas no alcanzaron, y una asociación prevista no se concretó para evitar la desgracia. Finalmente, los edificios tuvieron que ser derribados tras mucho retraso y una costosa disputa con la ciudad.
+
+Cuanto más entiendas los datos relacionados con un proyecto, más fácil será averiguar qué se necesita. Estos esfuerzos también te ayudarán a identificar errores y lagunas en tus datos para que puedas comunicar tus hallazgos de forma más eficaz. A veces, la experiencia pasada te ayuda a establecer una conexión que nadie más notaría. Por ejemplo, un detective podría abrir un caso porque le recuerda a uno anterior similar al que está resolviendo hoy. No es solo instinto.
+
+#### Datos + conocimiento empresarial = misterio resuelto
+
+Combinar datos con conocimiento empresarial, además de un toque de instinto, será una parte habitual de tu proceso como analista de datos junior. La clave está en averiguar la combinación exacta de cada proyecto en particular. Muchas veces, dependerá de los objetivos de tu análisis. Por eso los analistas a menudo preguntan: «¿Cómo defino el éxito de este proyecto?»
+
+Además, intenta hacerte estas preguntas sobre un proyecto para encontrar el equilibrio perfecto:
+
+- ¿Qué tipo de resultados se necesitan?
+
+- ¿A quién se informará?
+
+- ¿Estoy respondiendo la pregunta que se está haciendo?
+
+- ¿Con qué rapidez hay que tomar una decisión?
+
+Por ejemplo, si estás trabajando en un proyecto urgente, es posible que tengas que confiar en tus propios conocimientos y experiencia más de lo habitual. No hay tiempo suficiente para analizar a fondo todos los datos disponibles. Pero si tienes un proyecto que implica mucho tiempo y recursos, entonces la mejor estrategia es centrarse más en los datos. Dependerá de ti, el analista de datos, tomar la mejor decisión posible. Probablemente combines datos y conocimientos de un millón de formas diferentes a lo largo de tu carrera de análisis de datos. Y cuanto más practiques, mejor conseguirás encontrar la combinación perfecta. 
+
+### Orígenes del proceso de análisis de datos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)] 
+
+Hablemos sobre los orígenes del análisis de datos. No sabemos a ciencia cierta cuándo ni por qué la primera persona decidió registrar datos sobre personas y cosas. Pero sí sabemos que fue útil porque la idea sigue existiendo hoy. 
+
+También sabemos que el análisis de datos se basa en la estadística, que de por sí ya tiene una historia bastante larga. Los arqueólogos fueron los primeros en usar la estadística en el Antiguo Egipto con la construcción de las pirámides. Los antiguos egipcios eran maestros de la organización de datos. Documentaban sus cálculos y teorías sobre papiros (material similar al papel), que ahora se consideran los primeros ejemplos de hojas de cálculo y listas de verificación. Los analistas de datos actuales deben mucho a esos brillantes escribas, que ayudaron a crear un proceso más técnico y eficiente.
+
+Es hora de entrar en el ciclo de vida del análisis de datos, que es el proceso de pasar de los datos a la decisión. Los datos pasan por varias fases a medida que se crean, consumen, prueban, procesan y reutilizan. 
+
+Con un modelo de ciclo de vida, todos los miembros clave del equipo pueden impulsar el éxito al planificar el trabajo tanto por adelantado como al final del proceso de análisis de datos. A pesar de que el ciclo de vida del análisis de datos es bien conocido entre los expertos, no existe una sola estructura definida de esas fases. 
+
+Es posible que no haya una única arquitectura a seguir de manera uniforme por todos los expertos en análisis de datos, pero que existan algunos fundamentos compartidos en cada proceso de análisis de datos. En esta lectura se proporciona una descripción general de varios aspectos, empezando por el proceso que constituye la base del certificado de Google Data Analytics.
+
+El proceso que se presenta como parte del certificado de Google Data Analytics es uno que te resultará valioso a medida que avances en tu carrera profesional:
+
+#### Google Data Analytics
+
+1. **Preguntar:** Desafío empresarial/objetivo/pregunta
+
+2. **Preparar:** Generación, recopilación, almacenamiento y administración de datos
+
+3. **Procesar:** Limpieza de datos/integridad de datos
+
+4. **Analizar:** Exploración, visualización y análisis de datos
+
+5. **Compartir:** Comunicación e interpretación de los resultados 
+
+6. **Actuar:** Uso de tus conocimientos para resolver el problema
+
+Comprender este proceso, y todas las iteraciones que ayudaron a hacerlo popular, será una parte importante a la hora de guiar tu propio análisis y tu trabajo en este programa. Repasemos algunas otras variaciones del ciclo de vida del análisis de datos.
+
+#### Ciclo de vida del análisis de datos de EMC
+
+El ciclo de vida del análisis de datos de EMC Corporation es cíclico con seis pasos:
+
+1. Descubrimiento
+
+2. Preprocesamiento de datos
+
+3. Planificación de modelos
+
+4. Construcción de modelos
+
+5. Comunicación de los resultados
+
+6. Puesta en funcionamiento
+
+EMC Corporation ahora es Dell EMC. Este modelo, creado por David Dietrich, refleja la naturaleza cíclica de los proyectos del mundo real. Las fases no son hitos estáticos; cada paso se conecta y conduce al siguiente, y eventualmente se repite. Las preguntas clave ayudan a los analistas a probar si han logrado lo suficiente como para avanzar y garantizar que los equipos hayan dedicado tiempo necesario en cada una de las fases y no empiecen a modelar antes de que los datos estén listos. 
+
+Es un poco diferente del ciclo de vida del análisis de datos en el que se basa este programa, pero tiene algunas ideas básicas en común: la primera fase está interesada en descubrir y formular preguntas; los datos deben prepararse antes de poder analizarse y utilizarse; y luego se deben compartir los hallazgos y actuar en consecuencia.
+
+Para obtener más información, consulta [The Genesis of EMC's Data Analytics Lifecycle](https://www.dell.com/en-us/blog/?r=infocus.delltechnologies.com/david_dietrich/the-genesis-of-emcs-data-analytics-lifecycle/) (La génesis del ciclo de vida del análisis computacional de datos de EMC).
+
+#### Ciclo de vida iterativo de SAS
+
+Una empresa llamada SAS, proveedora líder de soluciones de análisis computacional de datos, creó un ciclo de vida iterativo. Se puede utilizar para producir resultados repetibles, fiables y predictivos:
+
+1. Preguntar
+
+2. Preparar
+
+3. Explorar
+
+4. Modelar
+
+5. Implementar
+
+6. Actuar
+
+7. Evaluar
+
+El modelo SAS enfatiza la naturaleza cíclica de su modelo al visualizarlo como símbolo infinito. Su ciclo de vida tiene siete pasos, muchos de los cuales hemos visto en los otros modelos, como Preguntar, Preparar, Modelar y Actuar. Pero este ciclo de vida es un poco diferente; incluye un paso posterior a la fase Actuar, diseñado para que los analistas evalúen sus soluciones y, potencialmente, vuelvan a la fase Preguntar. 
+
+Para obtener más información, consulta [Managing the Analytics Life Cycle for Decisions at Scale](https://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/manage-analytical-life-cycle-continuous-innovation-106179.pdf) (Administración del ciclo de vida de los análisis para tomar decisiones a escala).
+
+#### Ciclo de vida del análisis computacional de datos basado en proyectos
+
+Un ciclo de vida del análisis de datos basado en proyectos consta de cinco sencillos pasos:
+
+1. Identificación del problema
+
+2. Diseño de requisitos de datos
+
+3. Preprocesamiento de datos
+
+4. Realización de análisis de datos
+
+5. Visualización de datos
+
+El ciclo de vida de este proyecto de análisis de datos fue desarrollado por Vignesh Prajapati. No incluye la sexta fase ni lo que denominamos la fase Actuar. Sin embargo, abarca igualmente muchos de los mismos pasos de los ciclos de vida que ya hemos descrito. Comienza por identificar el problema, preparar y procesar datos antes del análisis y termina con la visualización de datos.
+
+Para obtener más información, consulta [Understanding the data analytics project life cycle](https://pingax.com/understanding-data-analytics-project-life-cycle/) (Descripción del ciclo de vida del proyecto de análisis computacional de datos).
+
+#### Ciclo de vida del análisis de big data
+
+Los autores Thomas Erl, Wajid Khattak y Paul Buhler propusieron un ciclo de vida de análisis de big data en su libro, Big Data Fundamentals: Concepts, Drivers & Techniques (Aspectos básicos del big data: conceptos, eje impulsor y técnicas). Su ciclo de vida sugiere fases divididas en nueve pasos:
+
+1. Evaluación de casos de negocio
+
+2. Identificación de datos
+
+3. Adquisición y filtrado de datos
+
+4. Extracción de datos
+
+5. Validación y limpieza de datos
+
+6. Agregación y representación de datos
+
+7. Análisis de datos
+
+8. Visualización de datos
+
+9. Utilización de los resultados del análisis
+
+Este ciclo de vida parece tener tres o cuatro pasos más que los modelos de ciclo de vida anteriores. Pero, en realidad, lo que hacen es dividir aquello a lo que nos hemos referido como Preparar y Procesar en pasos más pequeños. Hace hincapié en las tareas individuales necesarias para recopilar, preparar y limpiar datos antes de la fase de análisis.
+
+Para obtener más información, consulta [Big Data Adoption and Planning Considerations](https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808) (Consideraciones a la hora de adoptar y planificar big data).
+
+#### Conclusión clave
+
+Desde nuestro viaje a las pirámides y los datos del Antiguo Egipto hasta ahora, la forma en que analizamos los datos ha evolucionado (y sigue haciéndolo). El proceso de análisis de datos es como la arquitectura de la vida real: hay diferentes formas de hacer las cosas, pero las ideas fundamentales aparecen en cada modelo del proceso. Ya sea que utilices la estructura de este certificado de Google Data Analytics o una de las muchas otras iteraciones que has aprendido, estamos aquí para guiarte en tu camino hacia los datos.
+
+
+
 
 
 
