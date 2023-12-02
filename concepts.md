@@ -38,12 +38,12 @@ La ciencia de datos, la disciplina de hacer útiles los datos, es un término ge
 
 ## Fases del análisis de datos:
 
-1. Ask (Preguntar)
-2. Prepare (Preparación)
-3. Process (Proceso)
-4. Analyze (Análisis)
-5. Share (Compartir)
-6. Act (Actuar)
+1. Ask (Preguntar): Hacer preguntas y definir el problema.
+2. Prepare (Preparación): Preparar datos al recopilar y almacenar la información.
+3. Process (Proceso): Procesar los datos al limpiar y comprobar la información.
+4. Analyze (Análisis): Analizar los datos para encontrar patrones, relaciones y tendencias.
+5. Share (Compartir): Compartir datos con tu audiencia.
+6. Act (Actuar): Actuar en función de los datos y utilizar los resultados del análisis.
 
 ## Ecosistema de datos
 
@@ -119,13 +119,13 @@ Data science, the discipline of making data useful, is an umbrella term that enc
 
 ## Data analysis phases:
 
-1. Ask (Preguntar)
-2. Prepare (Preparación)
-3. Process (Proceso)
-4. Analyze (Análisis)
-5. Share (Compartir)
-6. Act (Actuar)
-
+1. Ask (Preguntar): Ask questions and define the problem.
+2. Prepare (Preparación): Prepare data by collecting and storing information.
+3. Process (Proceso): Process data by cleaning and checking information.
+4. Analyze (Análisis): Analyze data to find patterns, relationships and trends.
+5. Share (Compartir): Share data with your audience.
+6. Act (Actuar): Act on data and use analysis results.
+   
 ## Data ecosystems
 
 - The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data.
