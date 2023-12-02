@@ -1366,7 +1366,7 @@ Desafio semanal 1
   
     - Falso.
     
-      ✅ Correcto. 
+      ✅ Correcto. Este escenario describe una toma de decisiones basada en datos.
 
 
 13. ¿Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
