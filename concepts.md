@@ -62,6 +62,14 @@ Las empresas necesitan una forma de controlar todos esos datos para poder utiliz
 - Servir a los clientes 
 - Tomar decisiones reflexivas
 
+## Data-driven decision-making (uso de datos para guiar la estrategia empresarial)
+
+-  Una de las formas más poderosas de usar los datos es al momento de tomar decisiones basadas en ellos. Este proceso se define como el uso de datos
+para guiar la estrategia empresarial.
+
+
+
+
 ---
 
 # Concepts 💬
@@ -117,3 +125,8 @@ Businesses need a way to control all that data so they can use it to:
 - Launch new products
 - Serve customers
 - Make thoughtful decisions
+
+## Data-driven decision-making 
+
+- One of the most popular way you can put your data to work is with Data-driven decision-making.
+- Using facts to guide business strategy.
