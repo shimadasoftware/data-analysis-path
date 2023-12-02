@@ -776,9 +776,9 @@ Cuando consideras la ciencia de datos y eliges en qué área especializarte, rec
 3. ¿Qué hay de los análisis? La excelencia de un **analista** es la velocidad. ¿Qué tan rápido puedes ahondar en grandes cantidades de datos y explorarlos y
 descubrir algo interesante, el hermoso potencial de la información que vale la pena conocer y llevar a los responsables de la toma de decisiones? ¿Te emociona la ambigüedad de la exploración? ¿Te entusiasma la idea de trabajar con muchas cosas diferentes, observar un montón de fuentes de datos diferentes y pensar en vastas cantidades de información, y a la vez prometer no pasar por alto información que pueda ser importante? ¿Te parece bien que te digan «Aquí hay muchos datos. Nadie los ha mirado antes. Ve a buscar algo interesante»? ¿Prosperas en proyectos abiertos y creativos? Si es así, entonces los análisis sean probablemente la mejor opción para ti. Un consejo que tengo para los analistas que recién empiezan es que quizá sea bastante aterrador explorar lo desconocido. Pero sugiero que dejes ir un poco cualquier tentación hacia el perfeccionismo y, en cambio, te diviertas y disfrutes de la exploración. No te preocupes por las respuestas correctas. Ve lo rápido que puedes desenvolver este regalo y averigua si hay algo divertido. Es como tu cumpleaños, desenvuelves un montón de cosas. Algunas de ellas te gustan. Otras no. Pero ¿no es divertido averiguar qué hay?
 
-## 3. Comprender el ecosistema de datos 🕵🏻‍♀️ 
-
 ---
+
+## 3. Comprender el ecosistema de datos 🕵🏻‍♀️ 
 
 ### Temario: 
 
@@ -1082,9 +1082,9 @@ Pon a prueba tus conocimientos sobre el ecosistema de datos
     
       ❌ Incorrecto. 
 
-## 4. Expectativas del programa y foro 🤞🏻
-
 ---
+
+## 4. Expectativas del programa y foro 🤞🏻
 
 ### Temario: 
 
@@ -1096,9 +1096,9 @@ Pon a prueba tus conocimientos sobre el ecosistema de datos
 - Queremos conocerte (Discussion Prompt - 10 min)
 - Pon a prueba tus conocimientos sobre el uso adecuado del foro de debate Practice (Quiz - 3 questions)
 
-## 5. Desafio semanal 🏆
-
 ---
+
+## 5. Desafio semanal 🏆
 
 ### Temario: 
 
