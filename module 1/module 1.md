@@ -1165,6 +1165,279 @@ Desafio semanal 1
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+1. El análisis de datos abarca los diversos elementos que interactúan entre sí para proporcionar, gestionar, almacenar, organizar, analizar y compartir datos.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. Esa es la definición de un ecosistema de datos.
+  
+    - Falso.
+    
+      ✅ Correcto. El análisis computacional de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+
+2. Completa el espacio en blanco: Los ecosistemas de datos están formados por elementos que _____ entre sí. Esto les permite producir, administrar, almacenar, organizar, analizar y compartir datos.
+
+    - unen.
+    
+      ❌ Incorrecto. 
+  
+    - obtienen información.
+    
+      ❌ Incorrecto. 
+    
+    - solucionan problemas.
+    
+      ❌ Incorrecto. 
+      
+    - interactúan.
+    
+      ✅ Correcto. Los ecosistemas de datos se componen de diversos elementos que interacttian entre si para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+
+
+3. Completa el espacio en blanco: El objetivo principal de un _____ de datos es encontrar respuestas a las preguntas existentes mediante la creación de información a partir de fuentes de datos.
+
+    - diseñador.
+    
+      ❌ Incorrecto. 
+  
+    - ingeniero.
+    
+      ❌ Incorrecto. 
+    
+    - científico.
+    
+      ❌ Incorrecto. 
+      
+    - analista.
+    
+      ✅ Correcto. El objetivo principal de un analista de datos es encontrar respuestas a las preguntas existentes mediante la creacion de informacion a partir de fuentes de datos.
+
+
+4. ¿Qué tácticas puede utilizar un analista de datos para combinar eficazmente el instinto con los hechos? Selecciona todas las opciones correctas.
+
+    - Usar su conocimiento acerca de cómo funciona su empresa para comprender mejor las necesidades empresariales.
+    
+      ✅ Correcto. En el centro de la toma de decisiones basada en datos se encuentran los datos, por lo que los analistas son mas eficaces cuando garantizan que los hechos impulsan la estrategia.
+  
+    - Centrarse en la intuición para elegir qué datos recopilar y cómo analizarlos.
+    
+      ❌ Incorrecto. 
+    
+    - Aplicar sus experiencias pasadas únicas a su trabajo actual, y tener en cuenta la historia que cuentan los datos.
+    
+      ✅ Correcto. En el centro de la toma de decisiones basada en datos se encuentran los datos, por lo que los analistas son mas eficaces cuando garantizan que los hechos impulsan la estrategia.
+      
+    - Preguntar cómo definir el éxito de un proyecto, pero confiar en gran medida en su propia perspectiva personal.
+    
+      ❌ Incorrecto. 
+
+
+5. Una empresa define un problema que quiere resolver. Luego, un analista de datos recopila datos relevantes, los analiza y los utiliza para sacar conclusiones. El analista comparte su análisis con expertos en la materia, que validan los hallazgos. Por último, se pone en marcha un plan. ¿Qué describe este escenario?
+
+    - Toma de decisiones basada en datos.
+    
+      ✅ Correcto. Esta empresa ha colocado los datos en el centro de su estrategia empresarial para lograr una toma de decisiones basada en datos. 
+  
+    - Servicio al cliente.
+    
+      ❌ Incorrecto. 
+    
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Identificación de tendencias.
+    
+      ❌ Incorrecto. 
+
+
+6. Para aprovechar al máximo la toma de decisiones basada en datos, es importante incluir información de personas que estén familiarizadas con el problema empresarial. Identifica cómo se llaman esas personas.
+
+    - Competidores.
+    
+      ❌ Incorrecto. 
+  
+    - Expertos en la materia.
+    
+      ✅ Correcto. Los expertos en la materia estan muy familiarizados con el problema empresarial y pueden analizar los resultados del analisis de datos para validar las decisiones que se estan tomando. 
+    
+    - Interesados.
+    
+      ❌ Incorrecto. 
+      
+    - Clientes.
+    
+      ❌ Incorrecto.
+
+
+7. ¿Qué práctica respalda el hecho de compartir los resultados de su análisis con colegas que están muy familiarizados con el problema empresarial?
+
+    - Gestión de datos.
+    
+      ❌ Incorrecto. 
+  
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto. 
+    
+    - Toma de decisiones basada en datos.
+    
+      ✅ Correcto.  
+      
+    - Análisis computacional de datos.
+    
+      ❌ Incorrecto. 
+
+
+8. Lees un artículo interesante sobre análisis computacional de datos en una revista y quieres compartir algunas ideas del artículo en el foro de debate. En tu publicación, incluyes al autor y un enlace al artículo original. Sería un uso inapropiado del foro.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+      
+    - Falso.
+    
+      ✅ Correcto. Compartir articulos informativos es un ejemplo de uso adecuado del foro siempre que se le dé crédito al autor original. Ademas, las publicaciones deben ser relevantes para el analisis computacional de datos, y deberia verificarse si tiene errores tipograficos y gramaticales.
+
+---
+
+1. El análisis de datos abarca los diversos elementos que interactúan entre sí para proporcionar, gestionar, almacenar, organizar, analizar y compartir datos.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. Esa es la definición de un ecosistema de datos.
+  
+    - Falso.
+    
+      ✅ Correcto. El análisis computacional de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+
+2. En el análisis computacional de datos, ¿qué término describe una colección de elementos que interactúan entre sí?
+
+    - El entorno de nube.
+    
+      ❌ Incorrecto. 
+  
+    - Un ecosistema de datos.
+    
+      ✅ Correcto. Los ecosistemas de datos están formados por elementos que interactúan para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+    
+    - Una base de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Un sistema de modelado.
+    
+      ❌ Incorrecto. 
+
+
+3. Completa el espacio en blanco: El objetivo principal de un _____ de datos es crear nuevas preguntas con datos.
+
+    - analista.
+    
+      ❌ Incorrecto. 
+  
+    - científico.
+    
+      ✅ Correcto. Los científicos de datos crean nuevas preguntas con datos. La ciencia de análisis de datos implica la creación de nuevas formas de modelar y comprender lo desconocido mediante el uso de datos sin procesar.
+    
+    - ingeniero.
+    
+      ❌ Incorrecto. 
+      
+    - diseñador.
+    
+      ❌ Incorrecto. 
+
+
+4. Completa el espacio en blanco: El término _____ se define como una comprensión intuitiva de algo con poca o ninguna explicación.
+    
+    - conciencia.
+    
+      ❌ Incorrecto. 
+  
+    - pensamiento racional.
+    
+      ❌ Incorrecto. 
+    
+    - instinto.
+    
+      ✅ Correcto. El instinto es una comprensión intuitiva de algo con poca o ninguna explicación.
+      
+    - opinión personal.
+    
+      ❌ Incorrecto. 
+
+
+5. Un fabricante de muebles quiere encontrar una forma más respetuosa con el medio ambiente de fabricar sus productos. Un analista de datos ayuda a resolver este problema al recopilar datos relevantes, analizarlos y utilizarlos para sacar conclusiones. A continuación, el analista comparte su análisis con expertos en la materia del equipo de fabricación, que validan los hallazgos. Por último, se pone en marcha un plan. En este escenario se describe la ciencia de datos.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+  
+    - Falso.
+    
+      ✅ Correcto.
+
+
+6. ¿Qué hacen los expertos en la materia para apoyar la toma de decisiones basada en datos? Selecciona todas las opciones correctas.
+
+    - Consultan los resultados del análisis de datos e identifican cualquier incoherencia..
+    
+      ✅ Correcto. Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman. 
+  
+    - Recopilar, transformar y organizar datos.
+    
+      ❌ Incorrecto.
+    
+    - Validar las elecciones tomadas como resultado de la información de datos.
+    
+      ✅ Correcto. Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman.  
+      
+    - Ofrecer información sobre el problema empresarial.
+    
+      ✅ Correcto. Los expertos en la materia pueden ofrecer información sobre el problema empresarial, identificar incoherencias en el análisis y validar las decisiones que se toman. 
+
+
+7. ¿Qué práctica respalda el hecho de compartir los resultados de su análisis con colegas que están muy familiarizados con el problema empresarial?
+
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto. 
+  
+    - Toma de decisiones basada en datos.
+    
+      ✅ Correcto. Esta empresa ha colocado los datos en el centro de su estrategia empresarial para lograr una toma de decisiones basada en datos. 
+    
+    - Análisis computacional de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Gestión de datos.
+    
+      ❌ Incorrecto. 
+
+
+8. Lees un artículo interesante en una revista y quieres compartirlo en el foro de debate. ¿Qué debes hacer al publicar? Selecciona todas las opciones correctas.
+
+    - Incluir tu dirección de correo electrónico para que las personas envíen preguntas o comentarios.
+    
+      ❌ Incorrecto. 
+  
+    - Arrogarse el crédito de haber creado el artículo.
+    
+      ❌ Incorrecto.
+    
+    - Comprobar si hay errores tipográficos o gramaticales en tu publicación.
+    
+      ✅ Correcto. Las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+      
+    - Asegurarte de que el artículo sea relevante para el análisis computacional de datos.
+    
+      ✅ Correcto. Las publicaciones deben ser relevantes para el análisis computacional de datos, y debería verificarse si tiene errores tipográficos y gramaticales.
+
+
 
 
 
