@@ -3,6 +3,8 @@
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-145%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Los datos nos ayudan a tomar decisiones en la vida cotidiana y en los negocios. En esta primera parte del curso, aprenderás cómo los analistas de datos utilizan el análisis de datos y las herramientas de su comercio para informar esas decisiones. También descubrirás más sobre este curso y las expectativas generales del programa.
+
 ## Objetivos
 
 - Definir los conceptos clave involucrados en el análisis de datos, como datos, análisis de datos y ecosistema de datos.
