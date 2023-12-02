@@ -36,6 +36,15 @@ La ciencia de datos, la disciplina de hacer útiles los datos, es un término ge
 
 - Análisis: ¿Qué sucede si no sabes cuántas decisiones quieres tomar antes de empezar? ¿Qué pasa si lo que estás buscando es inspiración? Quieres encontrar tus incógnitas desconocidas. Quieres entender tu mundo. Eso es **análisis**.
 
+## Fases del análisis de datos:
+
+1. Ask (Preguntar)
+2. Prepare (Preparación)
+3. Process (Proceso)
+4. Analyze (Análisis)
+5. Share (Compartir)
+6. Act (Actuar)
+
 ## Ecosistema de datos
 
 - Un ecosistema es un grupo de elementos que interactúan uno con el otro.
@@ -107,6 +116,15 @@ Data science, the discipline of making data useful, is an umbrella term that enc
 - Statistics: If you want to make a few important decisions under uncertainty, that is statistics.
 
 - Analytics: But what if you don't know how many decisions you want to make before you begin? What if what you're looking for is inspiration? You want to encounter your unknown unknowns. You want to understand your world. That is analytics.
+
+## Data analysis phases:
+
+1. Ask (Preguntar)
+2. Prepare (Preparación)
+3. Process (Proceso)
+4. Analyze (Análisis)
+5. Share (Compartir)
+6. Act (Actuar)
 
 ## Data ecosystems
 
