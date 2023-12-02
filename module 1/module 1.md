@@ -1003,11 +1003,84 @@ Para obtener más información, consulta [Big Data Adoption and Planning Conside
 
 Desde nuestro viaje a las pirámides y los datos del Antiguo Egipto hasta ahora, la forma en que analizamos los datos ha evolucionado (y sigue haciéndolo). El proceso de análisis de datos es como la arquitectura de la vida real: hay diferentes formas de hacer las cosas, pero las ideas fundamentales aparecen en cada modelo del proceso. Ya sea que utilices la estructura de este certificado de Google Data Analytics o una de las muchas otras iteraciones que has aprendido, estamos aquí para guiarte en tu camino hacia los datos.
 
+### Cuestionario de diagnóstico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Pon a prueba tus conocimientos sobre el ecosistema de datos
+
+1. ¿Cuál de las siguientes afirmaciones define mejor los datos?
+
+    - Los datos son una colección de hechos.
+    
+      ✅ Correcto. Los datos son una colección de hechos. Mediante el análisis, los datos se pueden utilizar para sacar conclusiones y hacer predicciones.
+  
+    - Los datos son una variedad de preguntas.
+    
+      ❌ Incorrecto. 
+    
+    - Los datos son un proceso empresarial.
+    
+      ❌ Incorrecto. 
+      
+    - Los datos son el uso de cálculos y estadísticas.
+    
+      ❌ Incorrecto. 
+
+2. Completa el espacio en blanco: En el análisis computacional de datos, el ecosistema de datos hace referencia a los diversos elementos que interactúan entre sí para producir, administrar, almacenar, _____, analizar y compartir datos.
+
+    - organizar
+    
+      ✅ Correcto. En el análisis computacional de datos, el ecosistema de datos hace referencia a los diversos elementos que interactúan entre sí para producir, administrar, almacenar, organizar, analizar y compartir datos.
+  
+    - fusionar
+    
+      ❌ Incorrecto. 
+    
+    - localizar
+    
+      ❌ Incorrecto. 
+      
+    - ingerir
+    
+      ❌ Incorrecto. 
+
+3. ¿Cuál de los siguientes términos se refiere a la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada?
+
+    - Información de los datos
+    
+      ❌ Incorrecto. 
+  
+    - Análisis de datos
+    
+      ✅ Correcto. El análisis de datos es la recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+    
+    - Elementos de datos
+    
+      ❌ Incorrecto. 
+      
+    - Ciclo de vida de datos
+    
+      ❌ Incorrecto. 
 
 
+4. Una aerolínea recopila, observa y analiza el comportamiento en línea de sus clientes. Luego, utiliza los conocimientos adquiridos para elegir qué productos y servicios nuevos ofrecer. ¿Qué proceso empresarial describe esto?
 
-
-
+    - Pensamiento analítico
+    
+      ❌ Incorrecto. 
+  
+    - Medición del rendimiento
+    
+      ❌ Incorrecto. 
+    
+    - Toma de decisiones basada en datos
+    
+      ✅ Correcto. Una aerolínea que recopila, observa y analiza el comportamiento en línea de sus clientes y luego utiliza los conocimientos adquiridos para elegir qué productos y servicios nuevos ofrecer describe una toma de decisiones basada en datos. La toma de decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial.
+      
+    - Colaboración con los interesados
+    
+      ❌ Incorrecto. 
 
 
 TO DO:
