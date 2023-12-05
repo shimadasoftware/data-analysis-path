@@ -46,6 +46,36 @@ Comenzaremos con cinco destrezas clave, pasaremos a las características del pen
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-6%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Las destrezas analíticas son cualidades y características asociadas con la resolución de problemas usando hechos. Hay mucho que decir de las destrezas analíticas, pero nos centraremos en cinco puntos esenciales: Curiosidad, comprensión del contexto, mentalidad técnica, diseño de datos y estrategia de datos. 
+
+#### La curiosidad
+
+La curiosidad se trata de querer aprender algo. Las personas curiosas suelen buscar nuevos desafíos y experiencias. Esto conduce al conocimiento. El hecho de que estés aquí conmigo ahora mismo ya demuestra que tienes curiosidad. Esa fue una fácil. 
+
+#### La comprensión del contexto
+
+El contexto es la situación en la que algo existe o sucede. Esto puede ser una estructura o un entorno. Una forma sencilla de comprender el contexto es contando hasta 5. Uno, dos, tres, cuatro, cinco. Esos números existen en el contexto del uno al cinco. Pero, ¿y si un amigo tuyo te dijera, uno, dos, cuatro, cinco, tres? Entonces el tres estará fuera de contexto. Simple, ¿verdad? Pero puede volverse un poco complicado. Es bastante probable que
+ni siquiera te des cuenta de que el tres está fuera de contexto si no estás prestando suficiente atención. Es por eso que escuchar y tratar de entender todo el panorama es fundamental. 
+
+En tu propia vida, pones las cosas en contexto todo el tiempo. Por ejemplo, pensemos en la lista de las compras. Si agrupas los artículos como harina, azúcar y levadura, eso es agregar contexto a lo que compras. Esto te ahorra tiempo cuando estás en el pasillo de artículos de repostería en el supermercado. 
+
+Veamos otro ejemplo. ¿Alguna vez has mezclado una baraja de cartas y has visto un comodín? Si estás jugando a un juego que no incluye comodines, identificar esa carta significa que entiendes que está fuera de contexto. Quítala y es mucho más probable que juegues de forma exitosa. Ahora sabemos que tienes tanto curiosidad, como la capacidad de comprender el contexto. 
+
+#### La mentalidad técnica 
+
+Una mentalidad técnica implica la capacidad de dividir las cosas en pasos o piezas más pequeños y trabajar con ellos de forma ordenada y lógica. 
+
+Por ejemplo, cuando pagas tus cuentas, probablemente ya hayas dividido el proceso en pasos más pequeños. Tal vez comiences por ordenarlas por la fecha de vencimiento. Luego, puedes sumarlas y comparar ese monto con el saldo en tu cuenta bancaria. Esto te servirá para ver si puedes pagarlas ahora, o si debes esperar hasta el próximo cheque de pago. Finalmente, las pagarás. Cuando tomas algo que parece ser una sola tarea, como pagar las cuentas, y lo divides en pasos más pequeños con un proceso ordenado, eso es utilizar una mentalidad técnica. 
+
+#### El diseño de datos 
+
+El diseño de datos es la forma de organizar la información. Como analista de datos, el diseño normalmente tiene que ver con una base de datos real. Pero insisto, las mismas destrezas se aplican a la vida cotidiana. Por ejemplo, piensa en la forma en que organizas los contactos en tu teléfono. Eso es en realidad un tipo de diseño de datos. Tal vez los ordenes por nombre en lugar de apellido, o tal vez usas el correo electrónico en lugar de los nombres. Lo que realmente haces es diseñar una lista clara y lógica que te permite llamar o enviarles un mensaje de texto de forma rápida y sencilla. 
+
+#### La estrategia de datos 
+
+La estrategia de datos es la gestión de las personas, procesos y herramientas que se usan en el análisis de datos. Desglosemos eso. Gestionas personas asegurándote de que saben cómo utilizar los datos correctos para resolver el problema en el que estás trabajando. En cuanto a los procesos, se trata de asegurarte que el camino hacia la solución sea claro y accesible. Para las herramientas, te aseguras de que se utiliza la tecnología adecuada para el trabajo. Tal vez estés dudando de mi capacidad para darte un ejemplo de la vida real que demuestre la estrategia de datos. 
+
+Pero escucha esto. Imagina que vas a cortar el césped. El paso 1 es leer el manual de la cortadora. Eso es asegurarte de que los involucrados, o tú, en este ejemplo, sepan cómo utilizar los datos disponibles. El manual te indica que te pongas gafas protectoras y zapatos cerrados. Luego, el paso 2: hacer que el proceso, el camino, sea claro y accesible. Para esto caminarás por el césped, y juntarás palos grandes o piedras que podrían ser un obstáculo. Finalmente, para el paso 3, revisas la cortadora de césped, tu herramienta, para asegurarte de que tiene suficiente gasolina y aceite y que se encuentra en buenas condiciones, para poder cortar el césped de forma segura. 
 
 ### Cuestionario de diagnóstico 📑
 
