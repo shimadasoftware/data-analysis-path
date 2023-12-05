@@ -105,6 +105,21 @@ para guiar la estrategia empresarial.
 4. Diseño de datos: Cómo organizas la información.
 5. Estrategia de datos: La gestión de las personas, procesos y herramientas utilizadas en el análisis de datos.
 
+### El pensamiento analítico
+
+Consiste en identificar y definir un problema, y luego resolverlo mediante el uso de datos de manera organizada y paso a paso.
+
+### 5 aspectos clave del pensamiento analítico
+
+1. Visualización: La representación gráfica de la información.
+
+2. Estrategia: La elaboración de estrategias ayuda a los analistas de datos a ver lo que quieren conseguir con los datos y cómo pueden lograrlo.
+
+3. Orientación del problema: Los analistas de datos utilizan un enfoque orientado hacia los problemas para identificarlos, describirlos y resolverlos. Se trata de mantener el problema en mente a lo largo de todo el proyecto.
+
+4. Correlación: Una correlación es como una relación. La correlación no equivale a la causalidad.
+
+5. Big-picture and Detail-oriented thinking: Ser capaz de ver el panorama general, así como los detalles. El pensamiento orientado hacia los detalles consiste en averiguar todos los aspectos que te ayudarán a ejecutar un plan.
 
 
 
@@ -212,3 +227,19 @@ Qualities and characteristics associated with solving problems using facts.
 4. Data design: How you organize information.
   
 5. Data strategy: The management of the people, processes and tools used in data analysis.
+
+### Analytical thinking
+
+Identifying and defining a problem and then solving it by using data in an organized, step-by-step manner.
+
+### 5 key aspects of analytical thinking
+
+1. Visualization: The graphical representation of information.
+
+2. Strategy: Strategizing helps data analysts see what they want to achieve with data and how they can achieve it.
+
+3. Problem-orientation: Data analysts use a problem-oriented approach to identify, describe, and solve problems. It's about keeping the problem in mind throughout the entire project.
+
+4. Correlation: A correlation is like a relationship. Correlation does not equal causation
+
+5. Big-picture and Detail-oriented thinking: Being able to see the big picture as well as the details. Detail-oriented thinking is figuring out all the aspects that will help you execute a plan.
