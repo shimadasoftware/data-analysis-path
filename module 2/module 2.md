@@ -385,6 +385,156 @@ Identifica las cinco destrezas clave de los analistas de datos.
 - Registro de aprendizaje: Reflexiona sobre tus destrezas y expectativas (Reading - 20 min)
 - Pon a prueba tus conocimientos sobre el pensamiento analitico (Practice Quiz - 4 questions)
 
+### Todo acerca de como pensar analiticamente 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Ahora que ya conoces las cinco destrezas esenciales de un analista de datos, estás listo para aprender más sobre lo que significa tener un **pensamiento analítico**. La gente no suele pensar en el pensamiento. Pensar es algo que hacemos con total naturalidad. Ocurre automáticamente, pero en realidad hay muchas formas diferentes de pensar. Algunas personas piensan con creatividad, otras lo hacen de manera crítica, mientras que algunas piensan de manera abstracta. Hablemos del pensamiento analítico. 
+
+**El pensamiento analítico consiste en identificar y definir un problema, y luego resolverlo mediante el uso de datos de manera organizada y paso a paso**. Como analistas de datos, ¿cómo pensamos analíticamente? Pues bien, para responder a esa pregunta, ahora hablaremos de otro conjunto de **cinco habilidades**. Los cinco aspectos clave del pensamiento analítico son: la **visualización**, la **estrategia**, la **orientación hacia los problemas**, la **correlación** y, por último, el **pensamiento con perspectiva global y orientado hacia los detalles**. 
+
+#### La visualización 
+
+En el análisis (computacional) de datos, la **visualización es la representación gráfica de la información**. 
+
+Algunos ejemplos son los gráficos, los mapas u otros elementos de diseño. La visualización es importante porque los elementos visuales pueden ayudar a los analistas de datos a entender y explicar la información de manera más eficaz. 
+
+Piénsalo así. Si quieres explicarle a alguien cómo es el Gran Cañón, usar palabras sería mucho más difícil que mostrarle una imagen. Una visualización del Gran Cañón te ayudaría a exponer tu punto de vista mucho más rápido. 
+
+#### Ser estratégico 
+
+Con tantos datos disponibles, tener una mentalidad estratégica es fundamental para permanecer centrado y mantener el rumbo. La elaboración de estrategias ayuda a los analistas de datos **a ver lo que quieren conseguir con los datos y cómo pueden lograrlo**. 
+
+La estrategia también ayuda a **mejorar la calidad y utilidad de los datos que recopilamos**. Mediante la elaboración de estrategias, sabemos que todos nuestros datos son valiosos y pueden ayudarnos a alcanzar nuestros objetivos. 
+
+#### La orientación hacia los problemas
+
+El siguiente paso en la lista de verificación del pensamiento analítico es estar orientado hacia los problemas. **Los analistas de datos utilizan un enfoque orientado hacia los problemas para identificarlos, describirlos y resolverlos**. Se trata de mantener el problema en mente a lo largo de todo el proyecto.
+
+Por ejemplo, supongamos que a un analista de datos se le plantea el problema de que un almacén se queda constantemente sin suministros. Seguiría adelante con diferentes estrategias y procesos. Pero el principal objetivo sería siempre resolver el problema de mantener el inventario en las estanterías. Los analistas de datos también hacen muchas preguntas. Esto ayuda a mejorar la comunicación y permite ahorrar tiempo mientras se busca una solución. 
+
+Un ejemplo de ello sería encuestar a los clientes sobre sus experiencias al utilizar un producto, así como obtener información a partir de esas preguntas para mejorar su producto. 
+
+#### La correlación
+
+Esto nos lleva a la cuarta cualidad del pensamiento analítico: ser capaz de identificar una correlación entre dos o más datos. **Una correlación es como una relación**. Se pueden encontrar todo tipo de correlaciones en los datos. Una de ellas podría ser la relación entre la longitud de tu cabello y la cantidad de champú que necesitas. O bien, es posible que notes una correlación entre una temporada más lluviosa que da lugar a una cantidad elevada en la venta de paraguas. 
+
+Pero cuando comienzas a identificar correlaciones en los datos, hay algo que siempre debes tener en cuenta: **la correlación no equivale a la causalidad**. En otras palabras, el hecho de que la tendencia de dos datos sea en la misma dirección, no necesariamente significa que están relacionados. Aprenderemos más al respecto más tarde. 
+
+#### Pensamiento analítico
+
+Ahora, la última pieza del rompecabezas del pensamiento analítico: el pensamiento con perspectiva global. Esto significa **ser capaz de ver el panorama general**, así como los detalles. 
+
+Un rompecabezas nos ayuda a pensar en esto. El pensamiento con perspectiva global es como mirar un rompecabezas completo. Puedes disfrutar de la imagen completa sin detenerte en cada una de las pequeñas piezas que lo componen. Si solo te centras en las piezas individuales, no podrás ver más allá; por ese motivo es tan importante el pensamiento con perspectiva global. Te ayuda a ampliar la visión, así como a ver las posibilidades y oportunidades. Esto conduce a nuevas ideas o innovaciones interesantes. 
+
+Por otra parte, . Es decir, las piezas que componen tu rompecabezas. En el mundo de los negocios hay todo tipo de problemas que pueden beneficiarse de los empleados que tienen tanto un pensamiento con perspectiva global como un pensamiento orientado hacia los detalles. La mayoría de nosotros somos naturalmente mejores en uno u otro pensamiento. Pero siempre se pueden desarrollar las habilidades para encajar ambas piezas. 
+
+![image](./img/module%2002%20img%2009.png)
+
+![image](./img/module%2002%20img%20010.png)
+
+Ahora que ya conoces los cinco aspectos del pensamiento analítico (la visualización, la estrategia, la orientación hacia los problemas, la correlación y el pensamiento con perspectiva global y orientado hacia los detalles) puedes ponerlos en práctica cuando trabajes con datos. A medida que avances en este curso, aprenderás cómo hacerlo.
+
+### Exploración de las destrezas analiticas basicas 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Recapitulemos lo que hemos aprendido hasta ahora sobre el pensamiento analítico. Los 5 aspectos clave son: la visualización, la estrategia, la orientación hacia los problemas, la correlación y el pensamiento con perspectiva global y orientado hacia los detalles. Hemos visto cómo ya los utilizas en tu vida cotidiana. 
+
+También hemos hablado de cómo las diferentes personas utilizan naturalmente determinados tipos de pensamiento, pero que sin dudas se pueden aumentar y desarrollar las destrezas que tal vez no te resulten tan fáciles. Esto significa que puedes convertirte en un pensador versátil, lo que constituye una parte muy importante del análisis de datos. Es posible que seas naturalmente un pensador analítico, pero puedes aprender a pensar con creatividad y de manera crítica, y ser muy bueno en los tres tipos de pensamiento. Cuantas más formas de pensar tengas, más fácil será que pienses con originalidad y tengas nuevas ideas. 
+
+Pero, ¿por qué es importante pensar de diferentes maneras? Pues porque en el análisis de datos, las soluciones casi nunca están delante de ti. Es necesario pensar de manera crítica para saber qué preguntas hacer. Pero también es necesario pensar de manera creativa para obtener respuestas nuevas e inesperadas. 
+
+Hablemos de algunas de las preguntas que los analistas de datos hacen cuando están en busca de una solución. Esta es una que surgirá a menudo: 
+
+#### **¿Qué es la causa raíz de un problema?**
+
+Una causa raíz es la razón por la que se produce un problema. Si podemos identificar y eliminar una causa raíz, podemos evitar que ese problema se repita. 
+
+Una forma sencilla de entender las causas raíces es mediante el proceso llamado los **Cinco porqués**. En el proceso de los Cinco porqués, **se pregunta “por qué” cinco veces para revelar la causa raíz**. La quinta y última respuesta debería proporcionar algunas ideas útiles y, a veces, sorprendentes. 
+
+Este es un ejemplo de los Cinco porqués en acción. Supongamos que quieres preparar un pastel de arándanos, pero no consigues arándanos. 
+
+- Has intentado resolver el problema preguntándote: ¿por qué no puedo preparar un pastel de arándanos? La respuesta es que no hay arándanos en la tienda. Ese es el Porqué número 1.
+
+- Entonces te preguntas: ¿por qué no hay arándanos en la tienda? Luego descubres que los arbustos de arándanos no tienen suficientes frutas esta temporada. Ese es el Porqué número 2.
+
+- A continuación, te preguntarías: ¿por qué no había suficientes frutas? Esto conduciría al hecho de que los pájaros se estaban comiendo todas las bayas. De este modo, te preguntaste y respondiste el Porqué número 3.
+
+- Ahora llegamos al Porqué número 4. Pregunta por qué una cuarta vez y la respuesta sería que, aunque los pájaros normalmente prefieren las moras y no comen arándanos, la morera no produjo frutos esta temporada, por lo que los pájaros están comiendo arándanos.
+
+- Por último, llegamos al Porqué número 5, que debería revelar la causa raíz. Una helada tardía dañó las moreras, por lo que no produjeron frutas. No puedes preparar un pastel de arándanos debido a la helada tardía que tuvo lugar hace unos meses.
+
+Descubre cómo los Cinco porqués pueden revelar algunas causas raíces muy sorprendentes. Este es un gran truco para conocer, y puede ser un proceso muy útil en el análisis de datos. Otra pregunta que suelen hacerse los analistas de datos es: 
+
+#### **¿en qué punto de nuestro proceso se encuentran los déficits?** 
+
+Para ello, muchas personas recurrirán a lo que se denomina análisis de déficits. El análisis de déficits permite examinar y evaluar el funcionamiento actual de un proceso para llegar a donde se quiere estar en el futuro. 
+
+Las empresas realizan análisis de déficits para hacer todo tipo de cosas, como mejorar un producto o ser más eficientes. El enfoque general del análisis de déficits consiste en comprender dónde estás ahora en comparación con el lugar donde quieres estar. A continuación, puedes identificar los déficits que existen entre el estado actual y el futuro, y determinar cómo salvarlos. 
+
+Una tercera pregunta que se hacen mucho los analistas de datos es: 
+
+#### **¿Qué no hemos tenido en cuenta antes? **
+
+Esta es una excelente manera de pensar en qué información o procedimiento puede faltar en un proceso, para poder identificar formas de tomar mejores decisiones y elaborar estrategias de cara al futuro. 
+
+Estos son solo alguno ejemplos del tipo de preguntas que los analistas de datos utilizan en su trabajo cada día. Tengo la certeza de que cuando empieces tu carrera, se te ocurrirán muchas más. La forma en que los analistas de datos piensan y hacen preguntas desempeña un papel importante en la toma de decisiones de las empresas. Por eso el pensamiento analítico y la comprensión de cómo hacer las preguntas correctas pueden tener un impacto tan grande en el éxito general de una empresa. Más tarde, hablaremos de cómo las decisiones basadas en datos pueden conducir a resultados exitosos.
+
+Para más información acceder al artículo: [To Get To The Root Of A Hard Problem, Just Ask “Why” Five Times](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)
+
+### Registro de aprendizaje: Reflexiona sobre tus destrezas y expectativas 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+#### La tabla de destrezas analíticas
+
+En primer lugar, rellenarás una tabla de destrezas analíticas en la entrada de tu registro de aprendizaje. La tabla aparecerá en la plantilla de la siguiente manera:
+
+![image](./img/module%2002%20img%20015.png)
+
+Columna de destreza analítica: Curiosidad, Contexto, Mentalidad técnica, Diseño de datos, Estrategia de datos
+
+La tabla tiene una fila para cada aspecto esencial de las destrezas analíticas: 
+
+- Curiosidad: el deseo de saber más sobre algo y formular las preguntas correctas
+
+- Comprensión del contexto: comprender dónde encaja la información en el “panorama general”
+
+- Mentalidad técnica: dividir las cosas grandes en pasos más pequeños
+
+- Diseño de datos: pensar en cómo organizar los datos y la información
+
+- Estrategia de datos: pensar en las personas, los procesos y las herramientas que se utilizan en el análisis de datos 
+
+Marcarás con una X la columna que creas que mejor describe tu nivel actual con cada aspecto. Las tres calificaciones son:
+
+- Fortaleza: un área que crees que es una de tus fortalezas
+
+- En desarrollo: tienes algo de experiencia en esta área, pero todavía hay un margen importante de crecimiento
+
+- Emergente: se trata de un área nueva para ti, y ganarás experiencia gracias a este curso 
+
+Luego actualiza la columna de Comentarios/Planes/Objetivos con una breve nota sobre por qué elegiste esas calificaciones. 
+
+#### Accede al registro de aprendizaje
+
+Para utilizar el registro de aprendizaje de este elemento del curso, haz clic en el enlace de abajo y selecciona «Usar plantilla». 
+
+Enlace a la plantilla de registro de aprendizaje: 
+[Piensa en los datos de la vida cotidiana](https://docs.google.com/document/d/1_Z43Wjoz8nx71deJnFtA9wit6aUhGKTmVKonA1kptlU/template/preview)
+
+#### Reflexión
+
+Después de haber completado la tabla de destrezas analíticas, tómate un momento para reflexionar sobre tus evaluaciones. En la entrada de tu registro de aprendizaje, escribe 2 o 3 frases (entre 40 y 60 palabras) en respuesta a cada pregunta que aparece a continuación: 
+
+- ¿Qué notas sobre las calificaciones que te diste a ti mismo en cada área? ¿Cómo te calificaste a ti mismo en las áreas que más te llaman la atención?
+
+- Si se te pide que vuelvas a calificar tu nivel de experiencia en estas áreas en una semana, ¿cuáles crees que serán las calificaciones y por qué?
+
+- ¿Cómo piensas desarrollar estas destrezas a partir de ahora?
+
+Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, asegúrate de guardar el documento para que se pueda acceder a tu respuesta en algún lugar. Esto te ayudará a seguir aplicando el análisis de datos a tu vida cotidiana. También podrás realizar un seguimiento de tu avance y crecimiento como analista de datos.
 
 
 
@@ -395,6 +545,12 @@ Identifica las cinco destrezas clave de los analistas de datos.
 
 
 
+
+
+
+### Cuestionario de diagnóstico 📑
+
+Pon a prueba tus conocimientos sobre el pensamiento analitico 
 
 
 
