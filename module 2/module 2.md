@@ -33,9 +33,52 @@ Este segundo modulo se divide en:
 - Registro de aprendizaje: Explora los datos de tu vida cotidiana (Reading - 20 min)
 - Pon a prueba tus conocimientos sobre las destrezas del analista de datos (Ungraded Plugin - 10 min)
 
-TO DO:
+### Descubrimiento de las destrezas relacionadas con los datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-1%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Bienvenido. Ahora que tienes una base sólida sobre los conceptos básicos de los datos, es hora de centrarse en algunas destrezas y características concretas
+que serán fundamentales para tu futura carrera como analista de datos. 
+
+Comenzaremos con cinco destrezas clave, pasaremos a las características del pensamiento analítico y luego aprenderemos cómo los analistas de datos equilibran sus funciones y responsabilidades. Sobre la marcha, también descubrirás cómo aprovechar tus propias habilidades naturales con relación a la estrategia, la experiencia técnica y el diseño de datos. Estas destrezas son increíblemente útiles y aprenderás a potenciarlas aún más. Por último, conocerás algunos fascinantes ejemplos del mundo real sobre cómo los datos influyen en la vida de las personas en todo el mundo. Muy bien. ¡Comencemos!
+
+### Destrezas clave del analista de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-6%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+### Cuestionario de diagnóstico 📑
+
+Comprueba tus destrezas analiticas (10 preguntas)
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+### Registro de aprendizaje: Explora los datos de tu vida cotidiana 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+### Cuestionario de diagnóstico 📑
+
+Pon a prueba tus conocimientos sobre las destrezas del analista de datos (Ungraded Plugin - 10 min)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
+TODO
 
 ## 2. Pensar en el pensamiento analitico 🧠
 
