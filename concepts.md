@@ -99,20 +99,11 @@ para guiar la estrategia empresarial.
 
 ### 5 Habilidades de la analítica
 
-1. Curiosidad
-2. Comprender el contexto
-3. Tener una mentalidad técnica
-4. Diseño de datos
-5. Estrategia de datos
-
-### Contexto
-
-La condición en la que algo existe o sucede.
-
-### Una mentalidad técnica
-
-La capacidad de dividir cosas en pasos o partes más pequeñas y trabajar con ellas de manera ordenada y lógica.
-
+1. Curiosidad: Es querer aprender algo.
+2. Comprender el contexto: El contexto es la condición en la que algo existe o sucede. Puede ser una estructura o un entorno.
+3. Tener una mentalidad técnica: La capacidad de dividir cosas en pasos o partes más pequeñas y trabajar con ellas de manera ordenada y lógica.
+4. Diseño de datos: Cómo organizas la información.
+5. Estrategia de datos: La gestión de las personas, procesos y herramientas utilizadas en el análisis de datos.
 
 
 
@@ -213,11 +204,8 @@ Qualities and characteristics associated with solving problems using facts.
 ### 5 analytics skills
 
 1. Curiosity: wanting to learn something. 
-2. Understanding context
 
-### Context
-
-The condition in which something exists or happens.
+2. Understanding context: Context is the condition in which something exists or happens. This can be a structure or an environment.
 
 3. Having a technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 
