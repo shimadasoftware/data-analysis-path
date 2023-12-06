@@ -427,7 +427,7 @@ Ahora, la última pieza del rompecabezas del pensamiento analítico: el pensamie
 
 Un rompecabezas nos ayuda a pensar en esto. El pensamiento con perspectiva global es como mirar un rompecabezas completo. Puedes disfrutar de la imagen completa sin detenerte en cada una de las pequeñas piezas que lo componen. Si solo te centras en las piezas individuales, no podrás ver más allá; por ese motivo es tan importante el pensamiento con perspectiva global. Te ayuda a ampliar la visión, así como a ver las posibilidades y oportunidades. Esto conduce a nuevas ideas o innovaciones interesantes. 
 
-Por otra parte, . Es decir, las piezas que componen tu rompecabezas. En el mundo de los negocios hay todo tipo de problemas que pueden beneficiarse de los empleados que tienen tanto un pensamiento con perspectiva global como un pensamiento orientado hacia los detalles. La mayoría de nosotros somos naturalmente mejores en uno u otro pensamiento. Pero siempre se pueden desarrollar las habilidades para encajar ambas piezas. 
+Por otra parte, el pensamiento orientado hacia los detalles consiste en averiguar todos los aspectos que te ayudarán a ejecutar un plan. Es decir, las piezas que componen tu rompecabezas. En el mundo de los negocios hay todo tipo de problemas que pueden beneficiarse de los empleados que tienen tanto un pensamiento con perspectiva global como un pensamiento orientado hacia los detalles. La mayoría de nosotros somos naturalmente mejores en uno u otro pensamiento. Pero siempre se pueden desarrollar las habilidades para encajar ambas piezas. 
 
 ![image](./img/module%2002%20img%2009.png)
 
