@@ -467,7 +467,7 @@ Este es un ejemplo de los Cinco porqués en acción. Supongamos que quieres prep
 
 Descubre cómo los Cinco porqués pueden revelar algunas causas raíces muy sorprendentes. Este es un gran truco para conocer, y puede ser un proceso muy útil en el análisis de datos. Otra pregunta que suelen hacerse los analistas de datos es: 
 
-![image](./img/module%2002%20img%20011.png)
+![image](./img/module%2002%20img%2011.png)
 
 #### **¿En qué punto de nuestro proceso se encuentran los déficits?** 
 
