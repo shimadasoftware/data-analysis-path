@@ -121,8 +121,20 @@ Consiste en identificar y definir un problema, y luego resolverlo mediante el us
 
 5. Big-picture and Detail-oriented thinking: Ser capaz de ver el panorama general, así como los detalles. El pensamiento orientado hacia los detalles consiste en averiguar todos los aspectos que te ayudarán a ejecutar un plan.
 
+### Algunas preguntas que hacen los analistas de datos cuando buscan una solución
 
+- ¿Qué es la causa raíz de un problema?
+- ¿En qué punto de nuestro proceso se encuentran los déficits?
+- ¿Qué no hemos tenido en cuenta antes? 
 
+### La raíz del problema
+
+- La razó por la cuál un problema ocurre.
+- ¿Pregunta porque?" cinco veces para revelar la causa raíz.
+
+### Análisis de las deficiencias
+
+Un método para examinar y evaluar cómo funciona un proceso actualmente con el fin de llegar a donde desea estar en el futuro.
 
 
 
@@ -243,3 +255,18 @@ Identifying and defining a problem and then solving it by using data in an organ
 4. Correlation: A correlation is like a relationship. Correlation does not equal causation
 
 5. Big-picture and Detail-oriented thinking: Being able to see the big picture as well as the details. Detail-oriented thinking is figuring out all the aspects that will help you execute a plan.
+
+### Some questions that data analyst ask when they are on the hunt for a solution
+
+- What is the root cause of the problem?
+- Where are the gaps in our process?
+- What did we not consider before?
+
+### Root cause 
+
+- The reason why a problem occurs.
+- Ask, “why?” five times to reveal the root cause.
+
+### Gap analysis
+
+A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
