@@ -233,12 +233,75 @@ Para obtener más información, consulte [Los 8 pasos del ciclo de vida de los d
 
 Comprender la importancia del ciclo de vida de los datos lo preparará para ser un analista de datos exitoso. Cada etapa del ciclo de vida de los datos variará de una empresa a otra o según la industria o el sector. Los datos históricos son importantes tanto para el Servicio de Pesca y Vida Silvestre de EE.UU. como para el USGS, por lo que su ciclo de vida de los datos se centra en archivar y respaldar datos. Los intereses de Harvard se enfocan en la investigación y la enseñanza, por lo que su ciclo de vida de los datos incluye la visualización y la interpretación, aunque estos suelen asociarse con el ciclo de vida de análisis de datos. En el ciclo de vida de los datos de la HBS, tampoco se incluye una etapa para depurar o destruir datos. Por el contrario, el ciclo de vida de los datos en el sector financiero identifica claramente las etapas de archivo y depuración. En resumen, aunque los ciclos de vida de los datos varían, existe un principio de gestión de datos universal: se debe controlar cómo se manejan los datos para que sean precisos y estén seguros y disponibles para satisfacer las necesidades de su organización.
 
-
 ### Autorreflexion: recopilacién de datos  📑
 
 Comprueba tus destrezas analiticas (1 pregunta)
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+#### Descripción general
+
+Ahora que ya conoces las fases del ciclo de vida de los datos, puedes tomarte un momento para pensar en tu aprendizaje. En esta autorreflexión, considerarás tus ideas acerca de la recopilación de datos y cómo encaja en el ciclo de vida de los datos.
+
+Para empezar, te imaginarás una situación simple: debatir sobre el ciclo de vida de los datos en una entrevista simulada para un puesto de analista de datos. Luego, responderás a tres preguntas breves. Te esforzaste en aprender los conceptos básicos del ciclo de vida de los datos, así que aprovéchalos al máximo: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+#### La situación: una entrevista para un puesto de analista de datos
+
+Imagina que te entrevistan para un puesto de analista de datos en una empresa de helados local. El gerente de contratación explica que la compañía necesita un analista de datos porque desea obtener más información sobre sus clientes. Primero, desean conocer las preferencias de sabores de helado de sus clientes. Luego, usarán estos datos de los clientes para ayudar a tomar decisiones importantes.
+
+El gerente de contratación explica que no tienen ningún dato de los clientes y que no saben por dónde empezar. Luego, te pregunta: ¿Puedes explicar cómo abordarías esta tarea?
+
+Antes de responder la pregunta, ten en cuenta cada paso del ciclo de vida de los datos.
+
+#### Resumen: El ciclo de vida de los datos
+
+Los pasos del ciclo de vida de los datos son los siguientes:
+
+**Planear**: ¿Qué planes debes realizar y qué decisiones debes tomar? ¿Qué datos necesitas para responder tu pregunta?
+
+**Capturar**: ¿De dónde provienen tus datos? ¿Cómo los obtendrás?
+
+**Gestionar**: ¿Cómo almacenarás tus datos? ¿Para qué deben usarse? ¿Cómo mantienes estos datos seguros y protegidos?
+
+**Analizar**: ¿Cómo la empresa analizará los datos? ¿Qué herramientas deberían usar?
+
+**Archivar**: ¿Qué deben hacer con sus datos cuando dejan de ser actuales? ¿Cómo saben cuándo es el momento indicado?
+
+**Destruir**: ¿Deben eliminar algún dato? Si la respuesta es “sí”, ¿cuándo y cómo?
+
+#### Reflexión
+
+Ten en cuenta lo que aprendiste sobre los pasos del ciclo de vida de los datos y reflexiona acerca de la solicitud del gerente de contratación. Analiza las siguientes preguntas para ayudarte a guiar tus ideas:
+
+¿Qué tipo de datos deberían recopilar?
+
+¿Cómo deberían recopilar estos datos?
+
+¿Dónde alojarán los datos? ¿Cómo almacenarán los datos?
+
+Una vez que tengan los datos, ¿cómo los usarán?
+
+¿Cómo mantienen sus datos seguros y protegidos?
+
+¿Qué deben hacer con los datos antiguos? ¿Cuáles son sus opciones?
+
+En el cuadro de texto a continuación, escribe 2 o 3 oraciones (de 40 a 60 palabras) que expliquen tu recomendación sobre cómo la empresa de helados debe recopilar los datos de preferencia de sabores de los clientes.
+
+#### Desarrollo:
+
+Para la recopilación de los datos se puede realizar encuestas en línea, asegurando la protección y anonimización de los datos personales de sus posibles clientes. Los tipos de datos recolectados son demográficos (edad, género, ubicación), y específicos sobre las elecciones de helados (sabores favoritos, precios, frecuencia de compra). Los datos nuevos pueden ser contrastados con los datos antiguos para realizar limpieza de datos y consolidar el o los datasets. Para el almacenamiento seguro de datos, se puede utilizar un servicio en la nube como es la plataforma Google Cloud Platform. Mediante un análisis detallado y personalizado se pueden tomar las decisiones sobre la oferta de productos y estrategias de marketing.
+
+#### Retroalimentación:
+
+Hiciste un gran trabajo reforzando tu aprendizaje con una autorreflexión significativa. Una buena reflexión sobre este tema abordaría que, a fin de usar los datos con éxito, la empresa de helados debe hacer lo siguiente:
+
+Averiguar qué datos necesitan y dónde pueden obtenerlos.
+
+Recopilar los datos y tener en claro para qué los usarán (y para qué no).
+
+Pensar en cómo proteger los datos y gestionar los datos antiguos que ya no son útiles.
+
+Como analista de datos, estos son los tipos de preguntas a las que siempre debes responder sobre tus datos. Desde considerar la recopilación de datos antes de empezar un proyecto (en la fase de planificación) hasta eliminarlos con un software de destrucción (en la fase de destrucción), los analistas de datos deben aplicar estos conceptos para abordar cada proyecto de datos de manera eficaz.
 
 ### Cuestionario de diagnóstico 📑
 
@@ -247,9 +310,101 @@ Comprueba tus destrezas analiticas (5 preguntas)
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 
+1. Completa el espacio en blanco: Durante la fase _____ del ciclo de vida de los datos, una empresa decide qué tipo de datos necesita, cómo se gestionarán, quién será responsable de ellos y cuáles son los resultados óptimos.
+
+    - Gestionar.
+    
+      ❌ Incorrecto. 
+  
+    - Capturar.
+    
+      ❌ Incorrecto.
+    
+    - Archivar.
+    
+      ❌ Incorrecto. 
+      
+    - Planificar.
+    
+      ✅ Correcto. Durante la fase planificar del ciclo de vida de los datos, una empresa decide qué tipo de datos necesita, cómo se gestionarán, quién será responsable de ellos y cuáles son los resultados óptimos.
+
+
+2. En el ciclo de vida de los datos, ¿qué fase implica recopilar de datos de diversas fuentes e incorporarlos a la organización?
+
+    - Gestionar.
+    
+      ❌ Incorrecto.  
+  
+    - Analizar.
+    
+      ❌ Incorrecto.
+    
+    - Archivar.
+    
+      ❌ Incorrecto. 
+      
+    - Capturar.
+    
+      ✅ Correcto. La fase capturar implica recopilar datos de diversas fuentes e incorporarlos a la organización.
+      
+
+3. Un analista de datos termina de usar un conjunto de datos, por lo cual borra o elimina los archivos para proteger la información privada. Esto se denomina archivado.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+
+    - Falso.
+    
+      ✅ Correcto. Eliminar o triturar archivos describe la fase destruir del ciclo de vida de los datos. El archivado implica almacenar los archivos en un lugar en el que todavía estén disponibles.
+
+
+4. Una productora lechera decide abrir una heladería en su granja.Después de encuestar a la comunidad local sobre los sabores favoritos de la gente, toma los datos que proporcionaron y los almacena en un disco duro seguro para que estén protegidos en su computadora. ¿Esto forma parte de qué fase del ciclo de vida de los datos?
+
+    - Analizar.
+    
+      ❌ Incorrecto. 
+  
+    - Planear.
+    
+      ❌ Incorrecto.
+    
+    - Gestionar.
+    
+      ✅ Correcto. Esta es la fase gestionar del ciclo de vida de los datos. Se ocupa de cómo se cuidan los datos, cómo y dónde se almacenan, qué herramientas se utilizan para protegerlos y mantenerlos seguros, y qué medidas se adoptan para garantizar que se conserven correctamente.
+      
+    - Archivar.
+    
+      ❌ Incorrecto. Esta es la fase gestionar del ciclo de vida de los datos. Se ocupa de cómo se cuidan los datos, cómo y dónde se almacenan, qué herramientas se utilizan para protegerlos y mantenerlos seguros, y qué medidas se adoptan para garantizar que se conserven correctamente.
+
+
+5. Después de abrir la heladería en la granja, la productora lechera encuesta a la comunidad local sobre los sabores favoritos de la gente. Usa los datos que recopiló para determinar que los cinco sabores principales son fresa, vainilla, chocolate, menta granizada y mantequilla de maní. Se siente confiada con la decisión de vender estos sabores. ¿Esto forma parte de qué fase del ciclo de vida de los datos?
+
+    - Archivar.
+    
+      ❌ Incorrecto. 
+  
+    - Analizar.
+    
+      ✅ Correcto. Esto forma parte de la fase analizar. Esta fase implica el uso de datos para tomar decisiones inteligentes y respaldar los objetivos empresariales.
+    
+    - Capturar.
+    
+      ❌ Incorrecto. 
+      
+    - Planear.
+    
+      ❌ Incorrecto. 
+
+
+
+
+
+
 ---
 
 TO DO:
+
 ## 2. Esbozar el proceso de analisis de datos 📊
 
 ### Temario: 
