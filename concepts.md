@@ -136,8 +136,13 @@ Consiste en identificar y definir un problema, y luego resolverlo mediante el us
 
 Un método para examinar y evaluar cómo funciona un proceso actualmente con el fin de llegar a donde desea estar en el futuro.
 
+### Cuartil
 
+Un cuartil divide los puntos de datos en cuatro partes iguales.
 
+### Sin fines de lucro
+
+Las organizaciones sin fines de lucro son organizaciones dedicadas a promover una causa social o defender un esfuerzo particular.
 
 
 
@@ -270,3 +275,11 @@ Identifying and defining a problem and then solving it by using data in an organ
 ### Gap analysis
 
 A method for examining and evaluating how a process works currently in order to get where you want to be in the future.
+
+### Quartile
+
+A quartile divides data points into four equal parts.
+
+### Nonprofits
+
+Nonprofits are organizations dedicated to advancing a social cause or advocating for a particular effort.
