@@ -144,8 +144,39 @@ Un cuartil divide los puntos de datos en cuatro partes iguales.
 
 Las organizaciones sin fines de lucro son organizaciones dedicadas a promover una causa social o defender un esfuerzo particular.
 
+## Module 3 
 
+### Bases de datos 
 
+Es una colección de datos almacenados en un sistema informático.
+
+### Las 6 fases del análisis de datos
+
+- Fase 1. Preguntar: Define el problema y confirma las expectativas de los interesados.
+
+- Fase 2. Preparar: Recopila y almacena datos para analizarlos.
+
+- Fase 3. Procesar: Limpia y transforma los datos para asegurar su integridad.
+
+- Fase 4. Analizar: Utiliza herramientas de análisis de datos para sacar conclusiones.
+
+- Fase 5. Compartir: Interpreta y comunica los resultados a otros para que tomen decisiones basadas en datos.
+
+- Fase 6. Actuar: Pon tus ideas a trabajar para resolver el problema original.
+
+### Las 6 fases del ciclo de vida de los datos
+
+- Fase 1. Planificar: Decide qué tipo de datos se necesitan, cómo se gestionarán y quién será responsable de ellos.
+
+- Fase 2. Capturar: Recopila o reúne datos de varias fuentes distintas.
+
+- Fase 3. Gestionar: Cuida y brinda mantenimiento a los datos. Esto incluye determinar cómo y dónde se almacenan y las herramientas utilizadas para hacerlo.
+
+- Fase 4. Analizar: Utiliza los datos para resolver problemas, tomar decisiones y respaldar los objetivos empresariales.
+
+- Fase 5. Archivar: Mantén almacenados los datos relevantes para referencias futuras y a largo plazo.
+
+- Fase 6. Destruir: Elimina los datos almacenados y todas las copias compartidas.
 
 ---
 
@@ -283,3 +314,38 @@ A quartile divides data points into four equal parts.
 ### Nonprofits
 
 Nonprofits are organizations dedicated to advancing a social cause or advocating for a particular effort.
+
+
+## Module 3 
+
+### Database 
+
+It is a collection of data stored in a computer system.
+
+### The 6 phases of data analysis
+
+- Phase 1. Ask: Define the problem and confirm the expectations of the interested parties.
+
+- Phase 2. Prepare: Collect and store data for analysis.
+
+- Phase 3. Process: Clean and transform the data to ensure its integrity.
+
+- Phase 4. Analyze: Use data analysis tools to draw conclusions.
+
+- Phase 5. Share: Interpret and communicate the results to others so that they can make data-based decisions.
+
+- Phase 6. Act: Put your ideas to work to solve the original problem.
+
+### The 6 phases of the data life cycle
+
+- Phase 1. Plan: Decide what type of data is needed, how it will be managed and who will be responsible for it.
+
+- Phase 2. Capture: Collect or gather data from several different sources.
+
+- Phase 3. Manage: Take care of and maintain the data. This includes determining how and where they are stored and the tools used to do so.
+
+- Phase 4. Analyze: Use data to solve problems, make decisions and support business objectives.
+
+- Phase 5. Archive: Keep relevant data stored for future and long-term references.
+
+- Phase 6. Destroy: Delete stored data and all shared copies.
