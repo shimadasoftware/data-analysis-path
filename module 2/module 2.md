@@ -467,7 +467,9 @@ Este es un ejemplo de los Cinco porqués en acción. Supongamos que quieres prep
 
 Descubre cómo los Cinco porqués pueden revelar algunas causas raíces muy sorprendentes. Este es un gran truco para conocer, y puede ser un proceso muy útil en el análisis de datos. Otra pregunta que suelen hacerse los analistas de datos es: 
 
-#### **¿en qué punto de nuestro proceso se encuentran los déficits?** 
+![image](./img/module%2002%20img%20011.png)
+
+#### **¿En qué punto de nuestro proceso se encuentran los déficits?** 
 
 Para ello, muchas personas recurrirán a lo que se denomina análisis de déficits. El análisis de déficits permite examinar y evaluar el funcionamiento actual de un proceso para llegar a donde se quiere estar en el futuro. 
 
@@ -475,13 +477,35 @@ Las empresas realizan análisis de déficits para hacer todo tipo de cosas, como
 
 Una tercera pregunta que se hacen mucho los analistas de datos es: 
 
-#### **¿Qué no hemos tenido en cuenta antes? **
+#### **¿Qué no hemos tenido en cuenta antes?**
 
 Esta es una excelente manera de pensar en qué información o procedimiento puede faltar en un proceso, para poder identificar formas de tomar mejores decisiones y elaborar estrategias de cara al futuro. 
 
 Estos son solo alguno ejemplos del tipo de preguntas que los analistas de datos utilizan en su trabajo cada día. Tengo la certeza de que cuando empieces tu carrera, se te ocurrirán muchas más. La forma en que los analistas de datos piensan y hacen preguntas desempeña un papel importante en la toma de decisiones de las empresas. Por eso el pensamiento analítico y la comprensión de cómo hacer las preguntas correctas pueden tener un impacto tan grande en el éxito general de una empresa. Más tarde, hablaremos de cómo las decisiones basadas en datos pueden conducir a resultados exitosos.
 
 Para más información acceder al artículo: [To Get To The Root Of A Hard Problem, Just Ask “Why” Five Times](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)
+
+#### Ejemplos de los cinco porqués
+
+Por ejemplo, supongamos que una máquina deja de funcionar:
+
+1. ¿Por qué se detuvo la máquina? (Hubo una sobrecarga y se fundió el fusible).
+2. ¿Por qué hubo una sobrecarga? (El rodamiento no estaba suficientemente lubricado).
+3. ¿Por qué no se lubrificó lo suficiente? (La bomba de lubricación no bombeaba lo suficiente).
+4. ¿Por qué no bombeaba lo suficiente? (El eje de la bomba estaba desgastado y traqueteaba).
+5. ¿Por qué se desgastó el eje? (No había ningún colador adjunto y entraron restos de metal).
+
+Repetir el “por qué” cinco veces, de esta manera, puede ayudar a descubrir la raíz del problema y corregirlo. Si este procedimiento no se llevara a cabo, simplemente se podría reemplazar el fusible o el eje de la bomba. En ese caso, el problema volvería a aparecer al cabo de unos meses. El sistema de producción de Toyota se ha construido sobre la práctica y la evolución de este enfoque científico. Preguntando y respondiendo “por qué” cinco veces, podemos llegar a la verdadera causa del problema, que a menudo se esconde detrás de síntomas más obvios.
+
+Permítanme demostrarles cómo el uso de los Cinco Porqués nos permitió construir el sistema de capacitación de empleados que mencionamos anteriormente. Imaginemos que en IMVU de repente comenzamos a recibir quejas de clientes sobre una nueva versión del producto que acabamos de lanzar.
+
+1. Una nueva versión deshabilitó una función para los clientes. ¿Por qué? Porque un servidor en particular falló.
+2. ¿Por qué falló el servidor? Porque se utilizó un subsistema oscuro de forma incorrecta.
+3. ¿Por qué se usó de manera incorrecta? El ingeniero que lo utilizó no sabía cómo utilizarlo correctamente.
+4. ¿Por qué no lo sabía? Porque nunca fue entrenado.
+5. ¿Por qué no fue entrenado? Porque su jefe no cree en la formación de nuevos ingenieros porque él y su equipo están "demasiado ocupados".
+
+Lo que comenzó como un fallo puramente técnico se revela rápidamente como un problema de gestión muy humano.
 
 ### Registro de aprendizaje: Reflexiona sobre tus destrezas y expectativas 📖
 
@@ -491,7 +515,7 @@ Para más información acceder al artículo: [To Get To The Root Of A Hard Probl
 
 En primer lugar, rellenarás una tabla de destrezas analíticas en la entrada de tu registro de aprendizaje. La tabla aparecerá en la plantilla de la siguiente manera:
 
-![image](./img/module%2002%20img%20015.png)
+![image](./img/module%2002%20img%2012.png)
 
 Columna de destreza analítica: Curiosidad, Contexto, Mentalidad técnica, Diseño de datos, Estrategia de datos
 
@@ -535,18 +559,6 @@ Después de haber completado la tabla de destrezas analíticas, tómate un momen
 - ¿Cómo piensas desarrollar estas destrezas a partir de ahora?
 
 Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, asegúrate de guardar el documento para que se pueda acceder a tu respuesta en algún lugar. Esto te ayudará a seguir aplicando el análisis de datos a tu vida cotidiana. También podrás realizar un seguimiento de tu avance y crecimiento como analista de datos.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Cuestionario de diagnóstico 📑
 
