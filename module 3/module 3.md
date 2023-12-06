@@ -126,7 +126,7 @@ Y ahí lo tienes, el ciclo de vida de los datos. Ahora que entiendes  las distin
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-![image](/img/module%2003%20img%2001.png)
+![image](./img/module%2003%20img%2001.png)
 
 Aprendiste que el ciclo de vida de los datos consta de seis etapas. Aquí hay un resumen:
 
@@ -453,7 +453,7 @@ Como fase final del análisis de datos, está el **paso de actuar**. Llegó ese 
 
 En este punto, te preparas para buscar un trabajo y tener la posibilidad de realizar un proyecto de caso práctico. Es una gran oportunidad para integrar todo lo que has hecho durante este curso. Además, sumar un caso práctico a tu portafolio te ayudará a sobresalir del resto de candidatos cuando realices entrevistas para tu primer trabajo de analista de datos.
 
-![image](/img/module%2003%20img%2002.png)
+![image](./img/module%2003%20img%2002.png)
 
 Ahora conoces los diferentes pasos del proceso de análisis de datos y cómo lo plasma nuestro curso. Tienes todo lo que necesitas para entender cómo funciona el curso, y mis queridos googlers y yo estaremos disponibles para guiarte en todo el recorrido.
 
@@ -576,7 +576,7 @@ Por ejemplo, aquí hay una recopilación de observaciones en un registro de apre
 
 Hay cinco puntos de datos. Cada dato consta de una fecha y el número de tazas de café consumidas ese día. Puedes estructurar esto como una tabla de seis filas y dos columnas. Esto incluye cinco filas de datos y una fila de encabezado con títulos:
 
-![image](/img/module%2003%20img%2003.png)
+![image](./img/module%2003%20img%2003.png)
 
 También puedes crear una tabla con datos más detallados. Por ejemplo, si tus datos también contenían información sobre agregados, como crema y azúcar, podría verse así:
 
@@ -592,7 +592,7 @@ También puedes crear una tabla con datos más detallados. Por ejemplo, si tus d
 
 Puedes representar esto agregando dos columnas más a la tabla, una titulada “Crema” y otra, “Azúcar”. 
 
-![image](/img/module%2003%20img%2004.png)
+![image](./img/module%2003%20img%2004.png)
 
 #### ¡Ahora te toca a ti!
 
@@ -713,8 +713,6 @@ Comprueba tus destrezas analiticas (5 preguntas)
 
 ---
 
-TO DO:
-
 ## 3. El kit de herramientas del analisis de datos ⚙️
 
 ### Temario: 
@@ -756,6 +754,8 @@ A los analistas de datos les gusta usar **Tableau porque les ayuda a crear eleme
 **Looker también es popular entre los analistas de datos porque les proporciona una manera fácil de crear imágenes basadas en los resultados de una consulta**. Con Looker, puedes darles a los interesados una imagen completa de tu trabajo, con los datos de visualización y los datos reales relacionados con ella. Todas las herramientas de visualización tienen excelentes funciones que son útiles en diferentes situaciones. 
 
 Pronto aprenderás a decidir cuál herramienta usar en un trabajo en particular. Eso es todo lo que necesitas conocer del ciclo de vida de los datos y del proceso de análisis de datos. Podrás poner a prueba lo que sabes para sentirte cómodo para seguir avanzando en el curso. 
+
+![image](./img/module%2003%20img%2005.png)
 
 ### Herramientas clave del analista de datos 📖
 
@@ -817,7 +817,7 @@ Cuando trabajes como analista de datos, tendrás que definir cuál es el program
 
 Dependiendo de la fase del proceso de análisis de datos en la que estés, deberás usar diferentes herramientas. Por ejemplo, si te estás enfocando en crear visualizaciones complejas y llamativas, las herramientas de visualización que revisamos anteriormente son la mejor opción. Sin embargo, si te estás enfocando en organizar, limpiar y analizar datos, probablemente deberás elegir entre hojas de cálculo y bases de datos con consultas. Las hojas de cálculo y las bases de datos ofrecen formas de almacenar, administrar y usar datos. El contenido básico de ambas herramientas son conjuntos de valores. Sin embargo, también hay algunas diferencias clave:
 
-![image](/img/module%2003%20img%2006.png)
+![image](./img/module%2003%20img%2006.png)
 
 No tienes que elegir uno u otro porque cada uno sirve para algo distinto. En general, los analistas de datos trabajan con una combinación de los dos, ya que ambas herramientas son muy útiles en el análisis de datos. Por ejemplo, puedes almacenar datos en una base de datos y, luego, exportarlos a una hoja de cálculo para analizarlos. O bien, si estás recopilando información en una hoja de cálculo y se vuelve excesiva para esa plataforma en particular, puedes importarla a una base de datos. Más adelante en este curso, aprenderás que hay lenguajes de programación como R que te permiten tener un mayor control de los datos, su análisis y las visualizaciones que creas. 
 
