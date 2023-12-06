@@ -178,6 +178,49 @@ Es una colección de datos almacenados en un sistema informático.
 
 - Fase 6. Destruir: Elimina los datos almacenados y todas las copias compartidas.
 
+### Stakeholders
+
+Los interesados tienen una participación en el proyecto. Son personas que han dedicado tiempo y recursos a un proyecto, y están interesadas en el resultado. 
+
+### Formula
+
+Un conjunto de instrucciones que realiza un cálculo específico utilizando los datos de una hoja de cálculo.
+
+### Función
+
+Un comando preestablecido que realiza automáticamente un proceso o tarea específica utilizando los datos de una hoja de cálculo.
+
+### Query language (Lenguaje de Consulta)
+
+Un lenguaje de programación de computadoras que le permite recuperar y manipular datos de una base de datos.
+
+### SQL
+
+Es conocido como el lenguaje de consulta estructurado el cual permite la manipulación de los datos de una base de datos.
+
+### Visualización de datos
+
+Es la representación gráfica de la información.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Concepts 💬
@@ -349,3 +392,28 @@ It is a collection of data stored in a computer system.
 - Phase 5. Archive: Keep relevant data stored for future and long-term references.
 
 - Phase 6. Destroy: Delete stored data and all shared copies.
+
+### Stakeholders
+
+People who have invested time and resources into a project and are interested in the outcome.
+
+### Formula
+
+A set of instructions that performs a specific calculation using the data in a spreadsheet.
+
+### Function
+
+A preset command that automatically performs a specific process or task using the data in a spreadsheet.
+
+### Query language 
+
+A computer programming language that allows you to retrieve and manipulate data from a database.
+
+### SQL
+
+Es conocido como el lenguaje de consulta estructurado el cual permite la manipulación de los datos de una base de datos.
+
+### Data visualization 
+
+The graphical representation of information.
+
