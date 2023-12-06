@@ -562,27 +562,76 @@ Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, as
 
 ### Cuestionario de diagnóstico 📑
 
-Pon a prueba tus conocimientos sobre el pensamiento analitico 
+Pon a prueba tus conocimientos sobre el pensamiento analitico. 
+
+1. ¿Qué práctica consiste en identificar, definir y resolver un problema usando datos de manera organizada y paso a paso?
+
+    - Diseño de estructuras/bases de datos.
+    
+      ❌ Incorrecto.
+  
+    - Visualización.
+    
+      ❌ Incorrecto.
+    
+    - Contexto.
+    
+      ❌ Incorrecto.      
+
+    - Pensamiento analítico.
+    
+      ✅ Correcto. El pensamiento analítico consiste en identificar y definir un problema, y luego resolverlo usando datos de manera organizada y paso a paso.
 
 
+2. ¿Cuáles de las siguientes opciones son ejemplos de visualizaciones de datos? Selecciona todas las opciones correctas.
+
+    - Gráficos.
+    
+      ✅ Correcto. En la visualización de datos se utilizan gráficos, mapas y tablas.
+  
+    - Informes.
+    
+      ❌ Incorrecto.
+    
+    - Tablas.
+    
+      ✅ Correcto. En la visualización de datos se utilizan gráficos, mapas y tablas.
+
+    - Mapas.
+    
+      ✅ Correcto. En la visualización de datos se utilizan gráficos, mapas y tablas.
 
 
+3. La destreza analítica que implica gestionar los procesos y las herramientas utilizadas en el análisis de datos.
+
+    - Verdadero
+    
+      ✅ Correcto. El análisis de déficits se utiliza para examinar y evaluar cómo funciona actualmente un proceso con el objetivo de llegar a donde deseas estar en el futuro.
+  
+    - Falso.
+    
+      ❌ Falso.
 
 
+4. ¿Qué aspecto del pensamiento analítico implica ser capaz de identificar una relación entre dos o más datos?
 
-
-
-
-
-
-
-
-
-
-
-
+    - Visualización.
+    
+      ❌ Incorrecto.
+  
+    - Diseño de estructuras/bases de datos.
+    
+      ❌ Incorrecto.
+    
+    - Correlación.
+    
+      ✅ Correcto. La correlación implica ser capaz de identificar una relación entre dos o más datos. Una correlación es como una relación.
+      
+    - Contexto.
+    
+      ❌ Incorrecto.
+    
 ---
-TODO
 
 ## 3. Pensar en los resultados 🤔
 
@@ -593,6 +642,120 @@ TODO
 - Mas sobre ti (Discussion Prompt - 10 min)
 - Pon a prueba tus conocimientos sobre los resultados (Practice Quiz - 3 questions)
 
+### Utilizar los datos para obtener resultados satisfactorios 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+En un video anterior, aprendiste cuáles son las cinco destrezas analíticas esenciales. A modo de recordatorio, son estas: la curiosidad, la comprensión del contexto, la mentalidad técnica, el diseño de estructuras/bases de datos y la estrategia de análisis de datos. 
+
+En los próximos videos, exploraremos cómo estas habilidades forman parte de la toma de decisiones basada en datos. Pero primero, analicemos el concepto de la toma de decisiones basada en datos y por qué es más probable produzca resultados exitosos. Tal vez recuerdes que la toma de decisiones basada en datos implica el uso de hechos para guiar la estrategia empresarial. Los analistas de datos pueden aprovechar el poder de los datos para hacer todo tipo de cosas asombrosas. Gracias a los datos, pueden obtener información valiosa, verificar sus teorías o suposiciones, comprender mejor las oportunidades y los desafíos, apoyar un objetivo, ayudar a elaborar un plan y mucho más. 
+
+En el mundo de los negocios, la toma de decisiones basada en datos puede mejorar los resultados de muchas formas diferentes. Por ejemplo, supongamos que un productor lechero quiere empezar a elaborar y vender helados. Podría adivinar qué sabores les gustan a los clientes, pero hay una mejor forma de obtener la información. El productor podría encuestar a las personas y preguntarles qué sabores prefieren. De este modo, el productor obtiene los datos necesarios para elegir los sabores de helado le gusta a la gente. 
+
+Aquí se presenta otro ejemplo. Supongamos que la presidenta de una organización tiene curiosidad por saber qué ventajas valoran más los empleados. Consultó al director de Recursos Humanos, que dice que el personal valora el código de vestimenta informal. Según el director de RR. HH., es un presentimiento basado en que ha observado que muchos empleados usan pantalones vaqueros y camisetas. 
+
+Sin embargo, ¿qué pasaría si esta empresa utilizara un proceso de retroalimentación de los empleados más estructurado, como una encuesta? Podría revelar que, en realidad, los empleados prefieren las tarjetas de transporte público gratuito. El director de Recursos Humanos no se dio cuenta de esto porque va a trabajar en coche. Estos son solo algunos de los beneficios de la toma de decisiones basada en datos. Proporciona una mayor confianza en la elección y en las habilidades para abordar los desafíos empresariales. Te ayuda ser más proactivo cuando se presenta una oportunidad y te permite ahorrar tiempo y esfuerzo a la hora de trabajar para alcanzar un objetivo. 
+
+Ahora vamos a aprender más sobre cómo estas **cinco destrezas** te ayudan a aprovechar todo el potencial de la toma de decisiones basada en datos. 
+
+En primer lugar, **piensa en la curiosidad y el contexto**. Cuanto más aprendas sobre el poder de los datos, más curioso serás. Empezarás a observar patrones y relaciones en la vida cotidiana, tanto al leer las noticias, al mirar una película o al ir una cita al otro lado de la ciudad. Los analistas llevan su pensamiento un paso más allá usando el contexto para hacer predicciones, buscar respuestas y, finalmente, sacar conclusiones sobre lo que han descubierto. Este proceso natural es un gran primer paso para orientarse más hacia los datos. 
+
+El siguiente paso es tener una **mentalidad técnica**. Todos tenemos instintos o, como en el caso del ejemplo del director de Recursos Humanos, presentimientos. Los analistas de datos no son diferentes. También tienen presentimientos, pero se han capacitado para basarse en esas sensaciones y utilizar un enfoque más técnico para explorarlas. Para ello, **buscan siempre los hechos**, los ponen en práctica a través del análisis y utilizan los conocimientos que obtienen para tomar decisiones informadas. 
+
+A continuación, pasamos al **diseño de datos**, que tiene una fuerte conexión con **la toma de decisiones basada en datos**. En pocas palabras, **diseñar los datos para organizarlos de forma lógica** hace que sea más fácil para los analista de datos acceder, comprender y aprovechar al máximo la información disponible. Y es importante tener en cuenta que el diseño de datos no solo se aplica a las bases de datos. 
+
+Este tipo de pensamiento también puede ser útil con todo tipo de situaciones de la vida real. La idea básica es la siguiente: si se toman decisiones informadas por los datos, es más probable que se tomen decisiones más informadas y eficaces. 
+
+La última habilidad es la **estrategia de datos**, que **incorpora a las personas, los procesos y las herramientas utilizadas para resolver un problema**. Es importante tenerla en cuenta porque ofrece una visión de alto nivel del camino que se debe seguir para alcanzar los objetivos. Además, la toma de decisiones basada en datos no es un trabajo de una sola persona. Es mucho más probable que sea exitosa si todos participan y están en sintonía, por lo que es importante asegurarse de que se hayan implementado los procedimientos específicos y que la tecnología utilizada esté alineada con la estrategia basada en datos. 
+
+Ahora ya sabes cómo funcionan estas cinco destrezas analíticas esenciales para tomar mejores decisiones basadas en datos. Hasta ahora, muchos de los ejemplos que has escuchado son hipotéticos. Eso significa que podrían ser ciertos en teoría, pero no son casos concretos del mundo real. A continuación, veremos algunos ejemplos reales. Estoy impaciente por compartir cómo los analistas de datos ponen en práctica los datos para obtener resultados asombrosos.
+
+### La magia de los datos en el mundo real 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+En este video, voy a compartir algunos estudios de caso que destacan el increíble trabajo que hacen los analistas de datos. Cada uno de estos escenarios muestra el poder de la toma de decisiones basada en datos de formas inesperadas. 
+
+La primera historia es sobre Google. Como mencioné hace poco, en Google, nuestra misión es organizar la información del mundo y lograr que sea universalmente accesible y útil. Todos nuestros productos, desde la idea hasta el desarrollo y el lanzamiento, se basan en datos y en la toma de decisiones basada en datos. Aquí en Google, hay muchísimos ejemplos de personas que utilizan hechos para crear una estrategia empresarial. Aunque uno de los más famosos tiene que ver con el sector de Recursos Humanos de Google. 
+
+Pasó lo siguiente. El Departamento de RR: HH. quería saber si valía la pena tener gerentes. ¿Sus contribuciones valen la pena? ¿O sería más eficaz que todos fueran colaboradores individuales? Para responder a esa pregunta, el equipo de Análisis de Personas de Google analizó revisiones de desempeño y encuestas anteriores a empleados. 
+
+Los datos que encontraron fueron plasmados en un gráfico porque, como ya viste, las imágenes son extremadamente útiles para comprender un problema o un concepto. En el gráfico reveló que los empleados de Google tenían sentimientos positivos hacia sus gerentes, pero los datos eran bastante generales y el equipo quería obtener más información. 
+
+Por lo que profundizaron en esto y dividieron los datos en cuartiles. Un cuartil divide los puntos de datos en cuatro partes iguales o cuartos. Aquí empezaron a suceder cosas muy interesantes. Los analistas de datos descubrieron que había una gran diferencia entre los cuartiles superior e inferior. Al final, resultó que, los equipos con los mejores gerentes estaban mucho más felices, eran más productivos y tenían más probabilidades de querer seguir trabajando en Google. 
+
+Con esto, se confirmó que los gerentes eran valorados y hacen una gran diferencia. Por lo tanto, la idea de tener solamente colaboradores individuales no se implementó. Sin embargo, aún quedaba más trabajo por hacer. El solo hecho de saber que los buenos gerentes producen buenos resultados no genera conocimientos prácticos. Es necesario identificar qué caracteriza a un buen gerente, así que el equipo ejecutó dos pasos adicionales para recopilar más datos. 
+
+Primero, lanzaron un programa de premios en el que los empleados podían nominar a sus gerentes favoritos. Para cada propuesta, se debían proporcionar ejemplos o datos sobre qué hace que ese gerente sea excelente. El segundo paso consistió en entrevistar a los gerentes que fueron graficados en los cuartiles superior e inferior. De esta manera, el equipo de Análisis pudo ver las diferencias entre los comportamientos satisfactorios y y los menos satisfactorios. Los mejores comportamientos se identificaron como las razones más comunes por las que un gerente necesita mejorar. 
+
+El paso final fue compartir estas ideas y poner un procedimiento en práctica para evaluar a los gerentes con estas cualidades en mente. Esta decisión basada en datos continúa creando una cultura empresarial excepcional para mis colegas y para mí. Gracias, datos. 
+
+Otro ejemplo interesante lo encontramos en el sector sin fines de lucro. Las organizaciones sin fines de lucro se dedican a promover una causa social o defender una iniciativa en particular, como la seguridad alimentaria, la educación o las artes. En este caso, analistas de datos investigaron la manera en que los periodistas pueden generar un impacto más significativo en las organizaciones sin fines de lucro sobre las que escriben. 
+
+Los periodistas publican en periódicos, revistas y otros medios de comunicación, por lo que pueden ayudar a las organizaciones sin fines de lucro a llegar a lectores como tú y como yo, quienes luego actúan para ayudar a estas organizaciones a alcanzar sus metas. Por ejemplo, digamos que leíste sobre el problema del cambio climático en una revista en línea. Si el artículo es efectivo, conocerás más sobre la causa e, incluso, podrías sentir el impulso de tomar decisiones más ecológicas en tu día a día, querer ser voluntario de una organización sin fines de lucro o hacer una donación. Ese es un ejemplo de la labor del periodista y cómo genera concientización, comprensión y compromiso. Ahora volvamos a la historia. 
+
+Los analistas de datos utilizaron un rastreador para monitorear los temas, los clics, el tráfico web, los comentarios, lo que se comparte y más. Luego, evaluaron la información para hacer recomendaciones sobre la forma en que los periodistas podrían hacer aún mejor su trabajo. Al final, se les ocurrieron algunas ideas geniales sobre cómo las organizaciones sin fines de lucro y los periodistas pueden motivar a la gente en todas partes para trabajar juntos y hacer del mundo un lugar mejor. 
+
+Realmente, no hay límites para lo que puedes hacer como analista de datos. A medida que avances en este programa, descubrirás aún más posibilidades. Hiciste un buen trabajo siguiendo los temas de estos últimos videos. Aprendiste todo sobre las destrezas analíticas y las cinco características clave de los analistas de datos. Probablemente, incluso te diste cuenta de que ya eres un conocedor de la mayoría de ellas. 
+
+Después, descubriste qué significa pensar analíticamente y las destrezas específicas que los analistas de datos desarrollan para lograrlo. Exploraste las herramientas y los procesos que permiten a los analistas de datos encontrar un problema y formular las preguntas adecuadas para resolverlo. 
+
+Finalmente, algunos ejemplos del mundo real ayudaron a ilustrar por qué la toma de decisiones basada en datos suele ser más eficaz que otros métodos. Estás sentando una base excelente para tu carrera como analista de datos. Con cada video, tus habilidades continuarán expandiéndose y tu comprensión de los conceptos clave del análisis de datos solo se volverá más sólida.
+
+Pronto, tendrás la oportunidad de probar todo lo que aprendiste. Es una oportunidad muy útil para verificar tu comprensión de todos los conceptos que hemos discutido; si llegas a tener alguna duda sobre una pregunta, puedes revisar los videos y lecturas para encontrar la respuesta. Esta es otra buena manera de practicar la recopilación de datos. ¡Buen trabajo, sigue así!
+
+### Cuestionario de diagnóstico 📑
+
+Pon a prueba tus conocimientos sobre el pensamiento analitico. 
+
+1. Completa el espacio en blanco: La curiosidad, la comprensión del contexto y la mentalidad técnica son ejemplos de _____ que se utilizan en la toma de decisiones basada en datos.
+
+    - destrezas analíticas.
+    
+      ✅ Correcto. La curiosidad, la comprensión del contexto y la mentalidad técnica son ejemplos de destrezas analíticas que se utilizan en la toma de decisiones basada en datos.
+  
+    - modelos de datos.
+    
+      ❌ Incorrecto.
+    
+    - procesos de pensamiento.
+    
+      ❌ Incorrecto.
+      
+    - estrategias empresariales.
+    
+      ❌ Incorrecto.
+
+
+2. Sondear a los clientes sobre sus preferencias y usar esa información para orientar la estrategia empresarial es un ejemplo de toma de decisiones basada en datos.
+
+    - Verdadero.
+    
+      ✅ Correcto. Sondear a los clientes sobre sus preferencias y usar esa información para orientar la estrategia empresarial es un ejemplo de toma de decisiones basada en datos.
+  
+    - Falso.
+      
+      ❌ Incorrecto.
+
+
+3. En el análisis de datos, ¿qué destreza analítica implica la gestión de personas, procesos y herramientas?
+
+    - Diseño de estructuras/bases de datos.
+    
+      ❌ Incorrecto.
+  
+    - Control de datos.
+    
+      ❌ Incorrecto.
+    
+    - Análisis computacional de datos.
+    
+      ❌ Incorrecto.
+      
+    - Estrategia de análisis de datos.
+    
+      ✅ Correcto. La estrategia de datos implica la gestión de personas, procesos y herramientas.
+
 ---
 
 ## 4. Desafio semanal 🏆
@@ -601,3 +764,232 @@ TODO
 
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 2 (Quiz - 8 questions)
+
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Análisis (computacional) de datos: La ciencia de los datos
+
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Análisis de déficits: Un método para examinar y evaluar el estado actual de un proceso con el fin de identificar las oportunidades de mejora en el futuro
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada
+
+B
+
+C
+
+- Causa raíz: La razón por la que ocurre un problema
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad
+
+- Contexto: La condición en la que algo existe o sucede
+
+D
+
+- Datos: Una colección de hechos
+
+- Destrezas analíticas: Cualidades y características asociadas al uso de hechos para resolver problemas
+
+- Diseño de datos: Cómo se organiza la información
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos
+
+- Estrategia de datos: La gestión de las personas, los procesos y las herramientas que se usan en el análisis de datos
+
+F
+G
+H
+I
+J
+K
+L
+
+M
+
+- Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica
+
+N
+O
+
+P
+
+- Pensamiento analítico: El proceso de identificar y definir un problema, para luego resolverlo mediante el uso de datos de manera organizada, paso a paso
+
+Q
+R
+S
+
+T
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial
+
+U
+
+V
+
+- Visualización de datos: La representación gráfica de los datos
+
+- Visualización: (Consulta la visualización de datos)
+
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+Desafio semanal 2
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+1. ¿Buscar nuevos desafíos y experiencias para aprender es un ejemplo de qué destreza analítica?
+
+    - Curiosidad.
+    
+      ❌ Incorrecto. 
+  
+    - Comprender el contexto.
+    
+      ✅ Correcto. Las personas curiosas buscan nuevos desafíos, lo que lleva a obtener conocimiento.
+
+    - Estrategia de análisis de datos.
+    
+      ❌ Incorrecto. 
+
+    - Tener una mentalidad técnica.
+    
+      ❌ Incorrecto. 
+
+
+2. ¿Agregar encabezados descriptivos a las columnas de datos de una hoja de cálculo es un ejemplo de qué destreza analítica?
+
+    - Pensamiento sobre el panorama completo.
+    
+      ❌ Incorrecto. 
+  
+    - Comprender el contexto.
+    
+      ✅ Correcto. El contexto es la condición en la que algo existe, como una estructura. El etiquetado de la fila superior de una columna de una hoja de cálculo ofrece contexto sobre los datos que aparecen debajo. 
+    
+    - Estrategia de análisis de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Curiosidad.
+    
+      ❌ Incorrecto. 
+
+
+3. ¿Tener una mentalidad técnica es una destreza analítica que implica qué?
+
+    - Equilibrar papeles y responsabilidades.
+    
+      ❌ Incorrecto. 
+  
+    - Dividir las cosas en partes o pasos más pequeños.
+    
+      ✅ Correcto. Tener una mentalidad técnica implica contar con la capacidad de dividir las cosas en partes o pasos más pequeños y trabajar con ellos de forma ordenada y lógica.
+    
+    - Gestionar a personas, procesos y herramientas.
+    
+      ❌ Incorrecto. 
+      
+    - Comprender la situación en la que algo existe o sucede.
+    
+      ❌ Incorrecto. 
+
+
+4. El diseño de datos es la forma de organizar la información; la estrategia de datos es la gestión de las personas, los procesos y las herramientas utilizadas en el análisis de datos.
+
+    - Verdadero.
+    
+      ✅ Correcto. El diseño de datos es la forma de organizar la información; la estrategia de datos es la gestión de las personas, los procesos y las herramientas utilizadas en el análisis de datos.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+    
+
+5. Completa el espacio en blanco: Ser capaz de identificar una relación entre dos o más datos describe _____.
+
+    - La visualización.
+    
+      ❌ Incorrecto. 
+  
+    - Una orientación hacia los problemas.
+    
+      ❌ Incorrecto. 
+    
+    - La correlación.
+    
+      ✅ Correcto. Ser capaz de identificar una relación entre dos o más datos describe la correlación.
+      
+    - Un pensamiento orientado a los detalles.
+    
+      ❌ Incorrecto. 
+
+
+6. ¿Los cinco porqués es una técnica que consiste en preguntar “¿Por qué?” cinco veces para lograr qué objetivo?
+
+    - Identificar la causa raíz de un problema.
+    
+      ✅ Correcto. En los cinco porqués, preguntas “¿Por qué?” cinco veces para revelar la causa raíz de un problema.
+  
+    - Poner un plan en acción.
+    
+      ❌ Incorrecto. 
+    
+    - Visualizar cómo debería verse un proceso en el futuro.
+    
+      ❌ Incorrecto. 
+      
+    - Usar datos para guiar la estrategia empresarial.
+    
+      ❌ Incorrecto. 
+
+
+7. Un aeropuerto quiere que su proceso de manipulación de equipaje sea más rápido y sencillo para los viajeros. Un analista de datos examina y evalúa cómo funciona el proceso en la actualidad para lograr el objetivo de contar con un proceso más eficaz. ¿Qué metodología utiliza?
+
+    - Los cinco porqués.
+    
+      ❌ Incorrecto. 
+  
+    - Análisis de déficits.
+    
+      ✅ Correcto. El análisis de déficits es un método para examinar y evaluar cómo funciona un proceso actualmente para así llegar a donde quieres estar en el futuro.
+    
+    - Visualización de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Estrategia.
+    
+      ❌ Incorrecto. 
+
+
+8. Una empresa recibe comentarios negativos en las redes sociales sobre sus productos. Para resolver este problema, un analista de datos usa las cinco destrezas analíticas: curiosidad, comprensión del contexto, mentalidad técnica, diseño de datos y estrategia de datos. Esto hace posible que el analista use los hechos para guiar la estrategia empresarial y descubrir cómo aumentar la satisfacción del cliente. ¿De qué es un ejemplo?
+
+    - Visualización de datos.
+    
+      ❌ Incorrecto. 
+  
+    - Análisis de déficits.
+    
+      ❌ Incorrecto. 
+    
+    - Ciencia de análisis de datos.
+    
+      ❌ Incorrecto. 
+      
+    - Toma de decisiones basada en datos.
+    
+      ✅ Correcto. La toma de decisiones basada en datos implica el uso de hechos para guiar la estrategia empresarial. Las cinco destrezas analíticas esenciales son una parte fundamental de la toma de decisiones basada en datos.
