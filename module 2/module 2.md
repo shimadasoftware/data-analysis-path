@@ -431,7 +431,7 @@ Por otra parte, . Es decir, las piezas que componen tu rompecabezas. En el mundo
 
 ![image](./img/module%2002%20img%2009.png)
 
-![image](./img/module%2002%20img%20010.png)
+![image](./img/module%2002%20img%2010.png)
 
 Ahora que ya conoces los cinco aspectos del pensamiento analítico (la visualización, la estrategia, la orientación hacia los problemas, la correlación y el pensamiento con perspectiva global y orientado hacia los detalles) puedes ponerlos en práctica cuando trabajes con datos. A medida que avances en este curso, aprenderás cómo hacerlo.
 
