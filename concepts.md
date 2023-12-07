@@ -202,7 +202,15 @@ Es conocido como el lenguaje de consulta estructurado el cual permite la manipul
 
 Es la representación gráfica de la información.
 
+### Atributo
 
+- Un atributo es una característica o calidad de los datos que se utilizan para etiquetar una columna en una tabla.
+- Los atributos se denominan nombres de columna, etiquetas de columna, encabezados o fila de encabezado.
+
+### Observation
+
+- En un conjunto de datos, una fila también se llama observación.
+- Una observación incluye todos los atributos de algo contenido en una fila de una tabla de datos. 
 
 
 
@@ -358,7 +366,6 @@ A quartile divides data points into four equal parts.
 
 Nonprofits are organizations dedicated to advancing a social cause or advocating for a particular effort.
 
-
 ## Module 3 
 
 ### Database 
@@ -395,25 +402,36 @@ It is a collection of data stored in a computer system.
 
 ### Stakeholders
 
-People who have invested time and resources into a project and are interested in the outcome.
+- People who have invested time and resources into a project and are interested in the outcome.
 
 ### Formula
 
-A set of instructions that performs a specific calculation using the data in a spreadsheet.
+- A set of instructions that performs a specific calculation using the data in a spreadsheet.
 
 ### Function
 
-A preset command that automatically performs a specific process or task using the data in a spreadsheet.
+- A preset command that automatically performs a specific process or task using the data in a spreadsheet.
 
 ### Query language 
 
-A computer programming language that allows you to retrieve and manipulate data from a database.
+- A computer programming language that allows you to retrieve and manipulate data from a database.
 
 ### SQL
 
-Es conocido como el lenguaje de consulta estructurado el cual permite la manipulación de los datos de una base de datos.
+- Es conocido como el lenguaje de consulta estructurado el cual permite la manipulación de los datos de una base de datos.
 
 ### Data visualization 
 
-The graphical representation of information.
+- The graphical representation of information.
 
+## Module 4
+
+### Attribute
+
+- A characteristic or quality of data used to label a column in a table.
+- Attributes are called column names, column labels, headers, or header rows.
+
+### Observation
+
+- In a dataset a row is also called an observation.
+- All of the attributes for something contained In a row of a data table.
