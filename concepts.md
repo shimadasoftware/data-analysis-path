@@ -212,8 +212,9 @@ Es la representación gráfica de la información.
 - En un conjunto de datos, una fila también se llama observación.
 - Una observación incluye todos los atributos de algo contenido en una fila de una tabla de datos. 
 
+### Query (Solicitud)
 
-
+- A request for data or information from a database.
 
 
 
@@ -435,3 +436,7 @@ It is a collection of data stored in a computer system.
 
 - In a dataset a row is also called an observation.
 - All of the attributes for something contained In a row of a data table.
+
+### Query 
+
+- A request for data or information from a database.
