@@ -876,19 +876,19 @@ FROM artist;
 
 4. Estás trabajando con una tabla de una base de datos que contiene datos sobre músicos. La tabla se llama artist. Quieres revisar todas las columnas de la tabla. Escribes la consulta en SQL a continuación. Agrega una cláusula FROM que recupere los datos de la tabla artist. ¿Cuántas columnas hay en la tabla artist?
 
-    - 8.
+    - 8 columnas.
     
       ❌ Incorrecto.
   
-    - 5.
+    - 5 columnas.
     
       ❌ Incorrecto.
     
-    - 9.
+    - 9 columnas.
     
       ❌ Incorrecto.
       
-    - 2.
+    - 2 columnas.
     
       ✅ Correcto. La cláusula FROM artist recuperará los datos de la tabla artist. La consulta completa es SELECT * FROM artist. La cláusula FROM especifica de qué tabla de la base de datos seleccionar los datos. En la tabla artist,hay dos columnas. 
 
@@ -940,6 +940,130 @@ album_id = 277;
 - Lilah: El poder de una visualizacion (Video - 2 min)
 - Visualizaciones en la vida diaria (Discussion Prompt - 10 min)
 - Pon a prueba tus conocimientos sobre la visualizacion de datos (Practice Quiz - 3 questions)
+
+### Conviértete en un experto en visualizacion de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Tu caja de herramientas de análisis de datos se está llenando. Aprender tanto sobre las hojas de cálculo como sobre SQL te llevará lejos en el mundo del análisis de datos. Hay más que aprender, por supuesto, y muchas más herramientas que podrás usar, pero tu futuro se ve brillante. Y está a punto de verse aún más brillante porque estamos aquí para hablar más sobre la visualización de datos. Te contaré un poco más sobre el papel de las herramientas de visualización de datos y el análisis de datos y te daré la oportunidad de ver esas herramientas en acción más adelante en este video. Quizás recuerdes que la visualización de datos es la representación gráfica de cierta información. Para muchos analistas de datos, es la parte más emocionante de su trabajo porque ven que su esfuerzo se ve recompensado con algo interesante. Sin mencionar que la visualización de datos es hermosa y útil. Me quedé anonadado cuando llegué a Google y comencé a recibir un informe de datos trimestral en mi correo electrónico y tenía una gran plataforma de diapositivas donde la gente contribuía con sus visualizaciones. Definitivamente fue una luz en el camino cuando comencé a generar mis propias visualizaciones. Si no te impresiona mi historia, déjame contarte sobre Florence Nightingale. ¿Te suena ese nombre? Es responsable de gran parte de la filosofía de la enfermería moderna y, lo creas o no, también fue analista de datos. Durante la Guerra de Crimea, en la década de 1850, miles de soldados morían todos los días, Nightingale quería encontrar una manera de reducir la cantidad de muertes. Después de examinar los datos, descubrió que la mayoría de los soldados morían a causa de afecciones evitables. Para convencer a los administradores del hospital de que debían concentrarse en estas afecciones, creó un gráfico que mostraba la cantidad de muertes durante varios meses. Las secciones azules mucho más grandes en la visualización representan las muertes evitables. Su trabajo condujo directamente a cambios importantes en la atención al paciente. Ella hizo todo esto hace más de 150 años sin una computadora. Una de las principales razones por las que Nightingale creó esta visualización fue para que los datos fueran más fáciles de entender para su audiencia. Sintió que tendría más éxito en convencer a los interesados utilizando imágenes en lugar de solo palabras y números. Tenía razón. Las tablas llenas de datos, si bien son necesarias para el análisis, simplemente no pueden mostrar tendencias y patrones tan rápida y claramente como las visualizaciones. Imagínate que recibes una tarea que debe completarse el mismo día. Si recopilas los datos que necesitas en una tabla, ¿podrías explicar resultados usando la tabla? Sí, probablemente podrías, pero una mejor idea sería utilizar una visualización como este gráfico de barras. Algo como esto hace que sea mucho más fácil para ti explicarlo rápidamente, y tienes el beneficio de un gráfico genial para respaldar tu análisis. Como analista de datos, te conviene crear visualizaciones que hagan que los datos sean fáciles de entender e interesantes de ver, así que lúcete. Es posible que los interesados no tengan mucho tiempo para dedicarle a los datos. Tu trabajo será hacer que su tiempo valga la pena. Volvamos a la tabla de datos que creamos anteriormente en el curso. Si has creado la tuya para practicar, puedes abrirla ahora o probarla más tarde. Estos son los datos que agregamos antes. Vamos a crear una visualización de los datos insertando un gráfico, un gráfico de barras. Puedes ver que la hoja de cálculo visualizó los datos de nuestra tabla de la manera que tenía más sentido. Creó un gráfico de barras o un gráfico de columnas para comparar las edades de cada persona por nombre, pero es posible que ya lo hayas descubierto. Esa es la belleza de la visualización: muestra el análisis de datos de manera rápida y clara. Podemos usar el editor de gráficos para ajustarlo. Los diferentes programas de hojas de cálculo pueden tener diferentes formas de hacer esto, pero todos tienen funciones de visualización y maneras de editar esas visualizaciones. Por ahora, echemos un vistazo a los gráficos sugeridos. Podemos hacer que las barras vayan horizontalmente usando un gráfico de barras. Eso se ve muy bien, así que vamos a cerrar el editor de gráficos. Hay muchas opciones que tener en cuenta, pero lo mantendremos a un nivel básico por ahora. Siéntete libre de probar otras visualizaciones si practicas más tarde. Ahora, podemos ajustar nuestro gráfico para que toda nuestra hoja de cálculo se vea limpia y profesional. ¡Excelente! Espero que aprendas a amar las visualizaciones de datos tanto como yo. Tal vez te conviertas en un pionero de la visualización de datos, al igual que Florence Nightingale. Como analista de datos novato, empezaste a llenar tu cinturón de trabajo con herramientas valiosas que utilizarás durante el resto del programa. Tener conocimientos sobre hojas de cálculo, SQL y visualización de datos te ayudará a convertirte en un detective de datos excelente. Podrás utilizar estas herramientas durante todo el proceso de análisis de datos a medida que avances. A continuación, completa algunas actividades para concluir esta parte del programa. También completarás una evaluación para verificar tu comprensión de todo lo que aprendiste. Esta es una gran oportunidad para pensar en algunas de las áreas que continuarás explorando en este curso y en tu carrera. Como siempre, eres libre de revisar los videos y los textos para ayudarte a recordar ciertos temas e ideas, incluso si ya te sientes preparado. Estás a solo unos pasos del próximo curso; eso es un gran progreso. Sigue así.
+
+### Planificar una visualizacion de datos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+### Lilah: El poder de una visualizacion 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+### Visualizaciones en la vida diaria 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Visualizaciones de datos, una expresión larga que también puede hacer que tus ojos se irriten. Pero me pregunto si, cuando eras pequeño y estabas con tus padres, tal vez tenías una rutina para ir a dormir o, si tienes hijos, quizás tengas una rutina para que ellos se vayan a dormir. Sería muy raro que te acerques a esos niños con un montón de hechos y cifras antes de que se vayan a la cama. Pero apuesto que probablemente les estás contando una historia, les estás mostrando fotos. Sé que siempre me han gustado los cómics; las imágenes cuentan una historia. Las visualizaciones de datos son imágenes, son una manera maravillosa de tomar ideas muy básicas sobre datos y puntos de datos y hacer que cobren vida. Puedes hacer diferentes tipos de combinaciones de visualizaciones, pero las que son interactivas, vaya, son espectaculares. ¿Te imaginas ser ejecutivo de una organización y tratar de decidir si abres otro centro en Bangkok? ¿Tiene sentido? Ser capaces de decir que sabemos la razón por la que nos sirve tener excelentes visualizaciones de datos: para respaldar todos nuestros puntos de vista; es una obviedad. Curiosamente, recuerdo la primera vez que me encontré con una visualización superasombrosa; fue en mi vida personal. Cambié mi software de presupuestos de un proveedor a otro, y el proveedor al que cambié estaba realmente enfocado en que cada dólar contara y en asegurarse de que estuviera presupuestando cada dólar. Había visualizaciones que cambiaban según qué datos agregabas, y realmente cambió toda mi perspectiva, por completo. Entonces, tener los datos es como tener la hoja de respuestas de un examen; realmente te permite saber que vas a tomar buenas decisiones porque estás respaldado por los datos.
+
+### Cuestionario de diagnóstico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+- Pon a prueba tus conocimientos sobre la visualizacion de datos (3 preguntas)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
