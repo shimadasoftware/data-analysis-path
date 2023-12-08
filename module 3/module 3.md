@@ -619,10 +619,9 @@ Cuando hayas terminado la entrada en la plantilla del registro de aprendizaje, a
 
 ### Cuestionario de diagnóstico 📑
 
-Comprueba tus destrezas analiticas (5 preguntas)
-
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Comprueba tus destrezas analiticas (5 preguntas)
 
 1. Las fases del proceso de análisis de datos son preguntar, preparar, procesar, analizar, compartir y actuar. ¿Qué hacen los analistas de datos durante la fase preguntar?
 
