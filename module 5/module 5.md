@@ -88,24 +88,153 @@ Empecé en el equipo de inteligencia empresarial, cuyo trabajo consistía en pro
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-### Respaldo a las carreras de Analisis de Datos  🎬
+#### Resumen
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+Ahora que te hemos presentado el rol de analista de datos, puedes hacer una pausa por un momento y pensar acerca de lo que estás aprendiendo. En esta autorreflexión, considerarás tus ideas sobre cómo las industrias utilizan los datos y responderás unas breves preguntas.
 
-Para cualquier analista, para cualquier persona que se encuentre realmente en las primeras etapas de su carrera, comprender los datos, respetarlos y saber cómo trabajar con datos es increíblemente importante porque, mi visión es que cada función de alguna manera involucrará datos y su uso. Aprender cómo extraer conocimientos de ellos será el núcleo de cualquier función crítica en cualquier organización empresarial. Por lo general, en esos dos primeros años, estás desarrollando las habilidades básicas que te convierten en un generalista fantástico, y luego, en los próximos 2 a 5 años, estás aprendiendo sobre algo muy específico en lo que respecta a tu trabajo. Ya sea en el área donde das soporte o tal vez en un componente muy técnico. Digamos que quieres convertirte en un experto en SQL para poder manipular grandes conjuntos de datos con fines de análisis financiero. Del mismo modo, incluso si ingresas a las finanzas como analista de datos, puedes salir de las finanzas e ingresar a lo que a mucha gente le gusta llamar el negocio, que generalmente son tus funciones de operaciones, y convertirte en analista de negocios o analista de datos. Hay tantos diferentes caminos que puedes tomar desde el punto de partida que realmente no puedes predecir el final. Me apasiona mucho trabajar y apoyar a los jóvenes y darles un impulso a sus carreras. Honestamente, esto se debe a mi propia experiencia personal, donde, en los primeros dos años de mi carrera, no tuve prácticamente ningún apoyo de mi gerente ni de mi cadena de gerencia directa. Al pasar por esa experiencia en mis primeros años, me di cuenta y sentí cómo eso puede frenarte, y, especialmente, cuando eres alguien que tiene mucho potencial y mucha habilidad. Quieres estar en un entorno que fomente esa habilidad y realmente quiera verte crecer. Creo que es increíblemente importante tener programas como estos, que derriben todas las barreras, que eliminen cualquier obstáculo que impida que las personas puedan descubrir lo que necesitan para estar en una industria como esta, para tener éxito en una función como analista de datos, para que ellos mismos puedan soñar hasta dónde pueden llegar en su carrera. Mi nombre es Tony. Soy gerente de programa de finanzas en Google.
+Esta autorreflexión te ayudará a desarrollar perspectivas sobre tu propio aprendizaje y te preparará para conectar tus conocimientos con las responsabilidades de un analista de datos con escenarios empresariales del mundo real. A medida que respondas las preguntas y plantees las propias, considerarás conceptos, prácticas y principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Has hecho el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a mantener tus conocimientos!
+
+#### Cómo una empresa utiliza los datos
+
+En esta autorreflexión, considerarás a las empresas con las que interactúas día a día y reflexionarás sobre cómo utilizan los datos para mejorar la experiencia de sus clientes.
+
+Elige una empresa, un servicio o un producto con los que hayas tenido un contacto personal que utilicen datos para mejorar su servicio al cliente. Algunos ejemplos son restaurantes locales, proveedores de atención médica, proveedores de Internet o una aplicación favorita para teléfonos inteligentes.
+
+A continuación, piensa en un problema específico de experiencia del cliente que esta empresa, servicio o producto podría tener y que sospeches que podría solucionarse con datos. Podría ser algo así como un restaurante que rastrea las ventas de un nuevo producto o los proveedores de servicios de Internet que intentan averiguar dónde se producen las interrupciones.
+
+Intenta evitar problemas amplios y piensa en cuestiones específicas. Un buen ejemplo de problema sería que la comida que pediste a un servicio de entrega llegó fría.
+
+#### Reflexión
+
+Considera la empresa, el servicio o el producto que elegiste en esta reflexión:
+
+¿Cómo podría utilizar los datos para mejorar la experiencia del cliente?
+
+¿Qué tipo de datos necesitaría recopilar?
+
+¿Cómo podría la información obtenida de esos datos resolver un problema?
+
+Ahora, escribe 2 o 3 oraciones (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+#### Desarrollo
+
+Empresa: Servicio de Entrega de Medicamentos
+
+- ¿Cómo podría utilizar los datos para mejorar la experiencia del cliente?
+
+El servicio de entrega de medicamentos podría optar por el servicio a domicilio. Podría utilizar datos para optimizar la eficiencia en las entregas y garantizar la disponibilidad de medicamentos. Analizando patrones de pedidos, tiempos de entrega, y niveles de inventario, podrían anticipar las necesidades de los usuarios y mejorar la velocidad y confiabilidad del servicio.
+
+- ¿Qué tipo de datos necesitaría recopilar?
+
+Sería esencial recopilar datos sobre los tipos de medicamentos solicitados, frecuencia de pedidos, ubicaciones de entrega, y tiempos de espera en entregas anteriores. Datos de inventario y de la cadena de suministro también serían valiosos para gestionar eficientemente los niveles de existencias.
+
+- ¿Cómo podría la información obtenida de esos datos resolver un problema?
+
+Analizando estos datos, el servicio podría implementar sistemas de gestión de inventario que identifiquen patrones de demanda y permitan una distribución eficiente de medicamentos. Esto ayudaría a anticipar picos de demanda, asignar recursos de manera óptima y reducir los tiempos de espera para los usuarios. Además, podrían personalizar las recomendaciones y recordatorios de medicamentos, contribuyendo a una experiencia de entrega más eficiente y satisfactoria para los usuarios.
+
+✅ Correcto. ¡Gran trabajo para reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión sobre este tema consideraría cómo un tipo específico de datos puede ayudar a una empresa, producto o servicio a mejorar su experiencia de servicio al cliente.
+
+Por ejemplo, piensa en un restaurante que entrega comida fría a los clientes. Más datos sobre el proceso de entrega, como el tiempo promedio de entrega o la cantidad promedio de entregas diarias, podrían ayudar al restaurante a agilizar el proceso y entregar la comida a tiempo.
+
+El análisis de datos ayuda a las empresas a tomar mejores decisiones, pero llegar hasta allí es todo un proceso. Comienza con analizar un problema empresarial, identificar datos sobre ese problema y, a continuación, utilizar el análisis de datos para llegar a una respuesta. A veces obtienes una respuesta que resuelve el problema de tu empresa, pero a menudo es igual de probable que descubras otras preguntas para investigar más profundamente.
 
 ### Registro de aprendizaje: Reflexionar sobre el proceso de analisis de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Descripción general 
+
+A estas alturas, ya has empezado a familiarizarte con el proceso de análisis de datos. Ahora, completarás una entrada en tu registro de aprendizaje que reflejará tu experiencia con el proceso de análisis de datos y tu progreso en este curso. Una vez que completes esta actividad, comprenderás mejor cómo utilizar los pasos de este proceso para organizar las tareas de análisis de datos y resolver grandes problemas con los datos. Esta plataforma seguirá guiándote en tu trabajo en este curso, ¡y como analista de datos junior!
+
+#### El proceso de análisis de datos hasta ahora
+
+Tómate un momento para apreciar todo el trabajo que has realizado en este curso. Identificaste una pregunta para responder y trabajaste sistemáticamente en el proceso de análisis de datos para responder a esa pregunta, tal como los analistas de datos profesionales lo hacen todos los días. 
+
+Al revisar el proceso de análisis de datos hasta ahora, ya has realizado muchos de estos pasos. Estos son algunos ejemplos que debes tener en cuenta antes de empezar a completar la entrada del registro de aprendizaje: 
+
+- Formulaste una pregunta interesante y definiste un problema que resolver mediante el análisis de datos para responder a esa pregunta. 
+
+- Pensaste exhaustivamente en qué datos necesitarías y cómo los recopilarías para prepararte para el análisis.
+
+- Procesaste los datos organizándolos y estructurándolos en una tabla y luego transfiriéndolos a una hoja de cálculo. 
+
+- Analizaste tus datos inspeccionándolos y explorándolos en busca de patrones.
+
+- Compartiste tu primera visualización de datos: un gráfico de barras.
+
+Finalmente, después de completar todos los demás pasos, actuaste: Reflexionaste sobre tus resultados, tomaste decisiones y obtuviste información sobre tu problema, incluso si esa información era que no tenías suficientes datos o que no había patrones obvios en tus datos. 
+
+A medida que avances en el resto del programa, continuarás usando y revisando estos pasos para guiarte en tus tareas de análisis. ¡También aprenderás más sobre las diferentes herramientas que te pueden ayudar en el camino! 
+
+#### Accede al registro de aprendizaje
+
+Para usar la plantilla de este ítem del curso, haz clic en el enlace de abajo y selecciona «Usar plantilla».
+
+Enlace a la plantilla de registro de aprendizaje: 
+[Reflexiona sobre el proceso de análisis de datos](https://docs.google.com/document/d/1YuBRYCWtkAAWoRkvK5exHeld50CpTUMoyf63agTc0v0/template/preview)
+
+O
+
+Si no tienes una cuenta de Google, puedes descargar la plantilla directamente desde el siguiente archivo adjunto.
+
+#### Reflexión 
+
+En tu registro de aprendizaje, escribe 2 o 3 oraciones (40 a 60 palabras) que reflejen el proceso de análisis de datos y tus experiencias hasta ahora respondiendo a cada una de las siguientes preguntas:
+
+¿Qué parte(s) del proceso de análisis de datos te ha(n) gustado más? ¿Qué te ha gustado? 
+
+¿Cuáles fueron algunas de las ideas clave que aprendiste en este curso?
+
+¿Hay conceptos o partes del contenido sobre los que te gustaría aprender más? Si es así, ¿cuáles son? ¿Qué próximo curso crees que te enseñará más sobre esta área?
+
+Ahora que has adquirido experiencia en el análisis de datos, ¿qué opinas acerca de convertirte en analista de datos? ¿Han cambiado tus sentimientos desde que empezaste este curso? Si es así, ¿cómo?
+
+Cuando hayas terminado la entrada en la plantilla de registro de aprendizaje, asegúrate de guardar el documento para que se pueda acceder a tu respuesta en algún lugar. Esto te ayudará a seguir aplicando el análisis de datos a tu vida cotidiana. También podrás realizar un seguimiento de tu avance y crecimiento como analista de datos.
+
 ### Registro de aprendizaje: Reflexionar sobre el proceso de analisis de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+¿Qué industria es?
+
+Selecciona la industria que coincide con el ejemplo de cómo un analista utiliza los datos.
+
+1. Usa los datos geográficos para potenciar la tecnología GPS en automóviles. 
+
+    - Tecnología.
+    
+      ✅ Correcto. Tecnología depende del software y hardware para funcionar.
+  
+    - Finanzas.
+    
+      ❌ Incorrecto. 
+
+    - cuidado de la salud.
+    
+      ❌ Incorrecto. 
+
+    - Gobierno.
+    
+      ❌ Incorrecto. 
 
 
+2. Usa los datos geográficos para potenciar la tecnología GPS en automóviles. 
 
+    - Tecnología.
+    
+      ✅ Correcto. Tecnología depende del software y hardware para funcionar.
+  
+    - Finanzas.
+    
+      ❌ Incorrecto. 
 
+    - cuidado de la salud.
+    
+      ❌ Incorrecto. 
+
+    - Gobierno.
+    
+      ❌ Incorrecto. 
 
 
 
