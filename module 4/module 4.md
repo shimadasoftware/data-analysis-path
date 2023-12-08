@@ -945,125 +945,196 @@ album_id = 277;
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Tu caja de herramientas de análisis de datos se está llenando. Aprender tanto sobre las hojas de cálculo como sobre SQL te llevará lejos en el mundo del análisis de datos. Hay más que aprender, por supuesto, y muchas más herramientas que podrás usar, pero tu futuro se ve brillante. Y está a punto de verse aún más brillante porque estamos aquí para hablar más sobre la visualización de datos. Te contaré un poco más sobre el papel de las herramientas de visualización de datos y el análisis de datos y te daré la oportunidad de ver esas herramientas en acción más adelante en este video. Quizás recuerdes que la visualización de datos es la representación gráfica de cierta información. Para muchos analistas de datos, es la parte más emocionante de su trabajo porque ven que su esfuerzo se ve recompensado con algo interesante. Sin mencionar que la visualización de datos es hermosa y útil. Me quedé anonadado cuando llegué a Google y comencé a recibir un informe de datos trimestral en mi correo electrónico y tenía una gran plataforma de diapositivas donde la gente contribuía con sus visualizaciones. Definitivamente fue una luz en el camino cuando comencé a generar mis propias visualizaciones. Si no te impresiona mi historia, déjame contarte sobre Florence Nightingale. ¿Te suena ese nombre? Es responsable de gran parte de la filosofía de la enfermería moderna y, lo creas o no, también fue analista de datos. Durante la Guerra de Crimea, en la década de 1850, miles de soldados morían todos los días, Nightingale quería encontrar una manera de reducir la cantidad de muertes. Después de examinar los datos, descubrió que la mayoría de los soldados morían a causa de afecciones evitables. Para convencer a los administradores del hospital de que debían concentrarse en estas afecciones, creó un gráfico que mostraba la cantidad de muertes durante varios meses. Las secciones azules mucho más grandes en la visualización representan las muertes evitables. Su trabajo condujo directamente a cambios importantes en la atención al paciente. Ella hizo todo esto hace más de 150 años sin una computadora. Una de las principales razones por las que Nightingale creó esta visualización fue para que los datos fueran más fáciles de entender para su audiencia. Sintió que tendría más éxito en convencer a los interesados utilizando imágenes en lugar de solo palabras y números. Tenía razón. Las tablas llenas de datos, si bien son necesarias para el análisis, simplemente no pueden mostrar tendencias y patrones tan rápida y claramente como las visualizaciones. Imagínate que recibes una tarea que debe completarse el mismo día. Si recopilas los datos que necesitas en una tabla, ¿podrías explicar resultados usando la tabla? Sí, probablemente podrías, pero una mejor idea sería utilizar una visualización como este gráfico de barras. Algo como esto hace que sea mucho más fácil para ti explicarlo rápidamente, y tienes el beneficio de un gráfico genial para respaldar tu análisis. Como analista de datos, te conviene crear visualizaciones que hagan que los datos sean fáciles de entender e interesantes de ver, así que lúcete. Es posible que los interesados no tengan mucho tiempo para dedicarle a los datos. Tu trabajo será hacer que su tiempo valga la pena. Volvamos a la tabla de datos que creamos anteriormente en el curso. Si has creado la tuya para practicar, puedes abrirla ahora o probarla más tarde. Estos son los datos que agregamos antes. Vamos a crear una visualización de los datos insertando un gráfico, un gráfico de barras. Puedes ver que la hoja de cálculo visualizó los datos de nuestra tabla de la manera que tenía más sentido. Creó un gráfico de barras o un gráfico de columnas para comparar las edades de cada persona por nombre, pero es posible que ya lo hayas descubierto. Esa es la belleza de la visualización: muestra el análisis de datos de manera rápida y clara. Podemos usar el editor de gráficos para ajustarlo. Los diferentes programas de hojas de cálculo pueden tener diferentes formas de hacer esto, pero todos tienen funciones de visualización y maneras de editar esas visualizaciones. Por ahora, echemos un vistazo a los gráficos sugeridos. Podemos hacer que las barras vayan horizontalmente usando un gráfico de barras. Eso se ve muy bien, así que vamos a cerrar el editor de gráficos. Hay muchas opciones que tener en cuenta, pero lo mantendremos a un nivel básico por ahora. Siéntete libre de probar otras visualizaciones si practicas más tarde. Ahora, podemos ajustar nuestro gráfico para que toda nuestra hoja de cálculo se vea limpia y profesional. ¡Excelente! Espero que aprendas a amar las visualizaciones de datos tanto como yo. Tal vez te conviertas en un pionero de la visualización de datos, al igual que Florence Nightingale. Como analista de datos novato, empezaste a llenar tu cinturón de trabajo con herramientas valiosas que utilizarás durante el resto del programa. Tener conocimientos sobre hojas de cálculo, SQL y visualización de datos te ayudará a convertirte en un detective de datos excelente. Podrás utilizar estas herramientas durante todo el proceso de análisis de datos a medida que avances. A continuación, completa algunas actividades para concluir esta parte del programa. También completarás una evaluación para verificar tu comprensión de todo lo que aprendiste. Esta es una gran oportunidad para pensar en algunas de las áreas que continuarás explorando en este curso y en tu carrera. Como siempre, eres libre de revisar los videos y los textos para ayudarte a recordar ciertos temas e ideas, incluso si ya te sientes preparado. Estás a solo unos pasos del próximo curso; eso es un gran progreso. Sigue así.
+Tu caja de herramientas de análisis de datos se está llenando. Aprender tanto sobre las hojas de cálculo como sobre SQL te llevará lejos en el mundo del análisis de datos. Hay más que aprender, por supuesto, y muchas más herramientas que podrás usar, pero tu futuro se ve brillante. Y está a punto de verse aún más brillante porque estamos aquí para hablar más sobre la visualización de datos. Te contaré un poco más sobre el papel de las herramientas de visualización de datos y el análisis de datos y te daré la oportunidad de ver esas herramientas en acción más adelante en este video. Quizás recuerdes que la visualización de datos es la representación gráfica de cierta información. Para muchos analistas de datos, es la parte más emocionante de su trabajo porque ven que su esfuerzo se ve recompensado con algo interesante. Sin mencionar que la visualización de datos es hermosa y útil. 
+
+Déjame contarte sobre Florence Nightingale. ¿Te suena ese nombre? Es responsable de gran parte de la filosofía de la enfermería moderna y, lo creas o no, también fue analista de datos. Durante la Guerra de Crimea, en la década de 1850, miles de soldados morían todos los días, Nightingale quería encontrar una manera de reducir la cantidad de muertes. Después de examinar los datos, descubrió que la mayoría de los soldados morían a causa de afecciones evitables. Para convencer a los administradores del hospital de que debían concentrarse en estas afecciones, creó un gráfico que mostraba la cantidad de muertes durante varios meses. Las secciones azules mucho más grandes en la visualización representan las muertes evitables. 
+
+Su trabajo condujo directamente a cambios importantes en la atención al paciente. Ella hizo todo esto hace más de 150 años sin una computadora. Una de las principales razones por las que Nightingale creó esta visualización fue para que los datos fueran más fáciles de entender para su audiencia. Sintió que tendría más éxito en convencer a los interesados utilizando imágenes en lugar de solo palabras y números. Tenía razón.
+
+Las tablas llenas de datos, si bien son necesarias para el análisis, simplemente no pueden mostrar tendencias y patrones tan rápida y claramente como las visualizaciones. Imagínate que recibes una tarea que debe completarse el mismo día. Si recopilas los datos que necesitas en una tabla, ¿podrías explicar resultados usando la tabla? 
+
+![image](./img/module%2004%20img%2030.png)
+
+Sí, probablemente podrías, pero una mejor idea sería utilizar una visualización como este gráfico de barras. Algo como esto hace que sea mucho más fácil para ti explicarlo rápidamente, y tienes el beneficio de un gráfico genial para respaldar tu análisis. Como analista de datos, te conviene crear visualizaciones que hagan que los datos sean fáciles de entender e interesantes de ver, así que lúcete. Es posible que los interesados no tengan mucho tiempo para dedicarle a los datos. Tu trabajo será hacer que su tiempo valga la pena. 
+
+![image](./img/module%2004%20img%2031.png)
+
+Volvamos a la tabla de datos que creamos anteriormente en el curso. Si has creado la tuya para practicar, puedes abrirla ahora o probarla más tarde. Estos son los datos que agregamos antes. Vamos a crear una visualización de los datos insertando un gráfico, un gráfico de barras. Puedes ver que la hoja de cálculo visualizó los datos de nuestra tabla de la manera que tenía más sentido. Creó un gráfico de barras o un gráfico de columnas para comparar las edades de cada persona por nombre, pero es posible que ya lo hayas descubierto. 
+
+![image](./img/module%2004%20img%2032.png)
+
+Esa es la belleza de la visualización: muestra el análisis de datos de manera rápida y clara. Podemos usar el editor de gráficos para ajustarlo. Los diferentes programas de hojas de cálculo pueden tener diferentes formas de hacer esto, pero todos tienen funciones de visualización y maneras de editar esas visualizaciones. Por ahora, echemos un vistazo a los gráficos sugeridos. 
+
+![image](./img/module%2004%20img%2033.png)
+
+Podemos hacer que las barras vayan horizontalmente usando un gráfico de barras. Eso se ve muy bien, así que vamos a cerrar el editor de gráficos. Hay muchas opciones que tener en cuenta, pero lo mantendremos a un nivel básico por ahora. Siéntete libre de probar otras visualizaciones si practicas más tarde. Ahora, podemos ajustar nuestro gráfico para que toda nuestra hoja de cálculo se vea limpia y profesional. 
+
+![image](./img/module%2004%20img%2034.png)
+
+¡Excelente! Espero que aprendas a amar las visualizaciones de datos tanto como yo. Tal vez te conviertas en un pionero de la visualización de datos, al igual que Florence Nightingale. Como analista de datos novato, empezaste a llenar tu cinturón de trabajo con herramientas valiosas que utilizarás durante el resto del programa. Tener conocimientos sobre hojas de cálculo, SQL y visualización de datos te ayudará a convertirte en un detective de datos excelente. Podrás utilizar estas herramientas durante todo el proceso de análisis de datos a medida que avances. A continuación, completa algunas actividades para concluir esta parte del programa. También completarás una evaluación para verificar tu comprensión de todo lo que aprendiste. Esta es una gran oportunidad para pensar en algunas de las áreas que continuarás explorando en este curso y en tu carrera. Como siempre, eres libre de revisar los videos y los textos para ayudarte a recordar ciertos temas e ideas, incluso si ya te sientes preparado. Estás a solo unos pasos del próximo curso; eso es un gran progreso. Sigue así.
+
+![image](./img/module%2004%20img%2035.png)
 
 ### Planificar una visualizacion de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-### Lilah: El poder de una visualizacion 🎬
+Antes, aprendiste que la **visualización de datos es la representación gráfica de la información**. Como analista de datos, te interesará crear visualizaciones que hagan que tus datos sean fáciles de entender e interesantes para observar. Debido a la importancia de la visualización de datos, la mayoría de las herramientas de análisis de datos (como hojas de cálculo y bases de datos) tienen un componente de visualización integrado, mientras que otras (como Tableau) se especializan en la visualización como su principal valor agregado. En esta lectura, explorarás los pasos que implica el proceso de visualización de datos y algunas de las herramientas de visualización de datos más comunes disponibles. 
+
+#### Pasos para planificar una visualización de datos
+
+Veamos un ejemplo de una situación de la vida real en la que un analista de datos podría necesitar crear una visualización de datos para compartir con los interesados. Imagina que eres un analista de datos que trabaja para un distribuidor de ropa. La compañía ayuda a las pequeñas tiendas de ropa a administrar su inventario, y las ventas están en auge. Un día, te enteras de que tu compañía se está preparando para hacer una actualización importante en su sitio web. Para guiar las decisiones relativas a la actualización del sitio web, se te pide que analices los datos del sitio web existente y de los registros de ventas. Revisemos los pasos que deberías seguir. 
+
+- **Paso 1: Explora los datos en busca de patrones**
+
+Primero, le pides a tu gerente o al propietario de los datos acceso a los registros de ventas actuales y a los informes de análisis del sitio web. Esto incluye información sobre cómo se comportan los clientes en el sitio web existente de la compañía; es decir, información básica sobre quiénes lo visitaron, quiénes compraron en la compañía y cuánto compraron.
+
+Mientras revisas los datos, observas un patrón entre las personas que visitan el sitio web de la empresa con mayor frecuencia: la geografía y mayores cantidades de dinero invertido en compras. Si se realiza un análisis más detallado, esta información podría explicar por qué las ventas son tan fuertes en este momento en el noreste y ayudar a tu compañía a encontrar nuevas formas de continuar mejorándolas a través del nuevo sitio web. 
+
+- **Paso 2: Planifica tus imágenes**
+
+A continuación, llegó la hora de refinar los datos y presentar los resultados de tu análisis. En este momento, tienes muchos datos distribuidos en varias tablas, y esta no es la mejor manera de compartir tus resultados con la administración y el equipo de Marketing. Probablemente, te interesará crear una visualización de datos que explique los resultados a tu público objetivo de una forma rápida y efectiva. Como sabes que tu público está orientado a las ventas, eres consciente de que la visualización de datos que uses debería tener estas características:
+
+- Mostrar números de ventas a lo largo del tiempo
+
+- Conectar las ventas con la ubicación
+
+- Mostrar la relación entre las ventas y el uso del sitio web
+
+- Mostrar qué clientes impulsan el crecimiento
+
+- **Paso 3: Crea tus imágenes**
+
+Como ya decidiste qué tipo de información y perspectivas deseas mostrar, es hora de empezar a crear las visualizaciones reales. Ten en cuenta que crear la visualización correcta para una presentación o para compartir con los interesados es un proceso. Este proceso consiste en probar diferentes formatos de visualización y hacer ajustes hasta conseguir lo que estás buscando. En este caso, una combinación de diferentes imágenes comunicará mejor tus resultados y convertirá tu análisis en una historia más atractiva para los interesados. Por lo tanto, puedes usar las capacidades de diagrama que están incorporadas en tus hojas de cálculo para organizar los datos y crear imágenes.
+
+![image](./img/module%2004%20img%2036.png)
+
+1) los gráficos de líneas pueden rastrear las ventas a lo largo del tiempo;
+2) los mapas pueden conectar las ventas con las ubicaciones;
+3) los gráficos de donas pueden mostrar segmentos de clientes, y
+4) los gráficos de barras pueden comparar el total de visitantes que realizan una compra.
+
+##### Crea tu kit de herramientas de visualización de datos
+
+Hay muchas herramientas que puedes usar en la visualización de datos. 
+
+- Puedes usar las herramientas de visualización de tu hoja de cálculo para crear visualizaciones simples, como gráficos de líneas y barras.
+
+- Puedes usar herramientas más avanzadas, como Tableau, que te permiten integrar datos en visualizaciones de estilo de panel. 
+
+- Si estás trabajando con el lenguaje de programación R, puedes usar las herramientas de visualización en RStudio.
+
+Tu elección de visualización dependerá de varios factores, incluidos el tamaño de tus datos y el proceso que usaste para analizarlos (hoja de cálculo, bases de datos/consultas o lenguajes de programación). Por ahora, solo considera los conceptos básicos. 
+
+#### Hojas de cálculo (Microsoft Excel o Google Sheets)
+
+En nuestro ejemplo, los diagramas y gráficos integrados en las hojas de cálculo facilitaron y aceleraron el proceso de creación de imágenes. Las hojas de cálculo son excelentes para crear visualizaciones simples, como gráficos de barras y de torta, e incluso proporcionan algunas visualizaciones avanzadas, como mapas y diagramas de cascada y embudo (que se muestran en las siguientes figuras).
+
+Pero, a veces, necesitas una herramienta más poderosa para darles realmente vida a tus datos. Tableau y RStudio son dos ejemplos de plataformas muy usadas que pueden ayudarte a planificar, crear y presentar visualizaciones de datos efectivas y atractivas.
+
+#### Software de visualización (Tableau)
+
+Tableau es una herramienta de visualización de datos popular que te permite extraer datos de casi cualquier sistema y convertirlos en imágenes atractivas o información procesable. La plataforma ofrece las mejores prácticas visuales integradas, lo que hace que analizar y compartir datos sea más rápido, fácil y (lo más importante) útil. Tableau funciona bien con una amplia variedad de datos, e incluye un panel interactivo que les permite tanto a ti como a tus interesados hacer clic para explorar los datos de forma interactiva. 
+
+Puedes comenzar a explorar Tableau en los recursos de [Video instructivo](https://public.tableau.com/app/learn/how-to-videos). Tableau Public es gratuito, fácil de usar y contiene mucha información útil. La página Recursos es una ventanilla única para videos instructivos, ejemplos y conjuntos de datos con los cuales puedes practicar. Si deseas ver lo que otros analistas de datos comparten en Tableau, visita la página [Visualización del día](https://public.tableau.com/app/discover/viz-of-the-day), donde encontrarás hermosas imágenes que varían desde la [Búsqueda de planetas (habitables)](https://public.tableau.com/app/profile/kimly.scott/viz/Arewealone/AreWeAlone) hasta [Quién habla en películas populares](https://public.tableau.com/app/profile/bo.mccready8742/viz/WordDataWorking/WhoIsTalking).
+
+#### Lenguaje de programación (R con RStudio)
+
+Muchos analistas de datos trabajan con un lenguaje de programación llamado R. La mayoría de las personas que trabajan con R también terminan usando RStudio, un entorno de desarrollo integrado (IDE), para satisfacer sus necesidades de visualización de datos. Al igual que con Tableau, puedes crear visualizaciones de datos de estilo panel con RStudio.
+
+Visita su sitio webpara obtener más información sobre [RStudio](https://posit.co/).
+
+Seguramente, pasarías días explorando todos los recursos que se proporcionan en RStudio.com, pero las [Hojas de referencia de RStudio](https://posit.co/resources/cheatsheets/) y la [Guía de iniciación a la visualización de datos de RStudio](https://posit.cloud/learn/primers/3) son excelentes lugares para empezar. Cuando tengas más tiempo, consulta los videos y seminarios web que ofrecen consejos y perspectivas útiles para usuarios principiantes y avanzados.
+
+#### Conclusión clave
+
+Los mejores analistas de datos usan una gran variedad de herramientas y métodos para visualizar y compartir sus datos. A medida que vayas aprendiendo más sobre la visualización de datos durante este curso, mantén la curiosidad, investiga diferentes opciones y prueba continuamente nuevos programas y plataformas que te ayuden a aprovechar tus datos al máximo. 
+
+### El poder de una visualizacion 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Visualizaciones de datos, una expresión larga que también puede hacer que tus ojos se irriten. Pero me pregunto si, cuando eras pequeño y estabas con tus padres, tal vez tenías una rutina para ir a dormir o, si tienes hijos, quizás tengas una rutina para que ellos se vayan a dormir. Sería muy raro que te acerques a esos niños con un montón de hechos y cifras antes de que se vayan a la cama. Pero apuesto que probablemente les estás contando una historia, les estás mostrando fotos. Sé que siempre me han gustado los cómics; las imágenes cuentan una historia. 
+
+Las visualizaciones de datos son imágenes, son una manera maravillosa de tomar ideas muy básicas sobre datos y puntos de datos y hacer que cobren vida. 
+
+Puedes hacer diferentes tipos de combinaciones de visualizaciones, pero las que son interactivas, vaya, son espectaculares. ¿Te imaginas ser ejecutivo de una organización y tratar de decidir si abres otro centro en Bangkok? ¿Tiene sentido? Ser capaces de decir que sabemos la razón por la que nos sirve tener excelentes visualizaciones de datos: para respaldar todos nuestros puntos de vista; es una obviedad. Curiosamente, recuerdo la primera vez que me encontré con una visualización superasombrosa; fue en mi vida personal. Cambié mi software de presupuestos de un proveedor a otro, y el proveedor al que cambié estaba realmente enfocado en que cada dólar contara y en asegurarse de que estuviera presupuestando cada dólar. Había visualizaciones que cambiaban según qué datos agregabas, y realmente cambió toda mi perspectiva, por completo. Entonces, tener los datos es como tener la hoja de respuestas de un examen; realmente te permite saber que vas a tomar buenas decisiones porque estás respaldado por los datos.
 
 ### Visualizaciones en la vida diaria 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Visualizaciones de datos, una expresión larga que también puede hacer que tus ojos se irriten. Pero me pregunto si, cuando eras pequeño y estabas con tus padres, tal vez tenías una rutina para ir a dormir o, si tienes hijos, quizás tengas una rutina para que ellos se vayan a dormir. Sería muy raro que te acerques a esos niños con un montón de hechos y cifras antes de que se vayan a la cama. Pero apuesto que probablemente les estás contando una historia, les estás mostrando fotos. Sé que siempre me han gustado los cómics; las imágenes cuentan una historia. Las visualizaciones de datos son imágenes, son una manera maravillosa de tomar ideas muy básicas sobre datos y puntos de datos y hacer que cobren vida. Puedes hacer diferentes tipos de combinaciones de visualizaciones, pero las que son interactivas, vaya, son espectaculares. ¿Te imaginas ser ejecutivo de una organización y tratar de decidir si abres otro centro en Bangkok? ¿Tiene sentido? Ser capaces de decir que sabemos la razón por la que nos sirve tener excelentes visualizaciones de datos: para respaldar todos nuestros puntos de vista; es una obviedad. Curiosamente, recuerdo la primera vez que me encontré con una visualización superasombrosa; fue en mi vida personal. Cambié mi software de presupuestos de un proveedor a otro, y el proveedor al que cambié estaba realmente enfocado en que cada dólar contara y en asegurarse de que estuviera presupuestando cada dólar. Había visualizaciones que cambiaban según qué datos agregabas, y realmente cambió toda mi perspectiva, por completo. Entonces, tener los datos es como tener la hoja de respuestas de un examen; realmente te permite saber que vas a tomar buenas decisiones porque estás respaldado por los datos.
+La visualización de datos hace que los datos sean más fáciles de entender y revela patrones y tendencias. Ahora es el momento de aplicar estos conocimientos en tu vida diaria. Si lo haces, será más fácil para ti que pienses como un analista de datos.
+
+Para este tema de debate, ten en cuenta lo siguiente:
+
+¿Qué datos usas todos los días? ¿Cómo se presentan esos datos? Por ejemplo, si viajas en tren de mañana y de noche, el horario de tránsito y el mapa del tren constituyen visualizaciones de datos que usas todos los días.
+
+Antes de empezar este programa, ¿qué pensabas de la visualización de datos? ¿Qué significaba para ti? ¿Qué piensas de la visualización de datos en la actualidad?
+
+Envía dos párrafos más (de 100 a 200 palabras en total).
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-- Pon a prueba tus conocimientos sobre la visualizacion de datos (3 preguntas)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Pon a prueba tus conocimientos sobre la visualizacion de datos (3 preguntas)
+
+1. Completa el espacio en blanco: Una visualización de datos es la representación _____ de la información.
+
+    - atribuida.
+    
+      ❌ Incorrecto.
+  
+    - gráfica.
+    
+      ✅ Correcto. Una visualización de datos es la representación gráfica de la información.
+    
+    - contextual.
+    
+      ❌ Incorrecto.
+      
+    - tabulada.
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuándo un gráfico circular sería una visualización efectiva?
+
+    - Al mostrar la relación entre la edad y los ingresos.
+    
+      ❌ Incorrecto.
+  
+    - Al mostrar las edades de los hombres frente a las mujeres.
+    
+      ❌ Incorrecto.
+    
+    - Al mostrar una clase desglosada por edad.
+    
+      ✅ Correcto. Un gráfico circular muestra cómo un todo se divide en partes y es una visualización efectiva para una clase desglosada por edad.
+      
+    - Al mostrar un cambio en la edad de alguien a lo largo del tiempo.
+    
+      ❌ Incorrecto.
+
+
+3. ¿Cuáles son los beneficios clave de las visualizaciones de datos? Selecciona todas las opciones correctas.
+
+    - Pueden garantizar que recibas menos preguntas sobre tu análisis.
+    
+      ❌ Incorrecto.
+  
+    - Pueden ayudar a los interesados a comprender los datos complejos más rápidamente.
+    
+      ✅ Correcto. Las visualizaciones de datos pueden demostrar claramente patrones y tendencias, ayudar a los interesados a comprender los datos complejos más rápidamente e ilustrar las relaciones entre los puntos de datos.
+    
+    - Pueden ilustrar las relaciones entre los puntos de datos.
+    
+      ✅ Correcto. Las visualizaciones de datos pueden demostrar claramente patrones y tendencias, ayudar a los interesados a comprender los datos complejos más rápidamente e ilustrar las relaciones entre los puntos de datos.
+      
+    - Pueden demostrar claramente patrones y tendencias.
+    
+      ✅ Correcto. Las visualizaciones de datos pueden demostrar claramente patrones y tendencias, ayudar a los interesados a comprender los datos complejos más rápidamente e ilustrar las relaciones entre los puntos de datos.
 
 ---
 
@@ -1073,3 +1144,441 @@ Visualizaciones de datos, una expresión larga que también puede hacer que tus 
 
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 4 (Quiz - 8 questions)
+
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Análisis (computacional) de datos: La ciencia de los datos
+
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Análisis de déficits: Un método para examinar y evaluar el estado actual de un proceso con el fin de identificar las oportunidades de mejora en el futuro
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada
+
+- Atributo: Característica o calidad de los datos que se usa para etiquetar una columna en una tabla
+
+B
+
+- Base de datos: Recopilación de datos almacenados en un sistema informático
+
+C
+
+- Causa raíz: La razón por la que ocurre un problema
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad
+
+- Consulta: Solicitud de datos o información de una base de datos
+
+- Contexto: La condición en la que algo existe o sucede
+
+D
+
+- Datos: Una colección de hechos
+
+- Destrezas analíticas: Cualidades y características asociadas al uso de hechos para resolver problemas
+
+- Diseño de datos: Cómo se organiza la información
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos
+
+- Estrategia de datos: La gestión de las personas, los procesos y las herramientas que se usan en el análisis de datos
+
+F
+
+- Fórmula: Conjunto de instrucciones que se utilizan para realizar un cálculo al utilizar los datos de una hoja de cálculo
+
+- Función: Un comando preestablecido que realiza automáticamente un proceso o tarea especificado al utilizar los datos de una hoja de cálculo
+
+G
+H
+I
+J
+K
+
+L
+
+
+- Lenguaje de consulta: Lenguaje de programación informática utilizado para comunicarse con una base de datos
+
+- Los interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado
+
+M
+
+- Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica
+
+N
+O
+
+- Observación: Los atributos que describen una pieza de datos contenida en una fila de una tabla
+
+P
+
+- Pensamiento analítico: El proceso de identificar y definir un problema, para luego resolverlo mediante el uso de datos de manera organizada, paso a paso
+
+Q
+R
+S
+T
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial
+
+U
+V
+
+- Visualización de datos: La representación gráfica de los datos
+
+- Visualización: (Consulta la visualización de datos)
+
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+Desafio semanal 4
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+![image](./img/module%2004%20img%2037.png)
+
+1. En la fila 1 de la siguiente hoja de cálculo, ¿cómo se denominan las palabras rango, nombre, población y condado? 
+
+    - Atributos.
+    
+      ✅ Correcto. Estas palabras son atributos, que hacen referencia a la información de las columnas siguientes. En una tabla, un atributo es una característica o cualidad de los datos utilizados para etiquetar una columna. 
+  
+    - Características.
+    
+      ❌ Incorrecto. 
+
+    - Criterios.
+    
+      ❌ Incorrecto. 
+
+    - Descriptores.
+    
+      ❌ Incorrecto. 
+
+
+![image](./img/module%2004%20img%2037.png)
+
+2. En la siguiente hoja de cálculo, ¿dónde puedes encontrar todos los atributos —también conocidos como observación— de Fayetteville? 
+
+    - Fila 7.
+    
+      ✅ Correcto. La observación de Fayetteville está en la fila 7. Una observación son todos los atributos de algo contenido en una fila de una tabla de datos. 
+  
+    - Celda B7.
+    
+      ❌ Incorrecto. 
+
+    - Columna B.
+    
+      ❌ Incorrecto. 
+
+    - Fila 6.
+  
+      ❌ Incorrecto. 
+
+
+![image](./img/module%2004%20img%2037.png)
+
+3. Si un analista de datos desea enumerar las ciudades de esta hoja de cálculo alfabéticamente, en lugar de numéricamente, ¿qué función puede utilizar en la columna B?
+
+    - Rango aleatorio.
+    
+      ❌ Incorrecto. 
+  
+    - Rango de organización.
+    
+      ❌ Incorrecto. 
+
+    - Rango de clasificación.
+    
+      ✅ Correcto. El rango de clasificación se usaría para ordenar alfabéticamente los nombres de las ciudades en la columna B. Ordenar un rango de datos de la A a la Z ayuda a los analistas de datos a organizar y encontrar los datos más rápidamente.
+
+    - Rango de nombres.
+    
+      ❌ Incorrecto. 
+
+    
+![image](./img/module%2004%20img%2037.png)
+
+4. Para encontrar la población promedio de las ciudades en esta hoja de cálculo, ¿cuál es la sintaxis correcta de la función AVERAGE?
+
+    - AVERAGE(C2-C11).
+    
+      ❌ Incorrecto. 
+  
+    - AVERAGE(C2:C11).
+    
+      ❌ Incorrecto. 
+
+    - =AVERAGE(C2-C11).
+    
+      ❌ Incorrecto. 
+
+    - =AVERAGE(C2:C11).
+
+      ✅ Correcto. La sintaxis correcta para la función AVERAGE es la siguiente: =AVERAGE(C2:C11).Cuando usas la función AVERAGE, obtienes el promedio de los valores incluidos en un rango seleccionado. C2:C11 es el rango especificado.
+
+
+```
+SELECT
+*
+FROM
+genre;
+```
+
+```
++----------+--------------------+
+| genre_id | name               |
++----------+--------------------+
+|        1 | Rock               |
+|        2 | Jazz               |
+|        3 | Metal              |
+|        4 | Alternative & Punk |
+|        5 | Rock And Roll      |
+|        6 | Blues              |
+|        7 | Latin              |
+|        8 | Reggae             |
+|        9 | Pop                |
+|       10 | Soundtrack         |
+|       11 | Bossa Nova         |
+|       12 | Easy Listening     |
+|       13 | Heavy Metal        |
+|       14 | R&B/Soul           |
+|       15 | Electronica/Dance  |
+|       16 | World              |
+|       17 | Hip Hop/Rap        |
+|       18 | Science Fiction    |
+|       19 | TV Shows           |
+|       20 | Sci Fi & Fantasy   |
+|       21 | Drama              |
+|       22 | Comedy             |
+|       23 | Alternative        |
+|       24 | Classical          |
+|       25 | Opera              |
++----------+--------------------+
+```
+
+5. Estás trabajando con una tabla (base de datos) denominada genre que contiene datos sobre géneros musicales. Quieres revisar todas las columnas de la tabla. Escribes la consulta en SQL a continuación. Agrega una cláusula FROM que recupere los datos de la tabla genre. ¿Cuál es el género del álbum con número de ID 3? 
+
+    - Blues.
+    
+      ❌ Incorrecto.
+  
+    - Metal.
+    
+      ✅ Correcto. La cláusula FROM genre recuperará los datos de la tabla genre. La consulta completa es SELECT * FROM genre. La cláusula FROM especifica qué tabla de la base de datos hay que consultar. El género del álbum con número de ID 3 es Metal.
+
+    - Rock.
+    
+      ❌ Incorrecto. 
+
+    - Jazz.
+
+      ❌ Incorrecto.   
+
+
+```
+SELECT
+*
+FROM
+invoice
+WHERE
+customer_id = 54;
+```
+
+```
++------------+-------------+---------------------+-----------------+--------------+---------------+-----------------+---------------------+-------+
+| invoice_id | customer_id | invoice_date        | billing_address | billing_city | billing_state | billing_country | billing_postal_code | total |
++------------+-------------+---------------------+-----------------+--------------+---------------+-----------------+---------------------+-------+
+|         20 |          54 | 2009-03-22 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  0.99 |
+|        141 |          54 | 2010-09-13 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  1.98 |
+|        152 |          54 | 2010-10-24 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             | 13.86 |
+|        207 |          54 | 2011-06-24 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  8.91 |
+|        336 |          54 | 2013-01-28 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  1.98 |
+|        359 |          54 | 2013-05-02 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  3.96 |
+|        381 |          54 | 2013-08-04 00:00:00 | 110 Raeburn Pl  | Edinburgh    |          None | United Kingdom  | EH4 1HH             |  5.94 |
++------------+-------------+---------------------+-----------------+--------------+---------------+-----------------+---------------------+-------+
+```
+
+6. ¿Cuál es la dirección de facturación del cliente con el número de ID 54?
+
+    - 110 Raeburn Pl. 
+    
+      ✅ Correcto. La cláusula WHERE customer_id = 54 solo te mostrará los datos del cliente con el número de ID 54. La consulta completa es SELECT * FROM invoice WHERE customer_id = 54. La cláusula WHERE filtra los resultados que cumplen con ciertas condiciones. La cláusula WHERE incluye el nombre de la columna, un signo de igual y el valor o los valores a incluir en la columna. La dirección de facturación del cliente con el número de ID 54 es 110 Raeburn Pl. 
+  
+    - 1033 N Park Ave.
+    
+      ❌ Incorrecto. 
+
+    - 801 W 4th St.
+    
+      ❌ Incorrecto. 
+
+    - 230 Elgin St.    
+
+      ❌ Incorrecto. 
+
+
+7. Completa el espacio en blanco: Un analista de datos crea una tabla, pero se da cuenta de que no es la mejor visualización para sus datos. Para solucionar el problema, deciden usar la función _____ para cambiarlo a un gráfico de columnas. 
+
+    - editor de gráficos.
+    
+      ✅ Correcto. El editor de gráficos permite a los analistas de datos elegir el tipo de gráfico que va a crear y personalizar su aspecto.
+  
+    - vista del filtro.
+    
+      ❌ Incorrecto. 
+
+    - imagen.
+    
+      ❌ Incorrecto. 
+
+    - renombrar.    
+    
+      ❌ Incorrecto. 
+
+
+![image](./img/module%2004%20img%2038.png)
+
+8. Un analista de datos quiere demostrar cómo aumentó la población de Charlotte con el tiempo. Crean el gráfico que aparece a continuación. ¿Cómo se llama este tipo de gráfico? 
+
+    - Gráfico de áreas.
+    
+      ❌ Incorrecto. 
+  
+    - Gráfico de columnas.
+    
+      ❌ Incorrecto. 
+
+    - Gráfico de líneas.
+    
+      ✅ Correcto. Se trata de un gráfico de líneas. Los gráficos de líneas son eficaces para demostrar tendencias y patrones, por ejemplo, cómo cambia la población a lo largo del tiempo. 
+
+    - Gráfico de barras.    
+    
+      ❌ Incorrecto.
+
+
+![image](./img/module%2004%20img%2037.png)
+
+9. Para encontrar la población promedio de las ciudades en esta hoja de cálculo, escribe =AVERAGE. ¿Cuál es la forma correcta de escribir el rango que completará tu función? 
+
+    - C2-C11.
+    
+      ❌ Incorrecto. 
+  
+    - C2*C11.
+    
+      ❌ Incorrecto. 
+
+    - C2,C11.
+    
+      ❌ Incorrecto. 
+
+    - C2:C11.    
+    
+      ✅ Correcto. El rango es C2:C11. La sintaxis completa para la función AVERAGE es la siguiente: =AVERAGE(C2:C11).Cuando usas la función AVERAGE, obtienes el promedio de los valores incluidos en un rango seleccionado. C2:C11 es el rango especificado.
+
+
+![image](./img/module%2004%20img%2038.png)
+
+10. Un analista de datos crea la siguiente visualización para demostrar claramente cuánto más poblada es Charlotte que la siguiente ciudad más grande de Carolina del Norte, Raleigh. ¿Qué tipo de gráfico es?
+
+    - Un gráfico de líneas.
+    
+      ❌ Incorrecto. 
+  
+    - Un gráfico de columnas o barras.
+    
+      ✅ Correcto. El gráfico es un gráfico de columnas. Un gráfico de columnas es eficaz para demostrar las diferencias entre varios elementos de un rango de valores específico. 
+
+    - Un gráfico circular.
+    
+      ❌ Incorrecto. 
+
+    - Un gráfico de dispersión.    
+    
+      ❌ Incorrecto.
+
+
+11. Un analista de datos quiere demostrar una tendencia de cómo ha cambiado algo a lo largo del tiempo. ¿Qué tipo de gráfico es el mejor para esta tarea?
+
+    - Área.
+    
+      ❌ Incorrecto. 
+  
+    - Líneas.
+    
+      ✅ Correcto. Los gráficos de líneas son eficaces para ilustrar tendencias y patrones, por ejemplo, cómo cambia algo a lo largo del tiempo.
+
+    - Columna.
+    
+      ❌ Incorrecto. 
+
+    - Barras.    
+    
+      ❌ Incorrecto.
+
+
+```
+SELECT
+*
+FROM
+playlist;
+```
+
+```
++-------------+----------------------------+
+| playlist_id | name                       |
++-------------+----------------------------+
+|           1 | Music                      |
+|           2 | Movies                     |
+|           3 | TV Shows                   |
+|           4 | Audiobooks                 |
+|           5 | 90’s Music                 |
+|           6 | Audiobooks                 |
+|           7 | Movies                     |
+|           8 | Music                      |
+|           9 | Music Videos               |
+|          10 | TV Shows                   |
+|          11 | Brazilian Music            |
+|          12 | Classical                  |
+|          13 | Classical 101 - Deep Cuts  |
+|          14 | Classical 101 - Next Steps |
+|          15 | Classical 101 - The Basics |
+|          16 | Grunge                     |
+|          17 | Heavy Metal Classic        |
+|          18 | On-The-Go 1                |
++-------------+----------------------------+
+```
+
+12. ¿Cuál es la lista de reproducción con el número de ID 3? 
+
+    - Audiolibros.
+    
+      ❌ Incorrecto. 
+  
+    - Música.
+    
+      ❌ Incorrecto. 
+
+    - Películas.
+    
+      ❌ Incorrecto. 
+
+    - Programas de TV.    
+    
+      ✅ Correcto. La cláusula FROM playlist recuperará datos de la tabla playlist. La consulta completa es SELECT * FROM playlist. La cláusula FROM especifica de qué tabla de la base de datos seleccionar los datos. La lista de reproducción con el número de ID 3 se denomina Programas de TV. 
