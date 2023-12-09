@@ -833,7 +833,268 @@ Desafio semanal 5
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+1. Una revista de jardinería en línea quiere entender por qué su cantidad de suscriptores ha ido en aumento. ¿Qué tipo de informes puede proporcionar un analista de datos para ayudar a responder esa pregunta? Selecciona todas las opciones correctas.
 
+    - Informes que describen cuántos clientes compartieron comentarios positivos sobre la revista de jardinería en las redes sociales en el último año.
+    
+      ✅ Correcto. El análisis de datos históricos, como patrones climáticos, comentarios en las redes sociales y ventas pasadas, proporcionaría información útil sobre el aumento en la cantidad de suscripciones. 
+  
+    - Informes que examinan cómo una venta reciente con un 50% de descuento afectó la cantidad de compras de suscripciones.
+    
+      ✅ Correcto. El análisis de datos históricos, como patrones climáticos, comentarios en las redes sociales y ventas pasadas, proporcionaría información útil sobre el aumento en la cantidad de suscripciones. 
+
+    - Informes que comparan los patrones climáticos pasados con la cantidad de personas que hacen preguntas de jardinería en sus redes sociales.
+    
+      ✅ Correcto. El análisis de datos históricos, como patrones climáticos, comentarios en las redes sociales y ventas pasadas, proporcionaría información útil sobre el aumento en la cantidad de suscripciones. 
+
+    - Informes que predicen el éxito de las oportunidades de venta para asegurar futuros suscriptores.
+    
+      ❌ Incorrecto. 
+
+
+2. El consultorio de un médico ha descubierto que los pacientes esperan 20 minutos más para sus citas que en años anteriores. Un analista de datos podría ayudar a resolver este problema analizando cuántos médicos y enfermeras hay en el personal en un momento dado en comparación con la cantidad de pacientes con citas.
+
+    - Verdadero.
+    
+      ✅ Correcto. Analizar la dotación de personal y la cantidad de pacientes probablemente proporcionaría información útil sobre por qué los pacientes esperan más tiempo para sus citas y ayudaría a resolver este problema.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+   
+3. Describe la diferencia entre una pregunta y un problema en la analítica de datos.
+   
+    - Una pregunta puede tener muchas respuestas, mientras que un problema solo tiene una solución.
+    
+      ❌ Incorrecto. 
+  
+    - Una pregunta es un tema a investigar, mientras que un problema es un tema a investigar.
+    
+      ❌ Incorrecto. 
+
+    - Una pregunta está diseñada para descubrir información, mientras que un problema es un obstáculo o una complicación que necesita ser resuelto.
+    
+      ✅ Correcto. Una pregunta está diseñada para descubrir información, mientras que un problema es un obstáculo o una complicación que debe resolverse. Estas dos cosas son la base de las tareas empresariales.
+
+    - Una pregunta es incierta, mientras que un problema está claramente especificado.
+    
+      ❌ Incorrecto. 
+
+
+4. Completa el espacio en blanco: Una tarea empresarial se describe como el problema o _____ que un analista de datos resuelve para una empresa.
+
+    - solución.
+    
+      ❌ Incorrecto.
+  
+    - reclamo.
+    
+      ❌ Incorrecto. 
+
+    - pregunta.
+    
+      ✅ Correcto. Una tarea empresarial se describe como el problema o la pregunta que un analista de datos resuelve o responde para una empresa.
+
+    - comentario.
+    
+      ❌ Incorrecto. 
+
+
+5. ¿Cuál es el proceso de guiar la estrategia empresarial con hechos?
+
+    - Visualización de datos.
+    
+      ❌ Incorrecto.
+  
+    - Programación de datos.
+    
+      ❌ Incorrecto. 
+
+    - Tomar decisiones basándose en datos.
+    
+      ✅ Correcto. Tomar decisiones basándose en datos se define como el uso de hechos para guiar la estrategia empresarial.
+
+    - Ética de datos.
+    
+      ❌ Incorrecto. 
+
+
+6. Los analistas de datos se aseguran de que su análisis sea equitativo, ¿por qué motivo?
+
+    - La equidad les ayuda a evitar conclusiones sesgadas.
+    
+      ✅ Correcto. Los analistas de datos se aseguran de que su análisis sea equitativo para garantizar que su análisis no introduzca o refuerce el sesgo.
+  
+    - La equidad les ayuda a elegir qué datos incluir de un conjunto de datos.
+    
+      ❌ Incorrecto. 
+
+    - La equidad les ayuda a comunicarse con los interesados.
+    
+      ❌ Incorrecto. 
+
+    - La equidad les ayuda a mantenerse organizados.
+    
+      ❌ Incorrecto. 
+
+
+7. Un analista de datos está analizando las ventas de frutas y verduras en una tienda de comestibles. Son capaces de encontrar datos de todo, excepto de las cebollas moradas. ¿Cuál es la mejor acción?
+
+    - Excluir todas las variedades de cebolla del análisis.
+    
+      ❌ Incorrecto.
+  
+    - En su lugar, se deben utilizar los datos sobre cebollas blancas, ya que ambas son variedades de cebolla.
+    
+      ❌ Incorrecto. 
+
+    - Pedirle ayuda a un compañero de equipo para encontrar datos sobre las cebollas moradas.
+    
+      ✅ Correcto. Si un analista de datos analizara todas las frutas y verduras, excepto las cebollas, los resultados no serían equitativos porque los datos no son representativos de todas las frutas y verduras vendidas en las tiendas de comestibles.
+
+    - Excluir las cebollas moradas del análisis.
+    
+      ❌ Incorrecto. 
+
+
+8. Un gimnasio quiere empezar a ofrecer clases de ejercicios. Un analista de datos planea encuestar a 10 personas para determinar qué clases serían las más populares. Para garantizar que los datos recopilados sean justos, ¿qué pasos deben tomar? Selecciona todas las opciones correctas.
+
+    - Encuestar solo a las personas que actualmente no van al gimnasio.
+    
+      ❌ Incorrecto.
+  
+    - Aumentar la cantidad de participantes.
+    
+      ✅ Correcto. Asegurarse de que los participantes representen una variedad de perfiles y antecedentes, recopilar datos de forma anónima y encuestar a más de 10 personas ayudaría a garantizar que el análisis de datos sea justo. 
+
+    - Recopilar datos de forma anónima.
+    
+      ✅ Correcto. Asegurarse de que los participantes representen una variedad de perfiles y antecedentes, recopilar datos de forma anónima y encuestar a más de 10 personas ayudaría a garantizar que el análisis de datos sea justo.
+
+    - Asegurarse de que los participantes representen una variedad de perfiles y antecedentes.
+    
+      ✅ Correcto. Asegurarse de que los participantes representen una variedad de perfiles y antecedentes, recopilar datos de forma anónima y encuestar a más de 10 personas ayudaría a garantizar que el análisis de datos sea justo. 
+
+
+9. El consultorio de un médico ha descubierto que los pacientes esperan 20 minutos más para sus citas que en años anteriores. ¿De qué manera podría un analista de datos ayudar a resolver este problema? Selecciona todas las opciones correctas.
+
+    - Analizar cuántos médicos y enfermeras hay en el personal en un momento dado en comparación con la cantidad de pacientes con citas.
+    
+      ✅ Correcto. Es probable que el análisis de la duración de las citas, la cantidad de personal y la cantidad de pacientes proporcione información útil para ilustrar por qué está sucediendo esto y ayudar a resolver este problema.
+  
+    - Analizar un cambio reciente en la calificación promedio del consultorio del médico en las redes sociales.
+    
+      ❌ Incorrecto.
+
+    - Analizar la duración promedio de una cita este año en comparación con años anteriores.
+    
+      ✅ Correcto. Es probable que el análisis de la duración de las citas, la cantidad de personal y la cantidad de pacientes proporcione información útil para ilustrar por qué está sucediendo esto y ayudar a resolver este problema.
+
+    - Analizar la cantidad de pacientes atendidos por día en comparación con años anteriores.
+    
+      ✅ Correcto. Es probable que el análisis de la duración de las citas, la cantidad de personal y la cantidad de pacientes proporcione información útil para ilustrar por qué está sucediendo esto y ayudar a resolver este problema.
+
+
+10. Los analistas de datos responden preguntas y resuelven problemas. A esto se denomina tareas empresariales.
+
+    - Verdadero.
+    
+      ✅ Correcto. Los analistas de datos responden preguntas y resuelven problemas, lo cual se denomina tareas empresariales.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+11. ¿Cuál de los siguientes ejemplos describe la equidad en el análisis de datos? Selecciona todas las opciones correctas.
+
+    - Factorizar en contextos sociales que podrían crear sesgos en las conclusiones.
+    
+      ❌ Incorrecto. 
+  
+    - Garantizar que una población de muestra represente a todos los grupos.
+    
+      ✅ Correcto. Considerar los factores sistemáticos que pueden influir en sus datos, tener en cuenta los contextos sociales que podrían crear sesgos en sus conclusiones y asegurarse de que su población de muestra represente a todos los grupos son formas efectivas de garantizar que su análisis sea equitativo y no introduzca o refuerce el sesgo.
+
+    - Seleccionar y elegir qué datos incluir de un conjunto de datos.
+    
+      ❌ Incorrecto. 
+
+    - Considerar los factores sistemáticos que pueden influir en los datos.
+    
+      ✅ Correcto. Considerar los factores sistemáticos que pueden influir en sus datos, tener en cuenta los contextos sociales que podrían crear sesgos en sus conclusiones y asegurarse de que su población de muestra represente a todos los grupos son formas efectivas de garantizar que su análisis sea equitativo y no introduzca o refuerce el sesgo.
+
+
+12. Un analista de datos está analizando las ventas de frutas y verduras en una tienda de comestibles. Son capaces de encontrar datos de todo, excepto de las cebollas moradas. Si excluyen las cebollas moradas del análisis, este sería un ejemplo de creación o refuerzo de sesgo. 
+
+    - Verdadero.
+    
+      ✅ Correcto. La equidad significa garantizar que el análisis no introduzca ni refuerce el sesgo. Ser inclusivo, no exclusivo, es una parte importante de la equidad.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+13. Colaborar con un científico social para proporcionar información sobre el sesgo humano y los contextos sociales es una forma efectiva de evitar el sesgo en tus datos.
+
+    - Verdadero.
+    
+      ✅ Correcto. Colaborar con un científico social para proporcionar información sobre el sesgo humano y los contextos sociales es una forma efectiva de evitar el sesgo en tus datos. Los científicos sociales pueden ayudar a los analistas de datos a comprender mejor el sesgo humano y los contextos sociales.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+14. Una revista quiere entender por qué sus suscriptores han ido en aumento. Un analista de datos podría ayudar a responder esa pregunta con un informe que prediga el resultado de una venta a mitad de precio en las tarifas de suscripción futuras.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+  
+    - Falso.
+    
+      ✅ Correcto. 
+
+
+15. Completa el espacio en blanco: Un problema es un obstáculo a resolver, un asunto es un tema a investigar, y un/a _____ está diseñado/a para descubrir información.
+
+    - tarea empresarial.
+    
+      ❌ Incorrecto. 
+  
+    - descubrimiento.
+    
+      ❌ Incorrecto. 
+
+    - pregunta.
+    
+      ✅ Correcto. Un problema es un obstáculo o complicación a resolver, mientras que una pregunta está diseñada para descubrir información. Estas dos cosas son la base de las tareas empresariales.
+
+    - tema.
+    
+      ❌ Incorrecto. 
+
+
+16. Completa el espacio en blanco: Tomar decisiones basándose en datos se describe como el uso de _____ para guiar la estrategia empresarial.
+
+    - hechos.
+    
+      ✅ Correcto. Tomar decisiones basándose en datos se define como el uso de hechos para guiar la estrategia empresarial.
+  
+    - intuición.
+    
+      ❌ Incorrecto. 
+
+    - Criterios.
+    
+      ❌ instinto. 
+
+    - visualizaciones.
+    
+      ❌ Incorrecto. 
 
 
 ### Resumen semanal 🎬
@@ -856,6 +1117,44 @@ Estamos al final de este curso, lo que significa que es hora de mostrar lo que h
 ### Estrategias para tomar examenes 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Como sabes, este programa te pide que completes evaluaciones calificadas al final de cada módulo y curso. Las evaluaciones a veces pueden resultar abrumadoras, pero abordarlas con una estrategia puede hacerlas más manejables. Aquí hay una lista de consejos que puedes usar para prepararte para el éxito. 
+
+#### Antes de realizar una evaluación: 
+
+- Revisa tus apuntes, los videos, las lecturas y el glosario más reciente para actualizar el contenido. 
+
+- Busca una imagen de algo o un objeto que te haga sentir feliz. Por ejemplo, puedes mirar una fotografía de una hermosa playa o un bosque tranquilo cuando te sientas abrumado. 
+
+#### Durante la evaluación:
+
+- Revisa el examen antes de rellenar las respuestas. Recuerda revisar tu trabajo antes de hacer clic en enviar. 
+
+- Tómate todo el tiempo que necesites: No hay límite de tiempo.
+
+- Primero responde las preguntas fáciles; omite las que no sepas responder de inmediato.
+
+- En el caso de las preguntas de opción múltiple, concéntrate en eliminar primero las respuestas incorrectas. 
+
+- Lee cada pregunta dos veces. A menudo hay pistas que son fáciles de pasar por alto la primera vez.
+
+- Recuerda ir más despacio y confiar en tus conocimientos. Probablemente sabes más de lo que piensas.
+
+- Respira hondo y hazte comentarios positivos. 
+
+- Tómate un tiempo durante la evaluación para descansar unos segundos, estirarte y sacude las manos. Esto realmente puede ayudar a calmar los nervios.
+
+#### Si empiezas a sentirte ansioso:
+
+- Deletrea tu nombre al revés o haz un problema matemático fácil. Esto te devuelve al lóbulo frontal del cerebro, lo que te ayuda a recordar la información con mayor facilidad. 
+
+- Concéntrate en una respiración tranquila y constante. 
+
+- Visualiza el éxito.
+
+#### Antes de enviar la evaluación:
+
+Revisa tu trabajo, pero tenga confianza. A veces las personas cambian las respuestas correctas porque se sienten mal, pero en realidad tienen razón. Tu primer instinto generalmente suele ser correcto. 
 
 ### Desafio del curso 📑
 
