@@ -1,6 +1,6 @@
 # Conceptos 💬
 
-## Module 1
+## Modulo 1
 
 ### Análisis de datos
 
@@ -91,7 +91,7 @@ Las empresas necesitan una forma de controlar todos esos datos para poder utiliz
 para guiar la estrategia empresarial.
 
 
-## Module 2
+## Modulo 2
 
 ### Habilidades de la analítica
 
@@ -144,7 +144,7 @@ Un cuartil divide los puntos de datos en cuatro partes iguales.
 
 Las organizaciones sin fines de lucro son organizaciones dedicadas a promover una causa social o defender un esfuerzo particular.
 
-## Module 3 
+## Modulo 3 
 
 ### Bases de datos 
 
@@ -202,12 +202,14 @@ Es conocido como el lenguaje de consulta estructurado el cual permite la manipul
 
 Es la representación gráfica de la información.
 
+## Modulo 4
+
 ### Atributo
 
 - Un atributo es una característica o calidad de los datos que se utilizan para etiquetar una columna en una tabla.
 - Los atributos se denominan nombres de columna, etiquetas de columna, encabezados o fila de encabezado.
 
-### Observation
+### Observación
 
 - En un conjunto de datos, una fila también se llama observación.
 - Una observación incluye todos los atributos de algo contenido en una fila de una tabla de datos. 
@@ -216,11 +218,23 @@ Es la representación gráfica de la información.
 
 - A request for data or information from a database.
 
+## Modulo 5
 
+### Problema (issue)
 
+- A topic or subject to investigate
 
+### Problema
 
+- Un obstáculo o complicación que debe resolverse.
 
+### Tarea del negocio
+
+- La pregunta o el problema del análisis de datos responde a las respuestas de una empresa.
+
+### Justicia
+
+- Asegurarse de que su análisis no cree ni refuerce sesgos.
 
 
 
@@ -440,3 +454,25 @@ It is a collection of data stored in a computer system.
 ### Query 
 
 - A request for data or information from a database.
+
+## Module 5
+
+### Issue 
+
+- A topic or subject to investigate.
+
+### Question 
+
+- Designed to discover information.
+
+### Problem
+
+- An obstacle or complication that needs to be worked out.
+
+### Business task
+
+- The question or problem data analysis answers for a business.
+
+### Fairness
+
+- Ensuring that your analysis doesnt create or reinforce bias.
