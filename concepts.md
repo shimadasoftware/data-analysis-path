@@ -222,7 +222,7 @@ Es la representación gráfica de la información.
 
 ### Problema (issue)
 
-- A topic or subject to investigate
+- Un tema o materia para investigar.
 
 ### Problema
 
