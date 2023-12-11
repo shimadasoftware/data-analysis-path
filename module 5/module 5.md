@@ -1088,13 +1088,43 @@ Desafio semanal 5
     
       ❌ Incorrecto. 
 
-    - Criterios.
+    - instinto.
     
-      ❌ instinto. 
+      ❌ Incorrecto. 
 
     - visualizaciones.
     
       ❌ Incorrecto. 
+
+
+17. Una revista de jardinería en línea quiere entender por qué su cantidad de suscriptores ha ido en aumento. Un analista de datos descubre que muchas más personas se suscriben cuando la revista tiene su venta anual con el 50% de descuento. ¿Este es un ejemplo de qué?
+
+    - Analizar la cantidad de clientes calculando el tráfico peatonal diario.
+    
+      ❌ Incorrecto. 
+  
+    - Analizar los comportamientos de compra de los clientes.
+    
+      ✅ Correcto. Los analistas de datos les enseñan a las empresas a usar los datos históricos para hacer predicciones. El efecto de una venta en las compras por suscripción es un ejemplo de análisis del comportamiento de compra de los clientes.
+
+    - Analizar el compromiso en las redes sociales.
+    
+      ❌ Incorrecto. 
+
+    - Analizar las preferencias de los consumidores utilizando inteligencia artificial.
+    
+      ❌ Incorrecto. 
+
+
+18. Un problema es un obstáculo a resolver, un problema es un tema a investigar y una pregunta está diseñada para descubrir información.
+
+    - Verdadero.
+    
+      ✅ Correcto. Un problema es un obstáculo o complicación a resolver, mientras que una pregunta está diseñada para descubrir información. Estas dos cosas son la base de las tareas empresariales.
+  
+    - Falso.
+    
+      ❌ Incorrecto.
 
 
 ### Resumen semanal 🎬
@@ -1162,11 +1192,351 @@ Revisa tu trabajo, pero tenga confianza. A veces las personas cambian las respue
 
 Pon a prueba tus conocimientos del curso (10 preguntas)
 
+**Escenario 1, pregunta 1-5**
+
+Acabas de empezar un nuevo trabajo como analista de datos. Trabajas para una cadena de farmacias de tamaño mediano con 38 tiendas en el suroeste de Estados Unidos. Tu supervisor comparte contigo un nuevo proyecto de análisis de datos.
+
+Ella te explica que la farmacia está considerando suspender un producto de baño de burbujas llamado Splashtastic. Tu supervisor quiere que analices los datos de ventas y determines qué porcentaje de las ventas diarias totales de cada tienda proviene de ese producto. Luego, presentarás tus hallazgos a la gerencia.
+
+Sabes que es importante seguir cada paso del proceso de análisis de datos: preguntar, preparar, procesar, analizar, compartir y actuar. Por lo tanto, empiezas por definir el problema y asegurarte de que entiendes completamente las expectativas de las partes interesadas.
+
+Una de las preguntas que haces es dónde encontrar el conjunto de datos con el que trabajarás. Tu supervisor te explica que la base de datos de la empresa contiene toda la información que necesitas.
+
+Luego, continúas con el paso de preparación. Accedes a la base de datos y escribes una consulta para recuperar los datos sobre Splashtastic. Observas que solo hay 38 filas de datos, que representan a las 38 tiendas de la empresa. Además, el conjunto de datos contiene cinco columnas: Número de tienda, Promedio de clientes diarios, Promedio de ventas diarias de Splashtastic (unidades), Promedio de ventas diarias de Splashtastic (dólares) y Promedio de ventas diarias totales (todos los productos).
+
+1. Sabes que las hojas de cálculo funcionan bien para procesar y analizar un pequeño conjunto de datos, como el que estás usando. Para obtener los datos de la base de datos en una hoja de cálculo, ¿qué debes hacer?
+
+    - Descarga los datos en un archivo .CSV y, a continuación, impórtalos en una hoja de cálculo.
+    
+      ✅ Correcto. La descarga de datos de una base de datos en un archivo .CSV y, a continuación, la importación a una hoja de cálculo te permitirá procesar y analizar el conjunto de datos pequeño de forma eficaz.
+  
+    - Envía por correo electrónico una copia del conjunto de datos a la dirección de correo electrónico de la empresa.
+    
+      ❌ Incorrecto. 
+
+    - Utiliza Tableau para convertir los datos en una hoja de cálculo.
+    
+      ❌ Incorrecto. 
+
+    - Copia y pega los datos en una hoja de cálculo.
+    
+      ❌ Incorrecto. 
+
+
+2. Teniendo en cuenta el tamaño de tu conjunto de datos, decides que una hoja de cálculo será la mejor herramienta para tu proyecto. Debes proceder descargando los datos de la base de datos. Describe por qué es la mejor opción.
+
+    - Las hojas de cálculo son más eficaces cuando se trabaja con consultas.
+    
+      ❌ Incorrecto. 
+  
+    - Las bases de datos no se pueden utilizar para el análisis.
+    
+      ❌ Incorrecto. 
+
+    - Solo las hojas de cálculo te permiten descargar y cargar datos.
+    
+      ❌ Incorrecto. 
+
+    - Las hojas de cálculo funcionan bien para procesar y analizar un conjunto de datos pequeño, como el que estás usando.
+    
+      ✅ Correcto. Una hoja de cálculo es una opción inteligente cuando se trabaja con un conjunto de datos de 38 filas y cinco columnas.
+
+
+Has descargado los datos de la base de datos de la empresa y los has importado a una hoja de cálculo. 
+
+![image](./img/module%2005%20img%2003.png)
+
+3. Ahora es el momento de procesar los datos. Como sabes, este paso implica encontrar y eliminar errores e inexactitudes que pueden interferir con sus resultados. Al limpiar los datos, observas que falta información sobre Splashtastic en la fila 16. Lo mejor es eliminar la fila 16 del conjunto de datos para que los datos que faltan no interfieran con los resultados.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+  
+    - Falso.
+    
+      ✅ Correcto. Eliminar datos de un conjunto de datos puede obstaculizar la obtención de resultados precisos. En este caso, sería inteligente enviar un correo electrónico a tu supervisor para que te oriente. Hacer preguntas te ayuda a aprender y evitar errores.
+
+
+4. Ahora es el momento de procesar los datos. Como sabes, este paso implica encontrar y eliminar errores e inexactitudes que pueden interferir con tus resultados. Mientras limpias los datos, observas que faltan datos en la fila 16. ¿Qué puedes hacer para solucionar este problema? Selecciona todas las opciones correctas.
+
+    - Pregúntale a un compañero de tu equipo cómo ha manejado problemas similares en el pasado.
+    
+      ✅ Correcto. Puedes pedirle orientación a tu supervisor o a un colega. Hacer preguntas te ayuda a aprender y evitar errores.
+  
+    - Pídele orientación a tu supervisor.
+    
+      ✅ Correcto. Puedes pedirle orientación a tu supervisor o a un colega. Hacer preguntas te ayuda a aprender y evitar errores.
+
+    - Elimina la fila en la que falta el punto de datos.
+    
+      ❌ Incorrecto. 
+
+    - Ordena la hoja de cálculo para que la fila con datos faltantes quede en la parte inferior.
+    
+      ❌ Incorrecto. 
+
+
+5. Una vez que hayas encontrado la información faltante, analiza tu conjunto de datos. Durante el análisis, debes crear una nueva columna F. En la parte superior de la columna, agrega: Porcentaje promedio de ventas totales - Splashtastic. En analítica de datos, esta etiqueta de columna se denomina atributo.
+
+    - Verdadero.
+    
+      ✅ Correcto. Esta etiqueta de columna es un atributo, que es una característica o calidad de los datos utilizados para etiquetar una columna.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+![image](./img/module%2005%20img%2004.png)
+
+6. A continuación, determina el promedio total de ventas diarias de los últimos 12 meses en todas las tiendas. El rango que contiene estas ventas es E2:E39. La sintaxis correcta es =PROMEDIO(E2:E39).
+
+    - Verdadero.
+    
+      ✅ Correcto. La sintaxis correcta es =PROMEDIO(E2:E39). La función comienza con un signo igual (=) y, a continuación, la palabra PROMEDIO. El rango es de E2 a E39.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+7. A continuación, determina el promedio total de ventas diarias durante los últimos 12 meses en todas las tiendas. El rango que contiene estas ventas es E2:E39. Para hacer esto, usas una función. Completa el espacio en blanco para colocar la función correctamente: =_____ (E2:E39).
+
+    - PROMEDIO
+    
+      ✅ Correcto. La función comienza con un signo igual (=) y, a continuación, la palabra PROMEDIO. El rango es todo en la columna E, representada por E:E.
+  
+    - TOTAL
+    
+      ❌ Incorrecto. 
+
+    - VENTAS
+    
+      ❌ Incorrecto. 
+
+    - SUMA
+    
+      ❌ Incorrecto. 
+
+
+8. Has llegado a la fase compartir del proceso de análisis de datos. ¿Cuál de las siguientes opciones implica? Selecciona todas las opciones correctas.
+
+    - Presenta tus hallazgos sobre Splashtastic a las partes interesadas.
+    
+      ✅ Correcto. La fase compartir implica crear visualizaciones de datos, preparar la presentación y comunicar tus resultados a las partes interesadas.
+  
+    - Prepara una presentación de diapositivas sobre las ventas de Splashtastic y practica tu presentación.
+    
+      ✅ Correcto. La fase compartir implica crear visualizaciones de datos, preparar la presentación y comunicar tus resultados a las partes interesadas.
+
+    - Dejar de vender Splashtastic porque no representa un gran porcentaje de las ventas totales.
+    
+      ❌ Incorrecto. 
+
+    - Crea una visualización de datos para resaltar la información de ventas de Splashtastic que has descubierto.
+    
+      ✅ Correcto. La fase compartir implica crear visualizaciones de datos, preparar la presentación y comunicar tus resultados a las partes interesadas.
+
+
+**Escenario 2, preguntas 6-10**
+
+Has trabajado para la Sociedad Dental Nacional (NDS), sin fines de lucro, como analista de datos junior durante unos dos meses. La misión de la NDS es ayudar a sus miembros a mejorar la salud bucal de sus pacientes. Los miembros de la NDS son dentistas, higienistas y personal de apoyo en consultorios dentales.
+
+A la NDS le apasiona la salud de los pacientes. Parte de esto implica programar automáticamente citas de seguimiento después del reemplazo de corona, la cirugía dental de emergencia y los procedimientos de extracción. La NDS considera que el seguimiento es un paso importante para garantizar la recuperación del paciente y minimizar la infección.
+
+Desafortunadamente, muchos pacientes no se presentan a estas citas, por lo que la NDS quiere crear una campaña para ayudar a sus miembros a aprender cómo animar a sus pacientes a que tomen en serio las citas de seguimiento. Si tiene éxito, esto ayudará a la NDS a lograr su misión de promover la salud bucal de todos los pacientes.
+
+Tu supervisor acaba de enviarte un correo electrónico diciendo que te va muy bien en el equipo y quiere darte alguna responsabilidad adicional. Describe el problema de que muchos pacientes no acuden a las citas de seguimiento. Se te encarga analizar los datos sobre este problema y presentar tus hallazgos mediante visualizaciones de datos.
+
+Un miembro de la NDS con tres consultorios dentales en Colorado ofrece compartir sus datos sobre las citas perdidas. Por lo tanto, tu supervisor utiliza una consulta de base de datos para acceder al conjunto de datos del grupo dental. La consulta le indica a la base de datos que recupere toda la información de los paciente de los tres consultorios dentales del miembro, ubicados en el código postal 81137.
+
+```
+SELECT
+*
+FROM
+dental_data_table
+WHERE zip code = 81137
+```
+
+10. La tabla es tabla_datos_dentales y el nombre de la columna es código_postal. Escribes la siguiente consulta, pero obtienes un error. ¿Qué enunciado corregirá el problema?
+
+    - código_postal = 81137
+    
+      ❌ Incorrecto. 
+  
+    - DÓNDE código_postal = 81137
+    
+      ✅ Correcto. La sintaxis correcta es DÓNDE código_postal = 81137. DÓNDE indica dónde buscar información. El nombre de la columna es código_postal. Y se pide a la base de datos que devuelva solo los registros que coincidan con el código postal 81137.
+
+    - DÓNDE código_postal = 81137 .
+    
+      ❌ Incorrecto. 
+
+    - DÓNDE 81137
+    
+      ❌ Incorrecto. 
+
+
+```
+SELECT
+*
+FROM
+dental_data_table
+```
+
+11. La tabla es tabla_datos_dentales y el nombre de la columna es código_postal. ¿Cómo completas la siguiente consulta? 
+
+    - WHERE zip_code = 81137
+    
+      ✅ Correcto. La sintaxis correcta es WHERE zip_code = 81137. WHERE indica dónde buscar información. El nombre de la columna es código_postal. Y se pide a la base de datos que devuelva solo los registros que coincidan con el código postal 81137.
+  
+    - zip_code = 81137
+    
+      ❌ Incorrecto. 
+
+    - WHERE_zip_code = 81137
+    
+      ❌ Incorrecto. 
+
+    - WHERE = 81137
+    
+      ❌ Incorrecto. 
+
+
+El conjunto de datos que el supervisor recuperó e importó en una hoja de cálculo incluye una lista de pacientes, su información demográfica, tipos de procedimientos dentales y si asistieron a su cita de seguimiento. 
+
+![image](./img/module%2005%20img%2005.png)
+
+12. La información demográfica del paciente incluye datos como edad y sexo. A medida que aprendes, es tu responsabilidad como analista de datos asegurarte de que tu análisis sea justo. **¿Qué aspecto demográfico de los pacientes podría obstaculizar la equidad?**
+
+    - El conjunto de datos indica qué procedimiento odontológico habían realizado los pacientes.
+    
+      ❌ Incorrecto. 
+  
+    - El conjunto de datos representa a personas solteras.
+    
+      ❌ Incorrecto. 
+
+    - El conjunto de datos incluye personas que viven en el mismo código postal.
+    
+      ✅ Correcto. Como analista de datos, es tu responsabilidad asegurarte de que tu análisis sea justo. Aunque muchos códigos postales reflejan poblaciones diversas, una mejor opción sería incluir datos sobre personas que viven en varios códigos postales.
+
+    - El conjunto de datos contiene los números de identificación de pacientes.
+    
+      ❌ Incorrecto. 
+
+
+Escenario 2, continuación
+
+A medida que revisas el conjunto de datos, observas que hay una cantidad desproporcionada de personas de edad avanzada. Por lo tanto, investigas más a fondo y descubres que este código postal representa una comunidad rural en Colorado con unos 800 residentes. Además, hay un gran centro de vida asistida en la zona. Casi 300 de los residentes del código postal 81137 viven en el centro.
+
+Reconoces que es una cantidad considerable, por lo que quieres saber si la edad tiene un efecto en la probabilidad de que un paciente asista a una cita de seguimiento con el dentista. Analizas los datos y el análisis revela que las personas de edad avanzada tienden a pasar por alto los seguimientos más que las personas jóvenes.
+
+Por lo tanto, investigas un poco en línea y descubre que las personas mayores de 60 años tienen un 50% más de probabilidades de faltar a las citas con el dentista. A veces esto se debe a que tienen ingresos fijos. Además, muchas personas de edad avanzada carecen de transporte para ir y volver de las citas.
+
+Con este nuevo conocimiento, le escribes un correo electrónico a tu supervisor expresando tus inquietudes sobre el conjunto de datos. Tu supervisor está de acuerdo con tus preocupaciones, pero también está impresionado con lo que has aprendido y piensa que tus hallazgos podrían ser muy importantes para el proyecto. Te pide que cambies la tarea empresarial. Ahora, la campaña de la NDS tratará de educar a los consultorios dentales sobre los desafíos a los que se enfrentan las personas de edad avanzada y encontrar formas de ayudarles a acceder a una atención dental de calidad.
+
+
+13. ¿Cuál de las siguientes opciones implica cambiar la tarea empresarial?
+
+    - Definir la nueva pregunta o problema a resolver.
+    
+      ✅ Correcto. Una tarea empresarial es la pregunta o las respuestas de análisis de datos a los problemas para una empresa.
+  
+    - Utilizar una base de datos en lugar de una hoja de cálculo.
+    
+      ❌ Incorrecto. 
+
+    - Crear una representación gráfica de los datos.
+    
+      ❌ Incorrecto. 
+
+    - Realizar un análisis de brechas.
+    
+      ❌ Incorrecto. 
+
+
+14. ¿Cambiar la tarea empresarial implica definir la nueva pregunta o problema a resolver?
+
+    - Verdadero.
+    
+      ✅ Correcto. Una tarea empresarial es la pregunta o las respuestas de análisis de datos a los problemas para una empresa.
+  
+    - Falso.
+    
+      ❌ Incorrecto. 
+
+
+Continúa con tu análisis. Al final, tus hallazgos respaldan lo que descubriste durante tu investigación en línea: A medida que las personas envejecen, es menos probable que asistan a las citas dentales de seguimiento.
+
+Pero aún no has terminado. Sabes que los datos se deben combinarse con la información humana para llegar a una verdadera toma de decisiones basada en datos. Por lo tanto, el siguiente paso es compartir esta información con personas familiarizadas con el problema. Te ayudarán a verificar los resultados de tu análisis de datos.
+
+
+15. Las personas que están familiarizadas con un problema y que ayudan a verificar los resultados del análisis de datos incluyen clientes y competidores.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+  
+    - Falso.
+    
+      ✅ Correcto. Los expertos en la materia examinan los resultados del análisis de datos para identificar cualquier inconsistencia, dar sentido a las áreas grises y, finalmente, validar las decisiones tomadas.
+
+
+16. **Completa el espacio en blanco: Las personas que están familiarizadas con un problema y que ayudan a verificar los resultados del análisis de datos son _____ . **
+
+    - las partes interesadas
+    
+      ❌ Incorrecto. 
+  
+    - expertos en la materia
+    
+      ✅ Correcto. Los expertos en la materia examinan los resultados del análisis de datos para identificar cualquier inconsistencia, dar sentido a las áreas grises y, finalmente, validar las decisiones tomadas.
+
+    - científicos de datos
+    
+      ❌ Incorrecto. 
+
+    - clientes
+    
+      ❌ Incorrecto.
+
+      
+Los expertos en la materia quedan impresionados por tu análisis. El equipo acepta pasar al siguiente paso: la visualización de datos. Sabes que es importante que las partes interesadas de la NDS comprendan rápida y fácilmente que es menos probable que las personas de edad avanzada asistan a las citas dentales de seguimiento importantes. Esto les ayudará a crear una campaña eficaz para los miembros.
+
+
+17. Es hora de crear tu presentación para las partes interesadas. Incluirá una visualización de datos que muestra la relación entre la edad y las tasas de asistencia a las citas dentales de seguimiento. Para ello, un gráfico de anillos será más eficaz.
+
+    - Verdadero.
+    
+      ❌ Incorrecto. 
+  
+    - Falso.
+    
+      ✅ Correcto. Un gráfico de anillos se utiliza para representar la relación entre dos cosas. Un gráfico de líneas sería eficaz para hacer un seguimiento de las tendencias a lo largo del tiempo, como las personas que asisten a menos citas a medida que envejecen.
+
+
 ### ¡Felicitaciones! 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Felicitaciones por terminar este primer curso. Ya has aprendido mucho y estás listo para tomar lo que has aprendido y seguir adelante. Y si alguna vez necesitas un repaso, solo recuerda que estos videos seguirán estando aquí para cuando los necesites. Es posible que recuerdes a tu siguiente instructor de nuestra presentación al comienzo del curso de introducción. Prepárate para conocer a mi compañero de Google y a tu instructora del próximo curso, Ximena, quien está lista para ayudarte a iniciar tu próximo paso para terminar este programa y convertirte en analista de datos. 
+
+Este próximo curso se centrará directamente en algunos de los temas que has aprendido hasta ahora y te dará una idea de los temas de los que ya hemos hablado. Como cualquier buen detective, aprendes cómo hacer las preguntas correctas y utilizar los datos para encontrar respuestas. Los empleados de todas las industrias deben sentirse cómodos al hacer preguntas, pero esto es particularmente cierto para los analistas de datos. Muchos analistas de datos intentan que su trabajo sea perfecto la primera vez, aunque no tengan toda la información. En lugar de hacer preguntas, hacen suposiciones que pueden llevar a errores. Es mucho mejor ser humilde e inquisitivo y hacer preguntas. 
+
+Te mostraré a qué me refiero. Uno de los analistas que superviso llegó a Google sin experiencia en codificación. Estaba ansioso por dejar una gran primera impresión, por lo que trató de estudiar varios lenguajes por su cuenta antes de comenzar. Cuando realmente comenzó el trabajo, no nos hizo preguntas a nosotros como equipo ni nos pidió ayuda cuando se topó con obstáculos. Hay muchos lugares excelentes para encontrar respuestas, especialmente en línea, y su iniciativa los ayudó a encontrar algunos de esos lugares. Pero al final del día, se olvidó de aprovechar su mejor recurso, nosotros, su equipo, porque estaba ansioso por saber por cómo lo percibirían si nos pidiera ayuda. 
+
+Casi se pierde algunas de las grandes ideas de los miembros de su equipo. Al persistir los obstáculos, se dio cuenta de que necesitaba hacer un cambio. Dejó de intentar adivinar las expectativas, los procesos y de hacer todo por su cuenta y comenzó a hacernos más preguntas. Tan pronto como adoptó este nuevo enfoque, hizo crecer a nuestro equipo. Su aprendizaje subió por una curva con la forma de un palo de hockey. Su impacto en la organización, la cantidad de personas que se acercaron a él y su carrera profesional hicieron lo mismo. 
+
+La conclusión es que no necesitas saberlo todo. El dicho es cierto, no hay preguntas malas. Estar abierto al aprendizaje es una de las cualidades más importantes para un analista de datos. Hablando de aprendizaje, en el próximo curso, profundizaremos en el aprendizaje de las habilidades básicas de la hoja de cálculo y, cuando necesites usarlas, descubrirás cómo aplicar el pensamiento estructurado al trabajo de datos y tu enfoque en cómo cumplir mejor con las necesidades y expectativas de las partes interesadas mediante la recopilación de todas las pistas. Gran trabajo, y buena suerte en el próximo curso.
 
 ### Proximamente... 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+¡Felicitaciones por haber completado el primer curso del Certificado de Análisis de Datos de Google!
+
+Para que continuar con el programa sea más fácil, ve al siguiente curso haciendo clic en este enlace: 
+[Formula preguntas para tomar decisiones basadas en datos](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome).
+
+¡Buen trabajo, sigue así!
