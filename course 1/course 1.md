@@ -5,8 +5,6 @@ Este repositorio contiene el curso el desarrollo del curso 'Análisis de Datos d
 
 ### Contenido del curso
 
-- Curso 1 - Aspectos básicos: Datos, datos, en todas partes
-
 1. **Presentación del análisis computacional de datos** Los datos nos ayudan a tomar decisiones en la vida cotidiana y en los negocios. En esta primera parte del curso, aprenderás cómo los analistas de datos utilizan las herramientas de su comercio para informar esas decisiones. También conocerás más sobre este curso y las expectativas generales del programa.
 
 2. **Pensamiento analítico:** Los analistas de datos equilibran muchos roles diferentes en su trabajo. En esta parte del curso, aprenderás algunas de estas funciones y las habilidades clave que se requieren. También explorarás el pensamiento analítico y cómo se relaciona con la toma de decisiones basada en datos.
