@@ -61,10 +61,10 @@ Para más información acceder al link: https://www.coursera.org/professional-ce
 
 A continuación, se enumeran los módulos de este curso:
 <ul dir="auto">
-  <li><a href="https://github.com/shimadasoftware/data-analysis-path/blob/main/module%201/module%201.md">Módulo 1: Presentación del análisis computacional de datos</a></li>
-  <li><a href="https://github.com/shimadasoftware/data-analysis-path/blob/main/module%202/module%202.md">Módulo 2: Todo acerca del pensamiento analítico</a></li>
-  <li><a href="https://github.com/shimadasoftware/data-analysis-path/blob/main/module%203/module%203.md">Módulo 3: El maravilloso mundo de los datos</a></li>
-  <li><a href="https://github.com/shimadasoftware/data-analysis-path/blob/main/module%204/module%204.md">Módulo 4: Configura tu caja de herramientas</a></li>
-  <li><a href="https://github.com/shimadasoftware/data-analysis-path/blob/main/module%205/module%205.md">Módulo 5: Posibilidades profesionales infinitas</a></li>
+  <li><a href="./module%201/module%201.md">Módulo 1: Presentación del análisis computacional de datos</a></li>
+  <li><a href="./module%202/module%202.md">Módulo 2: Todo acerca del pensamiento analítico</a></li>
+  <li><a href="./module%203/module%203.md">Módulo 3: El maravilloso mundo de los datos</a></li>
+  <li><a href="./module%204/module%204.md">Módulo 4: Configura tu caja de herramientas</a></li>
+  <li><a href="./module%205/module%205.md">Módulo 5: Posibilidades profesionales infinitas</a></li>
 </ul>
 
