@@ -1186,6 +1186,72 @@ Pon a prueba tus conocimientos sobre la resolución de problemas con datos.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-7%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Ahora que hemos hablado de seis tipos de problemas básicos, es hora de empezar a resolverlos. Para hacer eso, los analistas de datos primero hacen las preguntas correctas. En este video, aprenderemos a hacer preguntas efectivas que conducen a conocimientos clave para resolver todo tipo de problemas. Como analista de datos, hago preguntas constantemente. Es una gran parte del trabajo. Si alguien me pide que trabaje en un proyecto, hago preguntas para asegurarme de estar de acuerdo sobre el plan y los objetivos. Y cuando obtengo un resultado, lo cuestiono: 
+
+¿Los datos me muestran algo superficialmente? 
+¿Hay algún conflicto en algún lugar que deba resolverse? 
+
+Cuantas más preguntas hagas, más aprenderás sobre los datos y más poderosos serán tus conocimientos al final del día. 
+
+Algunas preguntas son más efectivas que otras. Digamos que estás almorzando con un amigo y te dice: "Estos son los mejores sándwiches del mundo, ¿no es así?" Esa pregunta realmente no te da la oportunidad de compartir tu propia opinión, en especial si no estás de acuerdo y no te gustó mucho el sándwich. Esa es **una pregunta sugestiva**, porque te lleva a responder de una manera en particular. 
+
+O, tal vez, estás trabajando con un proyecto y decides entrevistar a un familiar. Digamos que le preguntas a tu tío, ¿te gustó crecer en Malasia? Él puede responder: "Sí". Pero no has aprendido mucho sobre sus experiencias allí. **Tu pregunta fue cerrada**. Eso significa que se puede responder con un sí o un no. Este tipo de preguntas rara vez conducen a conocimientos valiosos. 
+
+Ahora, si alguien te pregunta ¿prefieres chocolate o vainilla? ¿De qué está hablando específicamente? ¿Helado, pudín, saborizante de café o alguna otra cosa? ¿Qué pasa si te gusta el helado de chocolate pero la vainilla en el café? ¿Y si no te gusta ninguno de los dos sabores? Ese es el problema con esta pregunta. **Es demasiado imprecisa y carece de contexto**. 
+
+Conocer la **diferencia entre preguntas efectivas e inefectivas es esencial** para tu futura carrera como analista de datos. Después de todo, el proceso del analista de datos comienza con las preguntas. Por eso, es importante que hagamos las preguntas correctas. 
+
+#### Metodología SMART
+
+Las preguntas efectivas siguen la metodología SMART: son específicas, medibles, orientadas a la acción, relevantes y con plazos determinados. 
+
+Desglosemos eso. 
+
+**Preguntas específicas**
+
+- Las preguntas específicas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas. Esto nos ayuda a recopilar información relevante para la investigación. Si una pregunta es demasiado general, trata de acotarla enfocándote en un solo elemento.
+
+- Por ejemplo, en lugar de hacer una pregunta cerrada, como ¿los niños realizan suficientes actividades físicas en estos días? Pregunta ¿qué porcentaje de niños hacen lo recomendado, 60 minutos de actividad física, al menos cinco días a la semana? Esa pregunta es mucho más específica y puede brindarte información más útil. Ahora, hablemos de las preguntas medibles.
+
+**Preguntas medibles**
+
+- Las preguntas medibles se pueden cuantificar y evaluar.
+  
+- Un ejemplo de una pregunta no medible sería: ¿por qué un video se volvió viral? En su lugar, puedes preguntar ¿cuántas veces se compartió el video en las redes la primera semana que se publicó? Esa pregunta es medible porque nos permite contar cuántas veces se compartió y llegar a un número concreto.
+
+**Preguntas orientadas a la acción**
+
+- Las preguntas orientadas a la acción fomentan el cambio.
+  
+- Quizás recuerdes que la resolución de problemas consiste en ver el estado actual y averiguar cómo transformarlo en el estado futuro ideal. Bueno, las preguntas orientadas a la acción te ayudarán a conseguirlo. Entonces, en lugar de preguntar ¿cómo podemos conseguir que los clientes reciclen el embalaje de nuestro producto? Preguntarías, ¿Qué detalles harán que el embalaje sea más fácil de reciclar? Esto te brinda respuestas sobre las que puedes actuar.
+
+**Preguntas relevantes**
+
+- Las preguntas relevantes importan y son cruciales para el problema que tratas de resolver.
+  
+- Digamos que trabajas en un problema de una especie de rana amenazada. Y tú preguntaste: ¿por qué es importante que las ranas hayan comenzado a desaparecer? Esta es una pregunta irrelevante, porque la respuesta no nos ayudará a encontrar cómo evitar que estas ranas se extingan. Más relevante sería: ¿Qué factores ambientales cambiaron en Durham, Carolina del Norte entre 1983 y 2004 que podrían causar que las ranas desaparecieran de las regiones de Sandhills? Esta pregunta nos daría respuestas para resolver nuestro problema.
+
+**Preguntas con plazos determinados**
+
+- Las preguntas con plazos determinados especifican el tiempo que se estudia.
+- El período de tiempo que queremos estudiar es de 1983 a 2004. Esto limita el rango de posibilidades y permite al analista de datos centrarse en datos relevantes.
+
+#### La equidad
+
+Bien, ahora que tienes una idea general de las preguntas SMART, hay algo mas que es muy importante tener en cuenta al formular preguntas: la equidad. Ya hemos hablado antes de la equidad, pero como recordatorio rápido, equidad significa garantizar que las preguntas no creen ni refuercen el sesgo. 
+
+Para hablar de esto, volvamos a nuestro ejemplo del sándwich. Allí tuvimos una pregunta injusta porque estaba redactada para llevarte hacia una respuesta en particular. Esto hizo que fuera difícil responder honestamente si no te gustaba la calidad del sándwich. Otro ejemplo común de una pregunta injusta es la que hace suposiciones. 
+
+Por ejemplo, digamos que se les da una encuesta de satisfacción a quienes visitan un museo. Si la encuesta pregunta: ¿qué es lo que más le gusta de nuestras exposiciones? Esto supone que al cliente le encantan las exposiciones, pero puede no ser así. La equidad también significa formular preguntas con sentido para todos. Es importante que las preguntas sean claras y tengan una redacción sencilla que cualquiera pueda entender fácilmente. 
+
+Las preguntas injustas también pueden dificultar tu trabajo como analista de datos. Dan lugar a una retroalimentación poco fiable y oportunidades perdidas de obtener información realmente valiosa. 
+
+![image](./img/module%2001%20img%2010.png)
+
+Has aprendido mucho sobre cómo elaborar preguntas efectivas, como cómo usar el framework SMART mientras creas tus preguntas y cómo asegurarte de que las preguntas sean justas y objetivas. A partir de ahora, explorarás diferentes tipos de datos y aprenderás cómo se utiliza cada uno para guiar las decisiones empresariales. También aprenderás más sobre las visualizaciones y cómo las métricas o las medidas pueden ayudar a crear el éxito. ¡Va a ser genial!
+
+![image](./img/module%2001%20img%2011.png)
+
 ### Más información sobre las preguntas SMART 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
@@ -1197,6 +1263,8 @@ Pon a prueba tus conocimientos sobre la resolución de problemas con datos.
 ### Los datos abren puertas 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola, soy Evan. Soy gerente del portfolio de aprendizaje de Google y tengo uno de los trabajos más geniales del mundo, donde puedo ver todas las diferentes tecnologías que afectan los macrodatos e incorporarlas en cursos de capacitación como este para los estudiantes. Desearía haber realizado un curso como este cuando recién salí de la universidad o la escuela secundaria. Un curso de analista de datos que está orientado cómo este, si ya pudiste ver algunos de los videos, es lo que realmente te prepara para hacer lo que quieras. Te ayudará a abrir todas las puertas que quieras para cualquiera de esos roles que forman parte del plan de estudios de datos. ¿Cuáles son algunos de esos roles? Hay tantas carreras profesionales diferentes para los interesados en los datos. Por lo general, si eres como yo, comenzarás como analista de datos, tal vez trabajando con hojas de cálculo, tal vez trabajando con bases de datos pequeñas, medianas y grandes, pero todo lo que tienes que recordar son los tres roles principales diferentes. Hay muchas especialidades dentro de cada una de estas diferentes carreras, pero estos tres roles son el analista de datos, que generalmente es alguien que trabaja con SQL, hojas de cálculo, bases de datos y podría formar partede un equipo de inteligencia empresarial creando paneles. Ahora bien, ¿de dónde provienen todos esos datos? Generalmente, un analista de datos trabajará con un ingeniero de datos para convertir los datos sin procesar en procesos viables. Así que tienes analistas de datos, ingenieros de datos y, por último, es probable que haya científicos de datos que dicen que los ingenieros de datos construyeron estos hermosos procesos. A veces, el analista también hace eso. Los analistas nos proporcionan datos limpios y viables. Entonces, los científicos de datos trabajan para convertirlos en modelos de aprendizaje automático realmente geniales o inferencias estadísticas que están mucho más allá de todo lo que podrías haber imaginado. Compartiremos muchos recursos en enlaces para que puedas entusiasmarte con cada uno de estos diferentes roles. Y la mejor parte es que si eres como yo que, cuando entré a la universidad, no sabía lo que quería hacer, no es necesario que sepas desde el principio qué camino quieres seguir. Pruébalos todos. Prueba lo que realmente te gusta. Es algo muy personal. Convertirse en analista de datos es muy emocionante. ¿Por qué? Porque no es solo un medio para lograr un objetivo. Es una profesión que muchas personas brillantes han recorrido antes y han hecho que las herramientas sean mucho más fáciles para nosotros hoy. Por ejemplo, cuando empecé a aprender el SQL, o lenguaje de consulta estructurada, que aprenderás como parte de este curso, lo hacía en mi portátil local y cada una de las consultas tomaba como 20 o 30 minutos para ejecutarse, y era muy difícil para mí realizar un seguimiento de las diferentes sentencias SQL que escribía o compartirlas con alguien más. Eso fue hace unos 10 o 15 años. Ahora, con todas las diferentes empresas y las diferentes herramientas que hacen que las herramientas de análisis y las tecnologías sean más fáciles para ti, te divertirás mucho creando estos conocimientos con muchas menos complicaciones que cuando yo empecé. Así que estoy muy entusiasmado con escuchar lo que piensas y ver cuál será tu experiencia.
 
 ### Autorreflexión: haz tus propias preguntas SMART 📑
 
