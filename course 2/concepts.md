@@ -33,6 +33,51 @@ Los analistas de datos trabajan con una variedad de problemas. Algunos de ellos 
 6. Buscar patrones: buscar patrones mediante datos históricos para entender lo que pasó en el pasado y que, por lo tanto, es probable que vuelva a suceder. 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Concepts 💬
@@ -68,3 +113,43 @@ Data analysts work with a variety of problems. Some of them are:
 5. Discovering connections: Finding similar challenges faced by different entities and combining data and insights to address them.
 
 6. Finding patterns: Using historical data to understand what happened in the past and is therefore likely to happen again.
+
+### Leading question
+
+it's leading you to answer in a certain way.
+
+### Closed-ended question
+
+That means it can be answered with a yes or no. These kinds of questions rarely lead to valuable insights.
+
+Action-oriented questions encourage change.
+
+### SMART methodology
+
+Effective questions follow the SMART methodology:
+
+S pecific
+M easurable
+A ction-oriented R elevant
+T ime-bound
+
+### Specific questions
+
+Specific questions are simple, significant, and focused on a single topic or a few closely related ideas.
+If a question is too general, try to narrow it down by focusing on just one element.
+
+### Measurable questions 
+
+Measurable questions can be quantified and assessed.
+
+### Relevant questions
+
+Relevant questions matter, are important, and have significance to the problem you're trying to solve.
+
+### Time-bound questions
+
+Time-bound questions specify the time to be studied.
+
+### Fairness
+
+Ensuring that your questions dont create or reinforce bias.
