@@ -759,27 +759,414 @@ Pon a prueba tus conocimientos sobre cómo actuar con datos.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+En un video anterior, compartí cómo el análisis de datos ayudó a una empresa a determinar dónde anunciar sus servicios. Una parte importante de este proceso fue tener habilidades sólidas para resolver problemas. Como analista de datos, aprenderás que los problemas están en el centro de lo que haces todos los días, pero eso está bien. Los problemas son oportunidades para practicar tus habilidades y buscar soluciones creativas y perspicaces. Los problemas pueden ser pequeños o grandes, simples o complejos. Ningún problema es como otro y todos requieren un enfoque ligeramente diferente, pero el primer paso es siempre el mismo: entender qué tipo de problema tratas de resolver, y de eso vamos a hablar ahora. 
+
+Los analistas de datos trabajan con una variedad de problemas. En este video, nos centraremos en seis tipos comunes. Estos incluyen:
+
+1. Hacer predicciones
+2. Categorizar cosas
+3. Detectar algo inusual
+4. Identificar temas
+5. Descubrir conexiones
+6. Buscar patrones.
+
+Definamos cada uno de ellos: 
+
+**1. Hacer predicciones**
+
+- Este tipo de problema implica el usar datos para tomar una decisión informada sobre cómo pueden ser las cosas en el futuro. 
+
+Por ejemplo, un sistema hospitalario podría usar un monitoreo remoto de los pacientes para predecir eventos de salud para pacientes con afecciones crónicas. Los pacientes medirían sus signos vitales en casa todos los días, y esa información combinada con datos sobre su edad, sus factores de riesgo y otros detalles importantes podría permitir que el algoritmo del hospital prediga futuros problemas de salud e incluso reduzca futuras hospitalizaciones.
+
+**2. Categorizar cosas**
+
+- Esto significa asignar información a diferentes grupos según sus características comunes. 
+
+Un ejemplo de este tipo de problema es un fabricante que revisa datos sobre el desempeño de los empleados de la planta. Un analista puede crear grupos para los empleados que son los más y los menos eficaces en ingeniería, grupos para los empleados que son los más y los menos eficaces en reparación y mantenimiento, los más y los menos eficaces en el montaje, y muchos más grupos. 
+
+**3. Detectar algo inusual**
+
+- Los analistas de datos identifican datos que son diferente de lo normal. 
+
+Un ejemplo de detectar algo inusual en el mundo real es un sistema escolar que tiene un aumento repentino del número de matriculados, tal vez tan grande como un aumento del 30% del número de estudiantes. Un analista de datos podría investigar este incremento y descubrir que varios nuevos complejos de apartamentos se construyeron en el distrito escolar a principios de ese año. Podría usar este análisis para asegurarse de que la escuela tenga los recursos suficientes para los estudiantes adicionales. 
+
+**4. Identificar temas**
+
+- Identificar temas toma la categorización y va un paso más allá agrupando los datos en conceptos más amplios. 
+
+Volvamos al ejemplo del fabricante que acaba de revisar los datos sobre los empleados de la planta. Primero, estas personas están agrupadas por tipos y tareas. Sin embargo, ahora un analista de datos podría tomar esas categorías y agruparlas en el concepto más amplio de baja productividad y alta productividad. Esto haría posible que la empresa vea quién es el más y el menos productivo, para recompensar a los mejores y ofrecer apoyo adicional a los trabajadores que necesiten más formación. 
+
+**5. Descubrir conexiones**
+
+- Permite a los analistas de datos encontrar desafíos similares enfrentados por entidades diferentes y luego combinar datos e información para abordarlos.
+
+Esto es lo que quiero decir: digamos que una empresa de escúteres está experimentando un problema con las ruedas que obtiene de su proveedor. Esa empresa tendría que detener la producción hasta que pueda tener ruedas seguras y de calidad nuevamente almacenadas. Pero, mientras tanto, las empresas de ruedas que tienen un problema con la goma que usan para hacer las ruedas, resulta que su proveedor de caucho tampoco pudo encontrar los materiales adecuados. Si todas estas entidades pudieran hablar de los problemas que enfrentan y compartir datos abiertamente, encontrarían una gran cantidad de desafíos similares y, mejor aún, podrían colaborar para encontrar una solución. 
+
+**6. Buscar patrones**
+
+- Los analistas de datos usan datos para buscar patrones mediante datos históricos para entender lo que pasó en el pasado y que, por lo tanto, es probable que vuelva a suceder. 
+
+Las empresas de comercio electrónico usan datos para buscar patrones todo el tiempo. Los analistas de datos observan las transacciones para entender los hábitos de compra de los clientes en determinados momentos a lo largo del año. Pueden encontrar que los clientes compran más productos enlatados justo antes de un huracán o que compran menos accesorios para climas fríos, como gorros y guantes, durante los meses más cálidos. Las empresas de comercio electrónico pueden usar estos conocimientos para asegurarse de que almacenan la cantidad correcta de productos en estos momentos clave. 
+
+![image](./img/module%2001%20img%2008.png)
+
+Muy bien, ahora aprendiste seis tipos básicos de problemas que los analistas de datos suelen afrontar. Como futuro analista de datos, esto será un conocimiento valioso para tu carrera. A continuación, hablaremos un poco más sobre estos tipos de problemas y proporcionaremos aún más ejemplos de cómo los resuelven los analistas de datos. A mí, personalmente, me encantan los ejemplos del mundo real. Me ayudan a comprender mejor los conceptos nuevos. No puedo esperar a compartir más casos reales contigo. Nos vemos ahí.
+
 ### Seis tipos de problemas 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+El análisis de datos es mucho más que simplemente introducir información en una plataforma para buscar conocimientos: se trata de resolver problemas. Para llegar a la raíz de estos problemas y encontrar soluciones prácticas, existen muchas oportunidades para el pensamiento creativo. No importa el problema, el primer paso y el más importante es comprenderlo. A partir de ahí, es bueno adoptar un enfoque de resolución de problemas para tu análisis para ayudarte a decidir qué información debe incluirse, cómo puedes transformar los datos y cómo se utilizarán los datos. 
+
+Los analistas de datos suelen trabajar con seis tipos de problemas
+
+![image](./img/module%2001%20img%2009.png)
+
+1. Hacer predicciones 2. Categorizar cosas 3. Detectar algo inusual 4. Identificar temas 5. Descubrir conexiones 6. Buscar patrones
+
+#### Hacer predicciones
+
+Una empresa que quiere conocer el mejor método publicitario para atraer nuevos clientes es un ejemplo de un problema que requiere que los analistas hagan predicciones. Los analistas con datos sobre la ubicación, el tipo de medio y la cantidad de nuevos clientes adquiridos como resultado de anuncios anteriores no pueden garantizar resultados futuros, pero pueden ayudar a predecir la mejor ubicación de la publicidad para llegar al público objetivo.
+
+#### Categorizar cosas
+
+Un ejemplo de un problema que requiere que los analistas categoricen cosas es el objetivo de una empresa de mejorar la satisfacción del cliente. Los analistas pueden clasificar las llamadas de servicio de atención al cliente en función de determinadas palabras clave o puntuaciones. Esto podría ayudar a identificar a los representantes de servicio de atención al cliente con mejor desempeño o ayudar a correlacionar ciertas acciones tomadas con puntajes más altos de satisfacción del cliente.
+
+#### Detectar algo inusual
+
+Una empresa que vende relojes inteligentes que ayudan a las personas a controlar su salud estaría interesada en diseñar su software para detectar algo inusual. Los analistas que analizaron datos de salud agregados pueden ayudar a los desarrolladores de productos a determinar los algoritmos correctos para detectar y activar alarmas cuando ciertos datos no muestren una tendencia normal.
+
+#### Identificar temas
+
+Los diseñadores de experiencia del usuario (UX) pueden confiar en los analistas para analizar los datos de interacción del usuario. De manera similar a los problemas que requieren que los analistas categoricen las cosas, los proyectos de mejora de la usabilidad pueden requerir que los analistas identifiquen temas para ayudar a priorizar las características correctas del producto para mejorarlas. Los temas se utilizan con mayor frecuencia para ayudar a los investigadores a explorar ciertos aspectos de los datos. En un estudio de usuarios, las creencias, las prácticas y las necesidades de los usuarios son ejemplos de temas.
+
+A estas alturas, es probable que te estés preguntando si existe una **diferencia entre categorizar cosas e identificar temas**. La mejor manera de pensarlo es la siguiente: categorizar cosas implica asignar elementos a categorías, mientras que identificar temas lleva esas categorías un paso más allá agrupándolas en temas más amplios.
+
+#### Descubrir conexiones
+
+Una empresa de logística de terceros que trabaja con otra empresa para que los envíos se entreguen a tiempo a los clientes es un problema que requiere que los analistas descubran conexiones. Al analizar los tiempos de espera en los centros de envío, los analistas pueden determinar los cambios de programación apropiados para aumentar la cantidad de entregas a tiempo.
+
+#### Buscar patrones
+
+Minimizar el tiempo de inactividad causado por fallas en las máquinas es un ejemplo de un problema que requiere que los analistas busquen patrones en los datos. Por ejemplo, al analizar los datos de mantenimiento, es probable que descubran que la mayoría de las fallas ocurren si el mantenimiento regular se retrasa más de 15 días.
+
+#### Conclusión clave
+
+A medida que avanzas en este programa, desarrollarás un ojo más agudo para los problemas y practicarás pensar detenidamente en los tipos de problemas cuando comiences tu análisis. Este método de resolución de problemas te ayudará a encontrar soluciones que satisfagan las necesidades de todos los interesados.
 
 ### Problemas del mundo real 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-6%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Aprendiste sobre seis tipos comunes de problemas para los analistas de datos: **hacer predicciones, categorizar cosas, detectar algo inusual, identificar temas, descubrir conexiones y buscar patrones**. Pensemos nuevamente en el ejemplo del mundo real de un video anterior. 
+
+#### Ejemplo: Hacer predicciones
+
+- En ese ejemplo, Anywhere Gaming Repair quería descubrir cómo atraer a nuevos clientes. 
+
+- Así que el problema era cómo determinar el mejor método publicitario para el público objetivo de Anywhere Gaming Repair. 
+
+- Para ayudar a resolver este problema, la empresa usó datos para visualizar qué pasaría si publicitara en diferentes lugares. Nadie puede ver el futuro, pero los datos los ayudaron a tomar una decisión informada sobre cómo serían, probablemente, las cosas. Así que ese tipo de problema era hacer predicciones. 
+
+#### Ejemplo: Categorizar cosas
+
+- Una empresa desea mejorar sus niveles de satisfacción del cliente.
+  
+- Los analistas de datos podrían revisar los registros de llamadas al departamento de atención al cliente y evaluar los niveles de satisfacción de las personas que llaman. Podrían identificar ciertas palabras o frases clave que surgen durante las llamadas telefónicas y asignarlas a categorías tales como cortesía, satisfacción, insatisfacción, empatía, etc.
+
+- Categorizar estas palabras clave nos brinda datos que permiten a la empresa identificar a los representantes de servicio de atención al cliente con mejor desempeño y a los que necesitan más capacitación. Esto lleva a clientes más satisfechos y puntuaciones más altas de atención al cliente.
+
+#### Ejemplo: Detectar algo inusual
+
+- Una trata sobre una mujer que era joven, atlética y no tenía problemas médicos previos. Una noche escuchó un pitido en su reloj inteligente, una notificación decía que su frecuencia cardíaca había subido.
+
+- Ahora, en este ejemplo, piensa en el reloj como un analista de datos. El reloj recolectaba y analizaba datos de salud. Así que cuando el ritmo cardíaco subió de repente a 120 latidos por minuto, el reloj detectó algo inusual porque, según sus datos, el ritmo cardíaco en reposo se situaba normalmente cerca de 70. Gracias a los datos que le dio su reloj inteligente, la mujer fue al hospital y descubrió que tenía una afección que podría haber tenido complicaciones fatales si no hubiera recibido asistencia médica urgente.
+
+#### Ejemplo: Identificar temas
+
+- Vemos muchos ejemplos de esto en el campo de la experiencia del usuario. Los diseñadores de experiencia del usuario estudian y trabajan para mejorar las interacciones de personas con los productos.
+
+- Un diseñador de experiencia del usuario desea ver qué opinan los clientes sobre la cafetera que fabrica su empresa. Este negocio recopila datos anónimos de encuestas de usuarios que pueden usarse para responder esta pregunta. Pero, primero, para darle sentido a todo, deberá encontrar temas que representen los datos más valiosos, sobre todo la información que puede usar para mejorar la experiencia del usuario.
+
+- Así que el problema que afronta la empresa del diseñador de experiencia del usuario es cómo mejorar la experiencia del usuario con sus cafeteras.
+
+-  Este proceso es similar a buscar categorías para palabras y frases clave, y conversaciones del servicio de atención al cliente. Pero identificar temas va más allá agrupando cada conocimiento útil en un tema más amplio. Entonces el diseñador puede precisar los temas que más se repiten. En este caso, aprendió que los usuarios a menudo no sabían si la cafetera estaba encendida o apagada. Entonces, optimizó el diseño con una mejora en la ubicación e iluminación del botón de encendido, lo que mejoró el producto e hizo más felices a los usuarios.
+
+#### Ejemplo: Descubrir conexiones
+
+- Este ejemplo es de la industria del transporte y usa algo llamado logística de terceros. Los socios logísticos externos ayudan a las empresas a enviar productos cuando no tienen camiones, aviones o barcos propios.
+
+- Un problema común que tienen estos socios es reducir el tiempo de espera. El tiempo de espera ocurre cuando una camionera del proveedor logístico externo llega para recoger un envío pero el envío no está listo. Así que tiene que esperar. Eso le cuesta tiempo y dinero a ambas empresas, e impide que los camiones sigan trabajando para hacer más entregas.
+
+- Entonces, ¿cómo pueden resolver esto? Al compartir datos, las empresas asociadas pueden ver los plazos de la otra parte y ver qué causa que se atrasen los envíos. Entonces pueden averiguar cómo evitar esos problemas en el futuro para que el problema de una empresa no cause un efecto negativo en la otra.
+
+- Por ejemplo, si los envíos se retrasan porque una empresa solo entrega los lunes, miércoles y viernes, y la otra empresa solo entrega los martes y jueves, entonces las empresas pueden elegir entregar el mismo día para reducir el tiempo de espera para los clientes.
+
+#### Ejemplo: Buscar patrones
+
+- Las empresas de petróleo y gas trabajan constantemente para que sus máquinas funcionen correctamente. Así que el problema es cómo evitar que las máquinas se averíen. Una forma en que los analistas de datos pueden hacer esto es buscar patrones en los datos históricos de la empresa.
+
+- Por ejemplo, podrían investigar cómo y cuándo una máquina en particular se descompuso en el pasado y luego generar ideas sobre qué produjo la rotura. En este caso, surgió un patrón que indicaba que las máquinas se averiaban con más frecuencia cuando el servicio de mantenimiento no se realizaba en ciclos de 15 días. Ahora pueden hacer un seguimiento de las condiciones actuales e intervenir si alguno de estos problemas vuelve a ocurrir.
+
+
+Suena genial, ¿verdad? Siempre me gusta oír hablar de cómo los datos ayudan a las personas y a las empresas reales a realizar cambios significativos. Espero que a ti también te guste. Nos vemos pronto.
+
 ### 6 tipos de problemas básicos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+1. Usar datos para tomar decisiones informadas sobre cómo pueden ser las cosas en el futuro.
+
+    - Hacer predicciones
+    
+      ✅ Correcto. Este tipo de problema implica el usar datos para tomar una decisión informada sobre cómo pueden ser las cosas en el futuro. 
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+    
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+2. Agrupar datos según características comunes.
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ✅ Correcto. Su propósito consiste en asignar información a diferentes grupos según sus características comunes.
+      
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+3. Identificar datos que difieren de la norma.
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+      
+    - Detectar algo inusual
+    
+      ✅ Correcto. Los analistas de datos identifican datos que son diferente de lo normal.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+4. Reconocer conceptos más amplios y tendencias de los datos categorizados.
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+      
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ✅ Correcto. Identificar temas toma la categorización y va un paso más allá agrupando los datos en conceptos más amplios. 
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+5. Identificar desafíos similares en entidades diferentes y usar datos e información para encontrar soluciones comunes.
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+      
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ✅ Correcto. Permite a los analistas de datos encontrar desafíos similares enfrentados por entidades diferentes y luego combinar datos e información para abordarlos.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+6. Utilizar datos históricos sobre qué sucedió en el pasado para comprender qué tan probable es que vuelva a suceder.
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+      
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ✅ Correcto. Los analistas de datos usan datos para buscar patrones mediante datos históricos para entender lo que pasó en el pasado y que, por lo tanto, es probable que vuelva a suceder. 
+
 ### De la hipótesis al resultado 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola, soy Anmol. Soy el Director de Análisis de Marketing para Grandes Anunciantes dentro del Equipo de Marketing de Google. En esencia, mi trabajo se trata de conectar al usuario adecuado con el mensaje adecuado, en el momento adecuado. 
+
+El primer paso es realmente tener una idea general de un cierto patrón que está ocurriendo. Así, por ejemplo, sabemos que este segmento en particular de los usuarios es más receptivo a este tipo de contenido. Una vez que somos capaces de ver esta hipótesis a través de los datos, hacemos pruebas para garantizar que la hipótesis sea realmente correcta. Así, por ejemplo, podríamos probar denviando estos contenidos a este segmento de usuarios y verificar en realidad dentro de un entorno controlado si esa tasa de respuesta es más alta para ese tipo de contenido o si no lo es. 
+
+Una vez que somos capaces de verificar esa hipótesis, volvemos a los interesados, en este caso, nuestros comercializadores y les diremos que hemos demostrado dentro de un alto grado de certeza que este segmento en particular responde más a este tipo de contenido y por eso les recomendamos que produzcan más de este tipo de contenido. Nuestros interesados en verdad llegar a ver la evolución completa, de hipótesis al concepto probado, y pueden acompañarnos a demostrar estas hipótesis y luego, finalmente, convertirlas en estrategias y recomendaciones para el negocio. 
+
+El resultado en este caso fue que pudimos cambiar la manera en que todo el equipo de marketing trabajaba para hacerla mucho más centrada en el usuario. En lugar de crear contenido que, desde nuestra perspectiva, creemos que los usuarios necesitan, vamos en la dirección opuesta, averiguamos primero qué cosa necesitan, demostramos que necesitan ciertas cosas o que no las necesitan, y luego usamos esa información volviendo a los comercializadores y creando contenido que satisfaga sus necesidades. Así que realmente cambió la dirección de cómo producimos las cosas.
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos sobre la resolución de problemas con datos. 
+
+1. Un analista de datos identifica y clasifica las palabras clave de las reseñas de los clientes para mejorar la satisfacción del cliente. ¿Este es un ejemplo de qué tipo de problema?
+
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ✅ Correcto. Un analista de datos que identifica y clasifica las palabras clave de las reseñas de los clientes para mejorar la satisfacción del cliente es un ejemplo de categorizar cosas. 
+    
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ❌ Incorrecto.
+
+
+2. ¿El tipo de problema de detectar algo inusual podría involucrar cuál de los siguientes escenarios?
+
+    - Un analista de datos de un minorista de ropa crea una lista de temas comunes, los categoriza y agrupa cada categoría en un área temática más amplia para un análisis más detallado.
+    
+      ❌ Incorrecto.
+  
+    - El conocimiento de los datos ayuda a una empresa de paisajismo a imaginar lo que sucederá en el futuro
+    
+      ❌ Incorrecto.
+    
+    - Un analista de datos que trabaja para una empresa agrícola examina por qué un conjunto de datos tiene un punto de datos sorprendente y raro.
+    
+      ✅ Correcto. El tipo de problema de detectar algo inusual podría implicar que un analista de datos examine por qué un conjunto de datos tiene un punto de datos sorprendente y raro. Detectar algo inusual se ocupa de identificar y analizar algo fuera de lo común.
+      
+    - Un analista de datos de una organización artística sin fines de lucro clasifica puntos de datos similares en grupos para un análisis más detallado.
+    
+      ❌ Incorrecto.
+
+
+3. Un analista de datos de un minorista en línea trabaja con datos históricos de ventas. El analista identifica tendencias repetidas en los datos de ventas. ¿Este es un ejemplo de qué tipo de problema?
+
+    - Un analista de datos de un minorista de ropa crea una lista de temas comunes, los categoriza y agrupa cada categoría en un área temática más amplia para un análisis más detallado.
+    
+    - Hacer predicciones
+    
+      ❌ Incorrecto.
+  
+    - Categorizar cosas
+    
+      ❌ Incorrecto.
+    
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+
+    - Buscar patrones
+    
+      ✅ Correcto. Este es un ejemplo de buscar patrones. Buscar patrones se ocupa de identificar tendencias en un conjunto de datos.
 
 ---
 
