@@ -32,6 +32,40 @@ Los analistas de datos trabajan con una variedad de problemas. Algunos de ellos 
 
 6. Buscar patrones: buscar patrones mediante datos históricos para entender lo que pasó en el pasado y que, por lo tanto, es probable que vuelva a suceder. 
 
+### Pregunta capciosa
+
+Te está llevando a responder de cierta manera.
+
+### Pregunta cerrada 
+
+Eso significa que se puede responder con un sí o un no. Este tipo de preguntas rara vez conducen a conocimientos valiosos.
+
+Las preguntas orientadas a la acción fomentan el cambio: 
+
+### Metodología SMART 
+
+Las preguntas efectivas siguen la metodología SMART:
+
+S pecific (específicas)
+M easurable (medibles)
+A ction-oriented (orientadas a la acción)
+R elevant (relevantes)
+T ime-bound (plazos determinados)
+
+1. Specific: Las preguntas específicas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas.
+
+2. Measurable: Las preguntas medibles se pueden cuantificar y evaluar.
+
+3. Action-oriented: Las preguntas orientadas a la acción fomentan el cambio.
+
+4. Relevant: Las preguntas relevantes importan y son cruciales para el problema que tratas de resolver.
+
+5. Time-bound: Las preguntas con plazos determinados especifican el tiempo que se estudia.
+
+### Fairness (Justicia)
+
+- Asegurarse de que su análisis no cree ni refuerce sesgos.
+
 
 
 
@@ -122,7 +156,7 @@ it's leading you to answer in a certain way.
 
 That means it can be answered with a yes or no. These kinds of questions rarely lead to valuable insights.
 
-Action-oriented questions encourage change.
+Action-oriented questions encourage change:
 
 ### SMART methodology
 
@@ -130,25 +164,19 @@ Effective questions follow the SMART methodology:
 
 S pecific
 M easurable
-A ction-oriented R elevant
+A ction-oriented
+R elevant
 T ime-bound
 
-### Specific questions
+1. Specific: Specific questions are simple and meaningful, focusing on a single topic or a few closely related ideas.
 
-Specific questions are simple, significant, and focused on a single topic or a few closely related ideas.
-If a question is too general, try to narrow it down by focusing on just one element.
+2. Measurable: Measurable questions can be quantified and evaluated.
 
-### Measurable questions 
+3. Action-oriented: Action-oriented questions encourage change.
 
-Measurable questions can be quantified and assessed.
+4. Relevant: Relevant questions matter and are crucial to the problem you are trying to solve.
 
-### Relevant questions
-
-Relevant questions matter, are important, and have significance to the problem you're trying to solve.
-
-### Time-bound questions
-
-Time-bound questions specify the time to be studied.
+5. Time-bound: Time-bound questions specify how long you study.
 
 ### Fairness
 
