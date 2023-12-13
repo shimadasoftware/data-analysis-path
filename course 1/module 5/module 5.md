@@ -728,8 +728,6 @@ en [la plataforma TED](https://www.ted.com/talks/anna_leach_building_authentic_r
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
-
 A
 
 - Análisis (computacional) de datos: La ciencia de los datos
