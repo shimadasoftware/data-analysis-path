@@ -1256,23 +1256,339 @@ Has aprendido mucho sobre cómo elaborar preguntas efectivas, como cómo usar el
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Hoy en día, las empresas de muchas industrias se enfrentan a cambios rápidos y a una creciente incertidumbre. Incluso las empresas bien establecidas están bajo presión para mantenerse al día con las novedades y descubrir qué viene después. Para hacer eso, deben hacer preguntas. Hacer las preguntas correctas puede ayudar a generar las ideas innovadoras que tantas empresas anhelan en estos días.
+
+Lo mismo ocurre con el análisis de datos. No importa cuánta información tengas o cuán avanzadas sean tus herramientas, los datos no te dirán mucho si no empiezas con las preguntas correctas. Piensa en ello como un detective con toneladas de evidencia que no hace preguntas a un sospechoso clave sobre eso.  A continuación, aprenderás más sobre cómo hacer preguntas altamente efectivas, junto con ciertas prácticas que se recomienda evitar.
+
+#### Las preguntas altamente efectivas son preguntas SMART:
+
+![image](./img/module%2001%20img%2012.png)
+
+#### Ejemplos de preguntas SMART
+
+Aquí hay un ejemplo que desglosa el proceso de pensamiento de convertir una pregunta problemática en una o más preguntas SMART utilizando el método SMART: ¿Qué características busca la gente al comprar un automóvil nuevo?
+
+- **Específica:** ¿la pregunta se centra en una característica particular del automóvil?
+
+- **Medible:** ¿la pregunta incluye un sistema de clasificación de características?
+
+- **Orientada a la acción:** ¿la pregunta influye en la creación de paquetes de características nuevos o diferentes?
+
+- **Relevante:** ¿la pregunta identifica qué características constituyen un punto de inflexión en una posible compra de un automóvil?
+
+- **Con plazos determinados:** ¿la pregunta valida los datos sobre las características más populares de los últimos tres años? 
+
+Las preguntas deben ser **abiertas**. Esta es la mejor manera de obtener respuestas que te ayudarán a calificar o descalificar con precisión las posibles soluciones al problema específico. Entonces, según el proceso de pensamiento, las siguientes preguntas podrían ser SMART:
+
+- En una escala del 1 al 10 (siendo 10 lo más importante), ¿qué importancia tiene que su automóvil cuente con tracción en las cuatro ruedas?
+
+- ¿Cuáles son las cinco características principales que le gustaría ver en un paquete de automóvil?
+
+- ¿Qué características, si se incluyen con la tracción en las cuatro ruedas, lo acercarían más a comprar el automóvil?
+
+- ¿Cuánto más pagaría por un automóvil con tracción en las cuatro ruedas?
+
+- ¿Se ha vuelto más o menos popular la tracción en las cuatro ruedas en los últimos tres años?
+
+#### Cosas que debes evitar al hacer preguntas
+
+**Preguntas sugestivas:** preguntas que solo tienen una respuesta en particular
+
+Ejemplo: **este producto es demasiado caro, ¿no?**
+
+Esta es una pregunta sugestiva porque sugiere una respuesta como parte de la pregunta. Una pregunta mejor podría ser :"¿cuál es su opinión sobre este producto?" Hay toneladas de respuestas a esa pregunta, y podrían incluir información sobre la usabilidad, las características, los accesorios, el color, la confiabilidad y la popularidad, además del precio. Si el problema se centra realmente en los precios, puedes hacer una pregunta como "¿qué precio (o rango de precios) le haría considerar comprar este producto?" Esta pregunta proporcionaría muchas respuestas medibles diferentes.
+
+**Preguntas cerradas:** preguntas que piden una respuesta breve o de una sola palabra.
+
+Ejemplo: **¿quedó satisfecho con la prueba gratis del software?**
+
+Esta es una pregunta cerrada porque no anima a las personas a ampliar su respuesta. Es muy fácil para ellos dar respuestas de una palabra que no son muy informativas. Una pregunta mejor podría ser: "¿qué aprendió sobre la experiencia del cliente cuando probó el software gratis?" Esto anima a las personas a proporcionar más detalles además de "Estuvo bien".
+
+**Preguntas imprecisas:** preguntas que no son específicas o no ofrecen contexto.
+
+Ejemplo: **¿la herramienta funciona para usted?**
+
+Esta pregunta es demasiado imprecisa porque no hay contexto. ¿Se trata de comparar la herramienta nueva con la que reemplaza? Simplemente, no lo sabes. Una mejor pregunta podría ser: "en lo que respecta al ingreso de datos, ¿la herramienta nueva es más rápida, más lenta o casi lo mismo que la antigua? Si es más rápida, ¿cuánto tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?" Estas preguntas dan contexto (ingreso de datos) y ayudan a enmarcar respuestas que son medibles (tiempo).
+
 ### Autorreflexion: escenarios de analistas de datos 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+#### Descripción general
+
+Ahora que conoces el framework SMART para hacer preguntas, puedes hacer una pausa para aplicar lo que estás aprendiendo. En esta autorreflexión, considerarás las preguntas que harías en un escenario específico.
+
+Esta autorreflexión te ayudará a desarrollar conocimientos sobre tu propio aprendizaje y te preparará para aplicar tu conocimiento del framework de preguntas SMART a tus propias investigaciones de datos. A medida que respondas las preguntas, y plantees tus propias preguntas, tendrás en cuenta los conceptos, las prácticas y los principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+#### El escenario
+
+Llevas tres semanas en tu nuevo trabajo como analista de datos júnior. La empresa para la que trabajas acaba de recopilar datos sobre sus ventas del fin de semana. Tu gerente te pide que realices una "inmersión profunda" en estos datos. Para que este proyecto comience, debes hacer algunas preguntas y obtener información.
+
+#### Preguntas SMART
+
+Como recordatorio, las preguntas SMART tienen las siguientes características:
+
+- **Específicas (Specific):** las preguntas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas.
+
+- **Medibles (Measurable):** las preguntas se pueden cuantificar y evaluar.
+
+- **Orientadas a la acción (Action-oriented):** las preguntas fomentan el cambio.
+
+- **Relevantes (Relevant):** las preguntas son importantes para el problema que tratas de resolver.
+
+- **Temporales (Time-bound):** Las preguntas especifican el plazo que se estudia en el proyecto.
+
+A continuación, utilizarás el framework SMART para hacer preguntas efectivas sobre el escenario anterior. Luego, reflexionarás sobre los temas que tus preguntas SMART deben abordar.
+
+#### Haz el tipo de preguntas correcto
+
+Puedes aplicar el framework SMART a todo tipo de preguntas. El tipo de preguntas que hagas puede ayudarte a explorar con mayor profundidad la situación con tus datos. Considera las formas en que las preguntas te ayudan a examinar los objetivos, la audiencia, el tiempo, la seguridad y los recursos.
+
+Algunos temas comunes para crear las preguntas incluyen los siguientes:
+
+**Objetivos:** ¿Cuáles son los objetivos de la inmersión profunda? ¿Qué preguntas, si las hay, se espera que sean respondidas con esta inmersión profunda?
+
+**Audiencia:** ¿Quiénes son los interesados? ¿Quién está interesado o preocupado por los resultados de esta inmersión profunda? ¿Quién es el público de la presentación?
+
+**Tiempo:** ¿Cuál es el plazo para la finalización? ¿Para qué fecha debe hacerse esto?
+
+**Recursos:** ¿Qué recursos hay disponibles para lograr los objetivos de la inmersión profunda?
+
+**Seguridad:** ¿Quién debería tener acceso a la información?
+
+Piensa en cómo puedes hacer preguntas SMART sobre cada uno de estos temas.
+
+#### Reflexión
+
+Considera el escenario anterior:
+
+- Sobre la base del framework SMART, ¿qué preguntas son más importantes?
+
+- ¿Cómo aclararán estas preguntas los requisitos y objetivos del proyecto?
+
+- ¿Cómo te beneficia hacer preguntas detalladas y específicas al planificar un proyecto? ¿Pueden las preguntas imprecisas o poco claras dañar un proyecto?
+
+Ahora, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas.
+
+#### Desarrollo
+
+Sobre la base del framework SMART, ¿qué preguntas son más importantes?
+
+Las preguntas más importantes son las relacionadas con los temas de objetivos, Audiencia y tiempo. Entender el objetivo del proyecto es vital para su desarrollo, de esta manera, se conocen las metas y las oportunidades de mejora o tendencias para dirigir el análisis de manera efectiva. Asimismo, conocer el tipo de audiencia ayuda a entender que necesidades y expectativas tiene los stakeholders y a orientar la presentación al público correspondiente. Es fundamental el tiempo porque permite conocer los plazos para la planeación y desarrollo del proyecto. Por otra parte, aunque es necesario conocer los recursos del proyecto, no se considera importante porque la descripción del escenario no menciona limitaciones claras de recursos. También, en cuanto a la seguridad y el acceso a la información no parecen ser los puntos más críticos en este contexto, no se mecionan datos sensibles por parte de las ventas.
+
+¿Cómo aclararán estas preguntas los requisitos y objetivos del proyecto?
+
+Las preguntas ayudarán a definir el alcance del proyecto, los involucrados y orientarán la recopilación y análisis de datos para abordar específicamente las necesidades de la empresa.
+
+¿Cómo te beneficia hacer preguntas detalladas y específicas al planificar un proyecto?
+
+Las preguntas relevantes importan y son cruciales para el problema que tratas de resolver, ya que hacer preguntas detalladas y específicas clarifica la dirección del proyecto, asegurando que se aborden las áreas críticas. La claridad desde el principio es fundamental para un análisis de datos efectivo.
+
+¿Pueden las preguntas imprecisas o poco claras dañar un proyecto?
+
+Las preguntas imprecisas o poco claras podrían conducir a resultados ambiguos o irrelevantes.
+
+✅ Correcto. Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión sobre este tema describiría cómo aplicaste las preguntas SMART al escenario.
+
+Aquí hay algunas preguntas que quizás te convenga hacer:
+
+¿Cuándo debe estar terminado el proyecto?
+
+¿Hay algún desafío específico a tener en cuenta?
+
+¿Quiénes son los principales interesados en este proyecto y qué esperan que haga este proyecto por ellos?
+
+¿A quién le presento los resultados?
+
+Estas preguntas pueden ayudarte a concentrarte en técnicas y análisis que produzcan resultados útiles para los interesados. También aclaran la fecha en que debe estar listo el resultado entregable, que es importante conocer para que puedas administrar tu tiempo de manera efectiva. Cuando comiences a trabajar en un proyecto, debes hacer preguntas que se alineen con el plan y los objetivos y que te ayuden a explorar los datos. Cuantas más preguntas hagas, más aprenderás sobre los datos y más poderosos serán tus conocimientos.
+
+Hacer preguntas minuciosas y específicas significa aclarar los detalles hasta llegar a los requisitos concretos. Con requisitos y objetivos claros, es mucho más fácil planificar y llevar a cabo un proyecto de análisis de datos exitoso y evitar problemas que consuman mucho tiempo en el futuro.
 
 ### Los datos abren puertas 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Hola, soy Evan. Soy gerente del portfolio de aprendizaje de Google y tengo uno de los trabajos más geniales del mundo, donde puedo ver todas las diferentes tecnologías que afectan los macrodatos e incorporarlas en cursos de capacitación como este para los estudiantes. Desearía haber realizado un curso como este cuando recién salí de la universidad o la escuela secundaria. Un curso de analista de datos que está orientado cómo este, si ya pudiste ver algunos de los videos, es lo que realmente te prepara para hacer lo que quieras. Te ayudará a abrir todas las puertas que quieras para cualquiera de esos roles que forman parte del plan de estudios de datos. ¿Cuáles son algunos de esos roles? Hay tantas carreras profesionales diferentes para los interesados en los datos. Por lo general, si eres como yo, comenzarás como analista de datos, tal vez trabajando con hojas de cálculo, tal vez trabajando con bases de datos pequeñas, medianas y grandes, pero todo lo que tienes que recordar son los tres roles principales diferentes. Hay muchas especialidades dentro de cada una de estas diferentes carreras, pero estos tres roles son el analista de datos, que generalmente es alguien que trabaja con SQL, hojas de cálculo, bases de datos y podría formar partede un equipo de inteligencia empresarial creando paneles. Ahora bien, ¿de dónde provienen todos esos datos? Generalmente, un analista de datos trabajará con un ingeniero de datos para convertir los datos sin procesar en procesos viables. Así que tienes analistas de datos, ingenieros de datos y, por último, es probable que haya científicos de datos que dicen que los ingenieros de datos construyeron estos hermosos procesos. A veces, el analista también hace eso. Los analistas nos proporcionan datos limpios y viables. Entonces, los científicos de datos trabajan para convertirlos en modelos de aprendizaje automático realmente geniales o inferencias estadísticas que están mucho más allá de todo lo que podrías haber imaginado. Compartiremos muchos recursos en enlaces para que puedas entusiasmarte con cada uno de estos diferentes roles. Y la mejor parte es que si eres como yo que, cuando entré a la universidad, no sabía lo que quería hacer, no es necesario que sepas desde el principio qué camino quieres seguir. Pruébalos todos. Prueba lo que realmente te gusta. Es algo muy personal. Convertirse en analista de datos es muy emocionante. ¿Por qué? Porque no es solo un medio para lograr un objetivo. Es una profesión que muchas personas brillantes han recorrido antes y han hecho que las herramientas sean mucho más fáciles para nosotros hoy. Por ejemplo, cuando empecé a aprender el SQL, o lenguaje de consulta estructurada, que aprenderás como parte de este curso, lo hacía en mi portátil local y cada una de las consultas tomaba como 20 o 30 minutos para ejecutarse, y era muy difícil para mí realizar un seguimiento de las diferentes sentencias SQL que escribía o compartirlas con alguien más. Eso fue hace unos 10 o 15 años. Ahora, con todas las diferentes empresas y las diferentes herramientas que hacen que las herramientas de análisis y las tecnologías sean más fáciles para ti, te divertirás mucho creando estos conocimientos con muchas menos complicaciones que cuando yo empecé. Así que estoy muy entusiasmado con escuchar lo que piensas y ver cuál será tu experiencia.
+Hola, soy Evan. Soy gerente del portfolio de aprendizaje de Google y tengo uno de los trabajos más geniales del mundo, donde puedo ver todas las diferentes tecnologías que afectan los macrodatos e incorporarlas en cursos de capacitación como este para los estudiantes. Desearía haber realizado un curso como este cuando recién salí de la universidad o la escuela secundaria. Un curso de analista de datos que está orientado cómo este, si ya pudiste ver algunos de los videos, es lo que realmente te prepara para hacer lo que quieras. Te ayudará a abrir todas las puertas que quieras para cualquiera de esos roles que forman parte del plan de estudios de datos. 
+
+¿Cuáles son algunos de esos roles? Hay tantas carreras profesionales diferentes para los interesados en los datos. 
+
+Por lo general, si eres como yo, comenzarás como analista de datos, tal vez trabajando con hojas de cálculo, tal vez trabajando con bases de datos pequeñas, medianas y grandes, pero todo lo que tienes que recordar son los tres roles principales diferentes. 
+
+Hay muchas especialidades dentro de cada una de estas diferentes carreras, pero estos tres roles son:
+
+1. El analista de datos
+
+Generalmente es alguien que trabaja con SQL, hojas de cálculo, bases de datos y podría formar partede un equipo de inteligencia empresarial creando paneles. 
+
+2. Ingeniero de datos
+
+Ahora bien, ¿de dónde provienen todos esos datos? Generalmente, un analista de datos trabajará con un ingeniero de datos para convertir los datos sin procesar en procesos viables. 
+
+3. Científicos de datos
+
+Así que tienes analistas de datos, ingenieros de datos y, por último, es probable que haya científicos de datos que dicen que los ingenieros de datos construyeron estos hermosos procesos. A veces, el analista también hace eso. Los analistas nos proporcionan datos limpios y viables. Entonces, los científicos de datos trabajan para convertirlos en modelos de aprendizaje automático realmente geniales o inferencias estadísticas que están mucho más allá de todo lo que podrías haber imaginado. 
+
+Compartiremos muchos recursos en enlaces para que puedas entusiasmarte con cada uno de estos diferentes roles. Y la mejor parte es que si eres como yo que, cuando entré a la universidad, no sabía lo que quería hacer, no es necesario que sepas desde el principio qué camino quieres seguir. Pruébalos todos. Prueba lo que realmente te gusta. Es algo muy personal. Convertirse en analista de datos es muy emocionante. ¿Por qué? Porque no es solo un medio para lograr un objetivo. 
+
+Es una profesión que muchas personas brillantes han recorrido antes y han hecho que las herramientas sean mucho más fáciles para nosotros hoy. Por ejemplo, cuando empecé a aprender el SQL, o lenguaje de consulta estructurada, que aprenderás como parte de este curso, lo hacía en mi portátil local y cada una de las consultas tomaba como 20 o 30 minutos para ejecutarse, y era muy difícil para mí realizar un seguimiento de las diferentes sentencias SQL que escribía o compartirlas con alguien más. Eso fue hace unos 10 o 15 años. Ahora, con todas las diferentes empresas y las diferentes herramientas que hacen que las herramientas de análisis y las tecnologías sean más fáciles para ti, te divertirás mucho creando estos conocimientos con muchas menos complicaciones que cuando yo empecé. Así que estoy muy entusiasmado con escuchar lo que piensas y ver cuál será tu experiencia.
 
 ### Autorreflexión: haz tus propias preguntas SMART 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Descripción general
+
+Ahora que aprendiste más sobre las preguntas SMART, puedes hacer una pausa por un momento y hacer las tuyas. En esta autorreflexión, considerarás tus pensamientos sobre el framework de preguntas SMART.
+
+Esta autorreflexión te ayudará a desarrollar conocimientos sobre tu propio aprendizaje y te preparará para aplicar el framework SMART a tus propias investigaciones de datos. A medida que respondas las preguntas, y plantees tus propias preguntas, tendrás en cuenta los conceptos, las prácticas y los principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+#### Haz preguntas del mundo real
+
+En esta actividad, tendrás una conversación sobre datos con alguien que conoces. Puede ser en persona, por teléfono o en un chat de video.
+
+Elige a alguien de tu vida que utilice datos para tomar mejores decisiones. Puede ser un miembro de tu familia que dirija una pequeña empresa, un amigo que lidere un comité de la Asociación de padres y maestros o un vecino que enseñe piano. Todas estas personas recurren a los datos de alguna manera para ser más eficaces en sus funciones.
+
+Diles que te estás capacitando para ser analista de datos y que te gustaría tener una charla sobre datos para practicar tus habilidades haciendo preguntas. Al final de esta conversación, obtendrás información útil que los beneficiará a ambos.
+
+#### Planifica la conversación
+
+Primero, decide con quién hablarás y cómo esta persona podría usar los datos. Tu objetivo es planificar una conversación exitosa. Piensa cuánto tiempo necesitas y cómo lo utilizarás. Para este paso, revisa los siguientes consejos:
+
+**Prioriza tus preguntas:** prepárate para hacer primero las preguntas más importantes e interesantes.
+
+**Haz que tu tiempo cuente:** mantente en el tema durante la conversación.
+
+**Aclara tu comprensión:** para evitar confusiones, reserva algo de tiempo para resumir las respuestas y asegurarte de que las has entendido correctamente. Esto te ayudará en gran medida a evitar errores. Por ejemplo, en una conversación con un profesor, puedes verificar tu comprensión con una declaración como: "Solo para verificar que entiendo correctamente lo que está diciendo, actualmente usa los puntajes de las pruebas de las siguientes maneras..."
+
+En función del campo en el que se encuentre, es probable que la persona con la que charles no se sienta cómoda compartiendo datos detallados contigo. Está bien. Asegúrate de respetar lo que esté dispuesto a compartir durante la conversación.
+
+#### Formula preguntas
+
+Ahora, crea preguntas que te ayuden a comprender sus objetivos empresariales, el tipo de datos con los que interactúan y las limitaciones de los datos.
+
+Utiliza el framework de preguntas SMART para asegurarte de que cada pregunta que hagas tenga sentido en función de su campo de actividad. Cada pregunta debe cumplir con la mayor cantidad posible de criterios SMART. 
+
+Como recordatorio, las preguntas SMART tienen las siguientes características:
+
+- **Específicas (Specific):** las preguntas son simples y significativas, y se centran en un solo tema o en algunas ideas estrechamente relacionadas.
+
+- **Medibles (Measurable):** las preguntas se pueden cuantificar y evaluar.
+
+- **Orientadas a la acción (Action-oriented):** las preguntas fomentan el cambio.
+
+- **Relevantes (Relevant):** las preguntas son importantes para el problema que tratas de resolver.
+
+- **Temporales (Time-bound):** las preguntas especifican el plazo estudiado en el proyecto.
+
+#### Primer ejemplo:
+
+Por ejemplo, si conversas con alguien que trabaja en el comercio minorista, puedes comenzar con preguntas como las siguientes:
+
+- **Específicas (Specific):** ¿Utiliza actualmente datos para impulsar decisiones en su negocio? Si es así, ¿qué tipo de datos recopila y cómo los usa?
+
+- **Medibles (Measurable):** ¿Sabe qué porcentaje de las ventas proviene de los productos más vendidos?
+
+- **Orientadas a la acción (Action-oriented):** ¿Hay decisiones empresariales o cambios que realizaría si tuviera la información correcta? Por ejemplo, si tuviera información sobre cómo cambian las ventas de paraguas según el clima, ¿cómo la usaría?
+
+- **Relevantes (Relevant):** ¿Con qué frecuencia revisa los datos de su negocio?
+
+- **Temporales (Time-bound):** ¿Puede describir cómo los datos lo ayudaron a tomar buenas decisiones para su tienda el año pasado?
+
+#### Segundo ejemplo:
+
+Si conversas con un profesor, puedes hacer diferentes preguntas, como las siguientes:
+
+- **Específicas (Specific):** ¿Qué tipo de datos usa para planificar las lecciones?
+
+- **Medibles (Measurable):** ¿Qué tan bien se correlacionan los puntajes de las pruebas comparativas nacionales con las calificaciones de los estudiantes?
+
+- **Orientadas a la acción (Action-oriented):** ¿Comparte los datos con otros profesores para mejorar las lecciones?
+
+- **Relevantes (Relevant):** ¿Ha compartido datos de calificaciones con toda una clase? Si es así, ¿los estudiantes parecen estar más o menos motivados, o casi lo mismo?
+
+- **Temporales (Time-bound):** En los últimos cinco años, ¿cuántas veces revisó datos de años académicos anteriores?
+
+#### Tercer ejemplo:
+
+Si conversas con el propietario de una pequeña heladería, puedes preguntar lo siguiente:
+
+- **Específicas (Specific):** ¿Qué datos utiliza para ayudar con las compras y el inventario?
+
+- **Medibles (Measurable):** ¿Puede ordenar (clasificar) estos factores de mayor a menor influencia en las ventas: precio, sabor y época del año (temporada)?
+
+- **Orientadas a la acción (Action-oriented):** ¿Existe un factor en particular sobre el que necesite más datos para aumentar potencialmente las ventas?
+
+- **Relevantes (Relevant):** ¿Cómo se publicita o se comunica con los clientes?
+
+- **Temporales (Time-bound):** ¿Cómo se ve el crecimiento de las ventas año a año durante los últimos tres años?
+
+#### Toma buenas notas
+
+Es importante tomar buenas notas durante la conversación. Tus notas deben ser completas y útiles. Para ayudarte a tomar notas significativas, debes adoptar un proceso de hacer una pregunta, aclarar tu comprensión de la respuesta y luego registrarla brevemente en tus notas. 
+
+Recordatorio: si vale la pena hacer una pregunta, entonces vale la pena registrar la respuesta. Comprométete a tomar buenas notas durante la conversación. 
+
+Los aspectos útiles de la conversación para tener en cuenta incluyen lo siguiente:
+
+- **Hechos:** anota cualquier dato concreto, como fechas, horas, nombres y otros detalles.
+
+- **Contexto:** los hechos sin contexto son inútiles. Anota cualquier detalle relevante que sea necesario para comprender la información que recopilas.
+
+- **Incógnitas:** a veces, puedes pasar por alto una pregunta importante durante una conversación. Toma nota cuando esto suceda para que puedas buscar la respuesta más tarde.
+
+Por ejemplo, si las preguntas SMART anteriores llevaron al propietario de la heladería a proponer un proyecto para analizar las preferencias de sabores de los clientes, tus notas podrían ser algo así:
+
+- **Proyecto:** recopilar datos de las preferencias de sabores de los clientes.
+
+- **Objetivo empresarial general:** usar datos para ofrecer o crear sabores más populares.
+
+- **Dos fuentes de datos:** recibos de caja registradora y encuestas de cliente completadas (por correo electrónico).
+
+- **Fecha límite de finalización:** segundo trimestre.
+
+- **Tareas pendientes:** volver a llamar más tarde y hablar con el gerente sobre la ubicación de los datos de las encuestas.
+
+Las notas que tomes diferirán mucho según la conversación de datos que tengas. Lo importante es que tus notas sean claras, organizadas y concisas.
+
+Ahora estás listo para tener una excelente conversación sobre datos en la vida real.
+
+#### Reflexión
+
+Antes de comenzar tu conversación sobre datos, ten en cuenta cada uno de los pasos anteriores. Piensa en candidatos potenciales, haz una lluvia de ideas sobre algunas preguntas SMART y ten una idea de la información que deseas registrar durante la conversación. Luego, reflexiona sobre la conversación:
+
+- ¿Qué preguntas SMART hiciste? ¿Cómo se relacionan estas preguntas con el campo de actividad de la persona con la que conversaste?
+
+- ¿Qué ideas descubriste durante la conversación?
+
+- ¿Cómo te ayudó el framework SMART a sacar conclusiones?
+
+Ahora, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas.
+
+
+Ejemplo: un negocio de hamburguesas.
+
+- ¿Cuáles son los objetivos clave de la hamburguesería? 
+- ¿Se centran en aumentar las ventas, mejorar la eficiencia operativa o expandir la clientela?
+- ¿Qué datos analizas para evaluar el rendimiento de los elementos del menú?
+- ¿Incluyen ventas diarias, comentarios de los clientes o costos de ingredientes?
+- ¿Cuáles son los principales desafíos que enfrentas para mantener la satisfacción del cliente?
+- ¿Hay datos específicos que te gustaría tener para mejorar la experiencia del cliente? 
+
+Durante la conversación, descubrí que el dueño de la hamburguesería busca mejorar la eficiencia operativa y la satisfacción del cliente. Las preguntas SMART proporcionaron un marco estructurado para abordar sus metas y desafíos específicos. Las preguntas medibles permitirán evaluar cuantitativamente el rendimiento del menú y la satisfacción del cliente, mientras que las preguntas orientadas a la acción ofrecen perspectivas sobre cómo abordar los desafíos específicos, mejorando así la gestión del negocio de hamburguesas.
+
+✅ Correcto. ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión describiría cómo creaste preguntas SMART relevantes y qué conocimientos te ayudaron a obtener.
+
+Crear preguntas SMART para conversaciones basadas en datos es una de las herramientas más importantes del arsenal de un analista de datos. A medida que practiques, te sentirás más cómodo al interactuar con otros sobre los datos y hacer preguntas significativas durante esas interacciones. En el futuro, también puedes practicar haciéndote preguntas SMART para ayudarte a administrar y medir tus propios objetivos.
+
 ### Lo que revelaron tus preguntas 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Recientemente creaste preguntas SMART para ayudarte a aprender cómo un amigo o familiar usa los datos en su carrera o vida personal. Ten en cuenta las preguntas que hiciste:
+
+¿Qué preguntas proporcionaron las respuestas más útiles e interesantes? ¿Por qué tuvieron éxito? 
+
+¿Qué preguntas llevaron a respuestas menos perspicaces?  ¿Por qué crees que fue? 
 
 ### Cuestionario de diagnóstico 📑
 
@@ -1280,6 +1596,73 @@ Hola, soy Evan. Soy gerente del portfolio de aprendizaje de Google y tengo uno d
 
 Pon a prueba tus conocimientos sobre la elaboración de preguntas efectivas. 
 
+1. Un analista de datos usa la metodología SMART para formular una pregunta que fomente el cambio. ¿Cómo puede describirse este tipo de pregunta? 
+
+    - Centrada en los resultado
+    
+      ❌ Incorrecto.
+  
+    - Orientada a la acción
+    
+      ✅ Correcto. En la metodología SMART, las preguntas que fomentan el cambio están orientadas a la acción.
+    
+    - Estimulante
+    
+      ❌ Incorrecto.
+      
+    - Motivacional
+    
+      ❌ Incorrecto.
+
+
+2. Una pregunta SMART con límite de tiempo especifica cuál de los siguientes parámetros
+
+    - La era, la fase o el período de análisis
+    
+      ✅ Correcto. Una pregunta SMART con límite de tiempo especifica la era, la fase o el período de análisis.
+  
+    - El tema del análisis
+    
+      ❌ Incorrecto.
+    
+    - Las métricas o mediciones relacionadas con el análisis
+    
+      ❌ Incorrecto.
+      
+    - El cambio deseado que debería producir el análisis
+    
+      ❌ Incorrecto.
+
+
+3. Un analista de datos que trabaja para un minorista de tamaño mediano escribe preguntas para una encuesta de experiencia del cliente. Una de las preguntas es: «¿Prefieres en línea o en la tienda?» Luego, la reescribe para que diga: «¿Prefieres comprar en el mercado en línea o comprar en la tienda local?» Describe por qué esta es una pregunta más efectiva.
+
+    - La primera pregunta es cerrada, mientras que la segunda pregunta anima al encuestado a dar más detalles.
+    
+      ❌ Incorrecto.
+  
+    - La primera pregunta es imprecisa, mientras que la segunda pregunta incluye contexto importante.
+    
+      ✅ Correcto. Las preguntas imprecisas no proporcionan contexto. La segunda pregunta aclara que el analista de datos quiere saber exactamente cómo y dónde prefieren comprar los clientes.
+    
+    - La primera pregunta es sugestiva, mientras que la segunda pregunta podría tener muchas respuestas diferentes.
+    
+      ❌ Incorrecto.
+      
+    - La primera pregunta contiene jerga que podría no tener sentido para todos, mientras que la segunda pregunta es fácil de entender.
+    
+      ❌ Incorrecto.
+
+
+4. Un analista de datos de una empresa de red social está creando preguntas para un grupo de enfoque. Usa abreviaturas comunes como xq para «por qué» o msj para «mensaje». Esto es justo porque los participantes usan mucho las redes sociales y es probable que tengan conocimientos específicos.
+
+    - Verdadero
+    
+      ❌ Incorrecto.
+  
+    - Falso
+    
+      ✅ Correcto. La equidad significa hacer preguntas que tengan sentido para todos. Incluso si un analista de datos sospecha que las personas entenderán las abreviaturas o la jerga, es importante escribir preguntas con una redacción simple. 
+    
 ---
 
 ## 5. Desafio semanal 🏆
@@ -1289,3 +1672,275 @@ Pon a prueba tus conocimientos sobre la elaboración de preguntas efectivas.
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 1 (Quiz - 8 questions)
 
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Análisis (computacional) de datos: La ciencia de los datos
+
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Análisis de déficits: Un método para examinar y evaluar el estado actual de un proceso con el fin de identificar las oportunidades de mejora en el futuro
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada
+
+- Atributo: Característica o calidad de los datos que se usa para etiquetar una columna en una tabla
+
+B
+
+- Base de datos: Recopilación de datos almacenados en un sistema informático
+
+C
+
+- Causa raíz: La razón por la que ocurre un problema
+
+- Ciclo de vida de los datos: Secuencia de etapas por las que pasan los datos, que incluye planificar, capturar, gestionar, analizar, archivar y destruir.
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad
+
+- Consulta: Solicitud de datos o información de una base de datos
+
+- Contexto: La condición en la que algo existe o sucede
+
+D
+
+- Datos: Una colección de hechos
+
+- Destrezas analíticas: Cualidades y características asociadas al uso de hechos para resolver problemas
+
+- Diseño de datos: Cómo se organiza la información
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos
+
+- Equidad: Cualidad del análisis de datos que no genera sesgos ni los reafirma
+
+- Estrategia de datos: La gestión de las personas, los procesos y las herramientas que se usan en el análisis de datos
+
+F
+
+- Fórmula: Conjunto de instrucciones que se utilizan para realizar un cálculo al utilizar los datos de una hoja de cálculo
+
+- Función: Un comando preestablecido que realiza automáticamente un proceso o tarea especificado al utilizar los datos de una hoja de cálculo
+
+G
+
+H
+
+- Hoja de cálculo: Hoja de cálculo digital
+
+I
+J
+K
+
+L
+
+
+- Lenguaje de consulta: Lenguaje de programación informática utilizado para comunicarse con una base de datos
+
+- Los interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado
+
+M
+
+- Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica
+
+- Metodología SMART: Herramienta para determinar la eficacia de una pregunta basándose en si es específica, medible, orientada a la acción, relevante y con plazos determinados 
+
+N
+O
+
+- Observación: Los atributos que describen una pieza de datos contenida en una fila de una tabla
+
+P
+
+- Pensamiento analítico: El proceso de identificar y definir un problema, para luego resolverlo mediante el uso de datos de manera organizada, paso a paso
+
+- Pensamiento estructurado: Proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades e identificar opciones
+
+- Pregunta con límite de tiempo: Pregunta que especifica un plazo para ser analizada
+
+- Pregunta específica: Pregunta simple, significativa y enfocada en un solo tema o en algunas ideas estrechamente relacionadas entre sí.
+
+- Pregunta injusta: Pregunta en la que se hacen suposiciones o que es difícil de responder honestamente
+
+- Pregunta medible: Pregunta cuyas respuestas se pueden cuantificar y evaluar
+
+- Pregunta orientada a la acción: Pregunta cuyas respuestas conducen al cambio
+
+- Pregunta principal: Pregunta que orienta a las personas hacia cierta respuesta
+
+- Pregunta relevante: Pregunta que tiene importancia para el problema que se debe resolver
+
+- Proceso de análisis de datos: Las seis fases de preguntar, preparar, procesar, analizar, compartir y actuar cuyo propósito es el de obtener conocimiento que propicie la toma de decisiones informada.
+
+Q
+R
+S
+T
+
+- Tarea empresarial: La pregunta o el problema que el análisis de datos resuelve para un negocio.
+
+- Tipos de problemas: Distintos problemas que encuentra el analista de datos; entre ellos, categorizar elementos, descubrir conexiones, hallar patrones, identificar temas, hacer predicciones y detectar algo inusual
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial
+
+U
+V
+
+- Visualización de datos: La representación gráfica de los datos
+
+- Visualización: (Consulta la visualización de datos)
+
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+Desafio semanal 1
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-40%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+1. ¿Cuál de los siguientes procesos implica el pensamiento estructurado? Seleccione todas las que correspondan.
+
+    - Hacer preguntas SMART
+    
+      ❌ Incorrecto.
+  
+    - Reconocer el problema o la situación actuales
+    
+      ✅ Correcto. El pensamiento estructurado implica reconocer el problema o situación actual, organizar la información disponible, revelar brechas y oportunidades e identificar las opciones.
+    
+    - Revelando brechas y oportunidades
+    
+      ✅ Correcto. El pensamiento estructurado implica reconocer el problema o situación actual, organizar la información disponible, revelar brechas y oportunidades e identificar las opciones.
+      
+    - Organizar la información disponible
+    
+      ✅ Correcto. El pensamiento estructurado implica reconocer el problema o situación actual, organizar la información disponible, revelar brechas y oportunidades e identificar las opciones.
+
+
+2. ¿La fase compartir del proceso de análisis de datos suele implicar cuál de las siguientes actividades? Selecciona todas las opciones correctas.
+
+    - Comunicar hallazgos
+    
+      ✅ Correcto. Por lo general, la fase compartir del proceso de análisis de datos implica comunicar los hallazgos, resumir los resultados mediante visualizaciones de datos y crear una presentación de diapositivas para presentar a los interesados.
+  
+    - Crear una presentación de diapositivas para presentar a los interesados
+    
+      ✅ Correcto. Por lo general, la fase compartir del proceso de análisis de datos implica comunicar los hallazgos, resumir los resultados mediante visualizaciones de datos y crear una presentación de diapositivas para presentar a los interesados.
+    
+    - Resumir los resultados mediante visualizaciones de datos
+    
+      ✅ Correcto. Por lo general, la fase compartir del proceso de análisis de datos implica comunicar los hallazgos, resumir los resultados mediante visualizaciones de datos y crear una presentación de diapositivas para presentar a los interesados.
+      
+    - Poner en práctica el análisis para resolver un problema
+    
+      ❌ Incorrecto.
+
+
+3. Si una tienda de suministros de cocina desea atraer a más clientes, ¿dónde puede publicitarse para llegar mejor a su público objetivo? Selecciona todas las opciones correctas.
+
+    - En televisión durante el final de temporada de El mejor chef del universo. 
+    
+      ✅ Correcto. Para llegar mejor a su público objetivo, puede publicitarse en una parada de autobús cerca de una escuela de cocina local, en un pódcast para amantes de la comida y en televisión durante el final de temporada de El mejor chef del universo. El público objetivo son las personas a las que tratas de llegar. En este escenario, las personas que disfrutan de la comida y la cocina son el público objetivo de la tienda.
+  
+    - En una parada de autobús cerca de una escuela de cocina local.
+    
+      ✅ Correcto. Para llegar mejor a su público objetivo, puede publicitarse en una parada de autobús cerca de una escuela de cocina local, en un pódcast para amantes de la comida y en televisión durante el final de temporada de El mejor chef del universo. El público objetivo son las personas a las que tratas de llegar. En este escenario, las personas que disfrutan de la comida y la cocina son el público objetivo de la tienda.
+    
+    - En un pódcast para amantes de la comida.
+    
+      ✅ Correcto. Para llegar mejor a su público objetivo, puede publicitarse en una parada de autobús cerca de una escuela de cocina local, en un pódcast para amantes de la comida y en televisión durante el final de temporada de El mejor chef del universo. El público objetivo son las personas a las que tratas de llegar. En este escenario, las personas que disfrutan de la comida y la cocina son el público objetivo de la tienda.
+      
+    - En una revista repleta de publicidades.
+    
+      ❌ Incorrecto.
+
+
+4. Hacer predicciones es uno de los seis tipos de problemas de análisis de datos. Se trata del uso de datos para informar decisiones sobre cómo pueden ser las cosas en el futuro. Selecciona el escenario que es un ejemplo de cómo hacer predicciones.
+   
+    - Un analista de datos de un minorista de calzado usa los datos como información para el plan de marketing de una próxima venta de verano.
+    
+      ✅ Correcto. Un analista de datos de un minorista de zapatos que usa los datos como información para el plan de marketing de una próxima venta de verano es un ejemplo de cómo hacer predicciones. 
+  
+    - Un analista de datos de una empresa de gas utiliza datos históricos para analizar en qué época del año los clientes usan más gas.
+    
+      ❌ Incorrecto.
+    
+    - Un analista de datos de una empresa de tecnología usa datos para identificar una caída única de la participación en las redes sociales.
+    
+      ❌ Incorrecto.
+      
+    - Un analista de datos de un sistema escolar usa datos para establecer una conexión entre las ventas de viviendas y la inscripción de nuevos estudiantes.
+    
+      ❌ Incorrecto.
+
+
+5. Categorizar cosas implica asignar elementos a categorías. Identificar temas lleva esas categorías un paso más allá y las agrupa en temas o clasificaciones más amplias.
+   
+    - Verdadero
+    
+      ✅ Correcto. Categorizar cosas implica asignar elementos a categorías. Identificar temas lleva esas categorías un paso más allá y las agrupa en temas o clasificaciones más amplias.
+  
+    - Falso
+    
+      ❌ Incorrecto.
+    
+
+6. ¿Cuáles de los siguientes ejemplos son preguntas imprecisas? Selecciona todas las opciones correctas.
+   
+    - Por lo general, ¿prefieres frío o calor?
+    
+      ✅ Correcto. Una pregunta imprecisa suele estar fuera de contexto y es demasiado amplia para dar lugar a una respuesta útil.
+  
+    - ¿Quién fue el más grande de todos los tiempos?
+    
+      ✅ Correcto. Una pregunta imprecisa suele estar fuera de contexto y es demasiado amplia para dar lugar a una respuesta útil.
+    
+    - ¿Cuál es el mejor lugar para comprar las cosas que necesitamos?
+    
+      ✅ Correcto. Una pregunta imprecisa suele estar fuera de contexto y es demasiado amplia para dar lugar a una respuesta útil.
+      
+    - ¿Cuánto tiempo esperaste en la fila?
+    
+      ❌ Incorrecto.
+
+
+7. La pregunta "¿Por qué nuestros empleados no completan sus hojas de horas todos los viernes antes del mediodía?" no está orientada a la acción. ¿Cuáles de las siguientes preguntas están orientadas a la acción y tienen más probabilidades de generar cambios? Selecciona todas las opciones correctas.
+   
+    - ¿Qué características podríamos agregar a nuestra aplicación de calendario como un recordatorio de la hoja de horas semanal para los empleados?
+    
+      ✅ Correcto. Estas preguntas están orientadas a la acción. Eso significa que es más probable que den como resultado respuestas específicas sobre las que se puede actuar para generar cambios.
+  
+    - ¿Por qué los empleados no dan prioridad a completar sus hojas de horas los viernes antes del mediodía?
+    
+      ❌ Incorrecto.
+    
+    - ¿Qué funcionalidades harían que nuestra página web de hojas de horas fuera más fácil de usar?
+    
+      ✅ Correcto. Estas preguntas están orientadas a la acción. Eso significa que es más probable que den como resultado respuestas específicas sobre las que se puede actuar para generar cambios.
+      
+    - ¿Cómo podríamos simplificar el proceso de control de horas de nuestros empleados?
+    
+      ✅ Correcto. Estas preguntas están orientadas a la acción. Eso significa que es más probable que den como resultado respuestas específicas sobre las que se puede actuar para generar cambios.
+
+
+8. Las preguntas que hacen suposiciones, a menudo, involucran conceptos que se forman sin evidencia. Un ejemplo de esto es una idea que se acepta como verdadera sin pruebas.
+   
+    - Verdadero
+    
+      ✅ Correcto. Las preguntas que hacen suposiciones, a menudo, involucran conceptos que se forman sin evidencia. Por ejemplo, una idea que se acepta como verdadera sin pruebas.
+  
+    - Falso
+    
+      ❌ Incorrecto.
