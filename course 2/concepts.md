@@ -181,3 +181,63 @@ T ime-bound
 ### Fairness
 
 Ensuring that your questions dont create or reinforce bias.
+
+### Data-inspired decision-making
+
+Explores different data sources to find out what they have in common.
+
+### Algorithm
+
+A process or set of rules to be followed for a specific task.
+
+### Quantitative data 
+
+Specific and objective measures of numerical facts. It can be:
+
+- The what?
+- How many?
+- How often?
+
+### Qualitative data
+
+Subjective or explanatory measures of qualities and characteristics. It helps to solve why questions.
+
+### Report
+
+Static collection of data given to stakeholders periodically.
+
+Pros
+- High-level historical data
+- Easy to design
+- Pre-cleaned and sorted data
+
+Cons
+- Continual maintenance 
+- Less visually appealing
+-  Static
+
+### Dashboard 
+
+Monitors live, incoming data.
+
+Pros
+- Dynamic, automatic, and interactive
+- More stakeholder access
+- Low maintenance
+
+Cons
+- Labor-intensive design
+- Canbe confusing
+- Potentially uncleaned data
+
+### Pivot table
+
+A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, reorganize, group, count, total or average data stored in a database.
+
+### Metric
+
+Single, quantifiable type of data that can be used for measurement.
+
+### Metric Goal
+
+A measurable goal set by a company and evaluated using metrics
