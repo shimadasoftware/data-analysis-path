@@ -70,6 +70,8 @@ T ime-bound (plazos determinados)
 
 Explora diferentes fuentes de datos para descubrir qué tienen en común.
 
+## Modulo 2
+
 ### Algoritmo
 
 Un proceso o conjunto de reglas a seguir para una tarea específica.
@@ -138,7 +140,7 @@ Un objetivo medible establecido por una empresa y evaluado mediante métricas.
 - Largo período de tiempo
 - Grandes decisiones
 
-
+## Modulo 3
 
 
 
@@ -254,6 +256,8 @@ Ensuring that your questions dont create or reinforce bias.
 
 Explores different data sources to find out what they have in common.
 
+## Module 2
+
 ### Algorithm
 
 A process or set of rules to be followed for a specific task.
@@ -321,3 +325,5 @@ A measurable goal set by a company and evaluated using metrics
 - Large and less-specific
 - Long time-period
 - Big decisions
+
+## Module 3
