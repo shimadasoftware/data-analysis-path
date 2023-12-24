@@ -495,11 +495,214 @@ Al igual que el panel de un avión le muestra al piloto su trayectoria de vuelo,
 
 Pon a prueba tus conocimientos sobre cómo actuar con datos.
 
+#### Descripción general
+
+Previamente, se te presentó la herramienta de gestión de datos conocida como panel. En esta autorreflexión, examinarás diferentes tipos de paneles y considerarás cómo los usan los analistas de datos y sus empleadores.
+
+Como repaso, un panel es un punto de acceso único para administrar la información de una empresa. Permite a los analistas extraer información clave de los datos en una revisión rápida visualizando los datos de forma que los hallazgos sean fáciles de entender.
+
+Esta autorreflexión te ayudará a desarrollar conocimientos sobre tu propio aprendizaje y te preparará para conectar tu conocimiento de los paneles con lo que sabes sobre las necesidades empresariales. A medida que respondas las preguntas, y plantees tus propias preguntas, tendrás en cuenta los conceptos, las prácticas y los principios que te ayudarán a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡esta reflexión te ayudará a fijar tus conocimientos!
+
+#### Tipos de paneles
+
+Para un repaso, ten en cuenta los diferentes tipos de paneles que puede utilizar una empresa. A menudo, las empresas adaptan un panel para un propósito específico. Las tres categorías más comunes son las siguientes:
+
+Estratégico: se centra en objetivos y estrategias a largo plazo al más alto nivel de métricas
+
+Operativo: presenta un seguimiento del desempeño a corto plazo y objetivos intermedios
+
+Analítico: consiste en los conjuntos de datos y las matemáticas que se usan en estos conjuntos
+
+#### Paneles estratégicos
+
+Una amplia gama de empresas usan paneles estratégicos para evaluar y alinear sus objetivos estratégicos. Estos paneles proporcionan información durante el período más largo, desde un único trimestre financiero hasta años.
+
+Por lo general, contienen información útil para la toma de decisiones en toda la empresa. A continuación, se muestra un ejemplo de un panel estratégico que se centra en los indicadores clave de rendimiento (KPI) durante un año.
+
+![image](./img/module%2002%20img%2014.png)
+
+#### Paneles operativos
+
+Los paneles operativos son, sin duda, el tipo de panel más común. Dado que estos paneles contienen información en una escala temporal de días, semanas o meses, pueden proporcionar información sobre el desempeño casi en tiempo real.
+
+Esto les permite a las empresas realizar un seguimiento y mantener sus procesos operativos inmediatos a la luz de sus objetivos estratégicos. El panel operativo que aparece a continuación se centra en el servicio al cliente.
+
+![image](./img/module%2002%20img%2015.png)
+
+#### Paneles analíticos
+
+Los paneles analíticos contienen una gran cantidad de datos utilizados por los analistas de datos. Estos paneles contienen los detalles relacionados con el uso, el análisis y las predicciones realizadas por los científicos de datos.
+
+Ciertamente, son la categoría más técnica; los paneles analíticos suelen ser creados y mantenidos por equipos de ciencia de datos y rara vez se comparten con la alta dirección, ya que pueden ser muy difíciles de entender. El panel analítico que aparece a continuación se centra en las métricas del desempeño financiero de una empresa.
+
+![image](./img/module%2002%20img%2016.png)
+
+#### Reflexión 1
+
+Ten en cuenta los diferentes tipos de paneles:
+
+¿En qué se parecen los distintos tipos de paneles entre sí?
+
+¿En qué se diferencian?
+
+Escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. 
+
+#### Desarrollo 1
+
+¿En qué se parecen los distintos tipos de paneles entre sí?
+
+Los distintos tipos de paneles comparten el propósito fundamental de proporcionar información para la toma de decisiones empresariales. Comparten la característica de presentar datos de manera visual y accesible, facilitando la comprensión y el monitoreo de los objetivos empresariales. Además, todos contribuyen al proceso de gestión al proporcionar una visión rápida y clara del rendimiento.
+
+¿En qué se diferencian?
+
+Aunque todos los paneles buscan facilitar la toma de decisiones, difieren en los aspectos temporales y enfoques. Los paneles estratégicos se centran en objetivos a largo plazo y estrategias de alto nivel, mientras que los operativos se orientan hacia el seguimiento del desempeño a corto plazo y metas intermedias. Por otro lado, los paneles analíticos se distinguen por su enfoque en conjuntos de datos y análisis matemáticos para una comprensión más profunda del rendimiento.
+
+✅ Correcto
+
+Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Algunos puntos en común en estos ejemplos incluyen los siguientes:
+
+Los paneles son visualizaciones: la visualización de datos puede ser muy útil para comprender y demostrar lo que realmente significan los datos.
+
+Los paneles identifican métricas: las métricas relevantes pueden ayudar a los analistas a evaluar el rendimiento de la empresa.
+
+Algunas diferencias incluyen el plazo descrito en cada panel. El panel operativo tiene un marco temporal de días y semanas, mientras que el panel estratégico muestra todo el año. El panel analítico omite un período de tiempo específico. En cambio, identifica y realiza un seguimiento de los distintos KPI que se pueden utilizar para evaluar los objetivos estratégicos y operativos.
+
+#### Reflexión 2
+
+Ahora que has considerado los diferentes tipos de paneles, piensa en el efecto que los paneles pueden tener en una empresa:
+
+¿Cuál es un ejemplo de fuente de datos que una empresa podría utilizar con un panel?
+
+¿Qué beneficios obtendría una empresa de un panel que utilice estos datos?
+
+¿Qué industrias o empresas podrían beneficiarse del uso de unos paneles más que otros?
+
+Ahora, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. 
+
+#### Desarrollo 2
+
+¿Cuál es un ejemplo de fuente de datos que una empresa podría utilizar con un panel?
+
+Una empresa podría utilizar datos de ventas diarias, obtenidos a través de su sistema de punto de venta, como fuente para un panel. Estos datos incluirían información sobre los productos vendidos, ingresos generados y tendencias de compra.
+
+¿Qué beneficios obtendría una empresa de un panel que utilice estos datos?
+
+El uso de un panel con datos de ventas diarias permitiría a la empresa monitorear el rendimiento de productos específicos, identificar patrones de demanda y ajustar estrategias de inventario y marketing en tiempo real. Esto facilitaría la toma de decisiones ágil y la optimización de operaciones.
+
+¿Qué industrias o empresas podrían beneficiarse del uso de unos paneles más que otros?
+
+Las industrias minoristas y de comercio electrónico podrían beneficiarse significativamente de paneles centrados en datos de ventas diarias, ya que les proporcionarían información crucial para gestionar inventarios, optimizar promociones y mejorar la experiencia del cliente. Otros sectores, como la manufactura o la logística, también podrían beneficiarse al monitorear eficientemente el rendimiento operativo.
+
+✅ Correcto.
+
+¡Gracias por tu respuesta! Los paneles pueden ayudar a las empresas a realizar muchas tareas útiles, por ejemplo:
+
+Realizar un seguimiento del desempeño histórico y actual.
+
+Establecer objetivos tanto a largo como a corto plazo.
+
+Definir indicadores o métricas clave de rendimiento.
+
+Identificar posibles problemas o puntos de ineficiencia.
+
+Si bien casi todas las empresas se pueden beneficiar de alguna manera del uso de un panel, es probable que las empresas más grandes y aquellas con una gama más amplia de productos o servicios se beneficien aún más. Las empresas que operan en mercados volátiles o que cambian rápidamente, como el marketing, las ventas y la tecnología, también tienden a obtener información a gran velocidad y a tomar decisiones basadas en datos.
+
+Pregunta 3: respuesta de texto reflexivo
+
+Por último, piensa en la persona con la que mantuviste la conversación sobre datos en la última actividad. Según las notas que tomaste durante esa conversación:
+
+¿Qué tipos de paneles recomendarías para las necesidades de datos de tu interlocutor?
+
+¿De qué manera los paneles que recomiendas le ayudarían a alcanzar mejor sus objetivos?
+
+Luego, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación.
+
+Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! En esta respuesta, deberías haber aplicado lo que has aprendido sobre los paneles hasta el momento de la conversación que mantuviste en la actividad de autorreflexión anterior.
+
+Los paneles pueden proporcionar un acceso cómodo a la información y los análisis, y son fáciles de usar en colaboración. Además, se pueden adaptar a las necesidades específicas de las empresas, como hacer un seguimiento del desempeño hacia un hito.
+
+Usando el ejemplo anterior de la heladería, el propietario de la tienda podría usar un panel operativo para hacer un seguimiento de sus ventas diarias. Mientras tanto, podrían usar un panel estratégico para decidir si tienen la capacidad suficiente para expandir su negocio.
+
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos siguiendo la evidencia.
+
+1. Completa el espacio en blanco: Las tablas dinámicas en las herramientas de procesamiento de datos se utilizan para _____ los datos.
+
+    - resumir
+    
+      ✅ Correcto. Las tablas dinámicas se utilizan para resumir los datos.
+  
+    - limpiar
+    
+      ❌ Incorrecto.
+    
+    - validar
+    
+      ❌ Incorrecto.
+      
+    - completar
+    
+      ❌ Incorrecto.
+
+
+2. En el análisis de datos, ¿en qué se diferencian los paneles de los informes?
+
+    - Los paneles contienen datos estáticos. Los informes contienen datos que cambian constantemente.
+    
+      ❌ Incorrecto.
+  
+    - Los paneles monitorean datos entrantes en vivo de múltiples conjuntos de datos y organizan la información en una ubicación central. Los informes son colecciones estáticas de datos.
+    
+      ✅ Correcto. Los paneles monitorean datos entrantes en vivo de múltiples conjuntos de datos y organizan la información en una ubicación central. Los informes son colecciones estáticas de datos.
+    
+    - Los paneles se utilizan para compartir actualizaciones con los interesados solo periódicamente. Los informes brindan a los interesados acceso continuo a los datos.
+    
+      ❌ Incorrecto.
+      
+    - Los paneles proporcionan una presentación de alto nivel de los datos históricos. Los informes proporcionan una presentación más detallada de los datos interactivos en vivo.
+    
+      ❌ Incorrecto.
+
+
+3. Describe la diferencia entre los datos y las métricas.
+
+    - Los datos son cuantificables. Las métricas no son cuantificables.
+    
+      ❌ Incorrecto.
+  
+    - Los datos se pueden utilizar para la medición. Las métricas no se pueden utilizar para la medición.
+    
+      ❌ Incorrecto.
+    
+    - Los datos son una colección de hechos. Las métricas son tipos de datos cuantificables utilizados para la medición.
+    
+      ✅ Correcto. Los datos son una colección de hechos. Las métricas son tipos de datos cuantificables utilizados para la medición.
+      
+    - Los datos son cuantificables y se utilizan para la medición. Las métricas son colecciones desorganizadas de hechos.
+    
+      ❌ Incorrecto.
+
+
+4. ¿Cuál de las siguientes métricas utiliza el retorno de la inversión (ROI) en su definición?
+   
+    - Inventario y unidades
+    
+      ❌ Incorrecto.
+  
+    - Ventas y margen
+    
+      ❌ Incorrecto.
+    
+    - Oferta y demanda
+    
+      ❌ Incorrecto.
+      
+    - Beneficio e inversión
+    
+      ✅ Correcto. Retorno de la inversión (ROI)=beneficio/inversión.
 
 ---
 
@@ -515,11 +718,59 @@ Pon a prueba tus conocimientos siguiendo la evidencia.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Hasta ahora, aprendiste mucho sobre cómo pensar como un analista de datos. Exploramos algunas formas diferentes de pensar. Y ahora, quiero dar un paso más al utilizar un enfoque matemático para la resolución de problemas. El pensamiento matemático es una habilidad poderosa que puedes usar para ayudarte a resolver problemas y crear nuevas soluciones. Entonces, tomémonos un tiempo para hablar sobre qué es el pensamiento matemático y cómo puedes empezar a usarlo. Usar un enfoque matemático no significa que de repente tengas que convertirte en un genio de las matemáticas. Significa mirar un problema y desglosarlo lógicamente paso a paso, para que puedas ver la relación de los patrones en tus datos y usar eso para analizar tu problema. Este tipo de pensamiento también puede ayudarte a encontrar las mejores herramientas para el análisis porque nos permite ver los diferentes aspectos de un problema y elegir el mejor enfoque lógico. Hay muchos factores que debes considerar al momento de elegir la herramienta más útil para tu análisis. Una forma de decidir qué herramienta usar es según el tamaño de tu conjunto de datos. Cuando trabajes con datos, encontrarás que hay datos grandes y pequeños. Los datos pequeños pueden ser realmente pequeños. Estos tipos de datos tienden a estar compuestos por conjuntos de datos relacionados con métricas específicas durante un período de tiempo corto y bien definido, tal como la cantidad de agua que bebes al día. Los datos pequeños pueden ser útiles para tomar decisiones diarias, como decidir beber más agua. Sin embargo, no tienen una gran repercusión en frameworks más grandes como las operaciones empresariales. Puedes utilizar hojas de cálculo para organizar y analizar conjuntos de datos más pequeños cuando recién comiences. Por otro lado, los macrodatos tienen conjuntos de datos menos específicos que abarcan un período de tiempo más largo. Por lo general, es necesario desglosarlos para analizarlos. Los macrodatos son útiles para analizar cuestiones y problemas a gran escala, y ayudan a las empresas a tomar decisiones importantes. Cuando trabajas con datos a mayor escala, puedes cambiar a SQL. Veamos un ejemplo de cómo un analista de datos que trabaja en un hospital podría usar el pensamiento matemático para resolver un problema con las herramientas adecuadas. Es probable que el hospital descubra que tienen un problema con el uso excesivo o insuficiente de sus camas. Basándose en eso, el hospital podría hacer que la optimización de camas sea un objetivo. Quieren asegurarse de que las camas estén disponibles para los pacientes que las necesitan, pero sin desperdiciar recursos hospitalarios como espacio o dinero en el mantenimiento de las camas vacías. Usando el pensamiento matemático, puedes dividir este problema en un proceso paso a paso para ayudarte a encontrar patrones en tus datos. Hay muchas variables en este caso. Pero, por ahora, mantengamos las cosas simples y concentrémonos solo en algunas de las claves. Hay métricas relacionadas con este problema que pueden mostrarnos patrones en los datos: por ejemplo, tal vez la cantidad de camas vacías y la cantidad de camas ocupadas durante un período de tiempo. De hecho, ya existe una fórmula para esto. Se llama tasa de ocupación de camas y se calcula usando la cantidad total de días de internación y la cantidad total de camas disponibles durante un período de tiempo determinado. Lo que queremos hacer ahora es tomar nuestras variables claves y ver cómo la relación entre ellas puede mostrarnos los patrones que pueden ayudar al hospital a tomar una decisión. Para hacer eso, tenemos que elegir una herramienta que sea útil para esta tarea. Los hospitales generan una gran cantidad de datos de pacientes durante un largo período de tiempo. Entonces, lógicamente, una herramienta que sea capaz de manejar grandes conjuntos de datos es imprescindible. SQL es una gran elección. En este caso, descubres que el hospital siempre tiene camas sin usar. Sabiendo eso, pueden optar por deshacerse de algunas camas, lo que hace que ahorren espacio y dinero que pueden usar para comprar y almacenar equipos de protección. Al considerar lógicamente cada parte de este problema, el pensamiento matemático nos ayudó a ver nuevas perspectivas que nos llevaron a una solución. Muy bien, eso es todo por ahora. ¡Buen trabajo! Ya has cubierto mucho material. Aprendiste cuánto poder pueden otorgar los datos otorgar los datos en la toma decisiones, la diferencia entre el análisis cuantitativo y cualitativo, el uso de informes y paneles para la visualización de datos, las métricas y el uso de un enfoque matemático para la resolución de problemas. A continuación, abordaremos los conceptos básicos de las hojas de cálculo. Podrás poner en práctica lo que aprendiste y aprender a usar una nueva herramienta que te ayudará a lo largo del proceso de análisis de datos. Nos vemos pronto.
+Hasta ahora, aprendiste mucho sobre cómo pensar como un analista de datos. Exploramos algunas formas diferentes de pensar. Y ahora, quiero dar un paso más al utilizar un enfoque matemático para la resolución de problemas. El pensamiento matemático es una habilidad poderosa que puedes usar para ayudarte a resolver problemas y crear nuevas soluciones. Entonces, tomémonos un tiempo para hablar sobre qué es el pensamiento matemático y cómo puedes empezar a usarlo. Usar un enfoque matemático no significa que de repente tengas que convertirte en un genio de las matemáticas. **Significa mirar un problema y desglosarlo lógicamente paso a paso, para que puedas ver la relación de los patrones en tus datos y usar eso para analizar tu problema**. Este tipo de pensamiento también puede ayudarte a encontrar las mejores herramientas para el análisis porque nos permite ver los diferentes aspectos de un problema y elegir el mejor enfoque lógico. 
 
-#### Macrodatos y microdatos 📖
+Hay muchos factores que debes considerar al momento de elegir la herramienta más útil para tu análisis. Una forma de decidir qué herramienta usar es según el tamaño de tu conjunto de datos. Cuando trabajes con datos, encontrarás que hay datos grandes y pequeños. Los datos pequeños pueden ser realmente pequeños. Estos tipos de datos tienden a estar **compuestos por conjuntos de datos relacionados con métricas específicas durante un período de tiempo corto** y bien definido, tal como la cantidad de agua que bebes al día. Los datos pequeños pueden ser útiles **para tomar decisiones diarias**, como decidir beber más agua. Sin embargo, no tienen una gran repercusión en frameworks más grandes como las operaciones empresariales. Puedes utilizar hojas de cálculo para organizar y analizar conjuntos de datos más pequeños cuando recién comiences. 
+
+Por otro lado, los macrodatos **tienen conjuntos de datos menos específicos que abarcan un período de tiempo más largo**. Por lo general, es necesario desglosarlos para analizarlos. Los macrodatos **son útiles para analizar cuestiones y problemas a gran escala**, y ayudan a las empresas a tomar decisiones importantes. Cuando trabajas con datos a mayor escala, puedes cambiar a SQL. 
+
+Veamos un ejemplo de cómo un analista de datos que trabaja en un hospital podría usar el pensamiento matemático para resolver un problema con las herramientas adecuadas. Es probable que el hospital descubra que tienen un problema con el uso excesivo o insuficiente de sus camas. Basándose en eso, el hospital podría hacer que la optimización de camas sea un objetivo. Quieren asegurarse de que las camas estén disponibles para los pacientes que las necesitan, pero sin desperdiciar recursos hospitalarios como espacio o dinero en el mantenimiento de las camas vacías. Usando el pensamiento matemático, puedes dividir este problema en un proceso paso a paso para ayudarte a encontrar patrones en tus datos. 
+
+Hay muchas variables en este caso. Pero, por ahora, mantengamos las cosas simples y concentrémonos solo en algunas de las claves. Hay métricas relacionadas con este problema que pueden mostrarnos patrones en los datos: por ejemplo, tal vez la cantidad de camas vacías y la cantidad de camas ocupadas durante un período de tiempo. De hecho, ya existe una fórmula para esto. Se llama tasa de ocupación de camas y se calcula usando la cantidad total de días de internación y la cantidad total de camas disponibles durante un período de tiempo determinado. 
+
+Lo que queremos hacer ahora es tomar nuestras variables claves y ver cómo la relación entre ellas puede mostrarnos los patrones que pueden ayudar al hospital a tomar una decisión. Para hacer eso, tenemos que elegir una herramienta que sea útil para esta tarea. Los hospitales generan una gran cantidad de datos de pacientes durante un largo período de tiempo. Entonces, lógicamente, una herramienta que sea capaz de manejar grandes conjuntos de datos es imprescindible. SQL es una gran elección. En este caso, descubres que el hospital siempre tiene camas sin usar. Sabiendo eso, pueden optar por deshacerse de algunas camas, lo que hace que ahorren espacio y dinero que pueden usar para comprar y almacenar equipos de protección. 
+
+Al considerar lógicamente cada parte de este problema, el pensamiento matemático nos ayudó a ver nuevas perspectivas que nos llevaron a una solución. Muy bien, eso es todo por ahora. ¡Buen trabajo! Ya has cubierto mucho material. Aprendiste cuánto poder pueden otorgar los datos otorgar los datos en la toma decisiones, la diferencia entre el análisis cuantitativo y cualitativo, el uso de informes y paneles para la visualización de datos, las métricas y el uso de un enfoque matemático para la resolución de problemas. A continuación, abordaremos los conceptos básicos de las hojas de cálculo. Podrás poner en práctica lo que aprendiste y aprender a usar una nueva herramienta que te ayudará a lo largo del proceso de análisis de datos. Nos vemos pronto.
+
+### Macrodatos y microdatos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Como analista de datos, trabajarás con macrodatos y microdatos. Ambos tipos de datos son valiosos, pero desempeñan papeles muy diferentes. 
+
+Ya sea que trabajes con macrodatos o microdatos, puedes usarlos para ayudar a los interesados a mejorar los procesos comerciales, responder preguntas, crear nuevos productos y mucho más. Pero hay ciertos desafíos y beneficios que vienen con los macrodatos, y la siguiente tabla explora las diferencias entre los macrodatos y los microdatos.
+
+![image](./img/module%2002%20img%2017.png)
+
+#### Desafíos y beneficios
+
+Estos son algunos de los desafíos que puedes enfrentar al trabajar con macrodatos:
+
+- Muchas organizaciones se enfrentan a la sobrecarga de muchos datos e información sin importancia o irrelevante. 
+
+- Los datos importantes se pueden ocultar en el fondo con todos los datos no importantes, lo que hace que sea más difícil encontrarlos y usarlos. Esto puede provocar plazos de toma de decisiones más lentos e ineficientes.
+
+- Los datos que necesitas no siempre son fácilmente accesibles. 
+
+- Las herramientas y soluciones tecnológicas actuales todavía luchan por proporcionar datos medibles que se puedan informar. Esto puede conducir a un sesgo algorítmico injusto. 
+
+- Hay brechas en muchas soluciones empresariales de macrodatos.
+
+¡Ahora vienen las buenas noticias! Aquí hay algunos beneficios que vienen con los macrodatos:
+
+- Cuando se pueden almacenar y analizar grandes cantidades de datos, esto puede ayudar a las empresas a identificar formas más eficientes de hacer negocios y ahorrar mucho tiempo y dinero.
+
+- Los macrodatos ayudan a las organizaciones a detectar las tendencias de los patrones de compra de los clientes y los niveles de satisfacción, lo cual puede ayudarlas a crear nuevos productos y soluciones que harán felices a los clientes.
+
+- Al analizar los macrodatos, las empresas obtienen una comprensión mucho mejor de las condiciones actuales del mercado, lo cual puede ayudarlas a mantenerse por delante de la competencia.
+
+- Al igual que en nuestro ejemplo anterior de las redes sociales, los macrodatos ayudan a las empresas a realizar un seguimiento de su presencia en línea, en especial de los comentarios, tanto buenos como malos, de los clientes. Esto les da la información que necesitan para mejorar y proteger su marca.
+
+#### Las tres (o cuatro) palabras V para los macrodatos
+
+Al pensar en los beneficios y desafíos de los macrodatos, es útil pensar en las tres V: volumen, variedad y velocidad. El volumen describe la cantidad de datos. La variedad describe los diferentes tipos de datos. La velocidad describe qué tan rápido se pueden procesar los datos. Algunos analistas de datos también consideran una cuarta V: veracidad. La veracidad se refiere a la calidad y fiabilidad de los datos. Todas estas son consideraciones importantes relacionadas con el procesamiento de conjuntos de datos enormes y complejos. 
+
+![image](./img/module%2002%20img%2018.png)
 
 ### Cuestionario de diagnóstico 📑
 
@@ -527,11 +778,53 @@ Hasta ahora, aprendiste mucho sobre cómo pensar como un analista de datos. Expl
 
 Pon a prueba tus conocimientos sobre la resolución de problemas con datos. 
 
+1. Describe las diferencias clave entre los microdatos y los macrodatos. Selecciona todas las opciones correctas.
+   
+    - Los microdatos involucran conjuntos de datos relacionados con una pequeña cantidad de métricas específicas. Los macrodatos involucran conjuntos de datos que son más grandes y menos específicos.
+    
+      ✅ Correcto. Los microdatos involucran una pequeña cantidad de métricas específicas durante un período de tiempo más corto. Son eficaces para analizar decisiones del día a día. Los macrodatos involucran conjuntos de datos más grandes y menos específicos, y se centran en el cambio durante un largo período de tiempo. Son eficaces para analizar decisiones más sustanciales.
+  
+    - Por lo general, los microdatos se almacenan en una base de datos. Por lo general, Los macrodatos se almacenan en una hoja de cálculo.
+    
+      ❌ Incorrecto.
+    
+    - Los microdatos se centran en períodos de tiempo cortos y bien definidos. Los macrodatos se centran en el cambio durante un largo período de tiempo.
+    
+      ✅ Correcto. Los microdatos involucran una pequeña cantidad de métricas específicas durante un período de tiempo más corto. Son eficaces para analizar decisiones del día a día. Los macrodatos involucran conjuntos de datos más grandes y menos específicos, y se centran en el cambio durante un largo período de tiempo. Son eficaces para analizar decisiones más sustanciales.
+      
+    - Los microdatos son eficaces para analizar decisiones del día a día. Los macrodatos son eficaces para analizar decisiones más sustanciales.
+    
+      ✅ Correcto. Los microdatos involucran una pequeña cantidad de métricas específicas durante un período de tiempo más corto. Son eficaces para analizar decisiones del día a día. Los macrodatos involucran conjuntos de datos más grandes y menos específicos, y se centran en el cambio durante un largo período de tiempo. Son eficaces para analizar decisiones más sustanciales.
+
+
+2. ¿Cuál de los siguientes es un ejemplo de microdatos?
+   
+    - El total de ausencias de todos los estudiantes de secundaria.
+    
+      ❌ Incorrecto.
+  
+    - El déficit comercial entre dos países durante cien años.
+    
+      ❌ Incorrecto.
+    
+    - La cantidad de pasos que alguien hace en un día.
+    
+      ✅ Correcto. La cantidad de pasos que alguien hace en un día es un ejemplo de microdatos. 
+      
+    - La tasa de ocupación de camas de un hospital durante la última década.
+    
+      ❌ Incorrecto.
+
+
+3. La cantidad de tiempo de ejercicio que le toma a una sola persona quemar un mínimo de 400 calorías es un problema que requiere macrodatos.
+   
+    - Verdadero
+    
+      ❌ Incorrecto.
+  
+    - Falso
+    
+      ✅ Correcto. Este problema se puede resolver usando microdatos. Contiene una métrica específica (400 calorías) y un período de tiempo corto y definido (cantidad de tiempo de ejercicio).
+    
 ---
 
-## 4. Desafio semanal 🏆
-
-### Temario: 
-
-- Glosario: Términos y definiciones (Reading - 5min)
-- Desafio semanal 2 (Quiz - 8 questions)
