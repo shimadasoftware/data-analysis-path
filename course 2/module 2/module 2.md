@@ -839,8 +839,6 @@ Pon a prueba tus conocimientos sobre la resolución de problemas con datos.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
-
 A
 
 - Algoritmo: Proceso o conjunto de reglas a seguir para una tarea específica.
