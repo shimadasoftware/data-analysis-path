@@ -66,9 +66,77 @@ T ime-bound (plazos determinados)
 
 - Asegurarse de que su análisis no cree ni refuerce sesgos.
 
+### Toma de decisiones inspirada en datos
 
+Explora diferentes fuentes de datos para descubrir qué tienen en común.
 
+### Algoritmo
 
+Un proceso o conjunto de reglas a seguir para una tarea específica.
+
+### Datos cuantitativos
+
+Medida específica y objetiva, como un número, cantidad o rango. Puede ser:
+
+- ¿Qué?
+- ¿Cuántos?
+- ¿Qué tan amenudo?
+
+### Datos cualitativos
+
+Medida subjetiva y explicativa de una cualidad o característica. Este ayuda a responder las preguntas por qué.
+
+### Reporte
+
+Recopilación estática de datos proporcionados a las partes interesadas periódicamente.
+
+A favor
+- Datos históricos de alto nivel
+- Fácil de diseñar
+- Datos previamente limpios y ordenados
+
+En contra
+- Continual maintenance 
+- Less visually appealing
+- Estático
+
+### Dashboard 
+
+Supervisa los datos entrantes en vivo.
+
+Pros
+- Dinámico, automático e interactivo.
+- Más acceso a las partes interesadas
+- Bajo mantenimiento
+
+Cons
+- Diseño que requiere mucha mano de obra.
+- Puede ser confuso
+- Datos potencialmente sin limpiar
+
+### Las tabla dinámicas
+
+Una herramienta de resumen de datos que se utiliza en el procesamiento de datos. Las tablas dinámicas se utilizan para resumir, ordenar, reorganizar, agrupar, contar, totalizar o promediar los datos almacenados en una base de datos.
+
+### Métrica
+
+Tipo de datos único y cuantificable que se puede utilizar para la medición.
+
+### El objetivo de la métrica
+
+Un objetivo medible establecido por una empresa y evaluado mediante métricas.
+
+### Small data
+
+- Específico
+- Corto período de tiempo
+- Decisiones del día a día.
+
+### Big data
+
+- Grandes y menos específicos.
+- Largo período de tiempo
+- Grandes decisiones
 
 
 
@@ -241,3 +309,15 @@ Single, quantifiable type of data that can be used for measurement.
 ### Metric Goal
 
 A measurable goal set by a company and evaluated using metrics
+
+### Small data
+
+- Specific
+- Short time-period
+- Day-to-day decisions
+
+### Big data
+
+- Large and less-specific
+- Long time-period
+- Big decisions
