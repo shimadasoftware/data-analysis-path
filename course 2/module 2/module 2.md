@@ -828,3 +828,423 @@ Pon a prueba tus conocimientos sobre la resolución de problemas con datos.
     
 ---
 
+## 4. Desafio semanal 🏆
+
+### Temario: 
+
+- Glosario: Términos y definiciones (Reading - 5min)
+- Desafio semanal 2 (Quiz - 8 questions)
+
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Algoritmo: Proceso o conjunto de reglas a seguir para una tarea específica.
+
+- Análisis (computacional) de datos: La ciencia de los datos
+
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Análisis de déficits: Un método para examinar y evaluar el estado actual de un proceso con el fin de identificar las oportunidades de mejora en el futuro
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada
+
+- Atributo: Característica o calidad de los datos que se usa para etiquetar una columna en una tabla
+
+B
+
+- Base de datos: Recopilación de datos almacenados en un sistema informático
+
+C
+
+- Causa raíz: La razón por la que ocurre un problema
+
+- Ciclo de vida de los datos: Secuencia de etapas por las que pasan los datos, que incluye planificar, capturar, gestionar, analizar, archivar y destruir.
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad
+
+- Consulta: Solicitud de datos o información de una base de datos
+
+- Contexto: La condición en la que algo existe o sucede
+
+D
+
+- Datos cualitativos: Medida subjetiva y explicativa de una cualidad o característica
+
+- Datos cuantitativos: Medida específica y objetiva, como un número, cantidad o rango.
+
+- Datos: Una colección de hechos
+
+- Destrezas analíticas: Cualidades y características asociadas al uso de hechos para resolver problemas
+
+- Diseño de datos: Cómo se organiza la información
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos
+
+- Equidad: Cualidad del análisis de datos que no genera sesgos ni los reafirma
+
+- Estrategia de datos: La gestión de las personas, los procesos y las herramientas que se usan en el análisis de datos
+
+F
+
+- Fórmula: Conjunto de instrucciones que se utilizan para realizar un cálculo al utilizar los datos de una hoja de cálculo
+
+- Función: Un comando preestablecido que realiza automáticamente un proceso o tarea especificado al utilizar los datos de una hoja de cálculo
+
+G
+
+- Gráfico dinámico: Gráfico creado a partir de los campos en una tabla dinámica
+
+H
+
+- Hoja de cálculo: Hoja de cálculo digital
+
+I
+
+- Informe: Recopilación estática de datos que se entrega periódicamente a los interesados
+
+- Ingresos: Cantidad total de ingresos generados por la venta de mercaderías o servicios
+
+- Interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado
+
+J
+
+K
+
+L
+
+- Lenguaje de consulta: Lenguaje de programación informática utilizado para comunicarse con una base de datos
+
+- Los interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado
+
+M
+
+- Macrodatos: Conjuntos de datos grandes y complejos que, generalmente, se recopilan durante largos períodos y que permiten que los analistas de datos aborden los problemas comerciales de gran alcance
+
+- Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica
+
+- Metodología SMART: Herramienta para determinar la eficacia de una pregunta basándose en si es específica, medible, orientada a la acción, relevante y con plazos determinados
+
+- Métrica: Tipo único y cuantificable de datos que pueden utilizarse para medición
+
+- Microdatos: Puntos de datos pequeños, específicos, que generalmente involucran un breve período y que son útiles para tomar decisiones diarias.
+
+N
+
+- Nube: Lugar para mantener los datos en línea, en vez de guardarlos en el disco duro de una computadora
+
+O
+
+- Objetivo métrico: Objetivo medible establecido por una empresa y evaluado mediante métricas
+
+- Observación: Los atributos que describen una pieza de datos contenida en una fila de una tabla
+
+P
+
+- Panel: Herramienta que monitorea los datos entrantes en vivo
+
+- Pensamiento analítico: El proceso de identificar y definir un problema, para luego resolverlo mediante el uso de datos de manera organizada, paso a paso
+
+- Pensamiento estructurado: Proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades e identificar opciones
+
+- Pregunta con límite de tiempo: Pregunta que especifica un plazo para ser analizada
+
+- Pregunta específica: Pregunta simple, significativa y enfocada en un solo tema o en algunas ideas estrechamente relacionadas entre sí.
+
+- Pregunta injusta: Pregunta en la que se hacen suposiciones o que es difícil de responder honestamente
+
+- Pregunta medible: Pregunta cuyas respuestas se pueden cuantificar y evaluar
+
+- Pregunta orientada a la acción: Pregunta cuyas respuestas conducen al cambio
+
+- Pregunta principal: Pregunta que orienta a las personas hacia cierta respuesta
+
+- Pregunta relevante: Pregunta que tiene importancia para el problema que se debe resolver
+
+- Proceso de análisis de datos: Las seis fases de preguntar, preparar, procesar, analizar, compartir y actuar cuyo propósito es el de obtener conocimiento que propicie la toma de decisiones informada.
+
+Q
+
+R
+
+- Retorno de la inversión (ROI): Fórmula que utiliza las métricas de inversión y ganancias para evaluar el éxito de una inversión
+
+S
+
+- SQL: (Ver “Lenguaje de consulta estructurado”).
+
+T
+
+- Tabla dinámica: Herramienta de resumen de datos que se utiliza para clasificar, reorganizar, agrupar, contar, totalizar o promediar datos
+
+- Tarea empresarial: La pregunta o el problema que el análisis de datos resuelve para un negocio.
+
+- Tipos de problemas: Distintos problemas que encuentra el analista de datos; entre ellos, categorizar elementos, descubrir conexiones, hallar patrones, identificar temas, hacer predicciones y detectar algo inusual
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial
+
+- Toma de decisiones inspirada en datos: El proceso de explorar diferentes fuentes de datos para descubrir qué tienen en común
+
+U
+V
+
+- Visualización de datos: La representación gráfica de los datos
+
+- Visualización: (Consulta la visualización de datos)
+
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Opcional: ¿conoces el analisis computacional de datos? 
+
+1. ¿Cuál de los siguientes enunciados describe un algoritmo?
+
+    - Un método para reconocer el problema o la situación actuales e identificar las opciones 
+    
+      ❌ Incorrecto.
+  
+    - Una técnica para centrarse en un solo tema o en algunas ideas estrechamente relacionadas
+    
+      ❌ Incorrecto.
+    
+    - Una herramienta que les permite a los analistas de datos detectar algo inusual
+    
+      ❌ Incorrecto.
+      
+    - Un proceso o conjunto de reglas a seguir para una tarea específica
+    
+      ✅ Correcto. Un proceso o conjunto de reglas a seguir para una tarea específica describe un algoritmo.
+
+
+2. Completa el espacio en blanco: En el análisis de datos, los datos cualitativos _____. Selecciona todas las opciones correctas.
+
+    - son subjetivos
+    
+      ✅ Correcto. En el análisis de datos, los datos cualitativos son subjetivos y miden cualidades y características.
+  
+    - siempre están limitados por el tiempo
+    
+      ❌ Incorrecto.
+    
+    - miden hechos numéricos
+    
+      ❌ Incorrecto.
+      
+    - miden cualidades y características
+    
+      ✅ Correcto. En el análisis de datos, los datos cualitativos son subjetivos y miden cualidades y características.
+
+
+3. En el análisis de datos, los informes usan datos que no cambian una vez que se registraron. ¿Cuál de los siguientes términos describe este tipo de datos?
+
+    - En tiempo real
+    
+      ❌ Incorrecto.
+  
+    - Estáticos
+    
+      ✅ Correcto. Los datos estáticos son datos que no cambian una vez que se registraron.
+    
+    - Integrales
+    
+      ❌ Incorrecto.
+      
+    - Monitoreados
+    
+      ❌ Incorrecto.
+
+
+4. Completa el espacio en blanco: Un(a) _____ es una herramienta de resumen de datos utilizada para ordenar, reorganizar, agrupar, contar, totalizar o promediar datos.
+
+    - panel
+    
+      ❌ Incorrecto.
+  
+    - función
+    
+      ❌ Incorrecto.
+    
+    - informe
+    
+      ❌ Incorrecto.
+      
+    - tabla dinámica
+    
+      ✅ Correcto. Una tabla dinámica es una herramienta de resumen de datos utilizada para ordenar, reorganizar, agrupar, contar, totalizar o promediar datos.
+
+
+5. Una métrica es un tipo específico de datos que las empresas usan para identificar un dominio del problema.
+
+    - Verdadero
+    
+      ❌ Incorrecto.
+  
+    - Falso
+    
+      ✅ Correcto. Una métrica es un tipo único y cuantificable de datos que se utiliza al establecer y evaluar objetivos.
+
+
+6. Completa el espacio en blanco: Un objetivo métrico es un objetivo _____ establecido por una empresa evaluado usando métricas.
+
+    - conceptual
+    
+      ❌ Incorrecto.
+  
+    - finito
+    
+      ❌ Incorrecto.
+    
+    - teórico
+    
+      ❌ Incorrecto.
+      
+    - medible
+    
+      ✅ Correcto. Un objetivo métrico es un objetivo medible establecido por una empresa evaluado usando métricas.
+
+
+7. Completa el espacio en blanco: El retorno de la inversión compara el _____ de una inversión con la ganancia neta de esa inversión. 
+
+    - costo
+    
+      ✅ Correcto. El retorno de la inversión compara el costo de una inversión con la ganancia neta de esa inversión. 
+  
+    - tiempo
+    
+      ❌ Incorrecto.
+    
+    - éxito
+    
+      ❌ Incorrecto.
+      
+    - propósito
+    
+      ❌ Incorrecto.
+
+
+8. Describir las principales diferencias entre los macrodatos y los microdatos.
+
+    - Los microdatos son menos útiles para los analistas de datos. Los macrodatos son más útiles para los analistas de datos.
+    
+      ❌ Incorrecto.
+  
+    - Los microdatos suelen almacenarse y organizarse en bases de datos. Los macrodatos suelen almacenarse y organizarse en hojas de cálculo.
+    
+      ❌ Incorrecto.
+    
+    - Los microdatos son específicos y se refieren a un período de tiempo corto. Los macrodatos son menos específicos y se refieren a un período de tiempo más prolongado.
+    
+      ✅ Correcto. Los microdatos son específicos y se refieren a un período de tiempo corto. Los macrodatos son menos específicos y se refieren a un período de tiempo más prolongado.
+      
+    - Los microdatos están limpios y ordenados. Los macrodatos aún no están limpios ni ordenados.
+    
+      ❌ Incorrecto.
+
+
+9. Completa el espacio en blanco: En el análisis de datos, un proceso o conjunto de reglas a seguir para una tarea específica es _____.
+
+    - un valor
+    
+      ❌ Incorrecto.
+  
+    - un algoritmo
+    
+      ✅ Correcto. En el análisis de datos, un proceso o conjunto de reglas a seguir para una tarea específica es un algoritmo.
+    
+    - un dominio
+    
+      ❌ Incorrecto.
+      
+    - un patrón
+    
+      ❌ Incorrecto.
+
+
+10. Completa el espacio en blanco: Si un analista de datos mide cualidades y características, considera datos _____ .
+
+    - limpios
+    
+      ❌ Incorrecto.
+  
+    - imparciales
+    
+      ❌ Incorrecto.
+    
+    - cuantitativos
+    
+      ❌ Incorrecto.
+      
+    - cualitativos
+    
+      ✅ Correcto. Si un analista de datos mide cualidades y características, considera datos cualitativos. 
+
+
+11. Una métrica es un tipo de datos único y cuantificable que se puede usar ¿para qué tarea?
+
+    - Ordenar y filtrar datos
+    
+      ❌ Incorrecto.
+  
+    - Definir un tipo de problema
+    
+      ❌ Incorrecto.
+    
+    - Establecer y evaluar objetivos
+    
+      ✅ Correcto. Una métrica es un tipo único y cuantificable de datos que se utiliza al establecer y evaluar objetivos.
+      
+    - Limpiar datos
+    
+      ❌ Incorrecto.
+
+
+12. Completa el espacio en blanco: El retorno de la inversión compara el costo de una inversión con el/la _____ de esa inversión. 
+
+    - ganancia neta
+    
+      ✅ Correcto. Las tablas dinámicas se utilizan para resumir los datos.
+  
+    - éxito futuro 
+    
+      ❌ Incorrecto.
+    
+    - propósito
+    
+      ❌ Incorrecto.
+      
+    - tiempo
+    
+      ❌ Incorrecto.
+
+
+13. Completa el espacio en blanco: Un analista de datos usa datos para abordar un problema a gran escala. Este tipo de análisis probablemente requerirá _____. Selecciona todas las opciones correctas. 
+
+    - datos que reflejen el cambio a lo largo del tiempo
+    
+      ✅ Correcto. Un analista de datos que usa datos para abordar un problema a gran escala probablemente requerirá macrodatos que reflejen el cambio a lo largo del tiempo. 
+  
+    - microdatos
+    
+      ❌ Incorrecto.
+    
+    - macrodatos
+    
+      ✅ Correcto. Un analista de datos que usa datos para abordar un problema a gran escala probablemente requerirá macrodatos que reflejen el cambio a lo largo del tiempo. 
+      
+    - datos representados por una cantidad limitada de métricas
+    
+      ❌ Incorrecto.
