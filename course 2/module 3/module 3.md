@@ -229,8 +229,6 @@ En Google Sheets, ¿qué nivel de acceso debes seleccionar si quieres que tu col
     
       ✅ Correcto. Si quieres que tu colaborador comente en tu hoja de cálculo sin editar el contenido en Google Sheets, debes elegir el nivel de acceso “Puede comentar”. Cuando compartes una hoja de Google con colaboradores, puedes asignarles los siguientes niveles de acceso: Puede editar, Puede comentar y Puede ver. Como analista de datos, a menudo, compartirás tu trabajo con otras personas para obtener comentarios o comunicar tus ideas. 
     
-      ❌ Incorrecto.
-    
     - Puede ver
     
       ❌ Incorrecto.
