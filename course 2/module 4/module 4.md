@@ -70,7 +70,7 @@ Conozcamos más sobre los diferentes interesados y sus objetivos. Luego, aprende
 
 **Equipo ejecutivo**
 
-El equipo ejecutivo proporciona liderazgo estratégico y operativo a la empresa. Establece metas, desarrolla estrategias y se asegura de que la estrategia se ejecute de manera eficaz. El equipo ejecutivo puede incluir vicepresidentes, al director de marketing y profesionales de alto nivel que ayudan a planificar y dirigir el trabajo de la empresa. Estos interesados piensan en las decisiones a un nivel muy alto y primero buscan la información importante sobre su proyecto.  Les dan menos importancia a los detalles. El tiempo con ellos es muy limitado, así que aprovéchalo al máximo; para ello, guía tus presentaciones con las respuestas a sus preguntas. Puedes tener a mano la información más detallada en el apéndice de tu presentación o en la documentación de tu proyecto para que puedan profundizar cuando tengan más tiempo.
+El equipo ejecutivo proporciona liderazgo estratégico y operativo a la empresa. Establece metas, desarrolla estrategias y se asegura de que la estrategia se ejecute de manera eficaz. El equipo ejecutivo puede incluir vicepresidentes, al director de marketing y profesionales de alto nivel que ayudan a planificar y dirigir el trabajo de la empresa. Estos interesados piensan en las decisiones a un nivel muy alto y primero buscan la información importante sobre su proyecto. Les dan menos importancia a los detalles. El tiempo con ellos es muy limitado, así que aprovéchalo al máximo; para ello, guía tus presentaciones con las respuestas a sus preguntas. Puedes tener a mano la información más detallada en el apéndice de tu presentación o en la documentación de tu proyecto para que puedan profundizar cuando tengan más tiempo.
 
 Por ejemplo, es posible que trabajes con el vicepresidente de recursos humanos en un proyecto de análisis para comprender la tasa de ausencias de los empleados. Un director de marketing podría recurrir a ti para los análisis competitivos. Parte de tu trabajo será equilibrar la información que necesitarán para tomar decisiones fundamentadas con su apretada agenda.
 
@@ -232,39 +232,313 @@ Pon a prueba tus conocimientos sobre como equilibrar las necesidades del equipo 
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Es bueno verte de nuevo. Hemos hablado mucho sobre lo que tiene que ver con comprender a los interesados y a tu equipo para que puedas equilibrar sus necesidades y mantener un enfoque claro en los objetivos de tu proyecto. Una gran parte de eso consiste en construir buenas relaciones con las personas con las que trabajas. ¿Cómo haces eso? Dos palabras: comunicación clara. Ahora vamos a aprender sobre la importancia de la comunicación clara con los interesados y los miembros de tu equipo. Comienza por pensar en con quién quieres comunicarte y cuándo. En primer lugar, es posible que te resulte útil pensar en los desafíos de comunicación que posiblemente ya enfrentes en tu vida cotidiana. ¿Alguna vez te ocurrió que mientras estabas contando un chiste muy gracioso te diste cuenta de que tu amigo ya sabía el remate? ¿O tal vez simplemente no le resultó gracioso? Esto sucede todo el tiempo, especialmente si no conoces a tu audiencia. Este tipo de cosas también puede ocurrir en el lugar de trabajo. Este es el secreto para lograr una comunicación efectiva. Antes de preparar una presentación, enviar un correo electrónico o incluso contarle ese chiste graciosísimo a tu compañero de trabajo, piensa en quién es tu audiencia, qué sabe ya, qué debe saber y cómo puedes comunicárselo de manera eficaz. 
+
+Cuando comienzas por pensar en tu audiencia, ellos lo sabrán y valorarán el tiempo que te tomaste para tenerlos en cuenta a ellos y a sus necesidades. Supongamos que estás trabajando en un proyecto grande, analizando los datos de las ventas anuales, y descubres que faltan todos los datos de las ventas en línea. Esto podría afectar a todo tu equipo y retrasar significativamente el proyecto. Al analizar estas cuatro preguntas, puedes planificar la mejor manera de comunicarte con todo tu equipo en relación con este problema. En primer lugar, deberás pensar quién es tu audiencia. En este caso, deberás comunicarte con otros analistas de datos que trabajen en el proyecto, así como con tu gerente de proyectos y, eventualmente, con el vicepresidente de ventas, quien es tu interesado. A continuación, analizarás lo que ya sabe este grupo. 
+
+Los otros analistas de datos que trabajan en el proyecto conocen todos los detalles sobre qué conjunto de datos ya estás usando y tu gerente de proyectos sabe el plazo que debes cumplir. Por último, el vicepresidente de ventas sabe cuáles son los objetivos de alto nivel del proyecto. Luego, te preguntarás qué deben saber para avanzar. Los otros analistas de datos deben conocer los detalles de los lugares en los que has intentado hasta ahora y las posibles soluciones que has propuesto. Tu gerente de proyectos saber cuáles son los diferentes equipos que podrían verse afectados y las implicaciones del proyecto, especialmente si este problema modifica el plazo. 
+
+Por último, el vicepresidente de ventas deberá saber que hay un posible problema que retrasaría o afectaría el proyecto. Ahora que has decidido quién debe saber qué cosa, puedes elegir la mejor forma de comunicarte con ellos. En lugar de un correo electrónico extenso y que cause preocupación, que podría dar lugar a muchas idas y vueltas, decides programar rápidamente una reunión con tu gerente de proyectos y los demás analistas. En la reunión, informas al equipo acerca de los datos de las ventas en línea que faltan y brindas más información complementaria. Juntos, analizan cómo esto afecta otras partes del proyecto. Como equipo, elaboran un plan y actualizan el plazo del proyecto si es necesario. 
+
+En este caso, no era necesario invitar al vicepresidente de ventas a la reunión, pero este valoraría una actualización por correo electrónico si hubiera que realizar cambios en el plazo, que tu gerente de proyectos podría enviar. Si te comunicas de manera meditada y piensas primero en tu audiencia, construirás mejores relaciones y mayor confianza con los miembros de tu equipo y los interesados. Eso es importante porque esas relaciones son clave para el éxito del proyecto y también para tu propio éxito. 
+
+Cuando te prepares para enviar un correo electrónico, organizar alguna reunión o preparar una presentación, piensa en quién es tu audiencia, qué sabe ya, qué debe saber y cómo puedes comunicárselo de manera eficaz. A continuación, hablaremos más sobre la comunicación en el trabajo y aprenderás algunos consejos útiles para asegurarte de transmitir tu mensaje de forma clara.
+
 ### Consejos para una comunicación efectiva 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-#### Escenarios de datos y respuestas 📖
+Sin importar dónde trabajes, probablemente necesites comunicarte con otras personas como parte de tu día a día. Todas las organizaciones y todos los equipos de esa organización tendrán diferentes expectativas de comunicación. Aprenderemos algunas formas prácticas de ayudarte a que te adaptes a esas diferentes expectativas y algunas cosas que puedes llevar de un equipo a otro. ¡Empecemos! Al comenzar un trabajo o proyecto nuevo, es posible que te sientas un poco fuera de sintonía con el resto de tu equipo y la forma en que se comunican. Es totalmente normal. Comprenderás las cosas en muy poco tiempo si estás dispuesto a aprender sobre la marcha y a hacer preguntas cuando no estés seguro de algo. 
+
+Por ejemplo, si ves que tu equipo usa siglas con las que no estás familiarizado, no tengas miedo de preguntar qué significan. Cuando yo comencé en Google, no tenía ni idea de lo que significaba LGTM y siempre lo veía en hilos conductores. Bueno, aprendí que significa “me parece bien” y lo uso todo el tiempo. Ahora si necesito dar a alguien mis comentarios rápidos, esa es una de las muchas siglas que aprendí. Me topo con otras nuevas todo el tiempo y nunca me da miedo preguntar. Todos los entornos de trabajo tienen algún tipo de etiqueta. Tal vez los miembros de tu equipo valoren el contacto visual y un firme apretón de manos. O quizás sea más cortés inclinarse, especialmente si trabajas con clientes internacionales. También es posible que descubras algunas reglas de etiqueta específicas con solo mirar a tus compañeros de trabajo comunicarse. Además, no solo lidiarás con la comunicación en persona. Todos los días, se envían y reciben casi 300 mil millones de correos electrónicos, y ese número está aumentando. 
+
+Afortunadamente, existen habilidades útiles que puedes aprender de esas comunicaciones digitales para que tus correos electrónicos sean tan profesionales como tus comunicaciones en persona. Aquí presentamos algunas cosas que pueden ayudarte a hacer que las buenas prácticas de escritura contribuyan en gran medida a lograr que tus correos electrónicos sean profesionales y fáciles de comprender. Los correos electrónicos son, por naturaleza, más formales que los mensajes de texto, pero eso no significa que tengas que escribir la próxima gran novela. Solo que te tomes el tiempo para escribir oraciones completas que tengan una ortografía y puntuación adecuadas dejará claro que dedicaste tiempo y consideración a escribir Los correos electrónicos suelen a los que dedicaste tiempo y consideración en escribir suelen reenviarse a otras personas. 
+
+Así que escribe lo suficientemente claro para que todos puedan comprenderte. A mí me gusta leer los correos electrónicos importantes en voz alta antes de enviarlos como están. Puedo oír si tienen sentido y detectar errores tipográficos, y ten en cuenta que el tono de tus correos electrónicos puede cambiar con el tiempo. Si ves que tu equipo es bastante informal, genial. Una vez que los conozcas mejor, tú también puedes empezar a ser más informal, pero ser profesional siempre es un buen punto de partida. ¿Estarías orgulloso de lo que escribiste si se publicara en la primera plana de un periódico? Si no es así, revísalo hasta que lo estés; además, tampoco se recomienda que los correos electrónicos sean demasiado largos. Piensa en lo que debe saber el miembro de tu equipo y ve al grano, en lugar de abrumarlo con un muro de texto; debes asegurarte de que tus correos electrónicos sean claros y concisos para que no se maree con tanta información. Echemos un vistazo rápido a dos correos electrónicos para que puedas ver a lo que me refiero.
+
+Este es el primer correo electrónico. Hay tanto escrito aquí que es un poco difícil ver dónde está la información importante. Y este primer párrafo no me brinda un resumen rápido de las conclusiones importantes. Tiene un saludo bastante informal. Solo “Hola”, y no hay un cierre. Además, ya puedo detectar algunos errores tipográficos. Ahora echemos un vistazo al segundo correo electrónico. Es menos abrumador, ¿verdad? Solo unas pocas oraciones para informarme lo que debo saber. Está organizado de forma clara y la lectura y el cierre resultan amables. Este es un buen ejemplo de un correo electrónico breve que va al grano, es amable y está bien redactado. Todo de lo que hemos hablado hasta ahora. 
+
+![image](./img/module%2004%20img%2004.png)
+
+Pero, ¿qué haces si lo que necesitas decir es demasiado largo para un correo electrónico? Bueno, tal vez, en su lugar, debas programar una reunión. También es importante responder de manera oportuna. No querrás tomarte tanto tiempo para responder los correos electrónicos que tus compañeros de trabajo comiencen a preguntarse si estás bien. Yo siempre intento responder los correos electrónicos dentro de las 24 a 48 horas. Incluso si es solo para informarles cuándo tendré las respuestas que buscan. De esa manera, puedo establecer expectativas y ellos sabrán que estoy trabajando en el asunto en cuestión. Eso también funciona al revés. 
+
+![image](./img/module%2004%20img%2005.png)
+
+Si necesitas una respuesta sobre algo específico de uno de los miembros de tu equipo, sé claro acerca de lo que necesitas y cuándo lo necesitas para que puedan volver a comunicarse contigo. Incluso incluiré una fecha en mi línea de asunto y fechas en negrita en el cuerpo de mi correo electrónico para que quede bien claro. Recuerda que ser claro con respecto a tus necesidades es una gran parte de ser un buen comunicador. Cubrimos algunas formas excelentes de mejorar nuestras habilidades de comunicación profesional, como hacer preguntas, practicar hábitos de buena escritura y algunos consejos y trucos para redactar correos electrónicos. Estos te ayudarán a comunicarte de forma clara y eficaz con los miembros de tu equipo en cualquier proyecto. Es posible que lleve algún tiempo, pero encontrarás un estilo de comunicación que funcione para ti y para tu equipo, tanto en persona como en línea. Mientras estés dispuesto a aprender, no tendrás problemas para adaptarte a las diferentes expectativas de comunicación que verás en trabajos futuros.
+
+![image](./img/module%2004%20img%2006.png)
+
+![image](./img/module%2004%20img%2007.png)
+
+### Escenarios de datos y respuestas 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Ser capaz de comunicarse en diversos formatos es una habilidad clave para los analistas de datos. Las habilidades para escuchar, hablar, presentar y escribir te ayudarán a tener éxito en tus proyectos y en tu carrera. Esta lectura incluye estrategias eficaces de comunicación, incluidos ejemplos de correos electrónicos claramente redactados para situaciones habituales.
+
+Aquí te presentamos un primer consejo importante: ¡Conoce a tu audiencia! Al comunicar tus análisis y recomendaciones como analista de datos, es fundamental tener en cuenta a tu audiencia. 
+
+Asegúrate de responder estas cuatro preguntas importantes relacionadas con tu audiencia:
+
+1. ¿Quién es tu audiencia?
+
+2. ¿Qué saben ya?
+
+3. ¿Qué necesitan saber?
+
+4. ¿Cómo puedes comunicar mejor lo que necesitan saber?
+
+**Ejemplo de proyecto**
+
+Como analista de datos, recibirás muchas solicitudes y preguntas por correo electrónico. Veamos un ejemplo de cómo podrías abordar la respuesta a uno de estos correos electrónicos. Supongamos que eres un analista de datos que trabaja en una empresa que desarrolla aplicaciones móviles. Comencemos por revisar las respuestas a las cuatro preguntas de la audiencia que acabamos de incluir:
+
+#### ¿Quién es tu audiencia?
+
+Kiri, gerente de proyectos de Desarrollo de Productos
+
+#### ¿Qué saben ya?
+
+Kiri recibió actualizaciones sobre nuestro proyecto desde las etapas de planificación, incluido el informe del proyecto más reciente, que se envió hace dos semanas.
+
+#### ¿Qué necesitan saber?
+
+Kiri necesita una actualización sobre el progreso del proyecto de análisis y debe confirmar que el equipo ejecutivo aprobó los cambios en los datos y el plazo. Tú sabes que agregar una nueva variable al análisis afectará el plazo actual del proyecto. Kiri tendrá que cambiar los hitos del proyecto y la fecha de finalización.
+
+#### ¿Cómo puedes comunicar mejor lo que necesitan saber?
+
+Puedes comenzar por enviar una actualización por correo electrónico a Kiri con el plazo más reciente para el proyecto, pero podría requerirse una reunión si quiere hablar sobre sus inquietudes acerca del cumplimiento de una fecha límite.
+
+####  Ejemplo de correo electrónico
+
+sobre la actualización del plazo
+Después de responder las preguntas de la audiencia, tienes la base clave que necesitas para escribir un correo electrónico a Kiri. Aquí te mostramos un ejemplo de cómo estas preguntas pueden ayudar a organizar el flujo del mensaje del correo electrónico:
+
+Hola, Kiri: (¿quién es tu audiencia?) 
+
+Gracias por tu correo electrónico sobre el estado del proyecto de análisis de las aplicaciones. Entiendo que te preocupa cómo la incorporación de estos nuevos datos afectará los plazos, y me encantaría proporcionar la mayor cantidad de información que pueda sobre el estado del proyecto. (¿Qué saben ya? ) 
+
+Podemos incluir los nuevos datos que has sugerido; sin embargo, necesitaremos tiempo para recopilarlos e incorporarlos a nuestro análisis. En consecuencia, incluir los nuevos datos tomará dos semanas más, lo que modifica el plazo de nuestro proyecto de análisis. (¿Qué necesitan saber?) 
+
+Pienso enviar un informe completo el lunes. Este informe incluirá el plazo final y compartirá los últimos hallazgos, incluida la información nueva que hayamos descubierto. 
+
+Entiendo que estás a la espera de nuestro informe, y quiero asegurarme de que podamos obtener la información que necesitas. Si deseas reunirte antes del próximo informe, dime qué horario sería más conveniente para ti. (¿Cómo puedes comunicar mejor lo que necesitan saber?) 
+
+Gracias. 
+
+(Tu nombre)
+
+Después de recibir tu correo electrónico, Kiri tendrá una visión más clara de los cambios en el proyecto de análisis y podrá hacer ajustes para trabajar con el nuevo plazo. 
+
+####  Ejemplo de correo electrónico de seguimiento del proyecto
+
+Una vez completado el siguiente informe, también puedes enviar una actualización del proyecto para brindar más información. El correo electrónico podría ser así:
+
+Hola, Kiri: 
+
+Se publicó el informe del análisis de la aplicación, y quería que supieras que estamos cumpliendo con todas las fechas límites de nuestro nuevo plazo. 
+
+Adjunto una copia del informe para que puedas ver los resultados. En el informe, se incluye el análisis con nuestros nuevos datos, junto con más detalles sobre los próximos pasos. 
+
+Envíalo a tu equipo y dime si necesitas más información. 
+
+Gracias. 
+
+[Tu nombre]
+
+Una buena comunicación mantiene a los interesados actualizados sobre el progreso y, en última instancia, ayuda a evitar problemas. Las respuestas cuidadosamente redactadas son clave. Ya sea que recopiles y abordes los comentarios por correo electrónico, reuniones o informes, todas las personas con las que trabajes sabrán qué esperar. Como resultado, podrán administrar mejor sus propios horarios, recursos y equipos.
 
 ### Cómo equilibrar las expectativas y los objetivos realistas del proyecto 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Antes hablamos de cómo los datos tienen limitaciones. A veces, no tienes acceso a los datos que necesitas, las fuentes de datos no están alineadas o los datos no están limpios. Esto definitivamente puede ser un problema al analizar datos, pero también puede afectar tu comunicación con los interesados. Por eso es importante equilibrar las expectativas de los interesados y lo que es realmente posible para un proyecto. Vamos a aprender sobre la importancia de establecer metas realistas y objetivas, y cómo comunicarse mejor con los interesados al hablar sobre los problemas con los que te puedes topar. Ten en cuenta que muchas cosas dependen de tu análisis. Tal vez tu equipo no pueda tomar una decisión sin tu informe. O tal vez tu trabajo inicial de datos determinará cómo y dónde se recopilarán datos adicionales. 
+
+Es posible que recuerdes que hemos hablado sobre algunas situaciones en las que es importante incluir a los interesados. Por ejemplo, informarle a tu gerente de proyectos si estás cumpliendo el cronograma o si tienes un problema. Ahora, veamos un ejemplo de la vida real en el que necesitas comunicarte con los interesados y lo que podrías hacer si te topas con un problema. Supongamos que estás trabajando en un proyecto para una compañía de seguros. La compañía quiere identificar las causas comunes de los accidentes automovilísticos menores para poder desarrollar materiales educativos que fomenten una conducción más segura. Hay algunas preguntas iniciales que tú y tu equipo deben responder. ¿Qué hábitos de conducción incluirás en tu conjunto de datos? ¿Cómo recopilarás estos datos? ¿Cuánto tiempo tardarás en recopilar y limpiar esos datos antes de poder usarlos en tu análisis? De inmediato, quieres entablar una comunicación clara con los interesados para responder estas preguntas, de modo que tú y tu equipo puedan establecer un plazo razonable y realista para el proyecto. 
+
+Puede ser tentador decirles a los interesados que tendrás esto listo en muy poco tiempo, sin problemas. Pero establecer expectativas para un plazo realista, a la larga, te ayudará. Los interesados sabrán qué esperar y cuándo, y tú no trabajarás en exceso ni incumplirás las fechas límites porque prometiste demasiado. Establecer las expectativas con anterioridad me resulta útil para utilizar mi tiempo de manera más productiva. Así que te recomendamos que, cuando empieces, envíes un cronograma de alto nivel con las diferentes fases del proyecto y sus fechas aproximadas de inicio. En este caso, tú y tus equipos establecen que necesitarán tres semanas para completar el análisis y proporcionar recomendaciones, y lo informas a los interesados para que puedan planificar en consecuencia. Ahora imaginemos que estás más avanzado en el proyecto y te topas con un problema. 
+
+Tal vez los conductores hayan optado por compartir datos sobre el uso del teléfono en el automóvil, pero tú descubres que, en sus datos, algunas fuentes cuentan el uso del GPS y otras, no. Esto podría sumar tiempo a tu procesamiento y limpieza de datos, y retrasar algunos hitos del proyecto. Querrás que tu gerente de proyectos lo sepa y tal vez proponga un nuevo plazo para presentar a los interesados. Cuanto antes puedas informar de estos problemas, mejor. De esa manera, los interesados pueden hacer los cambios necesarios lo antes posible. O, ¿qué pasa si los interesados quieren agregar el modelo de automóvil o la edad como posibles variables? Tendrás que comunicarte con ellos para informarles cómo eso podría cambiar el modelo que has construido, si se puede agregar y antes de las fechas límites, y cualquier otro obstáculo que necesiten saber para poder decidir si los cambios valen la pena en esta etapa del proyecto. Para ayudarlos, podrías preparar un informe sobre cómo su solicitud cambia el plazo del proyecto o altera el modelo. También podrías describir las ventajas y desventajas de ese cambio. 
+
+Quieres ayudar a los interesados a lograr sus objetivos, pero es importante establecer expectativas realistas en todas las etapas del proyecto. Esto requiere un poco de equilibrio. Has aprendido a equilibrar las necesidades de los miembros de tu equipo y de los interesados, pero también debes equilibrar las expectativas de los interesados y lo que es posible con los proyectos, recursos y limitaciones. Por eso es importante ser realista y objetivo, y comunicarse con claridad. Esto ayudará a los interesados a comprender el plazo y a confiar en tu capacidad para lograr esos objetivos. Entonces, sabemos que la comunicación es clave y tenemos algunas buenas reglas que seguir para nuestra comunicación profesional. Próximamente, hablaremos aún más sobre cómo responder a las preguntas de los interesados, entregar datos y comunicarse con el equipo.
+
+![image](./img/module%2004%20img%2008.png)
+
 ### Cómo comunicarse con los interesados 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-#### Intercambio de datos: velocidad frente a precisión 🎬
+Soy Sarah y soy líder analítica sénior en Google. Como analista de datos, habrá ocasiones en que tengas diferentes interesados que desconozcan la cantidad de tiempo que te lleva hacer cada proyecto. Y, desde el principio, cuando me piden que haga un proyecto o que investigue algo, siempre intento explicar un poco las expectativas sobre el plazo porque la mayoría de los interesados realmente no comprende lo que haces con los datos, cómo los obtienes, y cómo los limpias y armas la historia que hay detrás. Otra cosa que quiero aclarar a todos es que tienes que asegurarte de que los datos te cuenten las historias. A veces, las personas piensan que los datos pueden responder a todo y, en ocasiones, tenemos que reconocer que eso es simplemente falso. Hace poco trabajé con un estado para averiguar por qué las personas no se inscribían para los beneficios que necesitaban y merecían. Vimos que las personas ingresaban al sitio y a dónde se inscribían para esos beneficios y veían si estaban calificados. 
+
+Pero, por alguna razón, había algo que les impedía dar el paso para finalmente inscribirse. Así que pude investigarlo mediante el uso de Google Analytics para intentar descubrir qué es lo que les impide tomar la decisión de inscribirse para estos beneficios que necesitan y merecen. Entonces, voy a Google Analytics, veo que las personas van y vienen entre esta página de servicio y la página de desempleo, y regresan a la página de servicio y otra vez a la página de desempleo. Entonces se me ocurrió la teoría de que las personas no encuentran la información que necesitan a fin de dar el siguiente paso para ver si califican para estos servicios. La única manera en que puedo realmente saber por qué alguien abandonó el sitio sin actuar es preguntárselo. Tendría que hacerle una encuesta. Google Analytics no me brindó los datos que necesitaba para respaldar al 100 % mi teoría o negarla. Así que cuando les explicas a los interesados: “Oye, tengo una teoría. Estos datos me cuentan una historia. Sin embargo, no puedo asegurarla debido a las limitaciones de los datos”. Solo tienes que decirlo. La forma en que yo comunico eso es al decir: “Tengo la teoría de que las personas no encuentran la información que necesitan para actuar. Aquí están los puntos comprobados que tengo y apoyan esa teoría”. Entonces lo que hicimos a continuación fue hacer que fuera un poco más fácil encontrar esa información. Si bien no estábamos seguros por completo de que mi teoría fuera correcta, estábamos lo suficientemente confiados como para actuar. Luego miramos hacia atrás y vimos que todas las métricas que me dirigían hacia esta teoría mejoraron. Y siempre se siente muy bien cuando puedes ayudar a que una causa en la que crees mejore y ayudar a más personas a través de los datos. Hace que todo el aprendizaje nerd sobre SQL y todo eso valga completamente la pena.
+
+### Intercambio de datos: velocidad frente a precisión 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-#### Limitaciones de los datos 📖
+Vivimos en un mundo al que le encanta la gratificación instantánea, ya sea que se trate de entregas durante la noche o de películas a demanda. Queremos lo que queremos y lo queremos ahora. Pero en el mundo de los datos, a veces, la velocidad puede ser el enemigo de la precisión, especialmente cuando se requiere colaboración. Vamos a hablar acerca de cómo equilibrar las respuestas rápidas y las correctas, y cómo abordar estas cuestiones de la mejor manera al replantear las preguntas y describir los problemas. De esa manera, los miembros de tu equipo y los interesados comprenden qué respuestas pueden esperar y cuándo. Como analistas de datos, debemos conocer el motivo de cosas como una caída en las ventas, el promedio de bateo de un jugador o los totales de lluvias. No se trata únicamente de las cifras, se trata también del contexto, y llegar a la raíz de estas cosas lleva tiempo. Si viene un interesado y llama a tu puerta, muchas veces es posible que esa persona no sepa realmente lo que necesita. Solo sabe que lo quiere a la velocidad de la luz. Pero, a veces, la presión nos llega e incluso los analistas de datos con más experiencia pueden verse tentados a tomar atajos y proporcionar datos defectuosos o incompletos por falta de tiempo. Cuando eso ocurre, se pierde gran parte de la historia en los datos. Por eso, la comunicación es una de las herramientas más valiosas para trabajar con equipos. 
+
+Es importante comenzar con un pensamiento estructurado y un alcance de trabajo bien planificado, de lo que hablamos anteriormente. Si comienzas con una comprensión clara de las expectativas de los interesados, luego podrás desarrollar un alcance de trabajo realista que describa las expectativas, los plazos, los hitos y los informes acordados. De esta manera, tu equipo siempre tiene una hoja de ruta para guiar sus acciones. Si estás presionado por algo que está fuera del alcance, puedes sentir confianza al establecer expectativas más realistas. Al final del día, es tu trabajo equilibrar las respuestas rápidas y las respuestas correctas. Sin mencionar que debes averiguar qué está preguntando realmente la persona. Ahora parece un buen momento para un ejemplo. Imagina que la vicepresidenta de RR. HH. se presenta en tu escritorio y exige ver cuántas contrataciones nuevas completan un curso de capacitación que ha lanzado. Dice: “No hay manera de que las personas pasen por cada sección del curso. 
+
+![image](./img/module%2004%20img%2009.png)
+
+El equipo de recursos humanos está recibiendo muchísimas preguntas. Es probable que simplemente debamos cancelar el programa”. ¿Cómo responderías? Bueno, podrías registrarte en el sistema, hacer algunos números y entregarlos a tu supervisor. Eso no llevaría tiempo en absoluto. Pero la respuesta rápida podría no ser la más precisa. Así que, en cambio, podrías replantear su pregunta, describir el problema, los desafíos, las posibles soluciones y el plazo. Podrías decir: “Definitivamente puedo revisar las tasas de finalización, pero siento que aquí puede haber más para aportar a la historia. ¿Podrías darme dos días para realizar algunos informes y saber qué está pasando realmente?”. Con más tiempo, puedes ganar contexto. Tú y la vicepresidenta de RR. HH. deciden extender el plazo del proyecto para que puedas usar el tiempo a fin de recopilar datos anónimos de las encuestas de los nuevos empleados acerca del curso de capacitación. Sus respuestas aportan datos que pueden ayudarte a identificar exactamente por qué las tasas de finalización son tan bajas. Los empleados informan que el curso se siente confuso y desactualizado. 
+
+Debido a que pudiste tomarte tiempo para abordar el problema más grande, la vicepresidenta de RR. HH. puede comprender mejor el motivo por el que los nuevos empleados no completan el curso y puede tomar nuevas decisiones sobre cómo actualizarlo. Ahora el curso de capacitación es fácil de seguir y el departamento de RR. HH. no recibe tantas preguntas. Todos se benefician. Redirigir la conversación te ayudará a descubrir el verdadero problema que conduce a soluciones más esclarecedoras y precisas. Sin embargo, es importante tener en cuenta que, a veces, debes ser el portador de las malas noticias y eso está bien. Comunicarse para conversar sobre problemas, posibles soluciones y diferentes expectativas puede ayudarte a avanzar en un proyecto, en lugar de quedarte atascado. Cuando se trata de comunicar respuestas a tus equipos y a los interesados, la respuesta más rápida y la respuesta más precisa, por lo general, no son la misma respuesta. Pero si te aseguras de comprender sus necesidades y establecer expectativas claras, puedes equilibrar la velocidad y la precisión. Solo asegúrate de ser claro y sincero, y encontrarás el éxito.
+
+![image](./img/module%2004%20img%2010.png)
+
+### Limitaciones de los datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Los datos son poderosos, pero tienen sus limitaciones. ¿La opinión personal de alguien se ha colado en las cifras? ¿Tus datos cuentan toda la historia? Parte de ser un gran analista de datos consiste en conocer los límites de los datos y planificarlos. Esta lectura explora cómo puedes hacer eso.
+
+#### El caso de los datos incompletos (¡o inexistentes!)
+
+Si tienes datos incompletos o inexistentes, es posible que, durante un análisis, te des cuenta de que no tienes suficientes datos para llegar a una conclusión. ¡O incluso podrías estar resolviendo un problema completamente diferente! Por ejemplo, supongamos que estás buscando empleados que obtuvieron un certificado en particular, pero descubres que los registros de certificación en tu empresa tienen solo dos años de antigüedad. Aún puedes usar los datos, pero deberás aclarar los límites de tu análisis. Es posible que puedas encontrar una fuente alternativa de datos si te comunicas con la empresa que llevó a cabo la capacitación. Pero, para estar seguro, debes ser sincero sobre el conjunto de datos incompleto hasta que esos datos estén disponibles.
+
+#### No omitas los datos desalineados
+
+Si estás recopilando datos de otros equipos y utilizando hojas de cálculo existentes, es bueno tener en cuenta que las personas usan diferentes reglas comerciales. Por lo tanto, un equipo podría definir y medir las cosas de una manera completamente diferente a la de otro. Por ejemplo, si una métrica es la cantidad total de aprendices en un programa de certificación, podrías tener un equipo para que cuente a cada persona que se registró para la capacitación y otro equipo para que cuente solo a las personas que completaron el programa. En casos como estos, establecer cómo medir las cosas desde el principio estandariza los datos en todos los ámbitos para una mayor confiabilidad y precisión. Esto garantizará que las comparaciones entre los equipos sean significativas y perspicaces.
+
+#### Gestiona los datos sucios
+
+Los datos sucios hacen referencia a datos que contienen errores. Estos pueden conducir a la pérdida de productividad, a gastos innecesarios y a una toma de decisiones imprudente. Un buen intento de limpieza de datos puede ayudarte a evitar esto. Como recordatorio rápido, la limpieza de datos es el proceso de corregir o eliminar datos incorrectos, dañados, formateados incorrectamente, duplicados o incompletos dentro de un conjunto de datos. Si encuentras y corriges los errores, mientras realizas un seguimiento de los cambios que hiciste, puedes evitar un desastre con los datos. Aprenderás a limpiar los datos más adelante en la capacitación.
+
+#### Cuenta una historia clara
+
+Avinash Kaushik, un evangelista de marketing digital para Google, tiene muchos consejos excelentes para los analistas de datos en su 
+[blog: Occam's Razor](http://www.kaushik.net/). A continuación, presentamos algunas de las prácticas recomendadas que sugiere para una buena narración de datos: 
+
+- Compara los mismos tipos de datos: al graficarlos para su visualización, los datos pueden confundirse. Asegúrate de comparar los mismos tipos de datos y verifica que los segmentos de tu gráfico muestren definitivamente diferentes métricas. 
+
+- Visualiza con cuidado: una caída del 0,01 % en una puntuación puede parecer terrible si te acercas lo suficiente. Para asegurarte de que tu audiencia vea la historia completa con claridad, se recomienda establecer tu eje Y en 0.
+
+- Deja de lado los gráficos innecesarios: si una tabla puede mostrar tu historia de un vistazo, elige la tabla en lugar de un gráfico circular o de otro tipo. Tu atareada audiencia apreciará la claridad.
+
+- Realiza pruebas para determinar la importancia estadística: en ocasiones, dos conjuntos de datos se verán diferentes, pero necesitarás una forma de probar si la diferencia es real e importante. Así que recuerda realizar pruebas estadísticas para ver cuánto puedes confiar en esa diferencia.
+
+- Presta atención al tamaño de la muestra: recopila muchos datos. Si el tamaño de una muestra es pequeño, algunas respuestas inusuales pueden sesgar los resultados. Si descubres que tienes muy pocos datos, ten cuidado de usarlos para elaborar juicios. Busca oportunidades para recopilar más datos, luego grafica esas tendencias durante períodos más largos.
+
+#### Sé el juez
+
+En cualquier organización, una gran parte del papel de un analista de datos consiste en hacer juicios sólidos. Cuando conoces las limitaciones de los datos, puedes discernir y ayudar a las personas a tomar mejores decisiones respaldadas por los datos. Los datos son una herramienta extremadamente poderosa para la toma de decisiones, pero si están incompletos, desalineados o no se han limpiado, entonces pueden ser engañosos. Toma las medidas necesarias para asegurarte de que tus datos estén completos y sean coherentes. Limpia los datos antes de comenzar el análisis para ahorrarte a ti mismo y posiblemente a otros una gran cantidad de tiempo y esfuerzo.
 
 ### Piensa en tu proceso y resultado 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Los datos tienen el poder de cambiar el mundo. Piensa en esto. Un banco identifica 15 nuevas oportunidades para promocionar un producto, lo que genera $120 millones en ingresos. Una empresa de distribución encuentra una mejor manera de gestionar el envío, lo que reduce su costo en $500 000. Google crea una nueva herramienta que puede identificar los tumores de cáncer de mama en los ganglios linfáticos cercanos. Todos estos son logros asombrosos, pero ¿sabes qué tienen en común? Todos son los resultados del análisis de datos. Tú, como analista de datos, tienes el poder de cambiar el mundo. Y comienza con la forma en que compartes los datos con tu equipo. En este video, analizaremos todas las variables que debes tener en cuenta al compartir datos. Cuando entregas exitosamente datos a tu equipo, puedes garantizar que podrán tomar las mejores decisiones posibles. Anteriormente aprendimos que, en ocasiones, la velocidad puede afectar la precisión al compartir información de la base de datos con un equipo. Por ese motivo, necesitas un proceso sólido que ponga en la balanza los resultados y las acciones de tu análisis. Entonces, ¿por dónde comienzas? Bueno, las mejores soluciones comienzan con preguntas. Es posible que recuerdes de nuestro último video que los interesados tendrán muchas preguntas, pero averiguar lo que realmente necesitan depende de ti. Así que pregúntate “¿Tu análisis responde a la pregunta original?
+
+¿Hay otras perspectivas que no has considerado? ¿Puedes responder las preguntas que se hagan sobre tus datos y análisis?”. La última pregunta pone sobre el tapete algo más en qué pensar. ¿Qué nivel de detalle debes tener al compartir tus resultados?
+
+¿Un análisis de alto nivel estaría bien?
+
+Por sobre todas las cosas, tu análisis de datos debe ayudar a tu equipo a tomar decisiones que sean mejores y más fundamentadas. Aquí presentamos otro ejemplo: Imagina que una empresa de paisajismo se enfrenta a un aumento de los costos y no puede mantener su competitividad en la licitación. Una pregunta que podrías hacer para resolver este problema es “¿La empresa puede encontrar nuevos proveedores sin comprometer la calidad?”. Si les proporcionaste un análisis de alto nivel, probablemente solo incluirías la cantidad de clientes y el costo de los suministros.
+
+Aquí los interesados podrían objetar. Les preocupó el hecho de que reducir la calidad limitará la capacidad de la empresa para mantener su competitividad y que los clientes estén contentos. Bueno, tienen razón. En ese caso, debes brindar un análisis de datos más detallado para hacerlos cambiar de opinión. Esto podría implicar investigar cómo se sienten los clientes con respecto a otras marcas. Es posible que descubras que los clientes no tienen preferencia por marcas de paisajismo específicas. Entonces la empresa puede cambiar a proveedores más asequibles sin comprometer la calidad.
+
+Si te sientes a gusto al utilizar los datos para responder todas estas preguntas y consideraciones, posiblemente hayas llegado a una conclusión sólida. ¡Muy bien! Ahora que comprendes algunas de las variables que se incluyen al compartir datos con un equipo, como proceso y resultado, estás un paso más cerca de garantizar que tu equipo tenga toda la información necesaria para tomar decisiones fundamentadas y basadas en datos.
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos sobre una comunicación clara.
+
+1. Para comunicarse de forma clara con los interesados y los miembros del equipo, los analistas de datos se hacen cuatro preguntas clave. La primera es la siguiente: ¿Quién es mi audiencia? Identifica las otras tres preguntas. Selecciona todas las opciones correctas.
+
+    - ¿Qué sabe ya mi audiencia?
+    
+      ✅ Correcto. las cuatro preguntas clave que se hacen los analistas de datos cuando se comunican con los interesados son las siguientes: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos?
+
+    - ¿Qué necesita saber mi audiencia?
+    
+      ✅ Correcto. las cuatro preguntas clave que se hacen los analistas de datos cuando se comunican con los interesados son las siguientes: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos?
+      
+    - ¿Cómo puedo comunicarme eficazmente con mi audiencia?
+    
+      ✅ Correcto. las cuatro preguntas clave que se hacen los analistas de datos cuando se comunican con los interesados son las siguientes: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos?
+
+    - ¿Por qué los interesados y los miembros del equipo son importantes?
+    
+      ❌ Incorrecto.
+
+
+2. Un colega te envió una pregunta por correo electrónico hace casi dos días. Sabes que encontrar la respuesta te va a llevar un tiempo porque primero necesitas investigar un poco. Estás demasiado ocupado para hacerlo hoy. ¿Cuál es la mejor forma de proceder?
+
+    - reenviar el correo electrónico a todo el equipo de análisis computacional de datos y preguntar si alguien puede responder la pregunta por ti.
+    
+      ❌ Incorrecto.
+
+    - responder con una actualización rápida y dar las gracias al remitente por su paciencia e informarle cuándo es posible que reciba la respuesta a su pregunta.
+    
+      ✅ Correcto. La mejor forma de proceder es responder con una actualización rápida y dar las gracias al remitente por su paciencia e informarle cuándo es posible que reciba la respuesta a su pregunta. 
+      
+    - responder de inmediato lo que consideras la mejor respuesta a su pregunta. El remitente ha estado esperando durante casi 48 horas y cualquier respuesta es mejor que nada.
+    
+      ❌ Incorrecto.
+
+    - eliminar el correo electrónico. De todos modos, cuando puedas responder a la pregunta, ya no será información útil.
+    
+      ❌ Incorrecto.
+
+
+3. Centrarse en las expectativas de los interesados permite a los analistas de datos alcanzar ¿qué objetivos? Selecciona todas las opciones correctas.
+
+    - mejorar la comunicación entre los equipos
+    
+      ✅ Correcto. Centrarse en las expectativas de los interesados permite a los analistas de datos comprender los objetivos del proyecto, mejorar la comunicación y generar confianza.
+
+    - comprender los objetivos del proyecto
+    
+      ✅ Correcto. Centrarse en las expectativas de los interesados permite a los analistas de datos comprender los objetivos del proyecto, mejorar la comunicación y generar confianza.
+      
+    - generar confianza
+    
+      ✅ Correcto. Centrarse en las expectativas de los interesados permite a los analistas de datos comprender los objetivos del proyecto, mejorar la comunicación y generar confianza.
+
+    - hacer muchas cosas al mismotiempo de manera más eficaz
+    
+      ❌ Incorrecto.
+
+
+4. Los interesados han pedido a un analista de datos que elabore muy rápidamente un informe. ¿Cuáles son algunas estrategias que el analista puede aplicar para asegurarse de que su trabajo no sea precipitado, responda a la pregunta correcta y ofrezca resultados útiles? Selecciona todas las opciones correctas.
+
+    - establecer expectativas claras sobre el plazo
+    
+      ✅ Correcto. Para garantizar que su trabajo responda a las preguntas correctas y ofrezca resultados útiles, el analista de datos debe establecer expectativas claras, describir el problema y replantear la pregunta.
+
+    - trabajar horas extras para tener el informe listo al día siguiente
+    
+      ❌ Incorrecto. 
+      
+    - describir el problema
+    
+      ✅ Correcto. Para garantizar que su trabajo responda a las preguntas correctas y ofrezca resultados útiles, el analista de datos debe establecer expectativas claras, describir el problema y replantear la pregunta.
+
+    - replantear la pregunta
+    
+      ✅ Correcto. Para garantizar que su trabajo responda a las preguntas correctas y ofrezca resultados útiles, el analista de datos debe establecer expectativas claras, describir el problema y replantear la pregunta.
+
+
+5. Hacer preguntas como “¿Mi análisis responde a la pregunta original?” y “¿Hay otros ángulos que no he considerado?” permite a los analistas de datos realizar ¿qué tareas? Selecciona todas las opciones correctas.
+
+    - considerar las mejores formas de compartir datos con otros
+    
+      ✅ Correcto. Hacer preguntas como estas permite a los analistas de datos considerar las mejores formas de compartir datos con otros, ayudar a su equipo a tomar decisiones fundamentadas y utilizar los datos para llegar a una conclusión sólida.
+
+    - identificar a los interesados primarios y secundarios
+    
+      ❌ Incorrecto. Hacer preguntas como estas permite a los analistas de datos considerar las mejores formas de compartir datos con otros, ayudar a su equipo a tomar decisiones fundamentadas y utilizar los datos para llegar a una conclusión sólida.
+      
+    - ayudar a su equipo a tomar decisiones fundamentadas y basadas en los datos
+    
+      ✅ Correcto. Hacer preguntas como estas permite a los analistas de datos considerar las mejores formas de compartir datos con otros, ayudar a su equipo a tomar decisiones fundamentadas y utilizar los datos para llegar a una conclusión sólida.
+
+    - utilizar los datos para llegar a una conclusión sólida
+    
+      ✅ Correcto. Hacer preguntas como estas permite a los analistas de datos considerar las mejores formas de compartir datos con otros, ayudar a su equipo a tomar decisiones fundamentadas y utilizar los datos para llegar a una conclusión sólida.
 
 ---
 
@@ -288,7 +562,7 @@ Pon a prueba tus conocimientos sobre una comunicación clara.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-1%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-#### Cómo liderar grandes reuniones 📖
+### Cómo liderar grandes reuniones 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
@@ -296,7 +570,7 @@ Pon a prueba tus conocimientos sobre una comunicación clara.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-#### Cómo comunicar los desafios 📖
+### Cómo comunicar los desafios 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
