@@ -807,37 +807,249 @@ Pon a prueba tus conocimientos sobre el uso de funciones en hojas de cálculo.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-![image](./img/module%2003%20img%2024.png)
+Albert Einstein dijo una vez: "Si me dieran una hora para salvar el planeta, dedicaría 59 minutos a definir el problema y un minuto a resolverlo". Ahora, eso puede parecer extremo pero nos muestra lo importante que es definir los problemas antes de intentar resolverlos. Muchas veces, los equipos se lanzan directamente al análisis de datos antes de darse cuenta, después de unos meses, de que están resolviendo el problema incorrecto o de que no tienen los datos correctos. En este video, aprenderemos cómo desarrollar un enfoque estructurado para definir el dominio del problema. Esto es importante porque si defines el problema claramente desde el principio, será más fácil de resolver, lo que ahorra mucho tiempo, dinero y recursos. En el mundo de los datos, llamamos a esta primera pieza el dominio del problema: el área específica de análisis que abarca todas las actividades que afectan o se ven afectadas por el problema. Antes de hacer cualquier otra cosa, necesitamos comprender el dominio del problema y todas sus partes y relaciones para poder descubrir la historia completa. En realidad, llamarlo la primera pieza me hace pensar en un rompecabezas. Digamos que tienes un rompecabezas. Pensemos en ese rompecabezas como nuestro dominio del problema. Tienes las 500 piezas pero perdiste la caja. Entonces no sabes qué imagen revelará el rompecabezas. ¿Será un animal? ¿Una cascada? ¿Un cuenco con naranjas? Sea lo que sea, será difícil intentar armarlo sin una imagen de referencia. Incluso el mayor experto en rompecabezas de la galaxia necesitaría un nuevo proceso y mucho tiempo para completar ese rompecabezas. Los analistas de datos también enfrentan los mismos desafíos. Quizás recuerdes que a los analistas de datos no siempre se les entrega la imagen completa al inicio de un proyecto. Una gran parte de su trabajo consiste en desarrollar un enfoque estructurado y utilizar el pensamiento crítico para encontrar la mejor solución. Eso empieza con la comprensión del dominio del problema. Aquí es donde entra en juego el pensamiento estructurado. Para resolver con éxito un problema como analista de datos, necesitas entrenar tu cerebro para pensar de manera estructurada. Eso es exactamente lo que aprenderás a continuación. ¡Nos vemos ahí!
 
 ### Alcance del trabajo y pensamiento estructurado 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Anteriormente te dije que definir cuidadosamente un problema empresarial puede, en última instancia, ahorrar tiempo, dinero y recursos. Todo esto se logra mediante un pensamiento estructurado. **El pensamiento estructurado es el proceso de reconocer el problema o la situación actual, organizar la información disponible, revelar las brechas y oportunidades e identificar las opciones**. En otras palabras, es una forma de estar súper preparado. Es tener una lista clara de dónde se espera que entregues, un cronograma para las principales tareas y actividades, y puntos de control para que el equipo sepa que estás progresando. 
+
+En este video, veremos cómo el pensamiento estructurado nos ayuda a ahorrar tiempo y esfuerzo, pero también facilita nuestro trabajo como analistas de datos porque nos permite comprender mejor el trabajo que estamos haciendo. En el mundo empresarial, es frecuente que los equipos dediquen horas de tiempo valioso a tratar de resolver un problema importante, solo para terminar donde empezaron. No solo no resuelven el problema inicial, sino que han pasado horas sin resolverlo. Este resultado te afecta negativamente a ti, a tu equipo y a la organización en su conjunto. Pero, por lo general, se puede prevenir. Muchas veces la situación es el resultado de no comprender completamente el problema. 
+
+El pensamiento estructurado te ayudará a comprender los problemas a un alto nivel para que puedas identificar las áreas que necesitan una investigación y comprensión más profundas. El punto de partida para el pensamiento estructurado es el dominio del problema, que quizás lo tengas presente de antes. Una vez que conozcas el área específica de análisis, puedes establecer tu base y plantear todos tus requisitos e hipótesis antes de empezar a investigar. Con una base sólida establecida, estarás listo para enfrentar cualquier obstáculo que surja. ¿Qué tipo de obstáculos? Bueno, digamos que te piden que predigas el valor futuro de un edificio de departamentos en función de un conjunto de datos determinado. Tienes cientos de variables y cada una es crucial para tu análisis. 
+
+Pero, ¿qué pasa si una variable se omite accidentalmente, como los pies cuadrados, por ejemplo? Tendrías que volver atrás y rehacer todo el arduo trabajo. Eso es porque las variables faltantes pueden conducir a conclusiones inexactas. Otra forma en que puedes practicar el pensamiento estructurado y evitar errores es utilizando un alcance del trabajo. Un alcance del trabajo o SOW es un esquema acordado del trabajo que vas a realizar en un proyecto. Para muchas empresas, esto incluye cosas como detalles del trabajo, cronogramas e informes que el cliente puede necesitar.
+
+Ahora, como analista de datos, tu alcance del trabajo será un poco más técnico e incluirá los ítems básicos que acabamos de mencionar, pero también se enfocará en cosas como la preparación de datos, la validación, el análisis de conjuntos de datos cuantitativos y cualitativos, los resultados iniciales, y tal vez incluso algunas imágenes para que realmente se entienda el punto. Hagamos realidad un alcance del trabajo con un ejemplo sencillo. Digamos que una pareja ha contratado a una organizadora de bodas. Nos centraremos en una sola tarea: las invitaciones de boda. Esto es lo que podría estar en el alcance del trabajo: entregables, cronograma, hitos e informes. Vamos a desglosar solo uno de estos, entregables. La planificadora de bodas y la pareja deberán decidir sobre la invitación, hacer una lista de personas a invitar, recopilar sus direcciones, imprimir las invitaciones, dirigir los sobres, colocarles estampillas y enviarlos por correo. Ahora vamos a verificar las líneas de tiempo. Notarás que las fechas y los hitos nos mantienen en el camino correcto. Por último, tenemos los informes, que le dan a nuestra pareja un poco de tranquilidad diciéndoles cuándo se completó cada paso. Un alcance del trabajo puede ser una herramienta sencilla pero potente. 
+
+Con un alcance del trabajo sólido, podrás abordar cualquier confusión, contradicción o pregunta sobre los datos desde el principio y asegurarte de que estos contratiempos sorpresivos no se interpongan en tu camino. Este es un ejemplo sencillo de cómo se vería un alcance del trabajo. Pero más tarde, podrás practicar cómo construir el tuyo propio. A continuación en nuestro alcance, analizaremos los contratiempos desde un ángulo diferente al aprender la importancia de contextualizar los datos y evitar sesgos. Espero poder compartir contigo algunas ideas interesantes.
+
+En este punto, intenta no confundir declaración de trabajo con alcance del trabajo, puesto que ambos que se abrevian como SOW. Aunque ambos se usan para definir entregables y un cronograma, no son lo mismo y no deben usarse indistintamente.
+
+Una declaración de trabajo es un documento que identifica claramente los productos y servicios que un proveedor o contratista proporcionará a una organización. Incluye objetivos, directrices, entregables, programa y costos.
+
+Un alcance del trabajo se basa en proyectos y establece las expectativas y los límites de un proyecto. Se puede incluir un alcance del trabajo en una declaración de trabajo para ayudar a definir los resultados del proyecto.
+
+Como analista de datos junior, es probable que se pida que crees de un alcance del trabajo que una declaración de trabajo. 
+
+![image](./img/module%2003%20img%2025.png)
+
 ### Creación de un alcance del trabajo 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Organiza un proyecto en un alcance de trabajo estructurado
+
+Como analista de datos, es importante que comprendas el alcance del trabajo (SOW). En este ejercicio, organizarás un evento de capacitación del personal de una empresa para que aprendan más sobre el alcance del trabajo.
+
+#### Entregables (Deliverables)
+
+- Presupuesto estimado para el evento
+- Lista de empleados a invitar
+- Objetivos para el evento de capacitación de empleados
+
+#### Plazo (Timeline)
+
+- Enviar un recordatorio por correo electrónico del evento el 25 de junio
+- Realizar el evento de capacitación el 1 de julio
+- Invitar a todos los asistentes antes del 1 de junio
+
+#### Milestones (Hitos)
+
+- Confirmar los entrenadores del personal
+- Confirmar el presupuesto
+- Confirmar la lista de empleados que asistirán
+
+#### Reports (Informes)
+
+- Mejora del rendimiento un mes después de la capacitación
+- Lista final de empleados que asistieron
+- Comentarios de los empleados después de la capacitación
 
 ### Actividades prácticas: Crear un alcance del trabajo 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Resumen de la actividad
+
+Aprendiste sobre la función de un analista de datos y cómo administrar, analizar y visualizar los datos. Ahora, considerarás una herramienta valiosa que te ayudará a practicar el pensamiento estructurado y a evitar errores: un alcance del trabajo (SOW).
+
+En esta actividad, adquirirás experiencia práctica en el desarrollo de un documento SOW con la ayuda de una plantilla muy útil. Luego, realizarás un SOW de ejemplo para un proyecto imaginario de tu elección y aprenderás la manera en que los analistas describen el trabajo que van a realizar. Después de completar esta actividad, conocerás una herramienta estándar en el sector que es fundamental, y te sentirás cómodo cuando hagas las preguntas correctas para desarrollar un SOW.
+
+Antes de empezar, tómate un minuto para pensar en las principales ideas, objetivos y destinatarios de los documentos SOW.
+
+#### Alcance del trabajo: Lo que necesitas saber
+
+Como analista de datos, es difícil sobrevalorar la importancia de un documento SOW. Un SOW bien definido te mantiene a ti, a tu equipo y a todos los participantes de un proyecto en la misma sintonía. Garantiza que todos los contribuyentes, patrocinadores e interesados entiendan por igual los detalles relevantes.
+
+#### ¿Por qué necesitas un SOW?
+
+El objetivo de los proyectos de análisis de datos es completar tareas empresariales que sean útiles para los interesados. La creación de un SOW ayuda a garantizar que todos los participantes, desde analistas e ingenieros hasta gerentes e interesados, entiendan cuáles son esos objetivos empresariales y el plan para alcanzarlos.
+
+Aclarar los requisitos y establecer expectativas son dos de las partes más importantes de un proyecto. Recuerda la primera fase del Proceso de análisis de datos: Hacer preguntas.
+
+A medida que haces más preguntas para aclarar los requisitos, los objetivos, las fuentes de datos, los interesados y cualquier otra información relevante, el SOW te ayuda a formalizar todo al registrar todas las respuestas y los detalles. En este contexto, la palabra “preguntar” tiene dos significados. La tarea de prepararse con el fin de escribir un SOW consiste en hacer preguntas para obtener la información necesaria sobre el proyecto; sin embargo, también se basa en aclarar y definir lo que se te pide que logres, así como cuáles son los límites o restricciones del “preguntar”. Después de todo, si no eres capaz de distinguir entre las preguntas empresariales que eres y no eres responsable de responder, es difícil que conozcas el significado del éxito. 
+
+#### ¿Qué es un buen SOW?
+
+No existe un formato estándar para un SOW. Pueden diferir significativamente de una organización a otra; o bien, de un proyecto a otro. Sin embargo, todos comparten algunos contenidos fundamentales.
+
+Entregables: ¿Qué trabajo se está haciendo y qué se está creando como resultado de este proyecto? Cuando el proyecto esté completo, ¿qué se espera que entregues a los interesados? Sé específico aquí. ¿Recopilarás datos para este proyecto? ¿Cuántos o por cuánto tiempo?
+
+Evite las instrucciones imprecisas. Por ejemplo, “solucionar problemas de tráfico” no especifica el alcance. Esto podría significar cualquier cosa, desde rellenar algunos baches hasta construir un nuevo paso elevado. ¡Sé específico! Usa números y apunta a metas y objetivos que sean concretos y fáciles de medir. Por ejemplo, “Identifica los diez problemas principales con los patrones de tráfico dentro de los límites de la ciudad, así como las tres soluciones principales que sean más rentables para reducir la congestión del tráfico”.
+
+Hitos: Esto está íntimamente relacionado con tu cronograma. ¿Cuáles son los principales hitos para el progreso de tu proyecto? ¿Cómo se determina cuando una parte específica del proyecto está completa?
+
+Tanto tú como los interesados u otros miembros del equipo, como el gerente de proyectos, pueden identificar los hitos. Los ejemplos más simples pueden incluir pasos incrementales en un proyecto más grande, como “Recopilar y procesar el 50 % de los datos requeridos (100 respuestas a la encuesta)”; pero también pueden ser ejemplos más importantes, como “Completar informe de análisis de datos inicial” o “Entregar visualizaciones del panel e informes de análisis finalizados a los interesados”.
+
+Cronograma: Tu cronograma estará íntimamente relacionado con los hitos que crees para tu proyecto. El cronograma es una forma de asignar las expectativas respecto de cuánto tiempo debería tomar cada paso del proceso. El cronograma debe ser lo suficientemente específico para ayudar a todos los participantes a decidir si un proyecto se está llevando a cabo según lo programado. ¿Cuándo se completarán los entregables? ¿Cuánto tiempo prevés que demore el proyecto en completarse? Si todo sale según lo planeado, ¿cuánto tiempo prevés que llevará cada componente del proyecto? ¿Cuándo podemos esperar alcanzar cada hito?
+
+Informes: Los SOW adecuados también establecen límites respecto de cómo y cuándo proporcionarás actualizaciones de estado a los interesados. ¿Cómo comunicarás el progreso con los interesados y los patrocinadores, y con qué frecuencia? ¿Se informará el progreso semanalmente? ¿Mensualmente? ¿Cuándo se completan los hitos? ¿Qué información contendrán los informes de estado?
+
+Como mínimo, cualquier SOW debe responder todas las preguntas relevantes en las áreas anteriores. Ten en cuenta que estas áreas pueden variar según el proyecto. Pero, en esencia, el documento SOW siempre debe tener el mismo propósito al contener información que sea específica, relevante y precisa. Si algo cambia en el proyecto, tu SOW debe reflejar esos cambios.
+
+#### ¿Qué está dentro y fuera del alcance?
+
+Los SOW también deben contener información específica sobre lo que se considera parte del proyecto y lo que se excluye. El alcance de tu proyecto es todo lo que se espera que completes o logres, lo cual se define con un nivel de detalle que no da lugar a ningún tipo de ambigüedad o confusión sobre si una tarea o elemento determinado es parte del proyecto.
+
+Observa cómo el ejemplo anterior sobre el estudio de la congestión del tráfico definió su alcance como el área dentro de los límites de la ciudad. Esto no deja lugar a confusión: los interesados solo necesitan consultar un mapa para saber si un tramo de carretera o intersección es parte del proyecto. Definir los requisitos puede ser más complicado de lo que parece, por lo que es importante ser lo más específico posible en estos documentos y usar instrucciones cuantitativas, siempre que sea posible.
+
+Por ejemplo, imagina que te asignaron a un proyecto que implica estudiar los efectos ambientales del cambio climático en la costa de una ciudad: ¿Cómo definirías qué partes de la costa eres responsable de estudiar y qué partes no te corresponden?
+
+En este caso, sería importante que definieras el área que se espera que estudies mediante el uso de ubicaciones GPS o puntos de referencia. El uso de instrucciones específicas y cuantificables ayudará a garantizar que todos entiendan, claramente, qué es lo que se espera. 
+
+#### Crea tu propio SOW
+
+Ahora que sabes los conceptos básicos, puedes crear tu propio simulacro de SOW como práctica para un proyecto que elijas. Para empezar, accede a la plantilla de alcance de trabajo.
+
+Para utilizar la plantilla de este elemento del curso, haz clic en el enlace a continuación y selecciona “Usar plantilla”.
+
+Enlace a la plantilla: 
+[Plantilla de alcance de trabajo (SOW) del proyecto de análisis de datos](https://docs.google.com/document/d/1zqfGwpjZyPAyERNPXNfIUM78YuBxYYj0atIE6_YopLA/template/preview?usp=sharing&resourcekey=0-o9cjeaxYBBm7ZyYe4bpImw)
+
+#### Confirmación y reflexión
+
+Cuando creaste un simulacro de SOW completo y detallado, ¿qué contenidos fundamentales incluiste? Selecciona todas las opciones correctas.
+
+    - Informes
+    
+      ✅ Correcto. En tu simulacro de alcance de trabajo, deberías haber incluido cuatro contenidos fundamentales: los entregables, los hitos, el cronograma y los informes. Una vez que estos elementos estén ordenados, el SOW hará que tú, tu equipo y los interesados del proyecto se mantengan organizados y en sintonía. En el futuro, podrás usar esta herramienta estándar del sector para aclarar los objetivos empresariales de un proyecto y cómo lograrlos, ¡como un analista de datos profesional!
+  
+    - Presupuesto
+    
+      ❌ Incorrecto.
+    
+    - Hitos
+    
+      ✅ Correcto. En tu simulacro de alcance de trabajo, deberías haber incluido cuatro contenidos fundamentales: los entregables, los hitos, el cronograma y los informes. Una vez que estos elementos estén ordenados, el SOW hará que tú, tu equipo y los interesados del proyecto se mantengan organizados y en sintonía. En el futuro, podrás usar esta herramienta estándar del sector para aclarar los objetivos empresariales de un proyecto y cómo lograrlos, ¡como un analista de datos profesional!
+      
+    - Entregables
+    
+      ✅ Correcto. En tu simulacro de alcance de trabajo, deberías haber incluido cuatro contenidos fundamentales: los entregables, los hitos, el cronograma y los informes. Una vez que estos elementos estén ordenados, el SOW hará que tú, tu equipo y los interesados del proyecto se mantengan organizados y en sintonía. En el futuro, podrás usar esta herramienta estándar del sector para aclarar los objetivos empresariales de un proyecto y cómo lograrlos, ¡como un analista de datos profesional!
+
 ### Mantener la objetividad 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+¡Hola de nuevo! En este video, exploraremos la importancia de contextualizar los datos y reconocer el sesgo de los datos. ¡Empecemos! Los datos no residen en un vacío, necesitan un contexto. Anteriormente, aprendimos que el contexto es la condición en la que algo existe o sucede. Las acciones pueden ser apropiadas en algunos contextos, pero inapropiadas en otros, por ejemplo, gritar para que alguien se mueva, es de mala educación en un contexto, si tu amigo está parado frente al televisor, pero es completamente apropiado en otro, si ese amigo está a punto de ser golpeado por un niño en un triciclo. ¿Ves la diferencia? En el mundo de los datos, los números no significan mucho sin contexto. 
+
+Dejaré que mi colega Googler Ed, te cuente un poco más sobre eso a medida que tengamos más y más datos disponibles para nosotros. Podemos aprovechar esos datos de formas cada vez más sofisticadas y generar información más poderosa a partir de ellos. Usamos datos en muchos niveles diferentes. A veces nuestros datos son descriptivos y responden preguntas como: ¿cuánto gastamos en viajes el mes pasado? Los datos se vuelven más valiosos a medida que generamos conocimientos de diagnóstico y predictivos, como comprender por qué el gasto en viajes aumentó el mes pasado. Sin embargo, los datos son más valiosos cuando podemos generar conocimientos prescriptivos. Por ejemplo, ¿cómo podemos aprovechar los datos para incentivar viajes más eficientes? Averiguar qué significan los datos es tan importante como recopilarlos. Como analista de datos, gran parte de tu trabajo es poner los datos en contexto. 
+
+También depende de ti ser objetivo y reconocer todas las facetas de un argumento antes de sacar conclusiones. Lo que pasa con el contexto, es que es muy personal. Si dos personas crean el mismo conjunto de datos, y siguen las mismas instrucciones, existe la posibilidad de que obtengan resultados diferentes. ¿Por qué? Porque no existe un conjunto universal de interpretaciones contextuales. Cada uno aborda los datos a su manera. Incluso si el proceso de recopilación de datos es correcto, el análisis puede malinterpretarse. 
+
+Las conclusiones pueden verse influenciadas por tus propios prejuicios conscientes y subconscientes, que se basan en normas culturales, sociales y de mercado. Por ejemplo, si le preguntas a un residente de Boston qué equipo de béisbol es el mejor, lo más probable es que responda Boston Red Sox. Lo que nos lleva a una gran limitación del análisis de datos. Si el análisis no es objetivo, las conclusiones pueden ser engañosas. 
+
+Para comprender realmente de qué se tratan los datos, debes pensar en quién, qué, dónde, cuándo, cómo y por qué. Es bueno hacerse preguntas como: ¿Quién recopiló los datos? ¿Y de qué se tratan? ¿Qué representan los datos en el mundo y cómo se relacionan con otros datos? ¿Cuándo se recopilaron los datos? Los datos fueron recopilados hace un tiempo. Tenemos ciertas limitaciones, dada la situación actual. Por ejemplo, si recopilamos números de teléfono durante el siglo pasado, en algún momento, se habrían introducido los teléfonos móviles, lo que habría llevado a la necesidad de un campo adicional para los números de teléfono. También deberías pensar, ¿dónde se recopilaron los datos? Muchas cosas pueden cambiar de una ciudad a otra, de un estado a otro y de un país país a otro en cómo se recopilaron. Una encuesta puede no ser tan efectiva como una entrevista en persona, por ejemplo. 
+
+Por supuesto, ahí está el por qué. El por qué puede tener una relación particularmente fuerte con el sesgo. ¿Por qué? Porque a veces, los datos se recopilan, o incluso se inventan, para cumplir con una agenda. Lo mejor que puedes hacer por la equidad y precisión de tus datos es asegurarte de empezar con una representación precisa de la población y recopilar los datos de la manera más apropiada y objetiva. Luego, tendrás los hechos y podrás transmitirlos a tu equipo. Espero que ahora entiendas la importancia de los datos justos y objetivos, y lo importante que es un contexto, cuando se trata de comprenderlos e interpretarlos. A continuación, descubriremos cómo podemos darles vida.
+
+![image](./img/module%2003%20img%2025.png)
 
 ### La importancia del contexto 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-### Registro de aprendizaje: Definir problemas y hacer preguntas con datos 📖
+El contexto es la condición en la que algo existe o sucede. El contexto es importante en el análisis de datos porque te ayuda a examinar enormes cantidades de datos desorganizados, y a convertirlos en algo significativo. La realidad es que los datos tienen poco valor si no tienen relación con el contexto.
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+El contexto puede convertir los datos sin procesar en información significativa. Es muy importante que los analistas de datos contextualicen sus datos. Esto significa dar la perspectiva de los datos al definirlos. Para lograr esto, debes identificar:
+
+Quién: La persona u organización que creó, recopiló y/o financió la recopilación de datos.
+
+Qué: Las circunstancias en las cuales los datos podrían tener un impacto en cualquier parte del mundo.
+
+Dónde: El origen de los datos.
+
+Cuándo: El momento en que se crearon o recopilaron los datos.
+
+¿Por qué? La motivación detrás de la creación o recopilación.
+
+Cómo: El método que se usó para crearlos o recopilarlos.
+
+La comprensión e inclusión del contexto es importante durante cada paso de tu proceso de análisis, por lo que es importante que te familiarices con él desde el inicio de tu carrera. Por ejemplo, cuando recopiles los datos, querrás hacer preguntas sobre el contexto para asegurarte de que entiendes el negocio y el proceso empresarial. Durante la organización, el contexto es importante para tus convenciones de nomenclatura, cómo eliges mostrar las relaciones entre las variables y lo que eliges conservar u omitir. Y, finalmente, cuando presentes, es importante que incluyas información contextual para que tus interesados entiendan tu análisis.
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos sobre el pensamiento estructurado. 
+
+1. ¿Cuáles son los elementos clave del pensamiento estructurado? Selecciona todas las opciones que correspondan. 
+
+    - Implementar una solución
+    
+      ❌ Incorrecto.
+  
+    - Reconocer el problema o la situación actuales
+    
+      ✅ Correcto. El pensamiento estructurado es el proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades, e identificar las opciones.
+    
+    - Organizar la información disponible
+    
+      ✅ Correcto. El pensamiento estructurado es el proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades, e identificar las opciones.
+      
+    - Revelar los déficits y las oportunidades para identificar las opciones
+    
+      ✅ Correcto. El pensamiento estructurado es el proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades, e identificar las opciones.
+
+
+2. Completa el espacio en blanco: El alcance del trabajo es un _____ acordado del trabajo que vas a realizar en un proyecto.
+
+    - esquema
+    
+      ✅ Correcto. El alcance del trabajo es un esquema acordado del trabajo que vas a realizar en un proyecto.
+  
+    - Reconocer el problema o la situación actuales
+    
+      ❌ Incorrecto.
+    
+    - Organizar la información disponible
+    
+      ❌ Incorrecto.
+      
+    - Revelar los déficits y las oportunidades para identificar las opciones
+    
+      ❌ Incorrecto.
+
+
+3. ¿Cuáles son algunas estrategias para garantizar que tus datos sean precisos y justos? Selecciona todas las opciones que correspondan. 
+
+    - Pensar en el «quién, qué, dónde, cuándo, cómo y por qué» de tus datos
+    
+      ✅ Correcto. Para garantizar que tus datos sean precisos y justos, asegúrate de empezar con una representación precisa de la población de la muestra; recopilar los datos de forma objetiva y hacer preguntas sobre los datos.
+  
+    - Usar datos que sean muy personales para ti
+    
+      ❌ Incorrecto.
+    
+    - Asegurarse de empezar con una representación precisa de la población de la muestra
+    
+      ✅ Correcto. Para garantizar que tus datos sean precisos y justos, asegúrate de empezar con una representación precisa de la población de la muestra; recopilar los datos de forma objetiva y hacer preguntas sobre los datos.
+      
+    - Recopilar los datos de forma objetiva
+    
+      ✅ Correcto. Para garantizar que tus datos sean precisos y justos, asegúrate de empezar con una representación precisa de la población de la muestra; recopilar los datos de forma objetiva y hacer preguntas sobre los datos.
+
 
 ---
 
