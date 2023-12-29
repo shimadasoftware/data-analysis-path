@@ -327,3 +327,75 @@ A measurable goal set by a company and evaluated using metrics
 - Big decisions
 
 ## Module 3
+
+### Cell reference
+A cell or a range of cells in a worksheet that can be used in a formula.
+
+### Range 
+A collection of two or more cells.
+
+### #DIV/O! 
+A formula is trying to divide a value in a cell by O or by an empty cell.
+
+### #ERROR! 
+(in Google Sheets only) A formula can’t be interpreted as input (also known as a parsing error).
+
+### #N/A 
+Data in a formula can’t be found by the spreadsheet.
+
+### Function
+A preset command that automatically performs a specific process or task using the data.
+
+### #NAME? 
+A formula or function name isn’t understood.
+
+### #NUM! 
+A formula or function calculation can't be performed as specified.
+
+### #VALUE! 
+A general error that could indicate a problem with a formula or referenced cells.
+
+### #REF! 
+A formula is referencing a cell that is no longer valid or has been deleted.
+
+### Structured thinking
+The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
+
+### Problem domain
+The specific area of analysis that encompasses every activity affecting or affected by the problem.
+
+### Scope of work (SOW)
+An agreed-upon outline of the work you're going to perform on a project. It is composed by:
+
+- Deliverables
+- Timeline
+- Milestones
+- Reports
+
+### Understand what data is about ask
+
+- Who
+- What
+- Where
+- When
+- Why
+- How
+
+Quién: La persona u organización que creó, recopiló y/o financió la recopilación de datos.
+
+Qué: Las circunstancias en las cuales los datos podrían tener un impacto en cualquier parte del mundo.
+
+Dónde: El origen de los datos.
+
+Cuándo: El momento en que se crearon o recopilaron los datos.
+
+¿Por qué? La motivación detrás de la creación o recopilación.
+
+Cómo: El método que se usó para crearlos o recopilarlos.
+
+
+## Module 4
+
+1. Who are the primary and secondary stakeholders?
+2. Who is managing the data?
+3. Where can you go for help?
