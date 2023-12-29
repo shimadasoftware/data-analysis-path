@@ -743,7 +743,454 @@ Pon a prueba tus conocimientos sobre el trabajo en equipo.
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 4 (Quiz - 8 questions)
 
+### Glosario: Términos y definiciones 📖
 
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A
+
+- Alcance del trabajo (SOW): Esquema acordado de las tareas a realizar durante un proyecto.
+
+- Algoritmo: Proceso o conjunto de reglas a seguir para una tarea específica.
+
+- Análisis (computacional) de datos: La ciencia de los datos.
+
+- Análisis de datos: La recopilación, transformación y organización de los datos para sacar conclusiones, hacer predicciones e impulsar una toma de decisiones fundamentada.
+
+- Análisis de déficits: Un método para examinar y evaluar el estado actual de un proceso con el fin de identificar las oportunidades de mejora en el futuro.
+
+- Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada.
+
+- Atributo: Característica o calidad de los datos que se usa para etiquetar una columna en una tabla.
+
+- AVERAGE: Función de una hoja de cálculo que muestra el resultado de un promedio de los valores de un rango seleccionado.
+
+B
+
+- Base de datos: Recopilación de datos almacenados en un sistema informático.
+- 
+- Bordes: Líneas que se pueden agregar alrededor de dos o más celdas en una hoja de cálculo.
+
+C
+
+- Causa raíz: La razón por la que ocurre un problema.
+
+- Ciclo de vida de los datos: Secuencia de etapas por las que pasan los datos, que incluye planificar, capturar, gestionar, analizar, archivar y destruir.
+
+- Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido.
+
+- Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad.
+
+- Consulta: Solicitud de datos o información de una base de datos.
+
+- Contexto: La condición en la que algo existe o sucede.
+
+- Controlador de relleno: Cuadro en la esquina inferior derecha de una celda seleccionada de una hoja de cálculo que se puede arrastrar a través de las celdas vecinas para seguir una instrucción.
+
+- COUNT: Función de la hoja de cálculo que cuenta el número de celdas en un rango que cumplen con un criterio especificado
+
+D
+
+- Datos abiertos: Datos que están disponibles para el público.
+
+- Datos cualitativos: Medida subjetiva y explicativa de una cualidad o característica.
+
+- Datos cuantitativos: Medida específica y objetiva, como un número, cantidad o rango.
+
+- Datos: Una colección de hechos.
+
+- Destrezas analíticas: Cualidades y características asociadas al uso de hechos para resolver problemas.
+
+- Diseño de datos: Cómo se organiza la información.
+  
+- Dominio del problema: Área de análisis que abarca cada actividad que afecta a un problema o se ve afectada por él.
+
+E
+
+- Ecosistema de datos: Los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+
+- Ecuación: Cálculo que implica suma, resta, multiplicación o división (también se denomina expresión matemática).
+
+- Encabezado: Primera fila en una hoja de cálculo que hace referencia al tipo de datos en cada columna.
+
+- Equidad: Cualidad del análisis de datos que no genera sesgos ni los reafirma.
+
+- Estrategia de datos: La gestión de las personas, los procesos y las herramientas que se usan en el análisis de datos.
+
+- Expresión matemática: Cálculo que implica suma, resta, multiplicación o división (también se denomina ecuación).
+
+F
+
+- Filtrado: Proceso que muestra solo los datos que cumplen con un criterio específico mientras oculta el resto.
+
+- Fórmula: Conjunto de instrucciones que se utilizan para realizar un cálculo al utilizar los datos de una hoja de cálculo.
+
+- Función: Un comando preestablecido que realiza automáticamente un proceso o tarea especificado al utilizar los datos de una hoja de cálculo.
+
+- Función matemática: Función que se utiliza como parte de una fórmula matemática.
+
+G
+
+- Gráfico dinámico: Gráfico creado a partir de los campos en una tabla dinámica.
+
+H
+
+- Hoja de cálculo: Hoja de cálculo digital.
+
+I
+
+- Informe: Recopilación estática de datos que se entrega periódicamente a los interesados.
+
+- Ingresos: Cantidad total de ingresos generados por la venta de mercaderías o servicios.
+
+- Interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado.
+
+J
+
+K
+
+L
+
+- Lenguaje de consulta: Lenguaje de programación informática utilizado para comunicarse con una base de datos.
+
+- Lenguaje de consulta estructurado: Lenguaje de programación informática usado para comunicarse con una base de datos.
+
+- Los interesados: Personas que invierten tiempo y recursos en un proyecto y se interesan por su resultado.
+
+M
+
+- Macrodatos: Conjuntos de datos grandes y complejos que, generalmente, se recopilan durante largos períodos y que permiten que los analistas de datos. aborden los problemas comerciales de gran alcance
+
+- MAX: Función de la hoja de cálculo que muestra el valor numérico más alto de un rango de celdas.
+
+- Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica.
+
+- Metodología SMART: Herramienta para determinar la eficacia de una pregunta basándose en si es específica, medible, orientada a la acción, relevante y con plazos determinados.
+
+- Métrica: Tipo único y cuantificable de datos que pueden utilizarse para medición.
+
+- Microdatos: Puntos de datos pequeños, específicos, que generalmente involucran un breve período y que son útiles para tomar decisiones diarias.
+
+- MIN: Función de la hoja de cálculo que muestra el resultado del valor numérico más bajo de un rango de celdas.
+
+N
+
+- Nube: Lugar para mantener los datos en línea, en vez de guardarlos en el disco duro de una computadora.
+
+O
+
+- Objetivo métrico: Objetivo medible establecido por una empresa y evaluado mediante métricas.
+
+- Observación: Los atributos que describen una pieza de datos contenida en una fila de una tabla.
+
+- Operador: Símbolo que designa la operación o cálculo a realizarse.
+
+- Orden de las operaciones: Uso de paréntesis para agrupar los valores de la hoja de cálculo a fin de aclarar el orden en el que deben realizarse las operaciones.
+
+- Ordenación: Proceso de organizar los datos en un sistema de clasificación significativo para que sean más fáciles de entender, analizar y visualizar.
+
+P
+
+- Panel: Herramienta que monitorea los datos entrantes en vivo.
+
+- Pensamiento analítico: El proceso de identificar y definir un problema, para luego resolverlo mediante el uso de datos de manera organizada, paso a paso.
+
+- Pensamiento estructurado: Proceso de reconocer el problema o la situación actuales, organizar la información disponible, revelar déficits y oportunidades e identificar opciones.
+
+- Pregunta con límite de tiempo: Pregunta que especifica un plazo para ser analizada.
+
+- Pregunta específica: Pregunta simple, significativa y enfocada en un solo tema o en algunas ideas estrechamente relacionadas entre sí.
+
+- Pregunta injusta: Pregunta en la que se hacen suposiciones o que es difícil de responder honestamente.
+
+- Pregunta medible: Pregunta cuyas respuestas se pueden cuantificar y evaluar.
+
+- Pregunta orientada a la acción: Pregunta cuyas respuestas conducen al cambio.
+
+- Pregunta principal: Pregunta que orienta a las personas hacia cierta respuesta.
+
+- Pregunta relevante: Pregunta que tiene importancia para el problema que se debe resolver.
+
+- Proceso de análisis de datos: Las seis fases de preguntar, preparar, procesar, analizar, compartir y actuar cuyo propósito es el de obtener conocimiento que propicie la toma de decisiones informada.
+
+Q
+
+R
+
+- Rango: Conjunto de dos o más celdas en una hoja de cálculo.
+
+- Referencia de celda: Celda o rango de celdas en una hoja de cálculo que se usa generalmente en fórmulas y funciones.
+
+- Reformulación: Proceso de replantear un problema o desafío, que se redirecciona luego hacia una posible resolución. 
+
+- Retorno de la inversión (ROI): Fórmula que utiliza las métricas de inversión y ganancias para evaluar el éxito de una inversión.
+
+S
+
+- SQL: (Ver “Lenguaje de consulta estructurado”).
+  
+- SUM: Función de una hoja de cálculo que suma los valores de un rango de celdas seleccionadas.
+
+T
+
+- Tabla dinámica: Herramienta de resumen de datos que se utiliza para clasificar, reorganizar, agrupar, contar, totalizar o promediar datos.
+
+- Tarea empresarial: La pregunta o el problema que el análisis de datos resuelve para un negocio.
+
+- Tipos de problemas: Distintos problemas que encuentra el analista de datos; entre ellos, categorizar elementos, descubrir conexiones, hallar patrones, identificar temas, hacer predicciones y detectar algo inusual.
+
+- Toma de decisiones basada en datos: Uso de datos para guiar la estrategia empresarial.
+
+- Toma de decisiones inspirada en datos: El proceso de explorar diferentes fuentes de datos para descubrir qué tienen en común.
+
+U
+V
+
+- Visualización de datos: La representación gráfica de los datos.
+
+- Visualización: (Consulta la visualización de datos).
+
+W
+X
+Y
+Z
+
+### Cuestionario de diagnóstico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Opcional: ¿conoces el analisis computacional de datos? 
+
+1. Un analista de datos inicia un nuevo proyecto para el equipo de operaciones de su empresa. Se requieren unas horas al comienzo del proyecto para identificar a los interesados. ¿Cuáles de las siguientes personas es probable que sean los interesados secundarios? Selecciona todas las opciones correctas.
+
+    - El presidente de la empresa
+    
+      ❌ Incorrecto.
+  
+    - El gerente de proyectos
+    
+      ✅ Correcto. Lo más probable es que los interesados secundarios sean el analista de datos y el gerente de proyectos.
+    
+    - El vicepresidente de operaciones
+    
+      ❌ Incorrecto.
+      
+    - El analista de datos
+    
+      ✅ Correcto. Lo más probable es que los interesados secundarios sean el analista de datos y el gerente de proyectos.
+
+
+2. En un mercado en línea, el _____ incluye a cualquier persona de una organización que interactúe con compradores actuales o potenciales.
+
+    - Equipo ejecutivo
+    
+      ❌ Incorrecto.
+  
+    - Equipo orientado al cliente
+    
+      ✅ Correcto. En un mercado en línea, el equipo orientado al cliente incluye a cualquier persona de una organización que interactúe con compradores actuales o potenciales.
+    
+    - Equipo de ciencia de datos
+    
+      ❌ Incorrecto.
+      
+    - Equipo de gestión de proyectos
+    
+      ❌ Incorrecto.
+
+
+3. Los analistas de datos se hacen cuatro preguntas clave: ¿Quién es mi audiencia? ¿Qué saben ya? ¿Qué necesitan saber? ¿Cómo puedo comunicarme eficazmente con ellos? Estas preguntas permiten a los analistas de datos lograr ¿qué objetivo?
+
+    - Comunicarse de forma clara con los interesados y los miembros del equipo.
+    
+      ✅ Correcto. Estas preguntas permiten a los analistas de datos comunicarse de forma clara con los interesados y los miembros del equipo.
+  
+    - Comprender quién gestiona los datos.
+    
+      ❌ Incorrecto.
+    
+    - Completar los proyectos de análisis de datos a tiempo
+    
+      ❌ Incorrecto.
+      
+    - Identificar a los interesados primarios y secundarios
+    
+      ❌ Incorrecto.
+
+
+4. Un analista de datos recibe un correo electrónico del vicepresidente de marketing. El vicepresidente está molesto porque el informe que quiere del analista está retrasado. Selecciona la mejor forma de proceder.
+
+    - El analista debe enviar de inmediato el informe, incluso si no está completamente terminado. Esto hará feliz al vicepresidente.
+    
+      ❌ Incorrecto.
+  
+    - El analista debe llamar al vicepresidente y preguntarle si es realmente importante para sus esfuerzos de marketing.
+    
+      ❌ Incorrecto.
+    
+    - El analista debe disculparse por la demora e informar al vicepresidente que los gerentes de marketing causaron la demora. 
+    
+      ❌ Incorrecto.
+      
+    - Al responder, el analista debe decir que comprende las inquietudes del vicepresidente, proporcionar una actualización del estado e informarle al vicepresidente cuándo recibirá el informe completo.
+    
+      ✅ Correcto. Al responder, el analista debe decir que comprende las inquietudes del vicepresidente, proporcionar una actualización del estado e informarle al vicepresidente cuándo recibirá el informe completo. Esto le demuestra al vicepresidente que se comprenden sus inquietudes y proporciona una actualización del estado.
+
+
+5. Para asegurarse de que algunas respuestas inusuales no sesguen los resultados o den lugar a juicios inexactos, un analista de datos se centra en ¿qué elemento de la recopilación de datos? 
+
+    - Limpieza de datos
+    
+      ❌ Incorrecto.
+  
+    - Significancia estadística
+    
+      ❌ Incorrecto.
+    
+    - Visualización
+    
+      ❌ Incorrecto.
+      
+    - Tamaño de la muestra
+    
+      ✅ Correcto. Los analistas de datos prestan atención al tamaño de la muestra para representar un conjunto variado de perspectivas y evitar resultados sesgados o juicios inexactos.
+
+
+6. Llegar a las reuniones preparado constituye una parte importante de la creación de un entorno de trabajo profesional. ¿Cuáles de las siguientes acciones implica? Selecciona todas las opciones correctas.
+
+    - Llevar material para tomar notas
+    
+      ✅ Correcto. Llegar a las reuniones preparado implica leer la agenda con anticipación, llevar material para tomar notas y considerar las preguntas que se te puedan hacer, de modo que estés preparado para responder.
+  
+    - Considerar las preguntas que se te puedan hacer, de modo que estés preparado para responder
+    
+      ✅ Correcto. Llegar a las reuniones preparado implica leer la agenda con anticipación, llevar material para tomar notas y considerar las preguntas que se te puedan hacer, de modo que estés preparado para responder.
+    
+    - Llevar una computadora portátil para estar pendiente de los correos electrónicos 
+    
+      ❌ Incorrecto.
+      
+    - Leer la agenda de la reunión con anticipación
+    
+      ✅ Correcto. Llegar a las reuniones preparado implica leer la agenda con anticipación, llevar material para tomar notas y considerar las preguntas que se te puedan hacer, de modo que estés preparado para responder.
+
+
+7. ¿Cuáles de las siguientes medidas son clave para liderar una reunión profesional en línea? Selecciona todas las opciones correctas.
+
+    - Estar pendiente de la bandeja de entrada durante la reunión en caso de recibir un correo electrónico importante
+    
+      ❌ Incorrecto.
+  
+    - Mantener el control de la reunión al hacer que todos los demás permanezcan en silencio
+    
+      ❌ Incorrecto.
+    
+    - Sentarse en un área tranquila sin distracciones
+    
+      ✅ Correcto. Al liderar una reunión en línea, actuar profesionalmente implica incentivar a otros a contribuir, probar la tecnología con anticipación y eliminar las distracciones.
+      
+    - Asegurarse de que la tecnología funcione correctamente antes de comenzar la reunión
+    
+      ✅ Correcto. Al liderar una reunión en línea, actuar profesionalmente implica incentivar a otros a contribuir, probar la tecnología con anticipación y eliminar las distracciones.
+
+
+8. Un miembro del equipo te ha pedido que te hagas cargo de una tarea y tú no comprendes el objetivo del proyecto. Parece que será una pérdida de tiempo. La mejor forma de proceder sería explicar cortésmente tus inquietudes y rechazar el proyecto.
+
+    - Verdadero
+    
+      ❌ Incorrecto.
+  
+    - Falso
+    
+      ✅ Correcto. Cuando no comprendas el contexto completo de una solicitud, haz preguntas sobre el objetivo del proyecto, su historia de datos y el panorama general.
+
+
+9. Un equipo de análisis computacional de datos está trabajando en un proyecto para medir el éxito de la nueva estrategia financiera de una empresa. Selecciona a la persona con más probabilidades de ser el interesado principal de este proyecto.
+
+    - El director de análisis
+    
+      ❌ Incorrecto.
+  
+    - El analista de datos
+    
+      ❌ Incorrecto.
+    
+    - El vicepresidente de finanzas
+    
+      ✅ Correcto. Es probable que el interesado principal de este proyecto sea el vicepresidente de finanzas, quien puede usar los hallazgos de este proyecto para crear una estrategia eficaz para el futuro.
+      
+    - El gerente de proyectos
+    
+      ❌ Incorrecto.
+
+
+10. Un analista de datos se siente sobrecargado de trabajo. Con frecuencia se queda hasta tarde para terminar el trabajo y ha comenzado a no cumplir con las fechas límite. Su supervisor le envía otro proyecto por correo electrónico para que complete y esto le causa aún más estrés al analista. ¿Cómo debería manejar esta situación?
+
+    - Responder de inmediato e informar al supervisor que las expectativas en esta empresa no son razonables.
+    
+      ❌ Incorrecto.
+  
+    - Aceptar de inmediato el nuevo proyecto y esperar esta vez poder cumplir con la fecha límite.
+    
+      ❌ Incorrecto.
+    
+    - Entrar a la oficina del supervisor y decirle que le entregue el proyecto a otra persona.
+    
+      ❌ Incorrecto.
+      
+    - Esperar unos minutos para pensarlo y, luego, responder solicitándole una reunión para analizar este proyecto y la carga de trabajo general.
+    
+      ✅ Correcto. Debe esperar unos minutos para pensarlo y, luego, responder solicitándole una reunión para analizar este proyecto y la carga de trabajo general. Cuando las personas se sienten molestas o sensibles, es mejor esperar hasta que las cosas se calmen. Luego, brinda a todos la oportunidad de compartir sus puntos de vista.
+
+
+11. Los analistas de datos prestan atención al tamaño de la muestra para lograr ¿qué objetivos? Selecciona todas las opciones correctas.
+
+    - Para comprender completamente el alcance del proyecto de análisis
+    
+      ❌ Incorrecto.
+  
+    - Para evitar un tamaño de muestra pequeño que dé lugar a juicios inexactos
+    
+      ✅ Correcto. Los analistas de datos prestan atención al tamaño de la muestra para representar un conjunto variado de perspectivas y evitar resultados sesgados o juicios inexactos.
+    
+    - Para asegurarse de que algunas respuestas inusuales no sesguen los resultados
+    
+      ✅ Correcto. Los analistas de datos prestan atención al tamaño de la muestra para representar un conjunto variado de perspectivas y evitar resultados sesgados o juicios inexactos.
+
+    - Para asegurarse de que los datos representen un conjunto variado de perspectivas
+    
+      ✅ Correcto. Los analistas de datos prestan atención al tamaño de la muestra para representar un conjunto variado de perspectivas y evitar resultados sesgados o juicios inexactos.
+
+
+12. Se ha invitado a un analista de datos a una reunión. Este revisa la agenda y observa que uno de los temas que se analizarán es su proyecto de análisis de datos. ¿Cómo puede prepararse para una reunión eficaz? Selecciona todas las opciones correctas.
+
+    - Planificar llegar a horario.
+    
+      ✅ Correcto. Para prepararse para una reunión eficaz, puede llegar a horario, llevar material para tomar notas y considerar qué actualizaciones del proyecto puede compartir.
+  
+    - Crear y compartir una agenda revisada que incluya muchos más detalles sobre su proyecto.
+    
+      ❌ Incorrecto. 
+    
+    - Llevar material para tomar notas.
+    
+      ✅ Correcto. Para prepararse para una reunión eficaz, puede llegar a horario, llevar material para tomar notas y considerar qué actualizaciones del proyecto puede compartir.
+
+    - Pensar en las actualizaciones del proyecto que debe compartir.
+    
+      ✅ Correcto. Para prepararse para una reunión eficaz, puede llegar a horario, llevar material para tomar notas y considerar qué actualizaciones del proyecto puede compartir.
+
+
+13. Al participar en una reunión en línea, es adecuado mantener la bandeja de entrada abierta en otra ventana del navegador. Los participantes no se distraerán porque no pueden verla y es posible que recibas un mensaje muy importante.
+
+    - Verdadero
+    
+      ❌ Incorrecto.
+  
+    - Falso
+    
+      ✅ Correcto. Al participar en una reunión en línea, es importante eliminar las distracciones, como revisar el correo electrónico. Esto muestra respeto por los demás participantes.
+      
 
 ---
 
