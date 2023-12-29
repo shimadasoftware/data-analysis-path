@@ -558,31 +558,181 @@ Pon a prueba tus conocimientos sobre una comunicación clara.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Ahora es momento de analizar las reuniones. Las reuniones constituyen una gran parte de cómo te comunicas con los miembros del equipo y con los interesados. Abordemos algunas cosas fáciles de seguir que se deben y no se deben hacer, y que puedes poner en práctica en las reuniones tanto en persona como en línea a fin de que puedas usar estas prácticas recomendadas de comunicación en el futuro. En esencia, las reuniones te permiten a ti y a los miembros de tu equipo o los interesados analizar el progreso de un proyecto. Pero pueden ser mucho más que eso. Independientemente de que sean virtuales o en persona, las reuniones de equipo pueden generar confianza y espíritu de equipo. Te dan la posibilidad de conectarte con las personas con las que trabajas más allá de los correos electrónicos. Otro beneficio es que saber con quién estás trabajando puede darte una mejor perspectiva de dónde encaja tu trabajo en el proyecto más grande. Las reuniones regulares también facilitan la coordinación de las metas del equipo, lo que permite lograr más fácilmente tus objetivos. Si todos se ponen de acuerdo, tu equipo estará en la mejor posición para ayudarse mutuamente cuando tú también tengas problemas. 
+
+Ya sea que dirijas una reunión o simplemente asistas a ella, existen prácticas recomendadas que puedes seguir para asegurarte de que tus reuniones sean un éxito. Hay algunas cosas muy sencillas que puedes hacer para lograr una gran reunión. Ve preparado, llega a horario, presta atención y haz preguntas. Esto se aplica tanto a las reuniones que lideras como a las que asistes. Analicemos cómo puedes cumplir estas cosas que debes hacer en cada reunión. ¿A qué me refiero cuando digo que vayas preparado? Bueno, a varias cosas. En primer lugar, lleva lo que necesites. Si te gusta tomar notas, ten tu cuaderno y tus bolígrafos en tu bolso o tu dispositivo de trabajo a mano. Estar preparado también significa que debes leer la agenda de la reunión con anticipación y estar listo para brindar actualizaciones sobre tu trabajo. Si lideras la reunión, asegúrate de preparar tus notas y presentaciones, y de saber de qué vas a hablar y, por supuesto, prepárate para responder preguntas. Estos son algunos otros consejos que me gusta seguir cuando dirijo una reunión. 
+
+En primer lugar, cada reunión debe enfocarse en tomar una decisión clara e incluir a la persona fundamental para tomar esa decisión. Y, si es necesario que haya una reunión para tomar una decisión, prográmala de inmediato. No dejes que el progreso se detenga por esperar hasta la reunión de la semana siguiente. Por último, si es posible, intenta que la cantidad de personas que asistan a tu reunión no sea superior a 10. Una cantidad mayor de personas dificulta tener un debate colaborativo. También es importante respetar el tiempo de los miembros de tu equipo. La mejor forma de hacerlo es llegar a horario a las reuniones. Si lideras la reunión, llega temprano y organízate de antemano, de modo que estés listo para comenzar cuando lleguen las personas. Puedes hacer lo mismo en el caso de las reuniones en línea. Intenta asegurarte de antemano de que la tecnología funcione y de mirar el reloj para no perderte una reunión por accidente. Mantenerse enfocado y atento durante una reunión es otra excelente manera de respetar el tiempo de los miembros de tu equipo. No querrás perderte algo importante porque estabas distraído con otra cosa durante una presentación. 
+
+Prestar atención también significa hacer preguntas cuando necesites aclaraciones o si crees que puede haber un problema con el plan de un proyecto. No tengas miedo de pedir ayuda después de una reunión. Si no pudiste hacer una pregunta, luego haz un seguimiento con el grupo y obtén tu respuesta. Cuando tú eres la persona que dirige la reunión, asegúrate de elaborar y enviar una agenda con anticipación para que los miembros de tu equipo puedan ir preparados y retirarse con conclusiones claras. También se recomienda hacer participar a todos. 
+
+Intenta interactuar con todos los asistentes para no perderte ninguna idea de los miembros de tu equipo. Infórmales a todos que también puedes responder preguntas después de la reunión. Tomar notas es una gran idea incluso cuando diriges la reunión. Esto permite que sea más fácil recordar todas las preguntas que se hicieron. Luego, puedes hacer un seguimiento individual con los miembros del equipo para responder esas preguntas o enviar una actualización a todo tu equipo según quién necesite esa información. Ahora repasemos lo que no se debe hacer en las reuniones. Aquí hay algunas cosas obvias que no se deben hacer. No se recomienda llegar sin estar preparado, tarde o distraído a las reuniones. 
+
+Tampoco se recomienda dominar la conversación, hablar por encima de los demás ni distraer a las personas con un debate desenfocado. Intenta asegurarte de darles a los miembros del equipo la posibilidad de hablar y de siempre dejarlos que terminen su idea antes de comenzar a hablar. Todos los que asisten a tu reunión deben dar su opinión. Brinda oportunidades para que las personas se expresen: haz preguntas, pídeles sus conocimientos y solicita sus comentarios No quieres perderte sus valiosas ideas. Y trata de que todos pongan sus teléfonos o computadoras en silencio cuando no estén hablando, incluido tú. Ahora hemos aprendido algunas de las prácticas recomendadas que puedes seguir en las reuniones, como ir preparado, llegar a horario, prestar atención y hacer preguntas. También hablamos sobre cómo usar las reuniones de manera productiva para tomar decisiones claras y cómo promover debates colaborativos, y a ofrecer o pedir ayuda después de una reunión para abordar las preguntas que tú u otros puedan tener. 
+
+También sabes qué no hacer en las reuniones: llegar sin estar preparado, tarde o distraído, o hablar por encima de los demás y perderte sus ideas. Con estos consejos en mente, estarás preparado para reuniones de equipo productivas y positivas. Pero, claro, a veces, habrá conflictos en tu equipo. Analizaremos la resolución de conflictos próximamente.
+
+![image](./img/module%2004%20img%2011.png)
+
 ### Cómo unirse a un nuevo equipo 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-1%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Unirme a un nuevo equipo, al principio, fue definitivamente aterrador. En especial, en una empresa como Google que es realmente grande y todos son muy inteligentes. Pero realmente me apoyé en mi gerente para comprender lo que podía aportar. Y eso me hizo sentir mucho más cómoda en las reuniones mientras compartía mis habilidades. Descubrí que mis mejores proyectos comienzan cuando la comunicación es muy clara acerca de lo que se espera. Si me retiro de la reunión en la que me solicitaron que me hiciera cargo del proyecto y sé exactamente por dónde empezar y lo que tengo que hacer, puedo hacerlo más rápido, de forma más eficaz y lograr el objetivo real, y tal vez avanzar un paso más porque no tengo que perder tiempo confundida sobre lo que debía hacer. La comunicación es muy importante porque te lleva a la línea de llegada de la manera más eficaz y también te hace ver muy bien. Cuando apenas comencé, me enviaron una buena cantidad de proyectos y estaba muy emocionada. Entonces, comencé a trabajar en ellos sin hacer demasiadas preguntas. Al principio, eso fue un obstáculo porque, si bien puedes prosperar en la ambigüedad, la ambigüedad sobre cuál es el objetivo del proyecto puede ser realmente perjudicial cuando en verdad intentas lograr ese objetivo. Y lo superé con solo dar un paso hacia atrás cuando alguien me pedía que hiciera un proyecto y al aclarar cuál era ese objetivo. Una vez que se definía el objetivo, me gustaba entrar en la ambigüedad de cómo lograrlo, pero el objetivo tiene que ser un objetivo real y claro. 
 
 ### Cómo liderar grandes reuniones 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Un día no muy lejano, es posible que te encuentres planificando una reunión en tu papel de analista de datos. Cuando los participantes esperan una reunión bien ejecutada, pueden suceder grandes cosas. Los asistentes se presentan a horario. No se distraen con sus computadoras portátiles ni teléfonos. Sienten que su tiempo se empleará bien. Todo se reduce a una buena planificación y comunicación de las expectativas. Los siguientes son nuestros mejores consejos prácticos para dirigir reuniones.
+
+#### Antes de la reunión
+
+Si estás organizando la reunión, probablemente hablarás sobre los datos. Antes de la reunión: 
+
+- Identifica tu objetivo. Establece el propósito, las metas y los resultados deseados de la reunión, incluidas las preguntas o solicitudes que deban abordarse.
+
+- Reconoce a los participantes y hazlos participar en los diferentes puntos de vista y experiencias con los datos, el proyecto o el negocio.
+
+- Organiza los datos que se presentarán. Es posible que debas convertir datos sin procesar en formatos accesibles o crear visualizaciones de datos. 
+
+- Prepara y distribuye una agenda. Repasaremos esto a continuación.
+
+#### Cómo elaborar una agenda convincente
+
+Una agenda de reuniones sólida prepara tu reunión para el éxito. Estas son las partes básicas que debe incluir la agenda: 
+
+- Hora de inicio y finalización de la reunión
+
+- Lugar de la reunión (incluida la información para participar de forma remota, si esa opción está disponible)
+
+- Objetivos 
+
+- Material o datos complementarios que los participantes deben revisar de antemano
+
+Aquí presentamos un ejemplo de una agenda para un proyecto de análisis que recién comienza:
+
+![image](./img/module%2004%20img%2012.png)
+
+#### Cómo compartir la agenda con anticipación
+Después de escribir la agenda, es hora de compartirla con los invitados. Compartir la agenda con todos de manera anticipada les ayuda a comprender los objetivos de la reunión y a preparar preguntas, comentarios o retroalimentación. Puedes enviar la agenda por correo electrónico o compartirla mediante otra herramienta de colaboración.
+
+#### Durante la reunión
+
+Como líder de la reunión, debes guiar el debate sobre los datos. Con todos bien informados sobre el plan y los objetivos de la reunión, puedes seguir estos pasos para evitar distracciones:
+
+- Haz introducciones (si es necesario) y revisa los mensajes clave
+
+- Presenta los datos 
+
+- Habla sobre las observaciones, interpretaciones e implicaciones de los datos
+
+- Toma notas durante la reunión
+
+- Determina y resume los próximos pasos para el grupo 
+
+#### Después de la reunión
+
+Para mantener el proyecto y a todos alineados, prepara y distribuye un breve resumen de la reunión con los próximos pasos que se acordaron en la reunión. Incluso puedes ir un paso más allá y pedir comentarios al equipo.
+
+- Distribuye notas o datos 
+
+- Confirma los próximos pasos y el plazo de las medidas adicionales
+
+- Pide comentarios (esta es una forma eficaz de averiguar si omitiste algo en tu resumen)
+
+#### Conclusión sobre las reuniones
+
+Incluso con la planificación más cuidadosa y las agendas más detalladas, las reuniones a veces pueden salirse de su curso. Una situación de emergencia podría distraer la atención de las personas. Una decisión reciente podría cambiar inesperadamente los requisitos que se debatieron y acordaron previamente. Es posible que los elementos de acción no se apliquen a la situación actual. Si ocurre esto, es posible que te veas obligado a acortar o cancelar la reunión. Está bien; solo asegúrate de analizar con el gerente o los interesados cualquier cosa que afecte tu proyecto y reprograma la reunión después de contar con más información. 
+
 ### Del conflicto a la colaboración 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Es normal que surjan conflictos en tu vida laboral. Mucho de lo que has aprendido hasta el momento, como gestionar las expectativas y comunicar de manera eficaz, puede ayudarte a evitar conflictos, pero a veces te topas con problemas de todos modos. Si eso sucede, existen formas de resolverlos y seguir adelante. En este video, hablaremos acerca de cómo podrían producirse conflictos y las mejores formas en que puedes practicar su resolución. Un conflicto puede surgir por diversas razones. Tal vez los interesados malinterpretaron los posibles resultados de tu proyecto, tal vez tú y el miembro de tu equipo tienen estilos de trabajo muy diferentes o tal vez se acerca una fecha límite importante y las personas están nerviosas. Las expectativas incompatibles y la falta de comunicación son algunas de las razones más comunes por las que se producen conflictos. Tal vez no fuiste claro sobre quién se suponía que debía limpiar un conjunto de datos y nadie lo limpió, lo que provocó que un proyecto se retrasara, o tal vez un compañero de equipo envió un correo electrónico con toda la información incluida, pero no mencionó que era tu trabajo. 
+
+Si bien puede ser fácil tomar el conflicto como algo personal, es importante intentar se objetivo, y mantenerse enfocado en las metas del equipo. Lo creas o no, los momentos tensos de hecho pueden ser oportunidades para volver a evaluar un proyecto y, tal vez, incluso mejorar las cosas. Así que, cuando surja un problema, hay algunas maneras en que puedes dar vuelta a la situación para ser más productivo y colaborativo. Una de las mejores formas en las que puedes convertir una situación problemática en productiva es simplemente replantear el problema. En lugar de centrarte en lo que salió mal o en a quién culpar, cambia la pregunta con la que comienzas. Intenta preguntar “¿Cómo puedo ayudarte a alcanzar tu objetivo?”. Esto crea una oportunidad para que tú y los miembros de tu equipo trabajen juntos a fin de encontrar una solución, en lugar de sentirse frustrados por el problema. 
+
+El debate es clave para la resolución de conflictos. Si te encuentras en medio de un conflicto, intenta comunicarte, iniciar una conversación o preguntar cosas como “¿Hay otras cosas importantes que debo tener en cuenta?”. Esto brinda a los miembros de tu equipo o a los interesados la posibilidad de explicar por completo tus inquietudes. Sin embargo, si te sientes sensible, tómate un tiempo para calmarte a fin de que puedas participar en la conversación con la cabeza más despejada. Si necesito escribir un correo electrónico durante un momento tenso, lo guardaré en los borradores y lo volveré a leer al día siguiente antes de enviarlo para asegurarme de que estoy siendo racional. Si descubres que no comprendes lo que el miembro de tu equipo o los interesados te piden que hagas, intenta comprender el contexto de su solicitud. Pregúntales cuál es su objetivo final, qué historia intentan contar con los datos o cuál es el panorama general. 
+
+Al convertir los momentos de posible conflicto en oportunidades para colaborar y avanzar, puedes resolver la tensión y volver a encaminar tu proyecto. En lugar de decir “No hay forma de que pueda hacer eso en este plazo”, intenta replantearlo diciendo “Me encantaría hacerlo, pero voy a demorar esta cantidad de tiempo, demos un paso hacia atrás para que pueda comprender mejor lo que te gustaría hacer con los datos y podamos trabajar juntos para encontrar el mejor camino a seguir”. Con eso, hemos llegado al final de esta sección. Buen trabajo. Aprender a trabajar con miembros nuevos de un equipo puede ser un gran desafío al empezar una función o un proyecto nuevos, pero con las habilidades que has adquirido en estos videos, podrás comenzar con el pie derecho en cualquier equipo nuevo al que te unas. 
+
+Hasta ahora, has aprendido a equilibrar las necesidades y expectativas de los miembros de tu equipo y los interesados. También has cubierto cómo comprender las funciones de tu equipo y enfocarte en el objetivo del proyecto, la importancia de una comunicación clara y las expectativas de comunicación en el lugar de trabajo, y cómo equilibrar las limitaciones de los datos con las preguntas de los interesados. Por último, hemos cubierto cómo lograr reuniones de equipo eficaces y cómo resolver conflictos al pensar de forma colaborativa con los miembros de tu equipo. Esperemos que ahora comprendas la importancia de la comunicación para el éxito de un analista de datos. Estas habilidades de comunicación podrían sentirse un poco diferentes a algunas de las otras habilidades que has aprendido en este programa, pero también son una parte importante de tu kit de herramientas para analistas de datos y de tu éxito como analista de datos profesional. Al igual que todas las otras habilidades que estás aprendiendo en este momento, tus habilidades de comunicación mejorarán con práctica y experiencia.
+
+![image](./img/module%2004%20img%2013.png)
 
 ### Cómo comunicar los desafios 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Has estado aprendiendo sobre estrategias de comunicación y formas de garantizar que todos los miembros del equipo se sientan comprendidos, valorados y apreciados. Desarrollar las habilidades para ayudar a hacer que estas cosas sean posibles requiere tiempo y esfuerzo, pero puede hacer que tus proyectos sean más exitosos y gratificantes para todos los que participan. 
+
+¿Cuáles son algunas estrategias para comunicar desafíos o inquietudes profesionales que utilizaste en tu propia vida? Proporciona un párrafo breve (de 50 a 100 palabras) en tu respuesta escrita. 
+
 ### Del Cuerpo de Marines de los EE.UU. a analisis de datos 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola, soy Nathan. Soy analista de datos principal en la Organización de Confianza y Seguridad de Google. Me uní a la Reserva del Cuerpo de Marines cuando iba a la universidad, y la unidad de reserva a la que me uní era una unidad de artillería de campaña. Así que después de un desafiante campo de entrenamiento en el Cuerpo de Marines, fui a la escuela de control de la dirección de tiro de artillería de campaña. Para los que no saben, el control de la dirección de tiro se considera el cerebro de la artillería de campaña, y utilizamos computadoras de todo tipo para hacer nuestros cálculos de artillería. Pero, en caso de que las computadoras dejen de funcionar, también estamos capacitados para usar reglas de cálculo como respaldo. Y luego, un año más tarde, tuve la posibilidad de que me dieran de alta como conductor de camiones, en lugar de mi trabajo principal como artillero de campaña, y me enviaron a Irak para conducir camiones para una empresa de infantería. Cuando regresé de Irak, terminé mi licenciatura y luego trabajé como ingeniero de aplicaciones en Austin, Texas, y, con el tiempo, vi la necesidad de centrarme más en los negocios. Y realmente me enamoré del análisis de datos cuando estaba aprendiendo mucho más sobre negocios. De hecho, me tomó un par de años, desde que realmente despertó mi interés por el análisis de datos, hasta que conseguí un puesto en el que llegué a dedicarme a eso a tiempo completo y verdaderamente me metí de lleno en los datos. 
+
+Algunas de las cosas que hice para construir las bases para estar listo y calificado para eso fue hacer un curso de Coursera en R y también hice algunos hackatones de ciencia de datos en los que pasas un fin de semana completo en una universidad. Publican el conjunto de datos el viernes por la noche y para el domingo por la tarde tienes que elaborar algunas recomendaciones. Así que esas fueron dos formas muy buenas de realmente prepararme, obtener buena experiencia y mostrar en verdad un gran interés por el análisis de datos. Mi primer trabajo, en el que pude hacer análisis de datos a tiempo completo, fue en un banco grande, y me sentía en el cielo. Realmente pude hacer SQL de verdad y también pude usar mucho Tableau. 
+
+Pude asistir a una conferencia de Tableau. Fue realmente genial. Luego, tuve la suerte de tener la oportunidad de pasar a mi puesto actual en Google. Es en confianza y seguridad. Y lo que es muy interesante y gratificante de eso es que, similar a lo que ocurre en las fuerzas armadas, tiene la misión general de proteger a las personas, así que eso me parece muy interesante. Una de las cosas que me inculcaron en los Marines y que aplico para esto todos los días es la atención al detalle. Eso es muy importante en las fuerzas armadas en general, pero especialmente en la artillería de campaña. En segundo lugar, está la importancia de la comunicación. Tienes guardados tus propios detalles. Debes asegurarte de que se comuniquen de forma realmente clara a las otras personas con las que estés trabajando. Y la tercera es la colaboración. En las fuerzas armadas, el trabajo en equipo hace que los sueños se cumplan. Realmente dependes del equipo. Ese ha sido definitivamente el caso en la carrera y los trabajos en mi puesto en el Cuerpo de Marines.
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-34%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos sobre el trabajo en equipo.
+
+1. Tu supervisor te da un nuevo proyecto de análisis de datos con instrucciones poco claras y tú te frustras al tratar de averiguar cómo proceder. ¿Qué medidas que puedes tomar a continuación demuestran la responsabilidad de hacer avanzar el proyecto? Selecciona todas las opciones correctas.
+
+    - enviar un correo electrónico a tu supervisor para informarle que no explicó bien el proyecto. 
+    
+      ❌ Incorrecto.
+
+    - programar un momento para hacerle más preguntas a tu supervisor sobre los objetivos generales.
+    
+      ✅ Correcto. Llevar a cabo una investigación adicional y hacer preguntas son formas eficaces de determinar cómo proceder con un nuevo proyecto.
+      
+    - investigar un poco más para comprender mejor el contexto de la solicitud.
+    
+      ✅ Correcto. Llevar a cabo una investigación adicional y hacer preguntas son formas eficaces de determinar cómo proceder con un nuevo proyecto.
+
+    - buscar a tu supervisor en persona para que pueda observar con claridad la frustración que sientes.
+    
+      ❌ Incorrecto.
+
+
+2. Estás trabajando en un proyecto de análisis de datos con un compañero de trabajo y los dos opinan diferente acerca de lo que les dicen los datos. Las cosas se ponen tensas. La mejor forma de proceder es acudir a tu supervisor y explicarle cortésmente que tu compañero de trabajo tiene una visión incorrecta de los datos. Luego, pedirle trabajar con un compañero de trabajo diferente en proyectos futuros.
+   
+    - verdadero. 
+    
+      ❌ Incorrecto.
+
+    - falso.
+    
+      ✅ Correcto. El debate es la clave para la resolución de conflictos. Si te encuentras en medio de un conflicto, inicia una conversación para que cada uno pueda explicar sus inquietudes y determinar el mejor camino a seguir.
+      
+
+3. Un director te envía un correo electrónico en el que te solicita un informe antes del fin de semana. Para completar correctamente este tipo de informes, se requieren al menos 10 días. ¿Cuál es la mejor forma de proceder?
+
+    - completar el informe lo mejor que puedas antes del fin de semana para cumplir con la fecha límite solicitada.
+    
+      ❌ Incorrecto.
+
+    - llamar al director e informarle que no hay forma de que alguien pueda cumplir con esa fecha límite.
+    
+      ❌ Incorrecto.
+      
+    - reenviar el correo electrónico a otro analista de datos de tu equipo y pedirle que haga el informe por ti. Aun así no se cumplirá el plazo, pero al menos no te afectará a ti.
+    
+      ❌ Incorrecto.
+
+    - enviar un correo electrónico al director y decirle que te gustaría hacerlo, pero que crees que te llevará 10 días obtener la información que necesitas. Luego, preguntar si se puede analizar la posibilidad de un plazo diferente.
+    
+      ✅ Correcto. La mejor forma de proceder es enviarle un correo electrónico al director para explicarle cortésmente el plazo que se requiere para completar el informe de manera correcta.
+
 
 ---
 
@@ -592,6 +742,8 @@ Pon a prueba tus conocimientos sobre el trabajo en equipo.
 
 - Glosario: Términos y definiciones (Reading - 5min)
 - Desafio semanal 4 (Quiz - 8 questions)
+
+
 
 ---
 
