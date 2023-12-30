@@ -142,6 +142,76 @@ Un objetivo medible establecido por una empresa y evaluado mediante métricas.
 
 ## Modulo 3
 
+### Referencia de celda
+Una celda o un rango de celdas en una hoja de cálculo que se puede usar en una fórmula.
+
+### Rango 
+Conjunto de dos o más celdas.
+
+### #DIV/O! 
+Una fórmula intenta dividir un valor en una celda por O o por una celda vacía.
+
+### #ERROR! 
+(solo en Google Sheets) Una fórmula no se puede interpretar como entrada (también conocido como error de análisis).
+
+### #N/A 
+La hoja de cálculo no puede encontrar los datos de una fórmula.
+
+### Función
+Un comando preestablecido que realiza automáticamente un proceso o tarea específica utilizando los datos.
+
+### #NAME? 
+La formula o nombre de la función no es identificado.
+
+### #NUM! 
+No se puede realizar un cálculo de fórmula o función como se especifica.
+
+### #VALUE! 
+Un error general que podría indicar un problema con una fórmula o celdas referenciadas.
+
+### #REF! 
+Una fórmula hace referencia a una celda que ya no es válida o ha sido eliminada.
+
+### Pensamiento estructurado
+El proceso de reconocer el problema o situación actual, organizar la información disponible, revelar brechas y oportunidades e identificar las opciones.
+
+### Dominio del problema
+El área específica de análisis que abarca cada actividad que afecta o afectada por el problema.
+
+### Alcance del trabajo (SOW)
+Un esquema acordado del trabajo que vas a realizar en un proyecto. Está compuesto por:
+
+- Entregas (Deliverables)
+- Plazo (Timeline)
+- Hitos (Milestones)
+- Informes (Reports)
+
+### Understand what data is about ask
+
+- Quién (Who): La persona u organización que creó, recopiló y/o financió la recopilación de datos.
+
+- Qué (What): Las circunstancias en las cuales los datos podrían tener un impacto en cualquier parte del mundo.
+
+- Dónde (Where): El origen de los datos.
+
+- Cuándo (When): El momento en que se crearon o recopilaron los datos.
+
+- ¿Por qué? (Why): La motivación detrás de la creación o recopilación.
+
+- Cómo (How): El método que se usó para crearlos o recopilarlos.
+
+
+## Module 4
+
+### Conoce tu audiencia
+
+Asegúrate de responder estas cuatro preguntas importantes relacionadas con tu audiencia:
+
+1. ¿Quién es tu audiencia?
+2. ¿Qué saben ya?
+3. ¿Qué necesitan saber?
+4. ¿Cómo puedes comunicar mejor lo que necesitan saber?
+
 
 
 
@@ -396,6 +466,10 @@ Cómo: El método que se usó para crearlos o recopilarlos.
 
 ## Module 4
 
-1. Who are the primary and secondary stakeholders?
-2. Who is managing the data?
-3. Where can you go for help?
+### Understand your audience
+
+Before you communicate, think about
+1. Who your audience is
+2. What they already know
+3. What they need to know
+4. How you can communicate that effectively to them
