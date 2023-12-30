@@ -1198,7 +1198,688 @@ Opcional: ¿conoces el analisis computacional de datos?
 
 ### Temario: 
 
-- Estrategias para tomar examenes (Reading - 10 min)
 - Desafio del curso (Quiz - 10 questions)
 - ¡Felicitaciones! (Resumen del curso Video - 3 min)
 - Proximamente... (Reading)
+
+### Desafio del curso 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+**Escenario 1, preguntas 1-5**
+
+Acabas de empezar a trabajar como analista de datos en una pequeña empresa de software que proporciona soluciones de análisis computacional de datos e inteligencia empresarial. Tu supervisor te pide que inicies un proyecto con un nuevo cliente, Athena’s Story, una librería feminista. Cuentan con cuatro sucursales y acaba de abrir la quinta tienda en tu comunidad.
+
+Athena’s Story quiere crear una campaña para generar entusiasmo por una próxima celebración y presentar la librería a la comunidad. Comparten algunos datos con tu equipo para ayudar a que el evento sea lo más exitoso posible.
+
+Tu tarea consiste en revisar la asignación y los datos disponibles y, luego, presentar tu enfoque a tu supervisor. Haz clic en el enlace de abajo para acceder al correo electrónico de tu supervisor: 
+
+1. Después de leer el correo electrónico, te das cuenta de que la sigla WHM aparece en varios lugares. Lo buscas en línea y el resultado que más aparece es “administrador de alojamiento web”. Eso no te parece correcto, ya que no encaja en el contexto de una librería feminista. ¿Cómo procedes?
+
+    - Programas una reunión con tu supervisor, el cliente y otro analista de tu equipo para averiguar el significado.
+    
+      ❌ Incorrecto.
+  
+    - Envías un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+    
+    - Llamas al cliente para preguntarle qué significa WHM y le informas que el uso de siglas no es una práctica empresarial profesional.
+    
+      ❌ Incorrecto.
+      
+    - Continúas con el proyecto y asumes que WHM debe significar “administrador de alojamiento web”.
+    
+      ❌ Incorrecto.
+
+
+Ahora que sabes que WHM significa Mes de la Historia de la Mujer, sigues revisando los conjuntos de datos. Observas que el conjunto de datos Encuesta a clientes contiene datos cualitativos y cuantitativos.
+
+![image](./img/module%2004%20img%2014.png)
+
+2. Los datos cualitativos incluyen información ¿de qué columnas? Selecciona todas las opciones correctas.
+
+    - Columna B (P2 de la encuesta: Si respondiste “Sí” a la P1, ¿cómo planeas celebrar?) 
+    
+      ✅ Correcto. Los datos cualitativos incluyen información de las columnas B, E y F.
+  
+    - Columna F (P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’s Story?)
+    
+      ✅ Correcto. Los datos cualitativos incluyen información de las columnas B, E y F.
+    
+    - Columna E (P5 de la encuesta: ¿Qué es lo que más te gusta de Athena’s Story?)
+    
+      ✅ Correcto. Los datos cualitativos incluyen información de las columnas B, E y F.
+      
+    - Columna D (P4 de la encuesta: Si respondiste “Sí” a la P3, ¿cuántos libros sueles comprar durante el mes de marzo?)
+    
+      ❌ Incorrecto.
+
+
+El atributo de la columna F es “P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’s Story?)” Para verificar que la literatura infantil y las revistas feministas se encuentran entre los géneros más populares, creas una visualización. Esto te ayudará a identificar con claridad qué géneros tienen más probabilidades de venderse bien durante la campaña del Mes de la Historia de la Mujer. 
+
+![image](./img/module%2004%20img%2015.png)
+
+3. Completa el espacio en blanco: la visualización que creas muestra los porcentajes de cada género de libros que componen la cantidad total de respuestas a la encuesta. Se llama gráfico _____.
+
+    - Circular
+    
+      ✅ Correcto. La visualización se denomina gráfico circular.
+  
+    - De burbujas
+    
+      ❌ Incorrecto.
+    
+    - De anillos
+    
+      ❌ Incorrecto.
+      
+    - De áreas
+    
+      ❌ Incorrecto.
+
+
+Ahora que has confirmado que la literatura infantil y las revistas feministas se encuentran entre los géneros de libros más solicitados, revisas el conjunto de datos Ventas históricas.
+
+Te complace ver que el conjunto de datos contiene datos específicos de la literatura infantil y las revistas feministas. Esto te proporcionará la información que necesitas para tomar decisiones basadas en datos. Además, las métricas de la literatura infantil y las revistas feministas te ayudarán a organizar y analizar los datos sobre cada género para determinar si es probable que sean rentables.
+
+4. A continuación, calculas las ventas totales de revistas feministas durante 52 semanas. Escribes =CALCULATE(E2-E53), pero obtienes un error. ¿Cuál es la sintaxis correcta? 
+
+    - = MAX(E2:E53)
+    
+      ❌ Incorrecto.
+  
+    - = SUM(E2:E53)
+    
+      ✅ Correcto. Revisa la sección sobre funciones de hojas de cálculo a modo de repaso. 
+    
+    - = COUNT(E2:E53)
+    
+      ❌ Incorrecto.
+      
+    - = CALC(E2:E53)
+    
+      ❌ Incorrecto.
+
+
+**Escenario 1, continuación**
+
+Después de familiarizarte con el proyecto y los datos disponibles, presentas tu enfoque a tu supervisor. Proporcionas un alcance del trabajo, que incluye detalles importantes, un cronograma e información sobre cómo planificas preparar y validar los datos. También compartes algunos de tus resultados iniciales y el gráfico circular que creaste. 
+
+Además, identificas el tipo de problema, o dominio, del proyecto de análisis de datos. Determinas que los datos de ventas históricas se pueden utilizar para proporcionar información sobre los tipos de libros que se venderán mejor durante el Mes de la Historia de la Mujer el próximo año. Esto también te permitirá determinar si Athena’s Story debe empezar a vender más literatura infantil y revistas feministas.
+
+5. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de ¿qué dominio de problema? 
+
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+  
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+    
+    - Hacer predicciones
+    
+      ✅ Correcto. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de cómo hacer predicciones.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+
+Como has aprendido en este curso, los interesados son personas que invierten tiempo, intereses y recursos en los proyectos en los que trabajarás como analista de datos. Supongamos que estás trabajando en un proyecto que incluye datos y estrategia. 
+
+![image](./img/module%2004%20img%2016.png)
+
+6. Según lo que encuentres en el organigrama, si necesitas información de los interesados secundarios, ¿a quiénes les puedes preguntar? Selecciona todas las opciones correctas. 
+
+    - Vicepresidenta, datos y estrategia
+    
+      ❌ Incorrecto.
+  
+    - Gerente de proyectos, análisis
+    
+      ✅ Correcto. Si necesitas información de los interesados secundarios, puedes preguntarles al gerente de proyectos y al coordinador de análisis computacional de datos.
+    
+    - Coordinador de análisis computacional de datos
+    
+      ✅ Correcto. Si necesitas información de los interesados secundarios, puedes preguntarles al gerente de proyectos y al coordinador de análisis computacional de datos.
+      
+    - Director ejecutivo
+    
+      ❌ Incorrecto.
+
+
+A continuación, la vicepresidenta quiere conocer cuánto sabes sobre cómo hacer preguntas efectivas. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+7. Supongamos que acabamos de terminar un gran evento para un cliente y queríamos saber si estaba satisfecho con su experiencia. Proporciona algunos ejemplos de preguntas medibles que podrías incluir en la encuesta de retroalimentación de los clientes. 
+
+    - En una escala del 1 al 5, en la que 1 significa “poco probable” y 5 significa “muy probable”, ¿qué probabilidades hay de que recomiendes Patel Events Plus?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir una escala del 1 al 5 o preguntas con respuestas clasificadas.
+  
+    - ¿Qué problemas has tenido con nuestro equipo de eventos?
+    
+      ❌ Incorrecto.
+    
+    - ¿Qué es lo que más te gustó de la experiencia de tu evento?
+    
+      ❌ Incorrecto.
+      
+    - ¿Qué tan satisfecho quedaste con nuestro servicio de organización de eventos: insatisfecho, neutral o satisfecho?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir una escala del 1 al 5 o preguntas con respuestas clasificadas.
+
+
+Ahora, la vicepresidenta presenta una situación que tiene que ver con la resolución de desafíos y el cumplimiento de las expectativas de los interesados. Considera y responde la siguiente pregunta.
+
+8. Estás trabajando con un conjunto de datos que el coordinador de análisis computacional de datos debería haber limpiado, pero resulta que no lo hizo. Tu supervisor pensó que el conjunto de datos estaba listo para su uso, pero descubres nulos, datos redundantes y otros problemas. El proyecto debe entregarse en menos de dos semanas. ¿Cómo manejarías esa situación?
+
+    - Solicitas una reunión formal con el equipo de análisis computacional de datos para resolver el problema. No invitas al analista de datos asociado, ya que está claro que no tiene tiempo para ayudar.
+    
+      ❌ Incorrecto.
+  
+    - Te comunicas con el coordinador de análisis computacional de datos y le insistes en que limpie el conjunto de datos de inmediato para que puedas entregar el proyecto a tiempo.
+    
+      ❌ Incorrecto.
+    
+    - Te comunicas con el coordinador de análisis computacional de datos para hablar sobre el problema y ofreces trabajar juntos para limpiar los datos a fin de que el proyecto no se atrase.
+    
+      ✅ Correcto. Esta situación presenta una oportunidad para comunicarse, colaborar y fomentar relaciones laborales positivas. 
+      
+    - envías un correo electrónico a tu supervisor para informarle que el analista de datos asociado no completó la tarea asignada.
+    
+      ❌ Incorrecto.
+
+
+La siguiente pregunta de la entrevista trata sobre compartir información con los interesados. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+9. Supongamos que diseñaste un panel para brindar a los interesados un acceso fácil y automático a los datos sobre un próximo evento. Describe las ventajas de utilizar un panel.
+
+    - Los paneles ofrecen control de los datos entrantes en tiempo real.
+    
+      ✅ Correcto. Los paneles ofrecen control de los datos entrantes en tiempo real y permiten a los interesados interactuar con los datos.
+  
+    - Los paneles son fáciles de diseñar y entender.
+    
+      ❌ Incorrecto.
+    
+    - Los paneles permiten a los interesados interactuar con los datos.
+    
+      ✅ Correcto. Los paneles ofrecen control de los datos entrantes en tiempo real y permiten a los interesados interactuar con los datos.
+      
+    - Los paneles presentan datos históricos previamente limpiados.
+    
+      ❌ Incorrecto.
+
+
+La última pregunta conductual de la entrevista incluye el uso de métricas para responder preguntas de negocios. La entrevistadora te entrega una copia de un conjunto de datos de Patel Events. 
+
+10. Luego, pregunta: Recientemente, Patel Events Plus compró un nuevo espacio para nuestros eventos. Si te pidiéramos que calcules el retorno de la inversión de esta compra, las métricas que se deben tener en cuenta serían el costo de la inversión y ¿qué más?
+
+    - Fecha de compra 
+    
+      ❌ Incorrecto. 
+  
+    - Ganancia neta en 2019 
+    
+      ✅ Correcto. El retorno de la inversión se compone de dos métricas: la ganancia neta durante un período de tiempo y el costo de la inversión. Al comparar estas dos métricas, puedes determinar la rentabilidad de la inversión.
+    
+    - Eventos que se realizaron en el nuevo espacio en 2019
+    
+      ❌ Incorrecto. 
+      
+    - Ingresos medios por eventos
+    
+      ❌ Incorrecto.
+
+
+### Desafio del curso 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+**Escenario 1, preguntas 1-5**
+
+Acabas de empezar a trabajar como analista de datos en una pequeña empresa de software que proporciona soluciones de análisis computacional de datos e inteligencia empresarial. Tu supervisor te pide que inicies un proyecto con un nuevo cliente, Athena’s Story, una librería feminista. Cuentan con cuatro sucursales y acaba de abrir la quinta tienda en tu comunidad.
+
+Athena’s Story quiere crear una campaña para generar entusiasmo por una próxima celebración y presentar la librería a la comunidad. Comparten algunos datos con tu equipo para ayudar a que el evento sea lo más exitoso posible.
+
+Tu tarea consiste en revisar la asignación y los datos disponibles y, luego, presentar tu enfoque a tu supervisor. Haz clic en el enlace de abajo para acceder al correo electrónico de tu supervisor: 
+
+1. Después de leer el correo electrónico, te das cuenta de que la sigla WHM aparece en varios lugares. Lo buscas en línea y el resultado que más aparece es “administrador de alojamiento web”. Eso no te parece correcto, ya que no encaja en el contexto de una librería feminista. Envías un correo electrónico a tu supervisor para preguntar. Al escribir el correo electrónico, ¿qué haces para asegurarte de que suene profesional? Selecciona todas las opciones que correspondan.
+
+    - Escribes una línea de asunto clara que obtenga una respuesta rápida para que puedas seguir trabajando: “¿WHM? NECESITO SABER DE INMEDIATO QUÉ ES ESO”.
+    
+      ❌ Incorrecto.
+  
+    - Lees el correo electrónico en voz alta antes de enviarlo para detectar errores tipográficos o gramaticales y asegurarte de que la comunicación sea clara.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+    
+    - Escribes un correo electrónico breve y directo para respetar el tiempo de tu supervisor.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+      
+    - Usas un saludo y un cierre cortés.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+
+
+Ahora que sabes que WHM significa Mes de la Historia de la Mujer, sigues revisando los conjuntos de datos. Observas que el conjunto de datos Encuesta a clientes contiene datos cualitativos y cuantitativos.
+
+![image](./img/module%2004%20img%2014.png)
+
+2. Los datos de la columna F (P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’sStory?) son cuantitativos.
+
+    - Verdadero.
+    
+      ❌ Incorrecto.
+  
+    - Falso.
+    
+      ✅ Correcto. Los datos de la columna F (P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’s Story?) son cualitativos. 
+    
+
+El atributo de la columna F es “P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’s Story?)” Para verificar que la literatura infantil y las revistas feministas se encuentran entre los géneros más populares, creas una visualización. Esto te ayudará a identificar con claridad qué géneros tienen más probabilidades de venderse bien durante la campaña del Mes de la Historia de la Mujer. 
+
+![image](./img/module%2004%20img%2015.png)
+
+3. El gráfico que creas muestra los porcentajes de cada género de los libros que componen el conjunto. Se llama gráfico de áreas.
+
+    - Verdadero.
+    
+      ❌ Incorrecto.
+  
+    - Falso.
+    
+      ✅ Correcto. Se llama gráfico circular. Los gráficos circulares son eficaces para mostrar los porcentajes de un todo, como el porcentaje de clientes que estarían interesados en comprar libros de diferentes géneros.
+
+
+Ahora que has confirmado que la literatura infantil y las revistas feministas se encuentran entre los géneros de libros más solicitados, revisas el conjunto de datos Ventas históricas.
+
+Te complace ver que el conjunto de datos contiene datos específicos de la literatura infantil y las revistas feministas. Esto te proporcionará la información que necesitas para tomar decisiones basadas en datos. Además, las métricas de la literatura infantil y las revistas feministas te ayudarán a organizar y analizar los datos sobre cada género para determinar si es probable que sean rentables.
+
+4. A continuación, calculas las ventas totales de revistas feministas durante 52 semanas. Escribes =CALCULATE(E2-E53), pero obtienes un error. ¿Cuál es la sintaxis correcta? 
+
+    - = MAX(E2:E53)
+    
+      ❌ Incorrecto.
+  
+    - = SUM(E2:E53)
+    
+      ✅ Correcto. Revisa la sección sobre funciones de hojas de cálculo a modo de repaso. 
+    
+    - = COUNT(E2:E53)
+    
+      ❌ Incorrecto.
+      
+    - = CALC(E2:E53)
+    
+      ❌ Incorrecto.
+
+
+**Escenario 1, continuación**
+
+Después de familiarizarte con el proyecto y los datos disponibles, presentas tu enfoque a tu supervisor. Proporcionas un alcance del trabajo, que incluye detalles importantes, un cronograma e información sobre cómo planificas preparar y validar los datos. También compartes algunos de tus resultados iniciales y el gráfico circular que creaste. 
+
+Además, identificas el tipo de problema, o dominio, del proyecto de análisis de datos. Determinas que los datos de ventas históricas se pueden utilizar para proporcionar información sobre los tipos de libros que se venderán mejor durante el Mes de la Historia de la Mujer el próximo año. Esto también te permitirá determinar si Athena’s Story debe empezar a vender más literatura infantil y revistas feministas.
+
+5. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de ¿qué dominio de problema? 
+
+    - Detectar algo inusual
+    
+      ❌ Incorrecto.
+  
+    - Descubrir conexiones
+    
+      ❌ Incorrecto.
+    
+    - Hacer predicciones
+    
+      ✅ Correcto. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de cómo hacer predicciones.
+      
+    - Identificar temas
+    
+      ❌ Incorrecto.
+
+
+Como has aprendido en este curso, los interesados son personas que invierten tiempo, intereses y recursos en los proyectos en los que trabajarás como analista de datos. Los interesados secundarios también suelen ser responsables de gestionar los datos.
+
+![image](./img/module%2004%20img%2016.png)
+
+6. Según lo que encuentres en el organigrama, ¿cuáles de los interesados secundarios son responsables de administrar los datos? Selecciona todas las opciones correctas.
+
+    - Gerente de proyectos, estrategia
+    
+      ❌ Incorrecto.
+  
+    - Gerente de proyectos, análisis
+    
+      ❌ Incorrecto.
+    
+    - Analista de datos júnior
+    
+      ✅ Correcto. Los interesados secundarios responsables de la gestión de los datos son el coordinador de análisis computacional de datos y el analista de datos júnior.
+      
+    - Coordinador de análisis computacional de datos
+    
+      ✅ Correcto. Los interesados secundarios responsables de la gestión de los datos son el coordinador de análisis computacional de datos y el analista de datos júnior.
+
+
+A continuación, la vicepresidenta quiere conocer cuánto sabes sobre cómo hacer preguntas efectivas. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+7. Supongamos que acabamos de terminar un gran evento para un cliente y queríamos saber si estaba satisfecho con su experiencia. Proporciona algunos ejemplos de preguntas medibles que podrías incluir en la encuesta de retroalimentación de los clientes. 
+
+    - ¿Por qué las opciones y características de nuestros eventos crearon un evento exitoso?
+    
+      ❌ Incorrecto. 
+  
+    - ¿Tuviste algún problema con el evento? ¿Sí o no?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir preguntas con respuestas de sí o no, una escala del 1 al 5 o aquellas con respuestas clasificadas.
+    
+    - ¿Cómo calificarías tu experiencia general: mala, media, superior a la media o excelente?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir preguntas con respuestas de sí o no, una escala del 1 al 5 o aquellas con respuestas clasificadas.
+      
+    - ¿Fue la primera vez que utilizaste Patel Events Plus para organizar tu evento? ¿Sí o no?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir preguntas con respuestas de sí o no, una escala del 1 al 5 o aquellas con respuestas clasificadas.
+
+
+Ahora, la vicepresidenta presenta una situación que tiene que ver con la resolución de desafíos y el cumplimiento de las expectativas de los interesados. Considera y responde la siguiente pregunta.
+
+8. Estás trabajando en un proyecto urgente y descubres que tu conjunto de datos no está limpio. A pesar de que tiene varios nulos, datos redundantes y otros problemas, los interesados principales insisten en que sigas adelante y lo uses de todos modos. El plazo del proyecto es tan ajustado que simplemente no hay tiempo suficiente para la limpieza. ¿Cómo manejarías esa situación?
+
+    - Limpias los datos lo más rápido que puedes. No están perfectos, pero están mejor de lo que estaban antes, y así puedes cumplir con la fecha límite.
+    
+      ❌ Incorrecto.
+  
+    - Comunicas la situación a tu supervisor y pides consejos sobre cómo manejar esto con los interesados.
+    
+      ✅ Correcto. Esta situación presenta una oportunidad para comunicarse, colaborar y fomentar relaciones laborales positivas.
+    
+    - Te comunicas con el jefe de los interesados para informarle sobre el problema y pedir ayuda a fin de gestionar las expectativas de los interesados.
+
+      ❌ Incorrecto. 
+      
+    - Están a cargo los interesados. Es mejor hacer lo que dicen y usar el conjunto de datos sucio.
+    
+      ❌ Incorrecto.
+
+
+La siguiente pregunta de la entrevista trata sobre compartir información con los interesados. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+9. Supongamos que creaste un informe para presentar información sobre un próximo evento a los interesados. Describe las ventajas de utilizar un informe.
+
+    - Los paneles ofrecen control de los datos entrantes en tiempo real.
+    
+      ❌ Incorrecto.
+  
+    - Los informes reflejan los datos que ya se han limpiado y ordenado. 
+    
+      ✅ Correcto. Los informes proporcionan un panorama de los datos históricos de alto nivel y reflejan los datos que ya se han limpiado y ordenado. 
+    
+    - Los paneles permiten a los interesados interactuar con los datos.
+    
+      ❌ Incorrecto.
+      
+    - Los informes proporcionan un panorama de los datos históricos de alto nivel.
+    
+      ✅ Correcto. Los informes proporcionan un panorama de los datos históricos de alto nivel y reflejan los datos que ya se han limpiado y ordenado. 
+
+
+La última pregunta conductual de la entrevista incluye el uso de métricas para responder preguntas de negocios. La entrevistadora te entrega una copia de un conjunto de datos de Patel Events. 
+
+10. Luego, pregunta: Recientemente, Patel Events Plus compró un nuevo espacio para nuestros eventos. Si te pidiéramos que calcules el retorno de la inversión de esta compra, las métricas que se deben tener en cuenta serían el costo de la inversión y ¿qué más?
+
+    - Fecha de compra 
+    
+      ❌ Incorrecto. 
+  
+    - Ganancia neta en 2019 
+    
+      ✅ Correcto. El retorno de la inversión se compone de dos métricas: la ganancia neta durante un período de tiempo y el costo de la inversión. Al comparar estas dos métricas, puedes determinar la rentabilidad de la inversión.
+    
+    - Eventos que se realizaron en el nuevo espacio en 2019
+    
+      ❌ Incorrecto. 
+      
+    - Ingresos medios por eventos
+    
+      ❌ Incorrecto.
+
+
+### Desafio del curso 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-50%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+**Escenario 1, preguntas 1-5**
+
+Acabas de empezar a trabajar como analista de datos en una pequeña empresa de software que proporciona soluciones de análisis computacional de datos e inteligencia empresarial. Tu supervisor te pide que inicies un proyecto con un nuevo cliente, Athena’s Story, una librería feminista. Cuentan con cuatro sucursales y acaba de abrir la quinta tienda en tu comunidad.
+
+Athena’s Story quiere crear una campaña para generar entusiasmo por una próxima celebración y presentar la librería a la comunidad. Comparten algunos datos con tu equipo para ayudar a que el evento sea lo más exitoso posible.
+
+Tu tarea consiste en revisar la asignación y los datos disponibles y, luego, presentar tu enfoque a tu supervisor. Haz clic en el enlace de abajo para acceder al correo electrónico de tu supervisor: 
+
+1. Después de leer el correo electrónico, te das cuenta de que la sigla WHM aparece en varios lugares. Lo buscas en línea y el resultado que más aparece es “administrador de alojamiento web”. Eso no te parece correcto, ya que no encaja en el contexto de una librería feminista. Envías un correo electrónico a tu supervisor para preguntar. Al escribir el correo electrónico, ¿qué haces para asegurarte de que suene profesional? Selecciona todas las opciones que correspondan.
+
+    - Escribes una línea de asunto clara que obtenga una respuesta rápida para que puedas seguir trabajando: “¿WHM? NECESITO SABER DE INMEDIATO QUÉ ES ESO”.
+    
+      ❌ Incorrecto.
+  
+    - Lees el correo electrónico en voz alta antes de enviarlo para detectar errores tipográficos o gramaticales y asegurarte de que la comunicación sea clara.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+    
+    - Escribes un correo electrónico breve y directo para respetar el tiempo de tu supervisor.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+      
+    - Usas un saludo y un cierre cortés.
+    
+      ✅ Correcto. Debes enviar un correo electrónico cortés y conciso a tu supervisor para pedirle que confirme el significado de WHM.
+
+
+Ahora que sabes que WHM significa Mes de la Historia de la Mujer, sigues revisando los conjuntos de datos. Observas que el conjunto de datos Encuesta a clientes contiene datos cualitativos y cuantitativos.
+
+![image](./img/module%2004%20img%2014.png)
+
+2. Los datos cuantitativos incluyen información ¿de qué columnas? Selecciona todas las opciones correctas.
+
+    - Columna A (P1 de la encuesta: ¿Planeas celebrar el WHM?) 
+    
+      ✅ Correcto. Los datos cuantitativos incluyen información de las columnas A, C y D. 
+  
+    - Columna C (P3 de la encuesta: ¿Compras libros feministas para conmemorar el WHM, ya sea para ti o como regalo para otra persona?)
+    
+      ✅ Correcto. Los datos cuantitativos incluyen información de las columnas A, C y D. 
+    
+    - Columna D (P4 de la encuesta: Si respondiste “Sí” a la P3, ¿cuántos libros sueles comprar durante el mes de marzo?) 
+    
+      ✅ Correcto. Los datos cuantitativos incluyen información de las columnas A, C y D. 
+  
+    - Columna E (P5 de la encuesta: ¿Qué es lo que más te gusta de Athena’s Story?)
+    
+      ❌ Incorrecto.
+
+
+El atributo de la columna F es “P6 de la encuesta: ¿Qué tipos de libros te gustaría ver más en Athena’s Story?)” Para verificar que la literatura infantil y las revistas feministas se encuentran entre los géneros más populares, creas una visualización. Esto te ayudará a identificar con claridad qué géneros tienen más probabilidades de venderse bien durante la campaña del Mes de la Historia de la Mujer. 
+
+![image](./img/module%2004%20img%2015.png)
+
+3. El gráfico que creas muestra los porcentajes de cada género de los libros que componen el conjunto. Se llama gráfico de áreas.
+
+    - Verdadero.
+    
+      ❌ Incorrecto.
+  
+    - Falso.
+    
+      ✅ Correcto. Se llama gráfico circular. Los gráficos circulares son eficaces para mostrar los porcentajes de un todo, como el porcentaje de clientes que estarían interesados en comprar libros de diferentes géneros.
+
+
+Ahora que has confirmado que la literatura infantil y las revistas feministas se encuentran entre los géneros de libros más solicitados, revisas el conjunto de datos Ventas históricas.
+
+Te complace ver que el conjunto de datos contiene datos específicos de la literatura infantil y las revistas feministas. Esto te proporcionará la información que necesitas para tomar decisiones basadas en datos. Además, las métricas de la literatura infantil y las revistas feministas te ayudarán a organizar y analizar los datos sobre cada género para determinar si es probable que sean rentables.
+
+4. A continuación, calculas las ventas totales de revistas feministas durante 52 semanas. Escribes =CALCULATE(E2-E53), pero obtienes un error. ¿Cuál es la sintaxis correcta? 
+
+    - = MAX(E2:E53)
+    
+      ❌ Incorrecto.
+  
+    - = SUM(E2:E53)
+    
+      ✅ Correcto. Revisa la sección sobre funciones de hojas de cálculo a modo de repaso. 
+    
+    - = COUNT(E2:E53)
+    
+      ❌ Incorrecto.
+      
+    - = CALC(E2:E53)
+    
+      ❌ Incorrecto.
+
+
+**Escenario 1, continuación**
+
+Después de familiarizarte con el proyecto y los datos disponibles, presentas tu enfoque a tu supervisor. Proporcionas un alcance del trabajo, que incluye detalles importantes, un cronograma e información sobre cómo planificas preparar y validar los datos. También compartes algunos de tus resultados iniciales y el gráfico circular que creaste. 
+
+Además, identificas el tipo de problema, o dominio, del proyecto de análisis de datos. Determinas que los datos de ventas históricas se pueden utilizar para proporcionar información sobre los tipos de libros que se venderán mejor durante el Mes de la Historia de la Mujer el próximo año. Esto también te permitirá determinar si Athena’s Story debe empezar a vender más literatura infantil y revistas feministas.
+
+5. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de cómo identificar temas.
+
+    - Verdadero.
+    
+      ❌ Incorrecto.
+  
+    - Falso.
+    
+      ✅ Correcto. El uso de datos históricos para tomar decisiones fundamentadas sobre cómo pueden ser las cosas en el futuro es un ejemplo de cómo hacer predicciones. 
+
+
+Como has aprendido en este curso, los interesados son personas que invierten tiempo, intereses y recursos en los proyectos en los que trabajarás como analista de datos. Los interesados secundarios también suelen ser responsables de gestionar los datos.
+
+![image](./img/module%2004%20img%2016.png)
+
+6. Según lo que encuentres en el organigrama, si necesitas información de los interesados principales, ¿a quién le puedes preguntar?
+
+    - Vicepresidenta, datos y estrategia
+    
+      ✅ Correcto. Si necesitas información de los interesados principales, puedes preguntarle a la vicepresidenta de datos y estrategia. 
+  
+    - Director, estrategia
+    
+      ❌ Incorrecto.
+    
+    - Gerente de proyectos, análisis
+    
+      ❌ Incorrecto.
+      
+    - Director ejecutivo
+    
+      ❌ Incorrecto.
+
+
+A continuación, la vicepresidenta quiere conocer cuánto sabes sobre cómo hacer preguntas efectivas. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+7. Supongamos que acabamos de terminar un gran evento para un cliente y queríamos saber si estaba satisfecho con su experiencia. Proporciona algunos ejemplos de preguntas medibles que podrías incluir en la encuesta de retroalimentación de los clientes.
+
+    - ¿Por qué disfrutaste del evento que organizó Patel Events Plus?
+    
+      ❌ Incorrecto. 
+  
+    - ¿Cómo describirías la experiencia de tu evento?
+    
+      ❌ Incorrecto.
+    
+    - ¿Recomendarías Patel Events Plus a un compañero o amigo? ¿Sí o no?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir una escala del 1 al 5 o preguntas con respuestas de sí o no.
+      
+    - En una escala del 1 al 5, en la que 1 significa “poco probable” y 5 significa “muy probable”, ¿qué probabilidades hay de que recomiendes Patel Events Plus?
+    
+      ✅ Correcto. En la metodología SMART, las preguntas medibles se pueden cuantificar y evaluar. Esto podría incluir una escala del 1 al 5 o preguntas con respuestas de sí o no.
+
+
+Ahora, la vicepresidenta presenta una situación que tiene que ver con la resolución de desafíos y el cumplimiento de las expectativas de los interesados. Considera y responde la siguiente pregunta.
+
+8. Estás trabajando en un proyecto urgente y descubres que tu conjunto de datos no está limpio. A pesar de que tiene varios nulos, datos redundantes y otros problemas, los interesados principales insisten en que sigas adelante y lo uses de todos modos. El plazo del proyecto es tan ajustado que simplemente no hay tiempo suficiente para la limpieza. ¿Cómo manejarías esa situación?
+
+    - Limpias los datos lo más rápido que puedes. No están perfectos, pero están mejor de lo que estaban antes, y así puedes cumplir con la fecha límite.
+    
+      ❌ Incorrecto.
+  
+    - Comunicas la situación a tu supervisor y pides consejos sobre cómo manejar esto con los interesados.
+    
+      ✅ Correcto. Esta situación presenta una oportunidad para comunicarse, colaborar y fomentar relaciones laborales positivas.
+    
+    - Te comunicas con el jefe de los interesados para informarle sobre el problema y pedir ayuda a fin de gestionar las expectativas de los interesados.
+
+      ❌ Incorrecto. 
+      
+    - Están a cargo los interesados. Es mejor hacer lo que dicen y usar el conjunto de datos sucio.
+    
+      ❌ Incorrecto.
+
+
+La siguiente pregunta de la entrevista trata sobre compartir información con los interesados. Considera y responde la siguiente pregunta. Selecciona todas las opciones correctas.
+
+9. Supongamos que creaste un informe para presentar información sobre un próximo evento a los interesados. Describe las ventajas de utilizar un informe.
+
+    - Los paneles ofrecen control de los datos entrantes en tiempo real.
+    
+      ❌ Incorrecto.
+  
+    - Los informes reflejan los datos que ya se han limpiado y ordenado. 
+    
+      ✅ Correcto. Los informes proporcionan un panorama de los datos históricos de alto nivel y reflejan los datos que ya se han limpiado y ordenado. 
+    
+    - Los paneles permiten a los interesados interactuar con los datos.
+    
+      ❌ Incorrecto.
+      
+    - Los informes proporcionan un panorama de los datos históricos de alto nivel.
+    
+      ✅ Correcto. Los informes proporcionan un panorama de los datos históricos de alto nivel y reflejan los datos que ya se han limpiado y ordenado. 
+
+
+La última pregunta conductual de la entrevista incluye el uso de métricas para responder preguntas de negocios. La entrevistadora te entrega una copia de un conjunto de datos de Patel Events. 
+
+10. Si te pidiéramos que compararas el precio de compra (costo) y la ganancia neta, ¿qué estarías calculando?
+
+    - Tasa de ocupación
+    
+      ❌ Incorrecto. 
+  
+    - Objetivo medible
+    
+      ❌ Incorrecto.
+    
+    - Números de las ventas
+    
+      ❌ Incorrecto. 
+      
+    - Retorno de la inversión
+    
+      ✅ Correcto. El retorno de la inversión se compone de dos métricas: la ganancia neta durante un período de tiempo y el costo de la inversión. Al comparar estas dos métricas, puedes determinar la rentabilidad de la inversión.
+
+### ¡Felicitaciones! 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Ahora que has terminado, estás oficialmente listo para realizar el próximo curso. Excelente trabajo. Pero antes de decirte lo que viene a continuación, tomémonos un momento para pensar en lo que hemos cubierto hasta ahora en el primer paso del proceso de análisis de datos. En este curso, exploramos preguntas eficaces y aprendimos a usar los datos cuantitativos y cualitativos, las métricas y las matemáticas para conectar los puntos. También cubrimos los conceptos básicos de las hojas de cálculo, cómo aplicar el pensamiento estructurado y las habilidades de comunicación clave para trabajar con los interesados y los miembros del equipo. ¡Eso es mucho! Ahora es momento de llevar lo que has aprendido al siguiente curso, donde abordarás el próximo paso del proceso de análisis de datos, preparar los datos. Hallie va a hacerse cargo a partir de aquí. 
+
+¡Es posible que la recuerdes del inicio del primer curso! Ella te guiará mientras conoces nuevas herramientas importantes para tu trabajo, como los tipos de datos y las estructuras de datos, el sesgo y la credibilidad en los análisis, las bases de datos, a organizar y proteger tus datos, y la comunidad de datos. Gracias por acompañarme durante este curso. Cuando estés listo, puedes pasar al primer video del próximo curso. Buena suerte. Lo harás fantástico.
+
+### Proximamente... 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+¡Felicitaciones por haber completado el segundo curso del Certificado de Análisis de Datos de Google!
+
+Para que continuar con el programa sea más fácil, haz clic en este enlace y ve al siguiente curso: 
+[Prepara datos para la exploración.](https://www.coursera.org/learn/preparar-datos-para-la-exploracion/home/week/1)
+
+Buen trabajo. ¡Sigue así!       
