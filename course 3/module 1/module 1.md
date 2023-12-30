@@ -43,7 +43,9 @@ Imagínate esto: Te encuentras trabajando en un proyecto. Ya has formulado todas
 
 Ahora van a aprender más acerca de los datos que necesitan para contar la mejor historia posible. Pero antes de eso, quiero contarles mi historia. Utilizo el análisis computacional de datos para ayudar a las empresas de salud a desarrollar soluciones de marketing digital que robustezcan a las empresas y a sus marcas comerciales. Mi equipo y yo buscamos empresas y oportunidades en los medios de comunicación basadas en las informaciones más recientes de la industria y los datos. He trabajado en el área de salud por unos cinco años y es maravilloso. Realmente disfruto de poder utilizar los datos para iniciar un cambio en una industria tan importante. Como descubrirás en este curso, los datos pueden ser el personaje principal en una historia muy poderosa. Realmente amo utilizar el análisis para contar la historia de un modo convincente e informativo.
 
-Aquí tenemos un ejemplo de la vida real sobre cómo he utilizado los datos para contar una historia. En mi trabajo, analizamos los datos de afiliación a Medicare a través del tiempo y realizamos conexiones sobre cómo las personas buscan los planes de Medicare en Google. Las personas de 65 años de edad o más se convierten en decisores informados en cuanto a su salud, entonces yo utilizo los datos para saber si existe un incremento en las afiliaciones a Medicare y qué rol juegan las búsquedas en Google si hay un incremento en la demanda. Es muy importante que me asegure de que los datos sean importantes y válidos. También hay que prestar atención a las preguntas acerca del acceso y equidad mientras se respeta la privacidad de los que realizan las búsquedas. El final feliz de mi historia es que los datos en mis hallazgos son útiles para los profesionales médicos y sus pacientes. Existen muchos datos útiles disponibles y estás desarrollando las habilidades necesarias para encontrar y utilizar los datos correctos de la mejor forma posible. En este curso, continuarás afinando esas habilidades. De modo que ya escuchaste mucho acerca de los pasos del proceso del análisis de datos: preguntar, preparar, procesar, analizar, compartir y actuar. Ahora, es momento de aprender cómo preparar los datos. Aprenderás a identificar cómo se generan y se recolectan los datos y explorarás diferentes formatos, tipos y estructuras de datos. Nos aseguraremos de que sepas cómo elegir y utilizar los datos que te ayudarán a comprender y responder a un problema empresarial. Y como no todos los datos satisfacen cada necesidad, aprenderás cómo analizar los datos para buscar el sesgo y la credibilidad. También exploraremos qué significa datos limpios. Pero espera, hay más. También tendrás un acercamiento personal a las bases de datos. Hablaremos sobre qué son y cómo las utilizan los analistas. Hasta podrás extraer tus propios datos de una base de datos utilizando un par de herramientas con las que ya estás familiarizado: hojas de cálculo y SQL.
+Aquí tenemos un ejemplo de la vida real sobre cómo he utilizado los datos para contar una historia. En mi trabajo, analizamos los datos de afiliación a Medicare a través del tiempo y realizamos conexiones sobre cómo las personas buscan los planes de Medicare en Google. Las personas de 65 años de edad o más se convierten en decisores informados en cuanto a su salud, entonces yo utilizo los datos para saber si existe un incremento en las afiliaciones a Medicare y qué rol juegan las búsquedas en Google si hay un incremento en la demanda. Es muy importante que me asegure de que los datos sean importantes y válidos. También hay que prestar atención a las preguntas acerca del acceso y equidad mientras se respeta la privacidad de los que realizan las búsquedas. El final feliz de mi historia es que los datos en mis hallazgos son útiles para los profesionales médicos y sus pacientes. Existen muchos datos útiles disponibles y estás desarrollando las habilidades necesarias para encontrar y utilizar los datos correctos de la mejor forma posible. 
+
+En este curso, continuarás afinando esas habilidades. De modo que ya escuchaste mucho acerca de los pasos del proceso del análisis de datos: **preguntar, preparar, procesar, analizar, compartir y actuar**. Ahora, es momento de aprender cómo **preparar los datos**. Aprenderás a identificar cómo se generan y se recolectan los datos y explorarás diferentes formatos, tipos y estructuras de datos. Nos aseguraremos de que sepas cómo elegir y utilizar los datos que te ayudarán a comprender y responder a un problema empresarial. Y como no todos los datos satisfacen cada necesidad, aprenderás cómo analizar los datos para buscar el sesgo y la credibilidad. También exploraremos qué significa datos limpios. Pero espera, hay más. También tendrás un acercamiento personal a las bases de datos. Hablaremos sobre qué son y cómo las utilizan los analistas. Hasta podrás extraer tus propios datos de una base de datos utilizando un par de herramientas con las que ya estás familiarizado: hojas de cálculo y SQL.
 
 La clave aquí es la paciencia. Como todo lo que vale la pena hacer, esto toma tiempo y práctica. Y estaré contigo en cada paso del camino. ¿Me sigues? Excelente. Las últimas pocas cosas de las que hablaremos son las bases de la organización de datos y el proceso de protección de datos. Los datos funcionan mejor cuando están organizados. Y si estás organizando tus datos, querrás protegerlos. Te mostraré cómo hacer ambas cosas y aplicarlo a tu propio análisis. Me complace mucho ayudarte a escribir tu propia historia personal a medida que continuamos explorando el mundo del análisis computacional de datos. Así que, manos a la obra.
 
@@ -51,6 +53,29 @@ La clave aquí es la paciencia. Como todo lo que vale la pena hacer, esto toma t
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+¡Bienvenido al tercer curso del Certificado de análisis computacional de datos de Google! Hasta ahora, te has introducido en el campo del análisis computacional de datos y has descubierto cómo los analistas de datos pueden utilizar sus habilidades para responder a preguntas de negocio. 
+
+Como analista de datos, debes ser un experto en estructurar, extraer y asegurarte de que los datos con los que trabajas son confiables. Para ello, siempre es mejor desarrollar una idea general de cómo se generan y recogen todos los datos, ya que cada organización estructura los datos de forma diferente. Así, sea cual sea la estructura de datos a la que te enfrentes en tu nuevo puesto, te sentirás seguro trabajando con ella.  
+
+Pronto descubrirás que cuando se extraen los datos, no son perfectos. Pueden ser sesgados en lugar de creíbles, o estar sucios en lugar de depurados. Tu objetivo es aprender a analizar los datos en busca de sesgos y credibilidad y entender lo que significan los datos depurados. También te acercarás a las bases de datos e incluso podrás extraer tus propios datos de una base de datos utilizando hojas de cálculo y SQL. Los últimos temas tratados son los fundamentos de la organización de datos y el proceso de protección de ellos. 
+
+Además, aprenderás a identificar los diferentes tipos de datos que pueden utilizarse para entender y responder a un problema empresarial. En esta parte del programa, explorarás diferentes tipos de datos y estructuras de datos. Y lo mejor de todo es que seguirás ampliando tu caja de herramientas de analista de datos. Desde la extracción y el uso de datos, hasta su organización y protección, estas habilidades clave te serán útiles independientemente de lo que hagas en tu carrera como analista de datos.
+
+**Contenido del curso**
+
+Curso 3 – Preparar datos para la exploración
+
+- Entender los tipos y las estructuras de datos: Todos generamos muchos datos en nuestra vida cotidiana. En esta parte del curso, comprobarás cómo generamos datos y cómo los analistas deciden qué datos recoger para su análisis. También aprenderás sobre los datos estructurados y no estructurados, los tipos de datos y los formatos de datos mientras empiezas a pensar en cómo preparar tus datos para la exploración.
+
+- Entender el sesgo, la credibilidad, la privacidad, la ética y el acceso: Cuando los analistas de datos trabajan con datos, siempre verifican que los datos sean imparciales y creíbles. En esta parte del curso, aprenderás cómo identificar distintos tipos de sesgos en los datos y cómo garantizar la credibilidad de tus datos. También explorarás los datos abiertos y la relación que existe entre la importancia de la ética de datos y la privacidad de datos.
+
+- Bases de datos: Donde viven los datos: Cuando analices datos, accederás a gran parte de los datos de una base de datos. Es donde viven los datos. En esta parte del curso, aprenderás todo sobre las bases de datos, incluso la forma de acceder a ellas y de extraer, filtrar y ordenar los datos que contienen. También le echarás un vistazo a los metadatos para descubrir los diferentes tipos y cómo los usan los analistas.
+
+- Organizar y proteger tus datos: Tener un buen nivel de organización es una parte importante de la mayoría de los trabajos, y el análisis computacional de datos no es diferente. En esta parte del curso, aprenderás las prácticas recomendadas para organizar los datos y mantenerlos seguros. También aprenderás cómo los analistas usan las convenciones de nomenclatura de archivos para poder mantener su trabajo organizado.
+
+- Participar en la comunidad de datos (opcional): Tener una fuerte presencia en línea puede ser de gran ayuda para los solicitantes de empleo de todo tipo. En esta parte del curso, explorarás cómo gestionar tu presencia en línea. También descubrirás los beneficios de la creación de redes con otros profesionales del análisis computacional de datos.
+
+- Completar el Desafío del curso: Al final de este curso, podrás poner en práctica todo lo que has aprendido con el Desafío del curso. El Desafío del curso te hará preguntas sobre los conceptos clave y luego te dará la oportunidad de ponerlos en práctica a través de dos escenarios.
 
 ### Datos fascinantes 🎬
 
@@ -68,17 +93,405 @@ Pero realmente, el lado creativo es algo que solo se consigue con la experiencia
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-15%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+##### Lo que aprenderás:
 
-### Decidir si tomar la vía rapida 📖
+- Roles y responsabilidades en la vida real de un analista de datos junior
+- Cómo las empresas transforman datos en ideas viables
+- Conceptos básicos sobre las hojas de cálculo
+- Conceptos básicos sobre bases de datos y consultas
+- Conceptos básicos sobre visualización de datos
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+##### Conjuntos de habilidades que desarrollarás:
 
+- Uso de datos en la vida cotidiana
+- Pensamiento analítico
+- Aplicación de herramientas del kit de herramientas del análisis computacional de datos
+- Exhibición de tendencias y patrones con las visualizaciones de datos
+- Cómo asegurarte de que tu análisis de datos sea justo
+
+#### Preguntar
+
+##### Lo que aprenderás:
+
+- Cómo los analistas de datos resuelven problemas con los datos
+- El uso del análisis para tomar decisiones basadas en datos
+- Fórmulas y funciones de las hojas de cálculo
+- Conceptos básicos sobre el panel, que incluyen una introducción a Tableau
+- Conceptos básicos sobre informes de datos
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Formular preguntas SMART y efectivas
+- Estructurar tus pensamientos
+- Resumen de datos
+- Contextualizar cada cosa
+- Gestionar las expectativas del equipo y los interesados
+- Resolución de problemas y conflictos
+
+#### Preparar
+
+##### Lo que aprenderás:
+
+- Cómo se generan los datos
+- Características de diferentes tipos, campos y valores de datos
+- Estructuras de las bases de datos
+- La función de los metadatos en el análisis computacional de datos
+- Funciones del Lenguaje de consulta estructurado (SQL)
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Garantizar el uso de prácticas éticas en el análisis de datos
+- Abordar los problemas de sesgo y credibilidad
+- Acceso a bases de datos e importación de datos
+- Escribir consultas sencillas
+- Organización y protección de los datos
+- Conectarse con la comunidad de datos (opcional)
+
+#### Procesar
+
+##### Lo que aprenderás:
+
+- Integridad de datos y la importancia de la limpieza de los datos
+- Las herramientas y los procesos utilizados por los analistas de datos para limpiar datos
+- Verificación e informes de la limpieza de datos
+- Estadística, comprobación de hipótesis y margen de error
+- Armado de currículum e interpretación de ofertas de empleo (opcional)
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Conectar los objetivos de negocios con el análisis de datos
+- Identificar datos limpios y sucios
+- Limpiar pequeños conjuntos de datos mediante el uso de las herramientas de hojas de cálculo
+- Limpiar grandes conjuntos de datos mediante la escritura de consultas SQL
+- Documentar los procesos de limpieza de datos
+
+#### Analizar
+
+##### Lo que aprenderás:
+
+- Pasos que realizan los analistas de datos para organizar los datos
+- Cómo combinar datos de varias fuentes
+- Cálculos y tablas dinámicas de las hojas de datos
+- Cálculos en SQL
+- Tablas temporales
+- Validación de datos
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Ordenación de datos en hojas de cálculo y mediante la escritura de consultas SQL
+- Filtrado de datos en hojas de cálculo y mediante la escritura de consultas SQL
+- Convertir datos
+- Formatear datos
+- Corroborar los procesos de análisis de datos
+- Obtener comentarios y apoyo de terceros durante el análisis de datos
+
+#### Compartir
+
+##### Lo que aprenderás:
+
+- Design Thinking
+- Cómo los analistas de datos utilizan visualizaciones para comunicar los datos
+- Los beneficios de Tableau para presentar las conclusiones del análisis de datos
+- Narración basada en datos
+- Paneles y filtros de panel
+- Estrategias para crear una presentación de datos efectiva
+
+##### Conjuntos de habilidades que desarrollarás:
+
+- Creación de visualizaciones y paneles en Tableau
+- Abordaje de problemas de accesibilidad al comunicar los datos
+- Entender el propósito de diferentes herramientas de comunicación empresarial
+- Narrar una historia basada en datos
+- Realizar una presentación relacionada con los datos a terceros
+- Responder preguntas sobre datos
+
+#### Actuar
+
+Lo que aprenderás:
+
+- Programación de lenguajes y entornos
+- Paquetes de R
+- Funciones de R, variables, tipos de datos, tuberías y vectores
+- Marcos de datos de R
+- El sesgo y la credibilidad en R
+- Herramientas de visualización de R
+- R Markdown para documentar, generar estructura y dar énfasis
+
+Conjuntos de habilidades que desarrollarás:
+
+- Codificación en R
+- Escribir funciones en R
+- Acceder a datos en R
+- Limpiar datos en R
+- Crear visualizaciones de datos en R
+- Informar sobre análisis de datos a los interesados
+
+#### Proyecto final
+
+Lo que aprenderás:
+
+- Cómo un portfolio de análisis de datos te distingue de otros candidatos
+- Resolución de problemas práctica y realista
+- Estrategias para sacar conclusiones a partir de los datos
+- Presentación clara de las conclusiones relacionadas con los datos
+- Motivación y capacidad para tomar la iniciativa
+
+Conjuntos de habilidades que desarrollarás:
+
+- La creación de un portfolio
+- Aumentar tu empleabilidad
+- Resaltar tus conocimientos en análisis computacional de datos, destrezas y experiencia técnica
+- Compartir tu trabajo durante una entrevista
+- Comunicar tu propuesta de valor única a un empleador potencial
+
+#### Preguntas
+
+¿Qué herramientas o plataformas se abordan en el plan de estudios?
+Hojas de cálculo, SQL, herramientas de presentación, Tableau, RStudio y Kaggle.
+
+¿Enseñarán R o Python?
+En este programa se enseña el lenguaje de programación de código abierto, R, que es excelente para el análisis de datos básicos y ofrece paquetes útiles para que los principiantes se postulen a sus proyectos. No abordamos Python en el plan de estudios.
 
 ### Cuestionario de diagnóstico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Opcional: ¿conoces el analisis computacional de datos? 
+
+Vía rápida opcional para aquellos con experiencia en análisis computacional de datos
+
+El Certificado de análisis computacional de datos de Google proporciona instrucciones y comentarios para los alumnos que esperan obtener un puesto como analista de datos de nivel básico. Si bien muchos alumnos serán completamente nuevos en el mundo del análisis computacional de datos, es probable que otros estén familiarizados con el campo y simplemente quieran repasar ciertas habilidades.
+
+Si crees que este curso será principalmente un repaso para ti, te recomendamos que realices este cuestionario de diagnóstico de práctica. Te permitirá determinar si debes seguir la vía rápida, que es una oportunidad para continuar con el Curso 4 después de realizar cada uno de los desafíos semanales del Curso 3 y el Desafío general. Los alumnos que obtengan una puntuación del 100% en el cuestionario de diagnóstico pueden considerar los videos, las lecturas y las actividades del Curso 3 como opcionales. Los alumnos que sigan la vía rápida igual podrán obtener el certificado. 
+
+¡Prepárate para dar el siguiente paso en tu camino hacia el análisis computacional de datos con la siguiente pregunta! 
+
+1. Un analista de datos de una empresa de construcción está trabajando en un informe con un plazo de entrega muy próximo. ¿Por qué podrían optar por analizar solo los datos históricos?
+
+    - Les gustan las referencias históricas.
+    
+      ❌ Incorrecto. 
+  
+    - Los datos cambian constantemente.
+    
+      ❌ Incorrecto.
+    
+    - El proyecto tiene un plazo muy corto.
+    
+      ✅ Correcto. Analizarían solo los datos históricos porque el proyecto tiene un marco temporal muy corto.
+      
+    - Los datos son difíciles de predecir.
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuáles son los beneficios del modelado de datos? Selecciona todas las opciones que correspondan.
+
+    - Mantiene la uniformidad de los datos
+    
+      ✅ Correcto. El modelado de datos mantiene la uniformidad de los datos, proporciona un mapa de cómo se organizan los datos y facilita su comprensión. El modelado de datos es el proceso de creación de un modelo que se utiliza para organizar los elementos de datos y cómo se relacionan entre sí. 
+  
+    - Facilita la comprensión de los datos
+    
+      ✅ Correcto. El modelado de datos mantiene la uniformidad de los datos, proporciona un mapa de cómo se organizan los datos y facilita su comprensión. El modelado de datos es el proceso de creación de un modelo que se utiliza para organizar los elementos de datos y cómo se relacionan entre sí.
+    
+    - Asegura los datos para uso futuro
+    
+      ❌ Incorrecto.
+      
+    - Brinda un mapa de cómo se organizan esos datos.
+    
+      ✅ Correcto. El modelado de datos mantiene la uniformidad de los datos, proporciona un mapa de cómo se organizan los datos y facilita su comprensión. El modelado de datos es el proceso de creación de un modelo que se utiliza para organizar los elementos de datos y cómo se relacionan entre sí.
+
+
+3. Un grupo de estudiantes de secundaria realiza una encuesta en la que se pregunta: “¿Estás en un equipo deportivo? Por favor, responde sí o no”. ¿Qué tipo de datos se están recogiendo?
+
+    - Visuales
+    
+      ❌ Incorrecto. 
+  
+    - Cadena
+    
+      ❌ Incorrecto.
+    
+    - Números
+    
+      ❌ Incorrecto.
+      
+    - Booleanos
+    
+      ✅ Correcto. 
+
+
+4. Un analista de datos está evaluando datos para determinar si son de calidad o erróneos. ¿Qué cualidades caracterizan a los datos de calidad? Selecciona todas las opciones que correspondan. 
+
+    - Son consecuentes
+    
+      ❌ Incorrecto. 
+  
+    - Están actualizados 
+    
+      ✅ Correcto. Los datos de calidad son completos, están vigentes y se citan. 
+    
+    - Integrales 
+    
+      ✅ Correcto. Los datos de calidad son completos, están vigentes y se citan. 
+      
+    - Se citan 
+    
+      ✅ Correcto. Los datos de calidad son completos, están vigentes y se citan. 
+
+
+5. Imagina que una empresa utiliza tus datos personales como parte de una transacción financiera. Antes de que esto ocurra, no conoces la naturaleza ni la magnitud de esta transacción. ¿Qué concepto de ética de los datos infringe esto?
+
+    - Apertura 
+    
+      ❌ Incorrecto. 
+  
+    - Consentimiento
+    
+      ❌ Incorrecto.
+    
+    - Vigencia
+    
+      ✅ Correcto. Esta situación infringe el concepto de vigencia. El concepto de vigencia de la ética de los datos establece que las personas deben ser conscientes de las transacciones financieras resultantes del uso de sus datos personales y de la magnitud de estas transacciones.
+      
+    - Transparencia de la transacción
+    
+      ❌ Incorrecto.
+
+
+6. ¿Cuáles de las siguientes son las protecciones que ofrece la privacidad de los datos? Selecciona todas las opciones que correspondan.
+
+    - Ofrecer a los usuarios el derecho a inspeccionar, actualizar o corregir sus propios datos
+    
+      ✅ Correcto. Las protecciones de la privacidad de los datos incluyen la preservación de la información y la actividad del sujeto en todas las transacciones de datos. También incluyen el derecho de los usuarios a inspeccionar, actualizar y corregir sus propios datos. 
+  
+    - Preservar la información y la actividad de datos del sujeto en todas las transacciones de datos
+    
+      ✅ Correcto. Las protecciones de la privacidad de los datos incluyen la preservación de la información y la actividad del sujeto en todas las transacciones de datos. También incluyen el derecho de los usuarios a inspeccionar, actualizar y corregir sus propios datos.
+    
+    - Proporcionar a los usuarios el derecho a acceder, utilizar y compartir libremente los datos
+    
+      ❌ Incorrecto.
+      
+    - Aplicar las normas de lo correcto y lo incorrecto a la gestión y el uso de los datos
+    
+      ❌ Incorrecto.
+
+
+7. Cuáles de los siguientes son usos de las bases de datos relacionales? Selecciona todas las opciones que correspondan.
+
+    - Mantener la uniformidad de los datos independientemente del lugar de acceso
+    
+      ✅ Correcto. Las bases de datos relacionales se utilizan para contener y describir una serie de tablas que pueden conectarse para formar relaciones. También presentan la misma información a cada colaborador manteniendo la consistencia de los datos independientemente del lugar desde el que se accede a ellos. 
+  
+    - Contener y describir una serie de tablas que pueden conectarse para formar relaciones
+    
+      ✅ Correcto. Las bases de datos relacionales se utilizan para contener y describir una serie de tablas que pueden conectarse para formar relaciones. También presentan la misma información a cada colaborador manteniendo la consistencia de los datos independientemente del lugar desde el que se accede a ellos.
+    
+    - Organizar los datos numéricos en función de la escala relativa
+    
+      ❌ Incorrecto. 
+      
+    - Presentar la misma información a cada colaborador
+    
+      ✅ Correcto. Las bases de datos relacionales se utilizan para contener y describir una serie de tablas que pueden conectarse para formar relaciones. También presentan la misma información a cada colaborador manteniendo la consistencia de los datos independientemente del lugar desde el que se accede a ellos.
+
+
+8. ¿Qué afirmaciones definen las claves primarias y las claves externas y describen su relación? Selecciona todas las opciones que correspondan.
+
+    - Las claves primaria y externa son dos identificadores conectados dentro de tablas separadas en una base de datos relacional.
+    
+      ✅ Correcto. Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. Las claves primaria y externa son dos identificadores conectados dentro de tablas separadas en una base de datos relacional.
+  
+    - Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. 
+    
+      ✅ Correcto. Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. Las claves primaria y externa son dos identificadores conectados dentro de tablas separadas en una base de datos relacional.
+    
+    - Una clave primaria es una tabla que contiene datos de observación, y una clave externa es una tabla que contiene los resultados del análisis de la clave primaria.
+    
+      ❌ Incorrecto.
+      
+    - Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único.
+    
+      ✅ Correcto. Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. Las claves primaria y externa son dos identificadores conectados dentro de tablas separadas en una base de datos relacional.
+
+
+9. ¿Qué tareas pueden realizar los analistas de datos utilizando los metadatos? Selecciona todas las opciones que correspondan.
+
+    - Realizar análisis de datos
+    
+      ❌ Incorrecto. 
+  
+    - Combinar datos de más de una fuente
+    
+      ✅ Correcto. Los analistas de datos utilizan los metadatos para combinar datos, evaluar datos e interpretar una base de datos. Los metadatos son datos sobre datos; en la gestión de bases de datos, ayudan a los analistas de datos a entender el contenido de los datos dentro de una base de datos.
+    
+    - Evaluar la calidad de los datos
+    
+      ✅ Correcto. Los analistas de datos utilizan los metadatos para combinar datos, evaluar datos e interpretar una base de datos. Los metadatos son datos sobre datos; en la gestión de bases de datos, ayudan a los analistas de datos a entender el contenido de los datos dentro de una base de datos.
+      
+    - Interpretar el contenido de una base de datos
+    
+      ✅ Correcto. Los analistas de datos utilizan los metadatos para combinar datos, evaluar datos e interpretar una base de datos. Los metadatos son datos sobre datos; en la gestión de bases de datos, ayudan a los analistas de datos a entender el contenido de los datos dentro de una base de datos.
+
+
+10. Un analista de datos revisa una hoja de cálculo de ventas de subastas de barcos para encontrar los últimos cinco veleros vendidos en Kentucky. ¿Qué medidas tomaría para reducir el alcance? Selecciona todas las opciones que correspondan. 
+
+    - Filtrar las ventas fuera de Kentucky
+    
+      ✅ Correcto. El analista puede filtrar las visualizaciones fuera de Kentucky y ordenarlas por fecha en orden descendente. 
+  
+    - Ordenar por fecha en orden descendente
+    
+      ✅ Correcto. El analista puede filtrar las visualizaciones fuera de Kentucky y ordenarlas por fecha en orden descendente. 
+    
+    - Ordenar por fecha en orden ascendente
+    
+      ❌ Incorrecto.
+      
+    - Filtrar las ventas en Kentucky
+    
+      ❌ Incorrecto.
+
+
+11. Estás escribiendo una consulta SQL para filtrar datos de una base de datos que describe árboles en Omaha, Nebraska. Quieres que sólo se muestren las entradas de los árboles que tienen un diámetro de 30 pulgadas. El nombre de la tabla que estás utilizando es Nebraska_trees y el nombre de la columna que muestra los diámetros de los árboles es trunk_diameter. ¿Cuál es la sintaxis de consulta correcta que recuperará y filtrará los datos de esta tabla? 
+
+    - SELECT * FROM trunk_diameter WHERE Nebraska_trees = 30
+    
+      ❌ Incorrecto. 
+  
+    - SELECT * FROM Nebraska_trees WHERE trunk_diameter = 30
+    
+      ✅ Correcto. La consulta correcta es SELECT * FROM Nebraska_trees WHERE trunk_diameter = 30.
+    
+    - SELECT Nebraska_trees WHERE trunk_diameter = 30
+    
+      ❌ Incorrecto.
+      
+    - SELECT trunk_diameter = 30 FROM Nebraska_trees
+    
+      ❌ Incorrecto.
+
+
+12. ¿Qué propiedades de un archivo describen las convenciones de nomenclatura coherentes? Selecciona todas las opciones que correspondan.
+
+    - Versión
+    
+      ✅ Correcto. Las convenciones de nomenclatura coherentes describen el contenido, la fecha de creación y la versión de un archivo.
+  
+    - Contenido
+    
+      ✅ Correcto. Las convenciones de nomenclatura coherentes describen el contenido, la fecha de creación y la versión de un archivo.
+    
+    - Ubicación del archivo
+    
+      ❌ Incorrecto. 
+      
+    - Fecha de creación
+    
+      ✅ Correcto. Las convenciones de nomenclatura coherentes describen el contenido, la fecha de creación y la versión de un archivo.
 
 
 ---
