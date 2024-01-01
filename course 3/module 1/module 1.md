@@ -517,7 +517,9 @@ Lo mejor acerca de esto es que otros pueden utilizar los datos para sus propias 
 
 Existen todo tipos de datos que se generan todo el tiempo, y existen muchos modos diferentes de recolectarlos. Incluso algo tan simple como una entrevista puede ayudar a alguien a recolectar datos. Imagínate que estás en una entrevista de trabajo. Para impresionar al gerente de contrataciones, quieres compartir información acerca de ti mismo. El gerente de contrataciones recolecta los datos y los analiza para que lo ayuden a decidir si te contratará o no. Es un camino de ida y vuelta. Tú también recolectas tus propios datos acerca de la empresa para que te ayude a decidir si es la empresa que mejor se adapta a tus necesidades. O puedes utilizar los datos recolectados para pensar preguntas más profundas que desees hacerle al entrevistador. Los científicos también generan datos. Utilizan muchas observaciones en su trabajo. Por ejemplo, pueden recolectar datos al estudiar el comportamiento animal u observando bacterias bajo el microscopio. Antes hablamos de los formularios que la Oficina del Censo de los Estados Unidos utiliza para recolectar datos. Formularios, cuestionarios y encuestas son formas usuales de recolectar y generar datos. Una cosa para destacar: los datos que son generados en línea no siempre ocurren directamente. 
 
-¿Alguna vez se han preguntado por qué algunos avisos en línea parecen realizar sugerencias realmente precisas o cómo algunos sitios web recuerdan tus preferencias? Esto se realiza utilizando cookies, que son pequeños archivos guardados en computadoras que contienen información de los usuarios. Las cookies pueden ayudar a informar a los publicitarios acerca de sus intereses personales y sus hábitos basándose en la navegación en línea, sin identificarlos personalmente. Como analista del mundo real, tienes todo tipo de datos justo en la punta de los dedos y son realmente abundantes. Saber cómo se han generado puede ayudar a agregar contexto a los datos, y saber cómo recopilarlos puede hacer que el proceso de análisis de datos sea más eficiente. A continuación, aprenderás cómo decidir qué datos recolectar para tu análisis.
+¿Alguna vez se han preguntado por qué algunos avisos en línea parecen realizar sugerencias realmente precisas o cómo algunos sitios web recuerdan tus preferencias? Esto se realiza utilizando **cookies, que son pequeños archivos guardados en computadoras que contienen información de los usuarios**. Las cookies pueden ayudar a informar a los publicitarios acerca de sus intereses personales y sus hábitos basándose en la navegación en línea, sin identificarlos personalmente. Como analista del mundo real, tienes todo tipo de datos justo en la punta de los dedos y son realmente abundantes. Saber cómo se han generado puede ayudar a agregar contexto a los datos, y saber cómo recopilarlos puede hacer que el proceso de análisis de datos sea más eficiente. A continuación, aprenderás cómo decidir qué datos recolectar para tu análisis.
+
+![image](./img/module%2001%20img%2001.png)
 
 ### Determinar qué datos recoger  🎬
 
@@ -525,27 +527,111 @@ Existen todo tipos de datos que se generan todo el tiempo, y existen muchos modo
 
 Es bueno verte de nuevo. Hemos hablado mucho acerca de los datos que existen en el mundo. Pero como analista de datos, deberás decidir qué tipos de datos recolectar y utilizar para cada proyecto. Con casi una cantidad infinita de datos disponibles, esto puede ser un dilema de datos, pero hay buenas noticias. En este video aprenderás qué factores considerar al recolectar datos. Usualmente, tendrás una ventaja al buscar los datos correctos para el trabajo porque los datos que necesitas te serán dados o tu problema o tarea empresarial hará que tus opciones se reduzcan. Comencemos con una pregunta como ¿qué está causando mayor caudal de vehículos en la hora pico en tu ciudad? Primero, debes saber cómo se recolectan los datos. 
 
-Debes utilizar sus observaciones acerca de los patrones de tráfico para contar la cantidad de autos en las calles de la ciudad durante horas determinadas. Notas que los automóviles se quedan atascados en una calle específica. Esto nos lleva al origen de los datos. En nuestro ejemplo sobre el tráfico, tus observaciones pueden ser datos de primera fuente. Estos datos son recolectados por una persona o por un grupo por medio de sus propios recursos. Recopilar datos de primera fuente es típicamente el método de preferencia porque sabes exactamente de dónde provienen. También puede haber datos de segunda fuente, que son datos recolectados por un grupo directamente de su público y que, luego, se venden. 
+Debes utilizar sus observaciones acerca de los patrones de tráfico para contar la cantidad de autos en las calles de la ciudad durante horas determinadas. Notas que los automóviles se quedan atascados en una calle específica. Esto nos lleva al origen de los datos. En nuestro ejemplo sobre el tráfico, tus observaciones pueden ser datos de primera fuente. Estos datos son recolectados por una persona o por un grupo por medio de sus propios recursos. **Recopilar datos de primera fuente es típicamente el método de preferencia porque sabes exactamente de dónde provienen**. También puede haber **datos de segunda fuente**, que **son datos recolectados por un grupo directamente de su público y que, luego, se venden.** 
 
 En nuestro ejemplo, si no puedes recopilar tus propios datos, puedes comprarlos de alguna organización que haya realizado estudios de patrones de tráfico en tu ciudad. Estos datos no comenzaron contigo, pero aun así son confiables porque provienen de una fuente que tiene experiencia en análisis de tráfico. No se puede decir siempre eso de datos de terceros o datos recolectados de fuentes externas que no los recopilaron directamente. Estos datos pueden provenir de un amplio número de fuentes diferentes antes de que los investigues. Pueden no ser tan confiables, pero no quiere decir que no puedan ser útiles. Quieres asegurarte de controlar su su precisión, sesgo y credibilidad. 
 
 En realidad, no importa qué tipo de datos utilices, deben ser controlados respecto de la precisión y confiabilidad. Aprenderemos más sobre este proceso más tarde. Por ahora, solo recuerda que los datos que elijas deben aplicarse a tus necesidades y deben estar aprobados para su uso. Como analista de datos, es tu trabajo decidir qué datos utilizar y eso significa elegir los datos que puedan ayudarte a encontrar las respuestas que buscas y resolver los problemas sin distraerte con otros datos. 
 
-En nuestro ejemplo sobre el tráfico, los datos financieros probablemente no serían tan útiles, pero los datos existentes acerca de los horarios de alto volumen de tráfico pueden serlo. Muy bien. Ahora hablemos acerca de cuántos datos hay que recopilar. En el análisis computacional de datos, una población se refiere a todos los valores de datos posibles en un cierto conjunto de datos. Si estás analizando datos acerca del tráfico vehicular en una ciudad, tu población sería todos los automóviles en esa área. Pero recopilar datos de toda la población puede ser un gran desafío. Por eso una muestra puede ser útil. Una muestra es una parte de la población que es representativa de la población. Puedes recopilar una muestra de datos acerca de un lugar en la ciudad y analizar el tráfico en ese lugar, o puedes extraer una muestra al azar de todos los datos existentes en la población. La forma de elegir la muestra dependerá de tu proyecto. 
+En nuestro ejemplo sobre el tráfico, los datos financieros probablemente no serían tan útiles, pero los datos existentes acerca de los horarios de alto volumen de tráfico pueden serlo. Muy bien. Ahora hablemos acerca de cuántos datos hay que recopilar. En el análisis computacional de datos, **una población se refiere a todos los valores de datos posibles en un cierto conjunto de datos**. Si estás analizando datos acerca del tráfico vehicular en una ciudad, tu población sería todos los automóviles en esa área. Pero recopilar datos de toda la población puede ser un gran desafío. Por eso una muestra puede ser útil. **Una muestra es una parte de la población que es representativa de la población**. Puedes recopilar una muestra de datos acerca de un lugar en la ciudad y analizar el tráfico en ese lugar, o puedes extraer una muestra al azar de todos los datos existentes en la población. La forma de elegir la muestra dependerá de tu proyecto. 
 
-Cuando recopiles los datos, también querrás asegurarte de elegir el tipo correcto de datos. Para los datos sobre tráfico, el tipo de datos adecuados podrían ser los datos de registro de tráfico archivados en formato de fecha. Las fechas te pueden ayudar a ver qué días de la semana hay más posibilidades de un mayor volumen de tráfico en el futuro. Exploraremos este tema en mayor detalle pronto. Para finalizar, debes determinar lo siguiente: el marco temporal para la recopilación de datos. En nuestro ejemplo, si necesitas una respuesta inmediata, debes utilizar los datos históricos, es decir datos preexistentes. Pero digamos que debes rastrear los patrones de tráfico en un período de tiempo extenso. Esto puede afectar las otras decisiones que tomes durante la recolección de datos. 
+Cuando recopiles los datos, también querrás asegurarte de elegir el tipo correcto de datos. Para los datos sobre tráfico, el tipo de datos adecuados podrían ser los datos de registro de tráfico archivados en formato de fecha. Las fechas te pueden ayudar a ver qué días de la semana hay más posibilidades de un mayor volumen de tráfico en el futuro. Exploraremos este tema en mayor detalle pronto. Para finalizar, debes determinar lo siguiente: **el marco temporal** para la recopilación de datos. En nuestro ejemplo, si necesitas una respuesta inmediata, debes utilizar los datos históricos, es decir datos preexistentes. Pero digamos que debes rastrear los patrones de tráfico en un período de tiempo extenso. Esto puede afectar las otras decisiones que tomes durante la recolección de datos. 
 
 Ahora sabes más sobre las diferentes consideraciones sobre la recopilación de datos que utilizarás como analistas de datos, Debido a ello, podrás encontrar los datos correctos cuando comiences a recopilarlos por ti mismo. Y todavía hay más para aprender acerca de la recopilación de datos, así que mantente en sintonía.
 
-### Programa del curso 📖
+![image](./img/module%2001%20img%2002.png)
+
+![image](./img/module%2001%20img%2003.png)
+
+### Seleccionar los datos adecuados 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+A continuación se exponen algunas consideraciones sobre la recopilación de datos que hay que tener en cuenta para el análisis:
+
+#### Cómo se recogerán los datos
+
+Decide si vas a recopilar los datos con tus propios recursos o si los vas a recibir (y posiblemente comprar) de otra parte. Los datos que tú mismo recoges se denominan datos de primera fuente.
+
+#### Fuentes de datos
+
+Si no recoges los datos con tus propios recursos, puedes obtenerlos de proveedores de datos de segunda mano o de terceros. Los datos de segunda fuente son recogidos directamente por otro grupo y luego vendidos. Los datos de terceros son vendidos por un proveedor que no ha recogido los datos por sí mismo. Los datos de terceros pueden proceder de distintas fuentes.
+
+#### Resolver el problema empresarial
+
+Los conjuntos de datos pueden mostrar mucha información interesante. Pero asegúrate de elegir datos que realmente puedan ayudar a resolver tu problema. Por ejemplo, si estás analizando tendencias a lo largo del tiempo, asegúrate de utilizar datos de series temporales, es decir, datos que incluyan fechas.
+
+#### Cuántos datos hay que recoger
+
+Si estás recogiendo tus propios datos, toma decisiones razonables sobre el tamaño de la muestra. Una muestra aleatoria de los datos existentes puede estar bien para algunos proyectos. Otros proyectos pueden necesitar una recogida de datos más estratégica para centrarse en determinados criterios. Cada proyecto tiene sus propias necesidades. 
+
+#### Marco temporal
+
+Si estás recopilando tus propios datos, decide cuánto tiempo necesitarás para recopilarlos, especialmente si estás haciendo un seguimiento de las tendencias durante un largo periodo de tiempo. Si necesitas una respuesta inmediata, puede que no tengas tiempo para recoger datos nuevos. En este caso, tendrás que utilizar los datos históricos que ya existen. 
+
+Utiliza el siguiente diagrama de flujo si la recogida de datos depende en gran medida del tiempo que tengas:
+
+![image](./img/module%2001%20img%2004.png)
 
 ### Cuestionario práctico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+1. ¿Qué método de recopilación de datos es el más utilizado por los científicos?
+
+    - Entrevistas
+    
+      ❌ Incorrecto.
+  
+    - Encuestas
+    
+      ❌ Incorrecto.
+    
+    - Cuestionarios
+    
+      ❌ Incorrecto.
+      
+    - Observaciones
+    
+      ✅ Correcto. La observación es el método de recopilación de datos más utilizado por los científicos.
+
+
+2. Organizaciones como los Centros para el Control de Enfermedades (CDC) de EE. UU. suelen utilizar datos recopilados en hospitales. ¿Qué tipo de datos utilizan los CDC si son recopilados por los hospitales y luego vendidos a los CDC para su propio análisis? 
+
+    - Datos de múltiples fuentes
+    
+      ❌ Incorrecto.
+  
+    - Datos de primera fuente
+    
+      ❌ Incorrecto.
+    
+    - Datos de segunda fuente
+    
+      ✅ Correcto. Los datos recopilados por los hospitales y luego recogidos por los CDC son un ejemplo de datos de segunda fuente. 
+      
+    - Datos de terceros
+    
+      ❌ Incorrecto.
+
+
+3. Completa el espacio en blanco: En el análisis computacional de datos, un/a _____ se refiere a todos los valores de datos posibles en un determinado conjunto de datos. 
+
+    - Muestra
+    
+      ❌ Incorrecto.
+  
+    - Fuente
+    
+      ❌ Incorrecto.
+    
+    - Población
+    
+      ✅ Correcto. En el análisis computacional de datos, una población se refiere a todos los valores de datos posibles en un determinado conjunto de datos. 
+      
+    - Representación
+    
+      ❌ Incorrecto.
 
 ---
 
