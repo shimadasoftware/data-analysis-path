@@ -652,11 +652,6 @@ Utiliza el siguiente diagrama de flujo si la recogida de datos depende en gran m
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-
-### Los formatos de datos en la práctica 📖
-
-[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
-
 No sé qué te sucede a ti, pero cuando estoy eligiendo una película para ver, algunas veces me quedo frenada entre un par de películas posibles. Si estoy de humor para emoción o suspenso puede ser que elija una de misterio y suspenso, pero si me quiero reír con ganas, elegiré una comedia. Cuando no puedo decidirme entre dos películas, hasta puedo utilizar algunas de mis habilidades de análisis de datos y así compararlas o contrastarlas. Piensa en ello, que realmente necesitamos más películas sobre analistas de datos. 
 
 La miraría, pero como no disponemos de películas acerca de los datos, al menos no todavía, haremos algo mucho mejor: ¡miraremos los datos acerca de las películas! Vamos a observar esta hoja de cálculo con datos sobre películas. Sabemos que podemos comparar diferentes películas y géneros. Y resulta que podemos hacer lo mismo con datos y formatos de datos. Usemos la hoja de cálculo con datos de películas para comprender cómo funciona. Comenzaremos con los datos tanto cuantitativos como cualitativos, Si miramos la columna A, encontraremos los títulos de las películas. Estos datos son cualitativos porque se pueden contar, medir o expresarse fácilmente con números. 
@@ -676,6 +671,18 @@ Los datos externos son, ya lo adivinaron, datos alojados y generados fuera de un
 Podrás recordar nuestra exploración anterior sobre el pensamiento estructurado, que colabora sumando un framework al problema de modo que puede resolverse de modo organizado y lógico. Puedes pensar en los datos estructurados del mismo modo. Con un framework para los datos, los datos son fácilmente rastreables y están más preparados para el análisis. Como analista de datos, trabajarás con muchos datos estructurados, que usualmente vendrán en forma de tabla, hoja de cálculo o base de datos relacional, pero a veces te encontrarás con datos no estructurados. 
 
 Estos datos no están organizados de una forma fácilmente identificable. Los archivos de audio y video son ejemplos de datos no estructurados porque no hay un modo claro para identificar y organizar el contenido. Los datos no estructurados pueden contar con una estructura interna, pero los datos no se ubican prolijamente en filas y columnas como los datos estructurados. ¡Ahí lo tienes! Espero que ahora estés más familiarizado con los formatos de datos y cómo puedes usarlos en tu trabajo. En breve, continuarás explorando los datos estructurados y aprenderás aún más de los datos que utilizarás más frecuentemente como analista. Próximamente en el cine más cercano a ti.
+
+Los datos discretos no se limitan a los importes en dólares. Otros ejemplos de datos discretos son las estrellas y los puntos. Cuando no se permiten las mediciones parciales (medias estrellas o cuartos de punto), los datos son discretos. Si no se acepta nada que no sean estrellas o puntos completos, los datos se consideran discretos.
+
+![image](./img/module%2001%20img%2005.png)
+
+![image](./img/module%2001%20img%2006.png)
+
+### Los formatos de datos en la práctica 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
 
 ### Cuestionario práctico 📑
 
