@@ -21,13 +21,13 @@ Son pequeños archivos guardados en computadoras que contienen información de l
 - Seleccione el tipo de datos correcto
 - Determinar el plazo
 
-### First-party data
+### Datos de primera fuente (First-party data)
 Datos recopilados por un individuo o grupo utilizando sus propios recursos.
 
-### Second-party data
+### Datos de segunda fuente (Second-party data)
 Datos recopilados por un grupo directamente de su audiencia y luego vendidos.
 
-### Third-party data
+### Datos de tercera fuente (Third-party data)
 Datos recopilados de fuentes externas que no los recopilaron directamente.
 
 ### Población 
@@ -36,13 +36,46 @@ Todos los valores de datos posibles en un cierto conjunto de datos.
 ### Muestra
 Es una parte de la población que es representativa de la población.
 
-## Modulo 2
-
 ### Datos discretos 
 Datos que se cuentan y tienen un número limitado de valores.
 
 ### Datos continuos 
 Datos que se miden y pueden tener casi cualquier valor numérico.
+
+### Datos nominales
+Un tipo de datos cualitativos que se clasifican sin un orden establecido.
+
+### Datos ordinales
+Un tipo de datos cualitativos con un orden o escala establecidos.
+
+### Datos internos
+Datos que viven dentro de los propios sistemas de una empresa.
+
+### Datos externos
+Datos que viven y se generan fuera de una organización.
+
+### Modelo de datos 
+Un modelo que se utiliza para organizar elementos de datos y cómo se relacionan entre sí.
+
+### Elementos de datos 
+Piezas de información, como nombres de personas, números de cuenta y direcciones.
+
+### Datos estructurados 
+Datos organizados en un formato determinado, como filas y columnas. Ejemplo: Hojas de cálculo y bases de datos relacionales.
+
+### Datos no estructurados 
+Datos que no están organizados de ninguna manera fácilmente identificable. Ejemplos: 
+- Archivos de sonido
+- Archivos de video
+- Correos electrónicos 
+- Fotos
+- Medios de comunicación social
+
+## Modulo 2
+
+
+
+
 
 ---
 
@@ -83,8 +116,6 @@ All possible data values in a certain dataset.
 ### Sample
 A part of a population that is representative of the population.
 
-## Module 2
-
 ### Discrete data
 Data that is counted and has a limited number of values.
 
@@ -103,8 +134,22 @@ Data that lives within a company’s own systems.
 ### External data
 Data that lives and is generated outside of an organization.
 
+### Data model
+A model that is used for organizing data elements and how they relate to one another.
+
+### Data elements
+Pieces of information, such as people’s names, account numbers, and addresses.
+
 ### Structured data
 Data organized in a certain format such as rows and columns. Example: Spreadsheets and relational databases.
 
 ### Unstructured data
-Data that is not organized in any easily identifiable manner. Example: Audio and video files.
+Data that is not organized in any easily identifiable manner. 
+Examples: 
+- Audio files 
+- Video files
+- Emails
+- Photos
+- Social media
+
+## Module 2
