@@ -858,7 +858,7 @@ Cada nivel de modelado de datos tiene un nivel de detalle diferente.
 
 Los tres tipos más comunes de modelado de datos
 
-![image](./img/module%2001%20img%2014.png)
+![image](./img/module%2001%20img%2015.png)
 
 1. El modelado conceptual de datos ofrece una visión de alto nivel de la estructura de datos, como la forma en que los datos interactúan en una organización. Por ejemplo, un modelo de datos conceptual puede utilizarse para definir los requisitos comerciales de una nueva base de datos. Un modelo de datos conceptual no contiene detalles técnicos. 
 
@@ -981,6 +981,8 @@ Hasta ahora han aprendido mucho acerca de los datos. Desde datos generados, pasa
 
 Por ejemplo, SQL permite tipos diferentes de datos dependiendo de la base de datos que utilices. Sin embargo, por ahora nos concentraremos en los tipos de datos que utilizarás en las hojas de cálculo. Para ayudarnos, utilizaremos una hoja de cálculo que ya esté completa con datos. La llamaremos "Interés mundial en los dulces a través de las búsquedas en Google". Bien, un tipo de dato en una hoja de cálculo puede ser una de tres cosas: un número, un texto o cadena o datos booleanos. 
 
+![image](./img/module%2001%20img%2016.png)
+
 Podrán encontrar programas para hojas de cálculo que los clasifica de forma algo diferente o incluye otros tipos, pero esos tipos de valores cubren casi todos los datos que encontrarán en una hoja de cálculo. Veremos todo esto en un momento. Si miramos las columnas B, D y F encontraremos tipos de datos numéricos. Cada número representa el interés en la búsqueda del término "pastelillo", "helado" y "caramelo" para una semana específica. Cuanto más cerca está un número de 100, más popular fue ese término de búsqueda durante esa semana. Cien representa el pico de popularidad. Recuerden que en este caso, 100 es un valor relativo, no la cantidad real de búsquedas. Representa el número máximo de búsquedas durante un cierto tiempo. Piensa en ello como un porcentaje en una prueba. Todas las otras búsquedas se valúan también respecto de 100. Puedes notar esto en otros conjuntos de datos también. ¡Estrella de oro para el 100! Si es necesario, puedes cambiar los números a porcentajes y otros formatos, como moneda. 
 
 Todos estos son ejemplos de tipos de datos numéricos. En la columna H, los datos muestran la delicia más popular para cada semana, según los datos de búsqueda. Así es como encontraremos que en la celda H4 para la semana que comienza el 28 de julio de 2019, la delicia más popular fue el helado. Esto es un ejemplo de un tipo de dato de texto, o un tipo de datos en cadena, que es una secuencia de caracteres y puntuación que contiene información textual. En este ejemplo, esa información serían las delicias y los nombres de las personas. También se pueden incluir números como números telefónicos o números en las direcciones. Pero esos números no se utilizarían para los cálculos. 
@@ -995,6 +997,54 @@ Hablemos de un tema común que la gente encuentra en las hojas de cálculo: conf
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+En esta lectura, explorarás los fundamentos de la lógica booleana y aprenderás a usar múltiples condiciones en una expresión booleana. Estas condiciones se crean con operadores booleanos, incluyendo Y, O y NO. Estos operadores son similares a los operadores matemáticos y pueden utilizarse para crear expresiones lógicas que filtren los resultados. Los analistas de datos utilizan las expresiones booleanas para realizar una amplia gama de tareas de análisis de datos, como la creación de consultas para búsquedas y la comprobación de condiciones al escribir código de programación. 
+
+#### Ejemplo de lógica booleana
+
+Imagina que estás comprando unos zapatos, y estás considerando ciertas preferencias:
+
+- Comprarás los zapatos solo si son rosas y grises
+
+- Comprarás los zapatos si son totalmente rosas o totalmente grises, o si son rosas y grises
+
+- Comprarás los zapatos si son grises, pero no si tienen algo de rosa
+
+A continuación hay diagramas de Venn que ilustran estas preferencias. Y es el centro del diagrama de Venn, donde se superponen dos condiciones. O incluye cualquiera de las dos condiciones.
+
+![image](./img/module%2001%20img%2017.png)
+
+#### El operador Y
+Tu condición es “Si el color del zapato tiene cualquier combinación de gris y rosa, lo comprarás”. La expresión booleana descompondría la lógica de esa declaración para filtrar sus resultados por ambos colores. Diría “SI (Color=“Gris”) Y (Color=“Rosa”) entonces cómpralos”. El operador Y le permite acumular múltiples condiciones. 
+
+A continuación se muestra una tabla de verdad simple que resume la lógica booleana en el trabajo en esta expresión. En la columna Color es Gris, hay dos pares de zapatos que cumplen la condición de color. En la columna Color es Rosa, hay dos pares de zapatos que cumplen tal condición. Pero en la columna Si es Gris Y Rosa, solo hay un par de zapatos que cumple ambas condiciones. Por lo tanto, según la lógica booleana de la declaración, solo hay un par marcado como verdadero. En otras palabras, hay un par de zapatos que puedes comprar.
+
+![image](./img/module%2001%20img%2018.png)
+
+#### El operador O
+
+El operador O te permite avanzar si se cumple una de tus dos condiciones. Tu condición es “Si los zapatos son grises o rosas, los comprarás”. La expresión booleana sería “SI (Color=“Gris”) O (Color=“Rosa”) entonces cómpralos”. Observa que cualquier zapato que cumpla la condición Color es Gris o Color es Rosa es marcado como verdadero por la lógica booleana. Según la tabla de verdad de abajo, hay tres pares de zapatos que puedes comprar.
+
+![image](./img/module%2001%20img%2019.png)
+
+#### El operador NO
+
+Por último, el operador NO te permite filtrar restando condiciones específicas de los resultados. Tu condición es "Comprarás cualquier zapato gris excepto los que tengan algún rastro de rosa". La expresión booleana sería “SI (Color="Gris") Y (Color=NO “Rosa”) entonces cómpralos”. Ahora, todos los zapatos grises que no son rosas son marcados como verdaderos por la lógica booleana para la condición NO Rosa. Los zapatos rosas son marcados como falsos por la lógica booleana para la condición NO Rosa. Solo un par de zapatos está excluido en la tabla de verdad de abajo.
+
+![image](./img/module%2001%20img%2020.png)
+
+#### El poder de las condiciones múltiples
+
+Para los analistas de datos, el verdadero poder de la lógica booleana proviene de la posibilidad de combinar múltiples condiciones en una sola expresión. Por ejemplo, si quieres filtrar los zapatos grises o rosas, y que sean impermeables, podrías construir una declaración booleana como: “SI ((Color = “Gris”) O (Color = “Rosa”)) Y (Impermeable=“Verdadero”)”.  Observa que puedes utilizar paréntesis para agrupar tus condiciones. 
+
+Ya sea que estés haciendo una búsqueda de zapatos nuevos o aplicando esta lógica a tus consultas de base de datos, la lógica booleana te permite crear múltiples condiciones para filtrar tus resultados. Y ahora que sabes un poco más sobre cómo se usa la lógica booleana, ¡puedes empezar a usarla!
+
+#### Lectura adicional/recursos
+
+Aprende sobre quién fue el pionero de la lógica booleana en este artículo histórico: 
+[Orígenes del Álgebra Booleana en la Lógica de Clases](https://maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce).
+
+Encuentra más información sobre el uso de Y, O y NO en estos 
+[consejos para buscar con operadores booleanos](https://libguides.mit.edu/c.php?g=175963&p=1158594).
 
 ### Componentes de la tabla de datos 🎬
 
@@ -1008,12 +1058,7 @@ Cada característica de la canción, como el título y el artista, es un campo. 
 
 Los registros en una hoja de cálculo pueden ser acerca de todo tipo de cosas: clientes, productos, facturas o cualquier otra cosa. Cada registro tiene varios campos que revelan más acerca de los productos o facturas de los clientes. El valor en cada celda contiene un dato específico, como la dirección de un cliente o el valor en dólares de una factura. Como analista de datos, muchos datos te llegarán y los registros, campos y valores en las tablas de datos te ayudarán a navegar por el análisis. Comprender las estructuras de las tablas con las que estás trabajando es una parte de ello. Y esperemos que mientras trabajas duro en tu análisis y esas tablas, puedas divertirte un poco con una tabla de datos diferente: ¡la que tiene tu lista de reproducción favorita!
 
-### Actividad práctica 📑
-
-[![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
-
-Aplicación de una función
-
+![image](./img/module%2001%20img%2021.png)
 
 ### Conocer los datos en formato ancho y largo 🎬
 
@@ -1021,11 +1066,17 @@ Aplicación de una función
 
 Probablemente utilizas las palabras "ancho" y "largo" todo el tiempo. Utilizarías la palabra "ancho" para describir el tamaño de algo de lado a lado, como un río ancho. Pero un río también puede viajar grandes distancias, de modo que también se lo puede llamar "largo". ¡Espera! Antes de detener el vídeo, te aseguro que no pulsaste accidentalmente en el curso equivocado. No estoy acá para enseñarte palabras que ya conoces. Pero las palabras "ancho" y "largo" se pueden utilizar para describir datos también. Así que estoy aquí para ayudarte a entender los datos en formato ancho y los datos en formato largo. Hasta ahora has tratado con datos organizados en su mayoría en un formato ancho. Con los datos en formato ancho, cada interesado tiene una fila sola con múltiples columnas para albergar los valores de varios atributos del interesado. Existen datos en formato ancho en una hoja de cálculo. Recordarás que hablamos de estos datos acerca de la población de países latinos y del Caribe anteriormente. Para este conjunto de datos, cada fila brinda toda la información de la población de un país. Cada columna muestra la población para un año diferente.
 
+![image](./img/module%2001%20img%2022.png)
+
 Los datos anchos permiten una fácil identificación y una rápida comparación de las diferentes columnas. En nuestro ejemplo, los datos están organizados alfabéticamente por país, de modo que se pueden comparar las poblaciones anuales de Antigua y Barbuda, Aruba y las Bahamas solo controlando los valores en cada columna. Los datos en formato ancho también simplifican la búsqueda y comparación de las poblaciones de los países en períodos diferentes de tiempo. Por ejemplo, al ordenar los datos descubrimos que Brasil tenía la mayor población de todos los países en 2010 y que la Islas Vírgenes Británicas tenían la menor población de todos los países en 2013. Bien, exploremos ahora estos datos en formato largo. Aquí los datos ya no están organizados en columnas por año. Todos los años están ahora en una columna con cada país, como Argentina, que aparece en filas múltiples, una para cada año de datos. Así se ven normalmente los datos en formato largo. Los datos en formato largo en cada fila representan un punto de tiempo único por interesado, de modo que cada interesado tendrá datos en filas múltiples. Nuestra hoja de cálculo se formatea para mostrar cada año de datos de la población.
+
+![image](./img/module%2001%20img%2023.png)
 
 Aquí vemos a Antigua y Barbuda primero. Los datos en formato largo son una buena manera de almacenar datos organizados con variables múltiples para cada sujeto en cada punto de tiempo que queremos observar. Con estos datos en formato largo, podemos almacenar y analizar todos estos datos utilizando menos columnas. Además, si agregamos una nueva variable, como el promedio de edad de una población, solo necesitamos una nueva columna. Si hubiéramos utilizado los datos en formato ancho, en cambio, deberíamos haber agregado 10 columnas, una para cada año. Los datos en formato largo mantienen todo prolijo y compacto. Si te preguntas qué formato utilizar, la respuesta simple es: "depende".
 
 Algunas veces, debes transformar datos en formato ancho en datos en formato largo o viceversa, en otras ocasiones. Probablemente, trabajarás con ambos formatos en tu trabajo. Y definitivamente reconsiderarás ambos formatos otra vez más tarde en este programa. Esto me recuerda: antes definimos los datos como una recopilación de hechos. Como descubriste en los últimos videos, esa recopilación de hechos puede tomar diferentes formatos, estructuras, tipos y más.
+
+![image](./img/module%2001%20img%2024.png)
 
 Aprender acerca de los modos en que pueden presentarse los datos te será de gran ayuda a lo largo de los procesos del análisis de datos. Cuanto más trabajes con datos en todas sus formas, más rápido empezarás a reconocer qué datos utilizar y cuándo utilizarlos.
 
@@ -1035,18 +1086,162 @@ Y en breve, utilizarás todos los datos almacenados en tu cerebro para ayudarte 
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Una mujer presentando datos, una mano sosteniendo una medalla, dos personas charlando, el timón de un barco siendo dirigido, dos personas chocando las manos
+
+En esta lectura, explorarás cómo se transforman los datos y las diferencias entre datos en formato ancho y largo. La transformación de datos es el proceso de cambiar el formato, la estructura o los valores de los datos. Como analista de datos, es muy probable que en algún momento necesites transformar los datos para que te resulte más fácil analizarlos. 
+
+La transformación de datos suele implicar:
+
+- Añadir, copiar o replicar datos 
+
+- Eliminar campos o registros 
+
+- Estandarizar los nombres de las variables
+
+- Cambiar el nombre, mover o combinar columnas en una base de datos
+
+- Unir un conjunto de datos con otro
+
+- Guardar un archivo en un formato diferente. Por ejemplo, guardar una hoja de cálculo como un archivo de valores separados por comas (CSV).
+
+#### ¿Por qué transformar los datos?
+
+Los objetivos de la transformación de datos pueden ser: 
+
+- Organización de los datos: los datos mejor organizados son más fáciles de utilizar
+
+- Compatibilidad de datos: diferentes aplicaciones o sistemas pueden entonces utilizar los mismos datos
+
+- Migración de datos: los datos con formatos coincidentes pueden trasladarse de un sistema a otro
+
+- Fusión de datos: los datos con la misma organización pueden fusionarse
+
+- Mejora de datos: los datos pueden mostrarse con campos más detallados 
+
+- Comparación de datos: a continuación, se pueden realizar comparaciones de los datos entre sí 
+
+#### Ejemplo de transformación de datos: fusión de datos
+
+Mario es un fontanero propietario de una empresa de fontanería. Tras años en el negocio, compra otra empresa de fontanería. Mario quiere fusionar la información de los clientes de su nueva empresa con la suya, pero la otra empresa utiliza una base de datos diferente. Así que Mario tiene que hacer que los datos sean compatibles. Para ello, tiene que transformar el formato de los datos de la empresa adquirida. Luego, debe eliminar las filas duplicadas de los clientes que tenían en común. Cuando los datos sean compatibles y estén juntos, la empresa de fontanería de Mario tendrá una base de datos de clientes completa y fusionada.
+
+Ejemplo de transformación de datos: organización de datos (largo a ancho)
+Para facilitar la creación de gráficos, también puede ser necesario transformar los datos en formato largo en datos en formato ancho. Considera el siguiente ejemplo de transformación de los precios de las acciones (recogidos como datos en formato largo) a datos en formato ancho. 
+
+Los datos en formato largo son datos en los que cada fila contiene un único punto de datos para un elemento concreto. En el ejemplo de datos en formato largo que aparece a continuación, se han recogido los precios individuales de las acciones (puntos de datos) de Apple (AAPL), Amazon (AMZN) y Google (GOOGL) (elementos concretos) en las fechas indicadas.
+
+Ejemplo de datos en formato largo: Precios de las acciones
+
+![image](./img/module%2001%20img%2025.png)
+
+Los datos en formato ancho son datos en los que cada fila contiene múltiples puntos de datos para los elementos particulares identificados en las columnas. 
+
+Ejemplo de datos en formato ancho: Precios de las acciones
+
+![image](./img/module%2001%20img%2026.png)
+
+Con los datos transformados en datos en formato ancho, puedes crear un gráfico en el que se compara la evolución de las acciones de cada empresa en el mismo periodo de tiempo. 
+
+Puedes notar que todos los datos incluidos en el formato largo están también en formato ancho. Pero los datos en el formato ancho son más fáciles de leer y comprender. Por eso, los analistas de datos suelen transformar los datos en formato largo en datos en formato ancho con más frecuencia que al revés. La siguiente tabla resume cuándo se prefiere cada formato:
+
+![image](./img/module%2001%20img%2027.png)
 
 ### Actividad práctica 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Introducción a Kaggle
+#### Introducción a Kaggle
+
+Hasta el momento, has aprendido mucho sobre diferentes tipos de datos y estructuras de datos. En esta actividad, trabajarás con conjuntos de datos de Kaggle, una comunidad en línea de personas apasionadas por los datos. Para comenzar esta actividad, crearás una cuenta de Kaggle, configurarás un perfil y explorarás los blocs de notas de Kaggle.
+
+Todos los analistas de datos tienen una comunidad de datos en la que confían para obtener ayuda, apoyo e inspiración. Kaggle puede ayudarte a construir tu propia comunidad de datos.
+
+Kaggle tiene millones de usuarios en todas las etapas de su carrera de datos, desde principiantes hasta científicos de datos con décadas de experiencia. La comunidad de Kaggle reúne a la gente para desarrollar sus habilidades de análisis de datos, compartir conjuntos de datos y blocs de notas interactivos, y colaborar en la resolución de problemas de datos de la vida real.
+
+Mira este breve video introductorio [para saber más sobre Kaggle](https://www.youtube.com/watch?v=TNzDMOg_zsw).
+
+Al finalizar esta actividad, serás capaz de utilizar muchas de las características clave de Kaggle. Esto te permitirá crear blocs de notas y navegar por los datos, lo cual es importante para completar y compartir proyectos de datos en tu carrera como analista de datos.
+
+#### Explorar los blocs de notas de Kaggle
+
+Ahora que has creado una cuenta y has configurado tu perfil, puedes consultar algunos blocs de notas en Kaggle. Los usuarios de Kaggle utilizan blocs de notas para compartir conjuntos de datos y análisis de datos.
+
+Paso 1: Ir a la página de inicio de Código
+
+Primero, ve a la barra de Navegación en el lado izquierdo de tu pantalla. A continuación, haz clic en el icono de Código. Esto te lleva a la página de inicio de Código.
+
+Paso 2: Revisar las contribuciones de usuarios de Kaggle
+
+En la página de inicio de Código, verás enlaces a blocs de notas creados por otros usuarios de Kaggle.
+
+Para empezar, desplázate por la lista y haz clic en los blocs de notas que te interesen. A medida que vayas explorando, es posible que te encuentres con términos desconocidos e información nueva: ¡No pasa nada! Los usuarios de Kaggle proceden de diversos ámbitos y se centran en diferentes áreas del análisis de datos, la ciencia de datos, el aprendizaje automático y el aprendizaje profundo.
+
+Paso 3: Acotar la búsqueda
+
+Una vez que te hayas familiarizado con la página de inicio de Código, puedes limitar los resultados de tu búsqueda escribiendo una palabra en la barra de búsqueda o utilizando la función de filtro.
+
+Por ejemplo, escribe Principiante en la barra de búsqueda para mostrar blocs de notas etiquetados como aptos para principiantes. O bien, haz clic en el icono de Filtro, la forma de triángulo que aparece a la derecha de la barra de búsqueda. Puedes filtrar los resultados por etiquetas, lenguaje de programación, salida y otras opciones. Filtra por Conjuntos de datos para mostrar blocs de notas que utilizan uno de los miles de conjuntos de datos públicos disponibles en Kaggle.
 
 
 ### Cuestionario práctico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+
+1. Completa el espacio en blanco: Los motores de búsqueda de Internet son un ejemplo cotidiano de cómo se utilizan los operadores booleanos. El operador booleano _____ amplía el número de resultados cuando se utiliza en una búsqueda de palabras clave.
+
+    - Y
+    
+      ❌ Incorrecto.
+  
+    - NO
+    
+      ❌ Incorrecto.
+    
+    - O
+    
+      ✅ Correcto. El operador booleano O amplía el número de resultados cuando se utiliza en una búsqueda de palabras clave. Y reduce el número de resultados de una búsqueda por palabra clave.
+      
+    - CON 
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuál de las siguientes afirmaciones describe con exactitud una diferencia clave entre los datos en formato ancho y largo?
+
+    - Los sujetos de datos en formato ancho pueden tener datos en múltiples columnas. Los sujetos de datos en formato largo pueden tener múltiples filas que contienen los valores de los atributos del sujeto.
+    
+      ✅ Correcto. Los sujetos de datos en formato ancho pueden tener datos en múltiples columnas. Los sujetos de datos en formato largo pueden tener múltiples filas que contienen los valores de los atributos del sujeto.
+  
+    - Todos los sujetos de datos en formato ancho tienen una sola columna que contiene los valores de los atributos del sujeto. Todos los sujetos de datos en formato largo tienen múltiples columnas.
+    
+      ❌ Incorrecto.
+    
+    - Todos los sujetos de datos en formato ancho tienen múltiples columnas. Todos los sujetos de datos en formato largo tienen datos en una sola columna.
+    
+      ❌ Incorrecto.
+      
+    - Los sujetos de datos en formato ancho pueden tener múltiples filas que contienen los valores de los atributos del sujeto. Los sujetos de datos en formato largo pueden tener datos en múltiples columnas.
+    
+      ❌ Incorrecto.
+
+
+3. ¿Qué permite la transformación de datos a los analistas de datos?
+
+    - Restaurar los datos después de que se hayan perdido
+    
+      ❌ Incorrecto.
+  
+    - Recuperar los datos más rápidamente
+    
+      ❌ Incorrecto.
+    
+    - Cambiar la estructura de los datos
+    
+      ✅ Correcto. La transformación de datos permite a los analistas de datos cambiar la estructura de los datos.
+      
+    - Inspeccionar los datos para comprobar su exactitud
+    
+      ❌ Incorrecto.
 
 ---
 
