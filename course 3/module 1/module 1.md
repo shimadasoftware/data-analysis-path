@@ -670,7 +670,7 @@ Los datos externos son, ya lo adivinaron, datos alojados y generados fuera de un
 
 Podrás recordar nuestra exploración anterior sobre el pensamiento estructurado, que colabora sumando un framework al problema de modo que puede resolverse de modo organizado y lógico. Puedes pensar en los datos estructurados del mismo modo. Con un framework para los datos, los datos son fácilmente rastreables y están más preparados para el análisis. Como analista de datos, trabajarás con muchos datos estructurados, que usualmente vendrán en forma de tabla, hoja de cálculo o base de datos relacional, pero a veces te encontrarás con datos no estructurados. 
 
-Estos datos no están organizados de una forma fácilmente identificable. Los archivos de audio y video son ejemplos de datos no estructurados porque no hay un modo claro para identificar y organizar el contenido. Los datos no estructurados pueden contar con una estructura interna, pero los datos no se ubican prolijamente en filas y columnas como los datos estructurados. ¡Ahí lo tienes! Espero que ahora estés más familiarizado con los formatos de datos y cómo puedes usarlos en tu trabajo. En breve, continuarás explorando los datos estructurados y aprenderás aún más de los datos que utilizarás más frecuentemente como analista. Próximamente en el cine más cercano a ti.
+Estos datos no están organizados de una forma fácilmente identificable. Los archivos de audio y video son ejemplos de datos no estructurados porque no hay un modo claro para identificar y organizar el contenido. **Los datos no estructurados pueden contar con una estructura interna,** pero los datos no se ubican prolijamente en filas y columnas como los datos estructurados. ¡Ahí lo tienes! Espero que ahora estés más familiarizado con los formatos de datos y cómo puedes usarlos en tu trabajo. En breve, continuarás explorando los datos estructurados y aprenderás aún más de los datos que utilizarás más frecuentemente como analista. Próximamente en el cine más cercano a ti.
 
 Los datos discretos no se limitan a los importes en dólares. Otros ejemplos de datos discretos son las estrellas y los puntos. Cuando no se permiten las mediciones parciales (medias estrellas o cuartos de punto), los datos son discretos. Si no se acepta nada que no sean estrellas o puntos completos, los datos se consideran discretos.
 
@@ -682,12 +682,77 @@ Los datos discretos no se limitan a los importes en dólares. Otros ejemplos de 
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Cuando se piensa en la palabra "formato", pueden venir a la mente muchas cosas. Piensa en un anuncio de tu tienda favorita. Podrías encontrarlo en forma de anuncio impreso, en una valla publicitaria o incluso en un comercial. La información se presenta en el formato que mejor te convenga para asimilarla. El formato de un conjunto de datos es muy parecido, y la elección del formato adecuado te ayudará a gestionar y utilizar tus datos de la mejor manera posible.
 
+#### Ejemplos de formatos de datos
+
+Como ocurre con la mayoría de las cosas, es más fácil que las definiciones encajen cuando podemos emparejarlas con ejemplos de la vida real. Revisa primero cada definición y luego utiliza los ejemplos para afianzar tu comprensión de cada formato de datos.
+
+##### Primarios versus secundarios
+
+La siguiente tabla destaca las diferencias entre los datos primarios y secundarios y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2007.png)
+
+##### Internos versus externos
+
+La siguiente tabla destaca las diferencias entre los datos internos y externos y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2008.png)
+
+##### Continuos versus discretos
+
+La siguiente tabla destaca las diferencias entre los datos continuos y discretos y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2009.png)
+
+##### Cualitativos versus cuantitativos
+
+La siguiente tabla destaca las diferencias entre los datos cualitativos y cuantitativos y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2010.png)
+
+##### Nominal versus Ordinal
+
+La siguiente tabla destaca las diferencias entre los datos nominales y ordinales y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2011.png)
+
+##### Estructurados versus no estructurados
+
+La siguiente tabla destaca las diferencias entre los datos estructurados y no estructurados y los ejemplos de cada uno de ellos
+
+![image](./img/module%2001%20img%2012.png)
 
 ### Cuestionario práctico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Descripción general
+
+Ahora que has aprendido acerca de los datos no estructurados, puedes hacer una pausa por un momento y aplicar lo que estás aprendiendo. En esta autorreflexión, completarás tareas con una red neuronal, considerarás tus pensamientos sobre la estructuración de datos y responderás a preguntas breves.
+
+Esta autorreflexión te ayudará a desarrollar conceptos sobre tu propio aprendizaje y te preparará para aplicar tus conocimientos sobre las estructuras de datos en tus interacciones con datos no estructurados. A medida que completas las tareas con un sitio web de red neuronal, explorarás conceptos, prácticas y principios para ayudar a refinar tu comprensión y reforzar tu aprendizaje. Ya hiciste el trabajo duro, así que asegúrate de sacarle el máximo provecho: ¡Esta reflexión te ayudará a fijar tus conocimientos!
+
+#### Estructuración de datos con ¡Corre, dibuja!
+
+En esta autorreflexión, explorarás la naturaleza de los datos no estructurados a través de un conjunto de datos de fuentes múltiples.
+
+¡Corre, dibuja!es un conjunto de datos de redes neuronales que tiene millones de imágenes dibujadas por personas, separadas en categorías como plantas, animales o vehículos. En el sitio web ¡Corre, dibuja! puedes ver un gran conjunto de datos de cientos de miles de garabatos reales creados por personas en Internet. Puedes hacer tus propios garabatos. A través de este proceso, puedes entrenar una red neuronal para reconocer objetos y aprender más sobre la importancia de los datos estructurados.
+
+1. Visita el [sitio web de ¡Corre, dibuja!](https://quickdraw.withgoogle.com/data/cloud).
+
+2. En la esquina superior izquierda, verás un menú desplegable como este:
+
+![image](./img/module%2001%20img%2013.png)
+
+Selecciona un tipo de garabato para comenzar.
+
+3. Haz clic en diferentes imágenes para ver detalles sobre las imágenes en tu pantalla. Por ejemplo, hay más de cien mil dibujos diferentes de elefantes. Desplázate por la lista y fíjate si hay alguno que no encaje. Si encuentras uno que no coincide con el objeto deseado, haz clic en él y selecciona Marcar como inadecuado.
+
+4. Explora otras categorías de dibujos. Selecciona tres categorías que te interesen y mira los garabatos.
+
+5. Opcional: Sigue explorando. Haz clic en Obtener los datos para visitar la página de GitHub que contiene el conjunto de datos completo. A medida que te familiarices con los proyectos de datos y comiences a crear los tuyos, puedes volver a este conjunto de datos y analizarlos tú mismo. Haz clic en Jugar para dibujar tus propios garabatos y contribuir al conjunto de datos de ¡Corre, dibuja!
 
 ### Entender los datos estructurados 🎬
 
@@ -703,20 +768,194 @@ Esto hace que sea más fácil para los analistas y otros interesados encontrar s
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Los datos están en todas partes y pueden almacenarse de muchas maneras. Las categorías de datos generales son dos: 
+
+**Datos estructurados:** Datos organizados de cierta forma, por ejemplo, en filas y columnas
+
+**Datos no estructurados:** No organizados de ninguna manera fácil de identificar.
+
+Por ejemplo, cuando calificas tu restaurante favorito en línea, estás creando datos estructurados. Pero cuando utilizas Google Earth para ver una imagen por satélite de la ubicación de un restaurante, estás utilizando datos no estructurados. 
+
+A continuación, te recordamos las características de los datos estructurados y no estructurados:
+
+![image](./img/module%2001%20img%2014.png)
+
+#### Datos estructurados
+
+Como hemos descrito anteriormente, los datos estructurados se organizan en un formato determinado. Esto facilita su almacenamiento y consulta para las necesidades de la empresa. Si los datos se exportan, la estructura va junto con los datos.
+
+#### Datos no estructurados
+
+Los datos no estructurados no pueden ser organizados de una manera fácil de identificar. Y en el mundo hay muchos más datos no estructurados que estructurados. Los archivos de video y audio, los archivos de texto, el contenido de las redes sociales, las imágenes por satélite, las presentaciones, los archivos PDF, las respuestas a encuestas abiertas y los sitios web son todos ellos tipos de datos no estructurados. 
+
+#### El problema de la equidad
+
+La falta de estructura hace que los datos no estructurados sean difíciles de buscar, gestionar y analizar. Pero los recientes avances en inteligencia artificial y algoritmos de aprendizaje automático están empezando a cambiar esta situación. Ahora, el nuevo reto al que se enfrentan los científicos de datos es asegurarse de que estas herramientas sean inclusivas e imparciales. De lo contrario, ciertos elementos de un conjunto de datos estarán más ponderados y/o representados que otros. Y como estás aprendiendo, un conjunto de datos no equitativo no representa con exactitud a la población, causando resultados sesgados, bajos niveles de precisión y análisis poco fiables. 
 
 ### Diferenciación de tipos de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Datos de primera fuente 
+
+Datos recopilados por una persona o por un grupo por medio de sus propios recursos.
+
+#### Datos de segunda fuente 
+
+Datos recopilados por un grupo directamente de su audiencia y que, luego, se venden.
+
+#### Datos de tercera fuente 
+
+Datos proporcionados por fuentes externas que no los recopilaron de forma directa.
+
+#### Datos estructurados
+
+Datos organizados en un cierto formato, por ejemplo, en filas y columnas.
+
+#### Datos no estructurados
+
+Datos que no se organizan de forma que sea fácil identificarlos.
+
+#### Datos discretos
+
+Datos que se cuentan y tienen un número limitado de valores.
+
+#### Datos continuos
+
+Datos que se miden y que pueden tener casi cualquier valor numérico.
+
+#### Datos nominales
+
+Datos cualitativos que se categorizan sin un orden establecido.
+
+#### Datos ordinales
+
+Datos cualitativos con un orden o escala establecidos.
+
+#### Datos internos
+
+Datos alojados en los sistemas propios de una empresa.
+
+#### Datos externos
+
+Los datos que se alojan y generan fuera de una organización.
 
 ### Niveles y técnicas de modelado de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Esta lectura presenta el modelado de datos y los diferentes tipos de modelos de datos. Los modelos de datos ayudan a mantener la consistencia de los datos y permiten a las personas trazar un mapa de cómo se organizan. Una comprensión básica facilita a los analistas y a otros interesados dar sentido a sus datos y utilizarlos de forma correcta. 
+
+Nota importante: Como analista de datos junior, no se te pedirá que diseñes un modelo de datos. Pero es posible que te encuentres con modelos de datos existentes en tu organización. 
+
+#### ¿Qué es el modelado de datos?
+
+El modelado de datos es el proceso de creación de diagramas que representan visualmente cómo se organizan y estructuran los datos.  Estas representaciones visuales se llaman modelos de datos. Se puede pensar en el modelado de datos como en el plano de una casa. En un momento dado, puede haber electricistas, carpinteros y fontaneros utilizando ese plano. Cada uno de estos constructores tiene una relación diferente con el plano, pero todos lo necesitan para entender la estructura general de la casa. Los modelos de datos son similares; los distintos usuarios pueden tener necesidades de datos diferentes, pero el modelo de datos les permite comprender la estructura en su conjunto. 
+
+#### Niveles de modelado de datos
+
+Cada nivel de modelado de datos tiene un nivel de detalle diferente. 
+
+Los tres tipos más comunes de modelado de datos
+
+![image](./img/module%2001%20img%2014.png)
+
+1. El modelado conceptual de datos ofrece una visión de alto nivel de la estructura de datos, como la forma en que los datos interactúan en una organización. Por ejemplo, un modelo de datos conceptual puede utilizarse para definir los requisitos comerciales de una nueva base de datos. Un modelo de datos conceptual no contiene detalles técnicos. 
+
+2. El modelo de datos lógico se centra en los detalles técnicos de una base de datos, como las relaciones, los atributos y las entidades. Por ejemplo, un modelo de datos lógico define cómo se identifican los registros individuales en una base de datos. Pero no detalla los nombres reales de las tablas de la base de datos. Ese es el trabajo de un modelo de datos físico.
+
+3. El modelo de datos físico describe el funcionamiento de una base de datos. Un modelo de datos físico define todas las entidades y atributos utilizados; por ejemplo, incluye los nombres de las tablas, los nombres de las columnas y los tipos de datos de la base de datos.
+
+Se puede encontrar más información en esta [comparación de modelos de datos](https://www.1keydata.com/datawarehousing/data-modeling-levels.html).
+
+#### Técnicas de modelado de datos
+
+Hay muchos enfoques a la hora de desarrollar modelos de datos, pero dos métodos comunes son el Diagrama de Relación de Entidades (ERD) y el diagrama del Lenguaje Unificado de Modelado (UML). Los ERD son una forma visual de entender la relación entre las entidades del modelo de datos. Los diagramas UML son diagramas muy detallados que describen la estructura de un sistema mostrando las entidades, los atributos, las operaciones y las relaciones del sistema. Como analista de datos junior, tendrás que entender que existen diferentes técnicas de modelado de datos, pero en la práctica, probablemente utilizarás la técnica existente en tu organización. 
+
+Puedes leer más sobre ERD, UML y diccionarios de datos en este [artículo sobre técnicas de modelado de datos](https://dataedo.com/blog/basic-data-modeling-techniques)
+
+#### Análisis de datos y modelado de datos
+
+El modelado de datos puede ayudarte a explorar los detalles de alto nivel de tus datos y cómo se relacionan en los sistemas de información de la organización. El modelado de datos a veces requiere un análisis de datos para entender cómo se reúnen los datos; de esta manera, se sabe cómo mapear los datos. Por último, los modelos de datos facilitan la comprensión de los datos por parte de todos los miembros de la organización y la colaboración con ellos. ¡Esto es importante para ti y para todos los miembros de tu equipo!
 
 ### Cuestionario práctico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+1. Completa el espacio en blanco: El tiempo de duración de una película es un ejemplo de datos _____.
+
+    - cualitativos
+    
+      ❌ Incorrecto.
+  
+    - discretos
+    
+      ❌ Incorrecto.
+    
+    - continuos
+    
+      ✅ Correcto. Los tiempos de duración de las películas son un ejemplo de datos continuos, que se miden y pueden tener casi cualquier valor numérico.
+      
+    - nominales
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuáles son las características de los datos no estructurados? Selecciona todas las opciones que correspondan.
+
+    - Pueden tener una estructura interna
+    
+      ✅ Correcto. Los datos no estructurados no están organizados, aunque pueden tener una estructura interna.
+  
+    - Tienen una estructura claramente identificable
+    
+      ❌ Incorrecto.
+    
+    - Se ajustan perfectamente a las filas y columnas
+    
+      ❌ Incorrecto.
+      
+    - No están organizados
+    
+      ✅ Correcto. Los datos no estructurados no están organizados, aunque pueden tener una estructura interna.
+
+
+3. Los datos estructurados permiten agrupar los datos para formar relaciones. ¿Esto facilita a los analistas hacer qué con los datos? Selecciona todas las opciones que correspondan. 
+
+    - Buscar
+    
+      ✅ Correcto. Los datos estructurados que se agrupan para formar relaciones permiten a los analistas almacenar, buscar y analizar los datos más fácilmente.
+  
+    - Reescribir
+    
+      ❌ Incorrecto.
+    
+    - Almacenar
+    
+      ✅ Correcto. Los datos estructurados que se agrupan para formar relaciones permiten a los analistas almacenar, buscar y analizar los datos más fácilmente.
+      
+    - Analizar
+    
+      ✅ Correcto. Los datos estructurados que se agrupan para formar relaciones permiten a los analistas almacenar, buscar y analizar los datos más fácilmente.
+
+
+4. ¿Cuál de los siguientes es un ejemplo de datos no estructurados?
+
+    - Ubicación GPS
+    
+      ❌ Incorrecto.
+  
+    - Mensaje de correo electrónico
+    
+      ✅ Correcto. Un ejemplo de datos no estructurados es un mensaje de correo electrónico. Otros ejemplos de datos no estructurados son los archivos de video y el contenido de las redes sociales.
+    
+    - Contacto guardado en un teléfono
+    
+      ❌ Incorrecto.
+      
+    - Valoración de un restaurante local favorito
+    
+      ❌ Incorrecto.
 
 
 ---
@@ -733,7 +972,6 @@ Esto hace que sea más fácil para los analistas y otros interesados encontrar s
 - Transformación de datos (Lectura - 10 min)
 - Actividad práctica: Introducción a Kaggle (Cuestionario práctico - 2 preguntas)
 - Pon a prueba tus conocimientos sobre tipos de datos, campos y valores (Cuestionario práctico - 3 preguntas)
-
 
 ### Conocer el tipo de datos con el que trabajas 🎬
 
