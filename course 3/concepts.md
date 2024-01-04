@@ -71,6 +71,24 @@ Datos que no están organizados de ninguna manera fácilmente identificable. Eje
 - Fotos
 - Medios de comunicación social
 
+### Tipo de datos 
+Un tipo específico de atributo de datos que indica qué tipo de valor son los datos.
+
+### Tipos de datos en hojas de cálculo 
+- Número 
+- Cadena: Secuencia de caracteres y puntuación que contiene información textual. 
+- Booleano: un tipo de datos con sólo dos valores posibles, como VERDADERO o FALSO.
+
+### Datos amplios 
+Datos en los que cada sujeto de datos tiene una sola fila con múltiples columnas para contener los valores de varios atributos del sujeto.
+
+### Datos largos 
+Datos en los que cada fila es un punto temporal por sujeto, por lo que cada sujeto tendrá datos en varias filas.
+
+
+
+
+
 ## Modulo 2
 
 
@@ -151,5 +169,19 @@ Examples:
 - Emails
 - Photos
 - Social media
+
+### Data type
+A specific kind of data attribute that tells what kind of value the data is.
+
+### Data types In spreadsheets
+- Number
+- String: A sequence of characters and punctuation that contains textual information.
+- Boolean: A data type with only two possible values, such as TRUE or FALSE.
+
+### Wide data
+Data in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject.
+
+### Long data
+Data in which each row is one time point per subject, so each subject will have data in multiple rows.
 
 ## Module 2
