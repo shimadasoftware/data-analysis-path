@@ -27,7 +27,7 @@ Este segundo modulo se divide en:
 
 ---
 
-## 1. Datos imparciales y objetivos 🕵🏻‍♀️ 
+## 1. Datos imparciales y objetivos 🙅🏼‍♀️ 
 
 ### Temario: 
 
@@ -154,3 +154,132 @@ Pon a prueba tu conocimiento sobre datos imparciales y objetivos.
     - Sesgo del investigador
     
       ✅ Correcto. El sesgo del observador también se llama a veces sesgo del investigador o sesgo de investigación.     
+
+
+---
+
+## 2. Explorar la credibilidad de los datos 🕵🏻‍♀️ 
+
+### Temario: 
+
+- Identificar fuentes de datos correctos (Vídeo - 2 min)
+- ¿Qué son los datos incorrectos? (Video - 2 min)
+- Pon a prueba tus conocimientos sobre la credibilidad de los datos (Cuestionario práctico - 3 preguntas)
+
+### Identificar fuentes de datos correctos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola, ¿qué es bueno o correcto? No, en serio, quiero saber: ¿Qué es bueno o correcto? Por ejemplo, si te pido que nombres una buena canción, quizás a mí no me guste. Eso es porque “bueno” es algo subjetivo. Lo que yo pienso que es bueno o correcto y lo que tú crees que es bueno o correcto puede variar. Entonces, ¿qué pasa con las fuentes de datos correctos? ¿También son subjetivos? En cierta forma lo son, pero afortunadamente, aplicar algunas mejores prácticas te ayudará a medir la confiabilidad de los conjuntos de datos, antes de usarlos. Eso es lo que veremos en este video. Creo que todos coincidiremos en que todos queremos datos correctos. Cuanto mayor sea la calidad de los datos que tenemos, mayor confianza tendremos en nuestras decisiones. 
+
+Aprendamos cómo podemos descubrir e identificar fuentes de datos correctos. Primero lo primero, necesitamos aprender a identificarlos. Me gusta llamar a este proceso **ROCCC, R-O-C-C-C**. Muy bien. Acabo de inventarlo, pero creo que los acrónimos son una muy buena forma de grabar información nueva en el cerebro. 
+
+- Empecemos por la “R” de “**Reliable**” (**confiable**). Como ocurre con los buenos amigos, las fuentes de datos correctos son confiables. Con estos datos puedes confiar en que obtendrás información precisa, completa y objetiva que ha sido verificada, probada y es apta para usar.
+
+- Muy bien. Pasemos a la “O” de “**Original**”. Es muy probable que descubras datos a través de una segunda fuente o una fuente de terceros. Para corroborar que estás manejando datos correctos, asegúrate de validarlos con la fuente original.
+
+- Llegamos a la “C” de “**Comprehensive**” (**integral**). Las mejores fuentes de datos contienen toda la información crítica que se necesita para responder una pregunta o encontrar una solución. Piénsalo así. No te gustaría trabajar para una empresa solo porque encontraste una gran reseña en línea sobre la empresa. Investigarás cada aspecto de la organización para asegurarte de que sea la opción adecuada. Es importante hacer lo mismo con tus análisis de datos.
+
+- La siguiente es “C” de “**Current**” (**actual**). La utilidad de los datos disminuye a medida que pasa el tiempo. Si quieres invitar a todos los clientes actuales a un evento empresarial, no usarás una lista de clientes de hace diez años. Lo mismo ocurre con los datos. Las mejores fuentes de datos son actuales y apropiadas para la tarea en cuestión.
+
+- La última “C” es por “**Cited**” (**citado**). Si alguna vez le comentaste a un amigo que se estaba por estrenar una nueva parte de una película, habrás citado la fuente. Citar la fuente hace que la información que estás proporcionando sea más confiable. Cuando elijas una fuente de datos, piensa tres cosas: ¿Quién creó el conjunto de datos? ¿Forma parte de una organización creíble? ¿Cuándo fue la última actualización del conjunto de datos? Si obtienes datos originales de una organización confiable, y esos datos son integrales, actuales y citados, ¡ROCCCean!
+
+- Hay muchos lugares que son conocidos por tener datos correctos. Tu mejor opción es recurrir a los conjuntos de datos públicos, documentos académicos, datos financieros y datos de entidades gubernamentales, que sean verificados. Ahora que ya sabes cómo detectar a los datos correctos, que ROCCCean (funcionan), estás listo para aprender sobre la montaña de datos incorrectos y cómo evitarlos. Manos a la obra.
+
+### ¿Qué son los datos incorrectos? 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+¡Bienvenido nuevamente! La última vez que nos encontramos, aprendimos cómo identificar y encontrar fuentes de datos correctos. Proceso que decidí llamar ROCCC. Descubrimos que si el conjunto de datos es confiable, original integral, actual y citado, “ROCCCea” (o dicho con seriedad: es bueno) Espero que esto refresque tu memoria. Ahora es momento de aprovechar todo lo que aprendimos sobre datos correctos y aplicarlo en la lección de hoy: fuentes de datos incorrectos que no son ROCCC. No son confiables, originales, integrales, actuales o citados. Y lo que es peor, pueden ser totalmente inexactos o estar plagados de errores humanos. Empecemos nuevamente por la “R”. “R” de la palabra inglesa “Reliable” (confiable). No se puede confiar en los datos incorrectos porque son imprecisos, incompletos o sesgados. Podrían ser datos con selección de muestra sesgada porque no refleja la población total. O podrían ser visualizaciones de datos y gráficos que son simplemente engañosos. Veamos estos dos gráficos de barras, por ejemplo. El de la izquierda usa un eje Y que comienza con el valor 3.14%. Y el de la derecha, usa 0. Esto hace que parezca que las tasas de interés se han disparado en un período de cuatro años, cuando en realidad se mantuvieron bastante bajas. Muy bien, en la “O”. No es Original. Si no puedes ubicar la fuente de datos original y solo confías en información de segundas fuentes o de terceros, esto indica que necesitarás tomar recaudos extra para interpretar tus datos.
+
+Ahora “C” de la palabra inglesa “Comprehensive” (integral). Las fuentes de datos incorrectos carecen de la información necesaria para responder una pregunta o encontrar una solución. Y aún peor, pueden contener también errores humanos.
+
+La siguiente es “C” de la palabra inglesa “Current” (actual). Las fuentes de datos incorrectos están desactualizadas y son irrelevantes. Muchas fuentes respetadas actualizan sus datos habitualmente y esto nos da la seguridad de que es la información disponible más actualizada. Por ejemplo, siempre puedes confiar en Data.gov, que es la página principal de datos abiertos del gobierno de los Estados Unidos. La última “C” es de la palabra inglesa “Cited” (citado). Si tu fuente no ha sido citada o verificada, es peligrosa. En resumen, los datos correctos deben ser datos originales, integrales, actuales y citados provenientes de una organización confiable. ¡Deben “ROCCCear”! De lo contrato, son datos incorrectos. Si necesitas una gran fuente de datos confiable, consulta la página de la Oficina de Censos de los Estados Unidos, que actualiza frecuentemente su información. Es importante que los analistas de datos entiendan y estén atentos a los datos incorrectos porque pueden tener consecuencias graves y duraderas. Ya sea una conclusión incorrecta que lleve a una mala decisión empresarial, o información inexacta que obstaculice los procesos y ponga en riesgo a la población, toda buena solución implica evitar los datos incorrectos. Para obtener datos correctos, hay que limitarse a los conjuntos de datos públicos, documentos académicos, datos financieros y de organismos gubernamentales, verificados. Y con esto, hemos llegado al final de nuestra aventura de sesgo y credibilidad. Después de unos pocos ejercicios más, estarás listo para lo que viene. Deseo ver tus avances.
+
+### Cuestionario práctico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Pon a prueba tus conocimientos sobre la credibilidad de los datos.
+
+1. ¿Cuáles de las siguientes son habitualmente fuentes de datos correctos? Selecciona todas las opciones que correspondan.
+
+    - Datos de organismos gubernamentales 
+    
+      ✅ Correcto. Los conjuntos de datos públicos, documentos académicos, datos financieros y de organismos gubernamentales verificados, por lo general, son fuentes de datos correctos.
+  
+    - Conjuntos de datos públicos verificados 
+    
+      ✅ Correcto. Los conjuntos de datos públicos, documentos académicos, datos financieros y de organismos gubernamentales verificados, por lo general, son fuentes de datos correctos.
+    
+    - Sitios de redes sociales 
+    
+      ❌ Incorrecto.
+      
+    - Documentos académicos
+    
+      ✅ Correcto. Los conjuntos de datos públicos, documentos académicos, datos financieros y de organismos gubernamentales verificados, por lo general, son fuentes de datos correctos.
+
+
+2. Una vez que defines si la fuente de datos es citada, ¿cuáles de las siguientes preguntas debes hacerte? Selecciona todas las opciones que correspondan.
+
+    - ¿Este conjunto de datos fue limpiado correctamente?
+    
+      ❌ Incorrecto.
+  
+    - ¿Son pertinentes estos datos para el problema que intento resolver?
+    
+      ❌ Incorrecto.
+    
+    - ¿Quién creó este conjunto de datos?
+    
+      ✅ Correcto. “¿Este conjunto de datos es de una organización creíble?” y “¿Quién creó este conjunto de datos?” son preguntas que pueden ayudarte a determinar si una fuente de datos es citada.
+      
+    - ¿Este conjunto de datos es de una organización creíble?
+    
+      ✅ Correcto. “¿Este conjunto de datos es de una organización creíble?” y “¿Quién creó este conjunto de datos?” son preguntas que pueden ayudarte a determinar si una fuente de datos es citada.
+
+
+3. Un analista de datos está analizando datos de ventas para detectar la versión más reciente de un producto. Usa datos de terceros de una versión anterior del producto. ¿Por qué motivos esto es inadecuado para su análisis? Selecciona todas las opciones que correspondan.
+
+    - Los datos no son actuales
+    
+      ✅ Correcto. Los datos de terceros sobre una versión anterior del producto son inadecuados porque no son originales ni actuales.
+  
+    - Los datos no son precisos
+    
+      ❌ Incorrecto.
+    
+    - Los datos son sesgados
+    
+      ❌ Incorrecto.
+      
+    - Los datos no son originales
+    
+      ✅ Correcto. Los datos de terceros sobre una versión anterior del producto son inadecuados porque no son originales ni actuales.
+
+---
+
+## 3. Ética y privacidad de los datos 🛡️
+
+### Temario: 
+
+---
+
+## 4. Comprensión de los datos abiertos 🤔 
+
+### Temario: 
+
+
+---
+
+## 5. Desafio semanal 🏆
+
+### Temario: 
+
+- Glosario: Términos y definiciones (Reading - 5min)
+- Desafio semanal 1 (Quiz - 8 questions)
+
+### Glosario: Términos y definiciones 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
