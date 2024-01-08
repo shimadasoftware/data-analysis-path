@@ -85,12 +85,26 @@ Datos en los que cada sujeto de datos tiene una sola fila con múltiples columna
 ### Datos largos 
 Datos en los que cada fila es un punto temporal por sujeto, por lo que cada sujeto tendrá datos en varias filas.
 
-
-
-
-
 ## Modulo 2
 
+### Sesgo (Bias)
+Preferencia a favor o en contra de una persona, grupo de personas o cosa.
+
+### Sesgo de datos (Data Bias)
+Un tipo de error que sistemáticamente sesga los resultados en una determinada dirección.
+
+Tipos de sesgos de datos:
+
+- **Sesgo de muestreo**: Cuando una muestra no es representativa de la población en su conjunto.
+
+- **Sesgo del observador**: (sesgo del experimentador/sesgo de la investigación) La tendencia de diferentes personas a observar las cosas de manera diferente.
+
+- **Sesgo de interpretación**: La tendencia a interpretar siempre situaciones ambiguas de forma positiva o negativa.
+
+- **Sesgo de confirmación**: La tendencia a buscar o interpretar información de una manera que confirme creencias preexistentes.
+
+### Muestreo imparcial 
+Cuando una muestra es representativa de la población que se está midiendo.
 
 
 
@@ -185,3 +199,36 @@ Data in which every data subject has a single row with multiple columns to hold 
 Data in which each row is one time point per subject, so each subject will have data in multiple rows.
 
 ## Module 2
+
+### Bias
+A preference in favor of or against a person, group of people, or thing.
+
+### Data bias
+A type of error that systematically skews results in a certain direction.
+
+Types of data bias:
+
+- **Sampling bias**: When a sample isn't representative of the population as a whole.
+
+- **Observer bias**: (experimenter bias/ research bias) The tendency for different people to observe things differently.
+
+- **Interpretation bias**: The tendency to always interpret ambiguous situations in a positive or negative way.
+
+- **Confirmation bias**: The tendency to search for or interpret informationin a way that confirms pre-existing beliefs.
+
+### Unbiased sampling
+When a sample is representative of the population being measured.
+
+### ROCCC
+
+We found that if the data set is reliable, original, comprehensive, current and cited, it ROCCCs it's good.
+
+- R eliable: Bad data can't be trusted because it's inaccurate, incomplete, or biased. 
+
+- O riginal: If you can't locate the original data source and you're just relying on second or third party information, that can signal you may need to be extra careful in understanding your data.
+
+- C omprehensive: Bad data sources are missing important information needed to answer the question or find the solution. What's worse, they may contain human error, too.
+  
+- C urrent: Bad data sources are out of date and irrelevant. Many respected sources refresh their data regularly, giving you confidence that it's the most current info available.
+
+- C ited: If your source hasn't been cited or vetted, it's a no-go. When you're choosing a data source, think about three things. Who created the data set? Is it part of a credible organization? When was the data last refreshed?
