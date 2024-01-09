@@ -253,9 +253,13 @@ General Data Protection Regulation of the European Union.
 - Currency: Individuals should be aware of financial transactions resulting from the use of their personal data and the scale of these transactions.
 
 - Privacy: (Information privacy or data privacy) Preserving a data subject's information and activity any time a data transaction occurs. We should have:
-    - Protection from unauthorized access to our private data Freedom from inappropriate use of our data
+    - Protection from unauthorized access to our private data
+    - Freedom from inappropriate use of our data
     - The right to inspect, update, or correct our data
     - Ability to give consent to use our data
     - Legal right to access the data
 
 - Openness: Free access, usage, and sharing of data.
+
+### Data interoperability
+The ability of data systems and services to openly connect and share data
