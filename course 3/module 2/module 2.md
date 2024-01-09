@@ -264,11 +264,210 @@ Pon a prueba tus conocimientos sobre la credibilidad de los datos.
 
 ### Temario: 
 
+- Introducción a la ética de datos (Vídeo - 4 min)
+- Repaso opcional: Alex: La importancia de la ética de datos (Vídeo - 3 min)
+- Introducción a la privacidad de datos (Vídeo - 1 min)
+- Anonimización de datos (Lectura - 10 min)
+- Andrew: El uso ético de los datos (Vídeo - 2 min)
+- Pon a prueba tus conocimientos sobre la ética y la privacidad de los datos (Cuestionario práctico - 3 preguntas)
+
+### Introducción a la ética de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola de nuevo, déjame preguntarte algo. ¿Qué te viene a la mente cuando piensas en la palabra “ética”? Para mí, es un conjunto de principios que rigen la vida. La mayoría de las personas tienen un código de ética personal que los ayuda a manejarse por el mundo. Cuando somos jóvenes, podría ser tan simple como nunca mientas, engañes o robes, pero a medida que crecemos, es una lista mucho más amplia de lo que se debe y no se debe hacer. Nuestra ética personal evoluciona y se torna más racional, nos ofrece una brújula moral para enfrentar los interrogantes, los desafíos y las oportunidades de la vida. Cuando analizamos datos, también nos enfrentamos a interrogantes, desafíos y oportunidades, pero tenemos que confiar en algo más que nuestro código de ética personal para abordarlos. Como aprendiste antes, todos tenemos nuestros propios sesgos, ni que hablar de los sesgos subconscientes que hacen que la ética sea aún más difícil de transitar. Por eso tenemos la ética de datos, un aspecto importante del análisis computacional de datos que exploraremos aquí mismo, en este video. Pero primero, volvamos a la idea general de la ética. Aunque la definición exacta sigue siendo objeto de debate en la filosofía, una opinión práctica **es que la ética se refiere a normas justificadas sobre el bien y el mal que establecen lo que los seres humanos deben hacer**, generalmente en términos de derechos, obligaciones y beneficios para la sociedad, equidad o virtudes específicas. Al igual que los seres humanos, los datos tienen que cumplir normas. 
+
+**La ética de datos se refiere a normas justificadas sobre el bien y el mal que dictan cómo se recopilan, comparten y usan los datos**. Como la capacidad de recopilar, compartir y usar los datos en cantidades tan grandes es algo relativamente reciente, las reglas que regulan y rigen el proceso siguen evolucionando. La importancia de la privacidad de los datos ha sido reconocida por los gobiernos de todo el mundo, y han comenzado a crear legislación para la protección de datos que ayude a proteger a las personas y a sus datos. Se creó el **Reglamento General de Protección de Datos de la Unión Europea (GDPR)** para hacer justo eso. Mientras los encargados de formular políticas continúan con su trabajo, empresas como Google tienen la responsabilidad de liderar el esfuerzo y lo haremos con el mismo espíritu de siempre, ofreciendo productos que hagan de la privacidad una realidad para todos. 
+
+El concepto de ética de datos y las cuestiones referidas a la transparencia y la privacidad son parte de este proceso. La ética de datos intenta llegar a la raíz de la responsabilidad que tienen las empresas en la protección y el uso responsable de los datos que recopilan. **La ética de datos abarca muchos aspectos diferentes, pero cubriremos seis:** **propiedad, transparencia de las transacciones, consentimiento, vigencia, privacidad y apertura**. Más adelante exploraremos la privacidad y la apertura de los datos. 
+
+La primera de la lista es la **propiedad**. Esto responde a la pregunta: **¿quién es el dueño de los datos?** No es la organización que invirtió tiempo y dinero para recopilarlos, almacenarlos, procesarlos y analizarlos. Son las personas que poseen los datos sin procesar que ellos proporcionan, y tienen el control principal sobre su uso, la forma en que se procesan y comparten. 
+
+Luego tenemos la **transparencia de las transacciones**, que es la idea de que **todas las actividades de procesamiento de datos y algoritmos deben ser completamente explicables y comprendidas por las personas que proporcionan sus datos**. Esto surge en respuesta a las preocupaciones sobre los sesgos de los datos, como vimos anteriormente, es un tipo de error que sistemáticamente orienta los resultados en una determinada dirección. Los resultados sesgados pueden conducir a consecuencias negativas. Para evitarlos, es útil proporcionar un análisis transparente, especialmente a las personas que comparten sus datos. Esto permite a las personas juzgar si el resultado es justo y objetivo, y plantear posibles inquietudes. 
+
+Ahora, hablemos sobre otro aspecto de la ética de datos: el **consentimiento**. **Es un derecho de la persona conocer los detalles explícitos sobre cómo y por qué se usarán sus datos antes de aceptar proporcionarlos**. Deben conocer las respuestas a preguntas como: ¿Por qué se recopilan los datos? ¿Cómo se usarán? ¿Durante cuánto tiempo se almacenarán? La mejor forma de otorgar el consentimiento probablemente sea una conversación entre la persona que proporciona los datos y la persona que los solicita. Pero con tanta actividad que sucede en línea estos días, el consentimiento solo se parece a una casilla de verificación de términos y condiciones con enlaces a información más detallada. Aceptémoslo, no todos hacen clic para leer esos detalles. El consentimiento es importante porque impide que se apunte injustamente a todas las poblaciones, lo que implica un problema muy grande para los grupos marginados que suelen estar desproporcionadamente mal representados por datos sesgados. 
+
+Luego, sigue la **vigencia**. **Las personas deben estar al tanto de las transacciones financieras que derivan del uso de sus datos personales y la escala de estas transacciones**. Si tus datos ayudan a financiar las actividades de una empresa, debes saber a qué se refieren todas esas actividades y deben darte la oportunidad de optar por no participar. Los últimos dos aspectos de la ética de datos, la privacidad y la apertura, merecen un tratamiento especial en esta etapa de los datos. Pronto sabrás por qué.
+
+### La importancia de la ética de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hola, soy Alex. Soy científico investigador en Google. Mi equipo se llama equipo de Inteligencia Artificial Ética. Somos un grupo de personas realmente preocupadas no solo por cómo funciona la tecnología de IA, sino también por cómo interactúa con la sociedad y cómo podría ayudar o dañar a las comunidades marginadas. Así que cuando hablamos de ética de datos, pensamos ¿cuál es la forma correcta e incorrecta de usar los datos? ¿Cuáles serán las formas en que vamos a usar los datos que serán beneficiosos para las personas? En cuanto a la ética de datos, no es solo minimizar el daño, en realidad, lo que importa es el concepto de beneficencia. ¿Cómo mejoramos realmente las vidas de las personas mediante el uso de datos? Cuando pensamos en la ética de datos estamos pensando en ¿quién recopila los datos? ¿Por qué los recopilan? ¿Cómo los recopilan? ¿Con qué propósito? Debido a la forma en que las organizaciones tienen la obligación de ganar dinero o reportarse ante alguien o proporcionar algún análisis, también debemos tener muy en cuenta cómo esto realmente beneficiará a las personas al final del día. ¿Las personas representadas en estos datos se beneficiarán con esto? Creo que eso es lo que nunca querrás perder de vista como científico de datos o analista de datos. Creo que los aspirantes a analistas de datos deben tener en cuenta que muchos de los datos que van a encontrar son datos que provienen de personas. De modo que al final del día, los datos son personas. Y quieres tener una responsabilidad hacia esa gente que está representada en esos datos. 
+
+En segundo lugar, deben pensar acerca de cómo mantener los aspectos de privacidad y protección de sus datos. No queremos atravesar nuestra práctica pensando en las instancias de datos como algo que simplemente podemos lanzar a la web. No, es necesario tener en cuenta cómo conservar esa información y similares, como sus imágenes, sus voces o sus textos. ¿Cómo podemos mantenerlos en privado? También debemos pensar en cómo podemos contar con mecanismos para brindarles a los usuarios y consumidores más control sobre sus datos. No será suficiente solo con decir, recopilamos todos estos datos y confíennos todos estos datos. Pero debemos asegurarnos de que existan formas viables mediante las cuales las personas puedan dar su consentimiento al proporcionar esos datos y puedan solicitar que se revoquen o eliminen. 
+
+Los datos siguen creciendo y, al mismo tiempo, necesitamos capacitar a las personas para que tengan control sobre sus propios datos. El futuro es que los datos siempre están creciendo. No hemos visto ninguna evidencia de que los datos en realidad se estén reduciendo. Con el conocimiento de que los datos están creciendo, estos problemas se vuelven cada vez más sensibles y es cada vez más importante pensar en ellos.
+
+### Introducción a la privacidad de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-1%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Hemos explorado algunos aspectos importantes de la ética de datos, y una de las áreas más personales involucra a la privacidad. La privacidad es personal. Cada uno puede definir a la privacidad a su manera, y todos tenemos derecho a ella. Ya sea los miembros de una familia que quieren mantener su privacidad cuando comparten una computadora, el adolescente que quiere compartir una selfie solo con algunas personas o una empresa que quiere mantener la seguridad de la información de las tarjetas de crédito de sus clientes, a todos nos preocupa cómo se usan y comparten nuestros datos. 
+
+La **privacidad de los datos** es importante en la cultura actual, así que vamos a explorarla a fondo. Cuando hablamos de datos, **privacidad significa preservar la información y la actividad del sujeto de datos, cada vez que se realiza una transacción con los datos**. **Esto a veces se llama privacidad de la información o protección de datos.** 
+
+- Todo gira en torno al acceso, uso y recopilación de datos.
+- También incluye el derecho legal de una persona sobre sus datos. Esto significa que alguien como tú o yo debemos tener protección ante el acceso no autorizado a nuestros datos privados, estar exentos del uso inapropiado de nuestros datos.
+- El derecho a inspeccionar, actualizar o corregir nuestros datos, la posibilidad de otorgar el consentimiento para que usen nuestros datos
+- El derecho legal para acceder a nuestros datos. Para las empresas, significa implementar medidas de privacidad para proteger los datos de las personas.
+
+La privacidad de los datos es importante, aun cuando no lo pienses en el día a día. La importancia de la privacidad de los datos ha sido reconocida por los gobiernos de todo el mundo, y han comenzado a crear legislación para la protección de datos que ayude a proteger a las personas y a sus datos. Poder confiar tus datos a las empresas es importante. Es lo que hace que las personas quieran usar los productos de una empresa, compartir su información y demás. La confianza es realmente una gran responsabilidad que no puede tomarse a la ligera. El último aspecto relacionado con la ética de datos es uno que se discute constantemente. La idea de la apertura, el libre acceso, uso e intercambio de los datos. Abordaremos ese tema en otro video. Estás camino a convertirte en un analista de datos ético.
+
+### Anonimización de datos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+### ¿Qué es la anonimización de datos?
+
+Has estado aprendiendo sobre la importancia de la privacidad en el análisis computacional de datos. Ahora es momento de hablar sobre la anonimización de datos y qué tipos de datos se deben anonimizar. Información de identificación personal, o PII, es la información que se puede usar por sí misma o con otros datos para rastrear la identidad de una persona. 
+
+La anonimización de datos es el proceso de proteger los datos privados o confidenciales de las personas eliminando esa clase de información. A menudo, la anonimización de datos incluye dejar en blanco, ejecutar el algoritmo hash o enmascarar la información personal, por lo general, mediante el uso de códigos de longitud fija para representar columnas de datos u ocultar datos con valores alterados. 
+
+#### Tu función en la anonimización de datos
+
+Las organizaciones tienen la responsabilidad de proteger sus datos y la información personal que pudieran contener los datos. Como analista de datos, se podría esperar que comprendieras qué datos deben anonimizarse, pero en general, no serás responsable de la anonimización propiamente dicha. Una rara excepción podría ser si trabajas con una copia de los datos con fines de prueba o desarrollo. En este caso, se te podría exigir que anonimices los datos antes de trabajar con ellos. 
+
+### ¿Qué tipos de datos se deben anonimizar?
+
+Los datos médicos y financieros son dos de los tipos de datos más sensibles. Estas industrias dependen mucho de las técnicas de anonimización de datos. Después de todo, hay mucho en juego. Por eso, los datos en estas dos industrias suelen someterse a desidentificación, que es un proceso utilizado para eliminar toda la información de identificación personal de los datos.
+
+La anonimización de datos se utiliza en casi todas las industrias. Por eso es tan importante que los analistas de datos comprendan los conceptos básicos. Aquí incluimos una lista de datos que a menudo se anonimizan:
+
+- Números telefónicos
+
+- Nombres
+
+- Patentes de vehículos y licencias de conducir
+
+- Números de seguro social
+
+- Direcciones IP
+
+- Registros médicos
+
+- Direcciones de correo electrónico
+
+- Fotografías
+
+- Números de cuentas
+
+Para algunas personas, es lógico que este tipo de datos sean anónimos. Para otros, debemos ser muy específicos sobre qué debe ser anonimizado. Imagina un mundo en el que todos tuvieran acceso a las direcciones, números de cuentas y otra información identificable de los demás. Eso invadiría un montón la privacidad de las personas y haría que el mundo fuera menos seguro. La anonimización de datos es una de las formas de mantener los datos privados y seguros.
+
+### El uso ético de los datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Mi nombre es Andrew. Soy promotor de desarrollo principal del grupo de investigación de IA ética de Google. Como promotor de desarrollo principal, trato de ayudar a la comunidad a construir sistemas de IA socialmente responsables. Una consecuencia de no utilizar esta tecnología responsablemente es la posibilidad de amplificar o reforzar sesgos injustos. Ahora, esos algoritmos, esos conjuntos de datos, a menudo se utilizan en entornos donde deciden el resultado. Cuando se trata de curar contenido para un individuo o determinar si son elegibles para un crédito o no, todos esos diferentes procesos de toma de decisiones dependen de los algoritmos y los conjuntos de datos que se están utilizando en ese contexto. Y de igual modo, si se manipularan irresponsablemente, entonces, los resultados de esos sistemas podrían potencialmente dañar a las comunidades representadas inadecuadamente o a los grupos minoritarios. Hay mucho que ese campo, la industria, la comunidad, están aprendiendo sobre el uso responsable de datos y la IA. 
+
+De modo que lo que trataré de hacer es correlacionar todos esos elementos diferentes, ya sea que se esté trabajando con varios grupos de investigación en Google, o con varios grupos de productos en Google, haciendo participar así a una comunidad extendida. Tenemos que ir más allá y realmente educar a aquellos que están luchando por construir esta tecnología para el bien, pero no necesariamente cuentan con los recursos ni la sabiduría institucional comunitaria para realmente llevar a cabo sus buenas intenciones. De modo que la verdad del asunto es que la IA, los datos y cualquier otra tecnología que se construye en torno a eso trae muchos beneficios. Está mejorando las vidas de las personas. Nos permite hacer cosas que no podríamos hacer normalmente. Nos brinda oportunidades de pensar acerca de otras cosas en la vida. Y esta es la razón por la cual es tan importante que juntos, en forma colectiva, no solo una organización sino la comunidad entera y hasta los que no se especializan en tecnología, todos deben involucrarse. Ese es mi papel aquí tratar de ayuda a que la IA se desarrolle de forma ética en conjunto y para ello es menester democratizar el uso responsable de la IA.
+
+### Cuestionario práctico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Pon a prueba tus conocimientos sobre la ética y la privacidad de los datos.
+
+1. Completa el espacio en blanco: _____ establece que se deben explicar cabalmente todas las actividades de procesamiento de datos y los algoritmos a la persona que proporciona los datos y también establece que esta persona debe comprenderlos. 
+
+    - Transparencia de la transacción
+    
+      ✅ Correcto. La transparencia de la transacción establece que se deben explicar cabalmente todas las actividades de procesamiento de datos y los algoritmos a la persona que proporciona los datos y también establece que esta persona debe comprenderlos. 
+  
+    - Privacidad
+    
+      ❌ Incorrecto.
+    
+    - Apertura
+    
+      ❌ Incorrecto.
+      
+    - Vigencia
+    
+      ❌ Incorrecto.
+
+
+2. Un analista de datos quita la información de identificación personal de un conjunto de datos. ¿Qué tarea realiza?
+
+    - Visualización de datos 
+    
+      ❌ Incorrecto.
+  
+    - Recopilación de datos
+    
+      ❌ Incorrecto.
+    
+    - Anonimización de datos 
+    
+      ✅ Correcto. Realiza la anonimización de datos, que es el proceso de protección de los datos privados o sensibles de las personas mediante la eliminación de información que pueda asociarse con ellas. 
+      
+    - Ordenación de datos 
+    
+      ❌ Incorrecto.
+
+
+3. Antes de completar una encuesta, la persona reconoce haber leído la información sobre cómo y por qué se utilizarán los datos que proporcione. ¿Cómo se llama este concepto?
+
+    - Privacidad
+    
+      ❌ Incorrecto.
+  
+    - Discreción
+    
+      ❌ Incorrecto.
+    
+    - Consentimiento
+    
+      ✅ Correcto. Este concepto se llama consentimiento. El consentimiento es el aspecto de la ética de datos que presupone el derecho de una persona a conocer cómo y por qué se utilizarán sus datos personales, antes de aceptar proporcionarlos.
+      
+    - Vigencia
+    
+      ❌ Incorrecto.
+
+
 ---
 
 ## 4. Comprensión de los datos abiertos 🤔 
 
 ### Temario: 
+
+- Características de los datos abiertos (Vídeo - 4 min)
+- El debate de los datos abiertos (Lectura - 10 min)
+- Andrew: Pasos para el uso ético de los datos (Vídeo - 3 min)
+- Sitios y recursos para datos abiertos (Lectura - 10 min)
+- Actividades practicas: Conjuntos de datos Kaggle (Cuestionario práctico - 2 preguntas)
+- Pon a prueba tus conocimientos sobre datos abiertos (Cuestionario práctico - 3 preguntas)
+
+### Características de los datos abiertos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Es tan liberador poder encontrar información sobre cualquier tema en Internet. ¿No recuerdas la tercera línea de tu canción infantil favorita, te gustaría saber quién hizo más jonrones (<i>home runs</i>) en 1986, quieres aprender el lenguaje de señas por tu cuenta? Solo abre tu computadora portátil, escribe el texto y listo, consigues lo que necesitas. Muchos grupos creen que nosotros también deberíamos tener este nivel de acceso a los datos. Incluso hay un movimiento internacional que cree que la apertura de los datos puede transformar la sociedad y la forma de tomar decisiones. Hasta ahora, hemos hablado mucho sobre el poder de los datos y la importancia de las cuestiones referidas a la ética de datos que incluyen la propiedad, la transparencia de las transacciones, el consentimiento, la vigencia y la privacidad. Ahora, hablemos sobre apertura. Cuando nos referimos a los datos, apertura significa el libre acceso, uso e intercambio de los datos. A veces, nos referimos a esto como datos abiertos, pero eso no significa que ignoremos los otros aspectos de la ética de datos que ya abordamos. Aun así, debemos ser transparentes, respetar la privacidad, y asegurarnos de tener el consentimiento para los datos que son propiedad de otros. Esto simplemente significa que podemos acceder, usar y compartir esos datos si cumplen estos altos estándares. Por ejemplo, hay estándares en torno a la disponibilidad y al acceso. Los datos abiertos deben estar disponibles en su totalidad, preferentemente mediante la descarga en Internet, en un formato cómodo y modificable. El sitio web data.gov es un excelente ejemplo. Puedes descargar datos científicos y de investigación en una amplia gama de industrias y en formatos de archivos simples, como una hoja de cálculo. Otro estándar se refiere a la reutilización y la redistribución. Los datos abiertos deben suministrarse conforme a términos que permitan la reutilización y la redistribución, incluso la posibilidad de utilizarlos con otros conjuntos de datos. Y la última área es la participación universal. Todos deben poder usar, reutilizar y redistribuir los datos. No debería haber ninguna discriminación por áreas, personas o grupos. Nadie puede establecer restricciones en los datos, como hacer que solo estén disponibles en una industria en particular. Ahora, veamos un poco más por qué los datos son algo tan importante y cómo pueden ayudarte, como analista de datos. Uno de los beneficios más importantes que ofrecen los datos abiertos es la posibilidad de usar bases de datos creíbles de manera más generalizada. Lo más importante es que todos esos datos correctos se pueden aprovechar, compartir y combinar con otros datos. Imagínate el impacto que tendría eso en la colaboración científica, los avances en investigación, la capacidad analítica y la toma de decisiones. Por ejemplo, en la salud humana, la apertura nos permite acceder a diversos datos y combinarlos para detectar las enfermedades cada vez con mayor anticipación. En el gobierno, puede ayudar a que los líderes rindan cuentas y proporcionen un mejor acceso a los servicios ofrecidos a la comunidad. Las posibilidades y los beneficios son casi infinitos. Pero, por supuesto, toda gran idea tiene sus desafíos. Se necesita una gran cantidad de recursos para hacer el cambio tecnológico hacia los datos abiertos. La interoperabilidad es clave para el éxito de los datos abiertos. La interoperabilidad es la capacidad de los sistemas y los servicios de datos para conectar y compartir datos. Por ejemplo, la interoperabilidad de los datos es importante para los sistemas de atención médica en los que múltiples organizaciones, como hospitales, clínicas, farmacias y laboratorios necesitan acceder a los datos y compartirlos para asegurase de que los pacientes obtengan la atención que necesitan. Así, tu médico puede enviar tu receta directamente a la farmacia para que te entreguen los medicamentos. Tienen bases de datos compatibles que les permite compartir información. Pero este tipo de interoperabilidad requiere mucha cooperación. Aunque el intercambio de datos abiertos, oportunos, justos y simples ofrece un potencial importante, su futuro dependerá de la eficacia con la que se aborden desafíos más amplios. Como analista de datos, digo que cuanto antes, mejor. Por cierto, vamos a hablar más sobre datos abiertos y ver su uso en acción en un próximo video. Ahora que has aprendido todo sobre ética de datos, tienes algunos principios importantes que te guiarán en tu <i>data journey</i>. Cuando no estés seguro de tus datos, recuerda lo que aprendiste aquí. ¡Buena suerte!
+
+### El debate de los datos abiertos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+### Pasos para el uso ético de los datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Mi nombre es Andrew. Soy promotor de desarrollo principal para el grupo de investigación ética de IA de Google. Como analista, existen muchas cosas que puedes hacer para evaluar tu conjunto de datos a fin de garantizar que lo estás observando a través de varias lentes éticas. Una de ellas sería la autorreflexión y la comprensión de lo que estás haciendo y el impacto que causa. El mejor modo de cuestionar eso consiste en preguntar quiénes somos. Nosotros estamos como que, bueno, estamos en este equipo tratando de construir esto porque pensamos que ayudará a mejorar este producto o que contribuirá con información a la toma de decisiones acerca de qué queremos hacer a continuación. Pensar no solamente en los que están sentados directamente a tu lado, pero también pensar acerca de aquellos que están representados en este conjunto de datos y aquellos que no están representados en este conjunto de datos y luego utilizar esa intuición para luego continuar cuestionando la integridad, la calidad, la representación dentro de ese conjunto de datos. Y luego también pensar acerca de varios daños y riesgos asociados con el trabajo que estás haciendo. Por ejemplo, si piensas que te beneficiarás de quedarte más tiempo con ese conjunto de datos también querrás entender cuál es el riesgo de quedarte con ese conjunto de datos. ¿Cuál es el daño potencial que podría surgir si continúas mirando ese conjunto de datos y continúas almacenándolo y continúas recuperando esos datos? Y más allá de eso, también hay que entender qué es el proceso de consentimiento. ¿Les estás informando a aquellos de quienes estás recopilando datos cómo se van a utilizar? ¿Cuál es el canal de comunicación? Utilizando varias lentes éticas, y tomando un enfoque con mayores matices para tu análisis, siendo consciente de todos los riesgos posibles y los daños que pueden surgir cuando no solo analizas tu conjunto de datos, sino también cuando presentas tu conjunto de datos. Cómo retratarás esos resultados, cómo se están utilizando en el proceso de toma de decisiones, si estás presentándolos a la gerencia o presentándolos a los ejecutivos, o presentándolos a un público más amplio. Todo lo que importa es la utilización responsable del conjunto de datos. Pero como analista de datos, estás parado en la intersección entre la gente que tratará de beneficiarse de la tecnología en desarrollo y esos en tu organización que están tratando de tomar decisiones mejor informadas respecto de si avanzarán o no con la produccionización de la tecnología. Puede parecer que hay mucho peso en esto, y lo hay, pero también es muy cambiante y habla del volumen del impacto de tu trabajo.
+
+### Sitios y recursos para datos abiertos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+### Actividades practicas: Conjuntos de datos Kaggle 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+### Cuestionario práctico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 
 ---
@@ -277,9 +476,16 @@ Pon a prueba tus conocimientos sobre la credibilidad de los datos.
 
 ### Temario: 
 
-- Glosario: Términos y definiciones (Reading - 5min)
-- Desafio semanal 1 (Quiz - 8 questions)
+- Glosario: Términos y definiciones (Reading - 5 min)
+- Desafio semanal 2 (Quiz - 8 questions)
 
 ### Glosario: Términos y definiciones 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+
+### Cuestionario de diagnóstico 📑
+
+Desafio semanal 2
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-40%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
