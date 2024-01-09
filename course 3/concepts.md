@@ -232,3 +232,30 @@ We found that if the data set is reliable, original, comprehensive, current and 
 - C urrent: Bad data sources are out of date and irrelevant. Many respected sources refresh their data regularly, giving you confidence that it's the most current info available.
 
 - C ited: If your source hasn't been cited or vetted, it's a no-go. When you're choosing a data source, think about three things. Who created the data set? Is it part of a credible organization? When was the data last refreshed?
+
+### Ethics
+Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues.
+
+### Data ethics
+Well-founded standards of right and wrong that dictate how data is collected, shared, and used.
+
+### GDPR
+General Data Protection Regulation of the European Union.
+
+### Aspects of data ethics
+
+- Ownership: This answers the question who owns data? It isn't the organization that invested time and money collecting, storing, processing, and analyzing it. It's individuals who own the raw data they provide, and they have primary control over its usage, how it's processed and how it's shared.
+  
+- Transaction transparency: All data-processing activities and algorithms should be completely explainable and understood by the individual who provides their data.
+
+- Consent: An individual's right to know explicit details about how and why their data will be used before agreeing to provide it.
+
+- Currency: Individuals should be aware of financial transactions resulting from the use of their personal data and the scale of these transactions.
+
+- Privacy: (Information privacy or data privacy) Preserving a data subject's information and activity any time a data transaction occurs. We should have:
+    - Protection from unauthorized access to our private data Freedom from inappropriate use of our data
+    - The right to inspect, update, or correct our data
+    - Ability to give consent to use our data
+    - Legal right to access the data
+
+- Openness: Free access, usage, and sharing of data.
