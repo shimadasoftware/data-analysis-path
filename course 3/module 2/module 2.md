@@ -669,10 +669,6 @@ Y esto completa nuestro recorrido. Eso es mucha información. Siéntete libre de
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-### Glosario: Términos y definiciones 📖
-
-[![Tiempo](https://img.shields.io/badge/Tiempo-5%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
-
 A
 
 - Agenda: Una lista de citas programadas.
