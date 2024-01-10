@@ -442,33 +442,219 @@ Pon a prueba tus conocimientos sobre la ética y la privacidad de los datos.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-4%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Es tan liberador poder encontrar información sobre cualquier tema en Internet. ¿No recuerdas la tercera línea de tu canción infantil favorita, te gustaría saber quién hizo más jonrones (<i>home runs</i>) en 1986, quieres aprender el lenguaje de señas por tu cuenta? Solo abre tu computadora portátil, escribe el texto y listo, consigues lo que necesitas. Muchos grupos creen que nosotros también deberíamos tener este nivel de acceso a los datos. Incluso hay un movimiento internacional que cree que la apertura de los datos puede transformar la sociedad y la forma de tomar decisiones. Hasta ahora, hemos hablado mucho sobre el poder de los datos y la importancia de las cuestiones referidas a la ética de datos que incluyen la propiedad, la transparencia de las transacciones, el consentimiento, la vigencia y la privacidad. Ahora, hablemos sobre apertura. Cuando nos referimos a los datos, apertura significa el libre acceso, uso e intercambio de los datos. A veces, nos referimos a esto como datos abiertos, pero eso no significa que ignoremos los otros aspectos de la ética de datos que ya abordamos. Aun así, debemos ser transparentes, respetar la privacidad, y asegurarnos de tener el consentimiento para los datos que son propiedad de otros. Esto simplemente significa que podemos acceder, usar y compartir esos datos si cumplen estos altos estándares. Por ejemplo, hay estándares en torno a la disponibilidad y al acceso. Los datos abiertos deben estar disponibles en su totalidad, preferentemente mediante la descarga en Internet, en un formato cómodo y modificable. El sitio web data.gov es un excelente ejemplo. Puedes descargar datos científicos y de investigación en una amplia gama de industrias y en formatos de archivos simples, como una hoja de cálculo. Otro estándar se refiere a la reutilización y la redistribución. Los datos abiertos deben suministrarse conforme a términos que permitan la reutilización y la redistribución, incluso la posibilidad de utilizarlos con otros conjuntos de datos. Y la última área es la participación universal. Todos deben poder usar, reutilizar y redistribuir los datos. No debería haber ninguna discriminación por áreas, personas o grupos. Nadie puede establecer restricciones en los datos, como hacer que solo estén disponibles en una industria en particular. Ahora, veamos un poco más por qué los datos son algo tan importante y cómo pueden ayudarte, como analista de datos. Uno de los beneficios más importantes que ofrecen los datos abiertos es la posibilidad de usar bases de datos creíbles de manera más generalizada. Lo más importante es que todos esos datos correctos se pueden aprovechar, compartir y combinar con otros datos. Imagínate el impacto que tendría eso en la colaboración científica, los avances en investigación, la capacidad analítica y la toma de decisiones. Por ejemplo, en la salud humana, la apertura nos permite acceder a diversos datos y combinarlos para detectar las enfermedades cada vez con mayor anticipación. En el gobierno, puede ayudar a que los líderes rindan cuentas y proporcionen un mejor acceso a los servicios ofrecidos a la comunidad. Las posibilidades y los beneficios son casi infinitos. Pero, por supuesto, toda gran idea tiene sus desafíos. Se necesita una gran cantidad de recursos para hacer el cambio tecnológico hacia los datos abiertos. La interoperabilidad es clave para el éxito de los datos abiertos. La interoperabilidad es la capacidad de los sistemas y los servicios de datos para conectar y compartir datos. Por ejemplo, la interoperabilidad de los datos es importante para los sistemas de atención médica en los que múltiples organizaciones, como hospitales, clínicas, farmacias y laboratorios necesitan acceder a los datos y compartirlos para asegurase de que los pacientes obtengan la atención que necesitan. Así, tu médico puede enviar tu receta directamente a la farmacia para que te entreguen los medicamentos. Tienen bases de datos compatibles que les permite compartir información. Pero este tipo de interoperabilidad requiere mucha cooperación. Aunque el intercambio de datos abiertos, oportunos, justos y simples ofrece un potencial importante, su futuro dependerá de la eficacia con la que se aborden desafíos más amplios. Como analista de datos, digo que cuanto antes, mejor. Por cierto, vamos a hablar más sobre datos abiertos y ver su uso en acción en un próximo video. Ahora que has aprendido todo sobre ética de datos, tienes algunos principios importantes que te guiarán en tu <i>data journey</i>. Cuando no estés seguro de tus datos, recuerda lo que aprendiste aquí. ¡Buena suerte!
+Es tan liberador poder encontrar información sobre cualquier tema en Internet. ¿No recuerdas la tercera línea de tu canción infantil favorita, te gustaría saber quién hizo más jonrones (home runs) en 1986, quieres aprender el lenguaje de señas por tu cuenta? Solo abre tu computadora portátil, escribe el texto y listo, consigues lo que necesitas. Muchos grupos creen que nosotros también deberíamos tener este nivel de acceso a los datos. Incluso hay un movimiento internacional que cree que la apertura de los datos puede transformar la sociedad y la forma de tomar decisiones. 
+
+Hasta ahora, hemos hablado mucho sobre el poder de los datos y la importancia de las cuestiones referidas a la ética de datos que incluyen la propiedad, la transparencia de las transacciones, el consentimiento, la vigencia y la privacidad. Ahora, hablemos sobre apertura. **Cuando nos referimos a los datos, apertura significa el libre acceso, uso e intercambio de los datos**. A veces, nos referimos a esto como datos abiertos, pero eso no significa que ignoremos los otros aspectos de la ética de datos que ya abordamos. Aun así, debemos ser transparentes, respetar la privacidad, y asegurarnos de tener el consentimiento para los datos que son propiedad de otros. Esto simplemente significa que podemos acceder, usar y compartir esos datos si cumplen estos altos estándares. Por ejemplo, hay estándares en torno a la disponibilidad y al acceso. Los **datos abiertos deben estar disponibles en su totalidad**, preferentemente mediante la descarga en Internet, en un formato cómodo y modificable. El sitio web data.gov es un excelente ejemplo. Puedes descargar datos científicos y de investigación en una amplia gama de industrias y en formatos de archivos simples, como una hoja de cálculo. 
+
+Otro estándar **se refiere a la reutilización y la redistribución. Los datos abiertos deben suministrarse conforme a términos que permitan la reutilización y la redistribución, incluso la posibilidad de utilizarlos con otros conjuntos de datos**. Y la última **área es la participación universal**. Todos deben poder usar, reutilizar y redistribuir los datos. No debería haber ninguna discriminación por áreas, personas o grupos. Nadie puede establecer restricciones en los datos, como hacer que solo estén disponibles en una industria en particular. Ahora, veamos un poco más por qué los datos son algo tan importante y cómo pueden ayudarte, como analista de datos. Uno de los beneficios más importantes que ofrecen los datos abiertos es la posibilidad de usar bases de datos creíbles de manera más generalizada. Lo más importante es que todos esos datos correctos se pueden aprovechar, compartir y combinar con otros datos. Imagínate el impacto que tendría eso en la colaboración científica, los avances en investigación, la capacidad analítica y la toma de decisiones. Por ejemplo, en la salud humana, la apertura nos permite acceder a diversos datos y combinarlos para detectar las enfermedades cada vez con mayor anticipación. 
+
+En el gobierno, puede ayudar a que los líderes rindan cuentas y proporcionen un mejor acceso a los servicios ofrecidos a la comunidad. Las posibilidades y los beneficios son casi infinitos. Pero, por supuesto, toda gran idea tiene sus desafíos. Se necesita una gran cantidad de recursos para hacer el cambio tecnológico hacia los datos abiertos. La interoperabilidad es clave para el éxito de los datos abiertos. La interoperabilidad es la capacidad de los sistemas y los servicios de datos para conectar y compartir datos. Por ejemplo, la interoperabilidad de los datos es importante para los sistemas de atención médica en los que múltiples organizaciones, como hospitales, clínicas, farmacias y laboratorios necesitan acceder a los datos y compartirlos para asegurase de que los pacientes obtengan la atención que necesitan. 
+
+Así, tu médico puede enviar tu receta directamente a la farmacia para que te entreguen los medicamentos. Tienen bases de datos compatibles que les permite compartir información. Pero este tipo de interoperabilidad requiere mucha cooperación. Aunque el intercambio de datos abiertos, oportunos, justos y simples ofrece un potencial importante, su futuro dependerá de la eficacia con la que se aborden desafíos más amplios. Como analista de datos, digo que cuanto antes, mejor. Por cierto, vamos a hablar más sobre datos abiertos y ver su uso en acción en un próximo video. Ahora que has aprendido todo sobre ética de datos, tienes algunos principios importantes que te guiarán en tu data journey. Cuando no estés seguro de tus datos, recuerda lo que aprendiste aquí. ¡Buena suerte!
 
 ### El debate de los datos abiertos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Como ocurre con la privacidad de los datos, los datos abiertos es un tema muy debatido en el mundo actual. Los analistas de datos piensan mucho en los datos abiertos y, como futuro analista de datos, debes comprender los conceptos básicos para desempeñar bien tu función. 
+
+#### ¿Qué son los datos abiertos?
+
+En el análisis computacional de datos, los datos abiertos forman parte de la ética de datos, que significa usar los datos de manera ética. Apertura se refiere al libre acceso, uso e intercambio de los datos. Pero para que los datos se consideren abiertos, deben:
+
+Estar disponibles y accesibles para el público en general como un conjunto de datos completo.
+
+Ser suministrados bajo términos que permitan reutilizarlos y redistribuirlos.
+
+Permitir la participación universal para que todos puedan usar, reutilizar y redistribuir los datos.
+
+Los datos solo se pueden considerar abiertos cuando cumplen todas esas tres normas. 
+
+#### El debate de los datos abiertos: ¿Qué datos deben estar disponibles públicamente?
+
+Uno de los más grandes beneficios de los datos abiertos es que permiten usar bases de datos creíbles en forma más amplia. Básicamente, esto significa que todos los datos correctos se pueden aprovechar, compartir y combinar con otros datos. Esto podría tener un impacto enorme en la colaboración científica, los avances en investigación, la capacidad analítica y la toma de decisiones. Pero también es importante pensar en los individuos representados por los datos públicos y abiertos. 
+
+**Los datos de terceros** son recopilados por una entidad que no tiene una relación directa con los datos. Como recordarás, ya aprendimos sobre este tipo de datos. Por ejemplo, terceros podrían recopilar la información sobre los visitantes a un determinado sitio web. Esto les permite a dichos terceros crear perfiles de audiencia que los ayuda a comprender mejor el comportamiento del usuario y apuntar a ellos con publicidad más efectiva. 
+
+**Información de identificación personal (PII)** son datos que pueden identificar razonablemente a una persona y dar a conocer información sobre ella. Es importante mantener estos datos seguros. PII puede incluir la dirección de una persona, información de tarjetas de crédito, número de seguro social, registros médicos y mucho más. 
+
+Todos quieren conservar la privacidad de su información personal. Como los datos de terceros son de fácil acceso, es importante equilibrar la apertura de los datos con la privacidad de las personas. 
 
 ### Pasos para el uso ético de los datos 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Mi nombre es Andrew. Soy promotor de desarrollo principal para el grupo de investigación ética de IA de Google. Como analista, existen muchas cosas que puedes hacer para evaluar tu conjunto de datos a fin de garantizar que lo estás observando a través de varias lentes éticas. Una de ellas sería la autorreflexión y la comprensión de lo que estás haciendo y el impacto que causa. El mejor modo de cuestionar eso consiste en preguntar quiénes somos. Nosotros estamos como que, bueno, estamos en este equipo tratando de construir esto porque pensamos que ayudará a mejorar este producto o que contribuirá con información a la toma de decisiones acerca de qué queremos hacer a continuación. Pensar no solamente en los que están sentados directamente a tu lado, pero también pensar acerca de aquellos que están representados en este conjunto de datos y aquellos que no están representados en este conjunto de datos y luego utilizar esa intuición para luego continuar cuestionando la integridad, la calidad, la representación dentro de ese conjunto de datos. Y luego también pensar acerca de varios daños y riesgos asociados con el trabajo que estás haciendo. Por ejemplo, si piensas que te beneficiarás de quedarte más tiempo con ese conjunto de datos también querrás entender cuál es el riesgo de quedarte con ese conjunto de datos. ¿Cuál es el daño potencial que podría surgir si continúas mirando ese conjunto de datos y continúas almacenándolo y continúas recuperando esos datos? Y más allá de eso, también hay que entender qué es el proceso de consentimiento. ¿Les estás informando a aquellos de quienes estás recopilando datos cómo se van a utilizar? ¿Cuál es el canal de comunicación? Utilizando varias lentes éticas, y tomando un enfoque con mayores matices para tu análisis, siendo consciente de todos los riesgos posibles y los daños que pueden surgir cuando no solo analizas tu conjunto de datos, sino también cuando presentas tu conjunto de datos. Cómo retratarás esos resultados, cómo se están utilizando en el proceso de toma de decisiones, si estás presentándolos a la gerencia o presentándolos a los ejecutivos, o presentándolos a un público más amplio. Todo lo que importa es la utilización responsable del conjunto de datos. Pero como analista de datos, estás parado en la intersección entre la gente que tratará de beneficiarse de la tecnología en desarrollo y esos en tu organización que están tratando de tomar decisiones mejor informadas respecto de si avanzarán o no con la produccionización de la tecnología. Puede parecer que hay mucho peso en esto, y lo hay, pero también es muy cambiante y habla del volumen del impacto de tu trabajo.
+Mi nombre es Andrew. Soy promotor de desarrollo principal para el grupo de investigación ética de IA de Google. Como analista, existen muchas cosas que puedes hacer para evaluar tu conjunto de datos a fin de garantizar que lo estás observando a través de varias lentes éticas. Una de ellas sería la autorreflexión y la comprensión de lo que estás haciendo y el impacto que causa. 
+
+El mejor modo de cuestionar eso consiste en preguntar quiénes somos. Nosotros estamos como que, bueno, estamos en este equipo tratando de construir esto porque pensamos que ayudará a mejorar este producto o que contribuirá con información a la toma de decisiones acerca de qué queremos hacer a continuación. Pensar no solamente en los que están sentados directamente a tu lado, pero también pensar acerca de aquellos que están representados en este conjunto de datos y aquellos que no están representados en este conjunto de datos y luego utilizar esa intuición para luego continuar cuestionando la integridad, la calidad, la representación dentro de ese conjunto de datos. Y luego también pensar acerca de varios daños y riesgos asociados con el trabajo que estás haciendo. 
+
+Por ejemplo, si piensas que te beneficiarás de quedarte más tiempo con ese conjunto de datos también querrás entender cuál es el riesgo de quedarte con ese conjunto de datos. ¿Cuál es el daño potencial que podría surgir si continúas mirando ese conjunto de datos y continúas almacenándolo y continúas recuperando esos datos? Y más allá de eso, también hay que entender qué es el proceso de consentimiento. ¿Les estás informando a aquellos de quienes estás recopilando datos cómo se van a utilizar? ¿Cuál es el canal de comunicación? Utilizando varias lentes éticas, y tomando un enfoque con mayores matices para tu análisis, siendo consciente de todos los riesgos posibles y los daños que pueden surgir cuando no solo analizas tu conjunto de datos, sino también cuando presentas tu conjunto de datos. Cómo retratarás esos resultados, cómo se están utilizando en el proceso de toma de decisiones, si estás presentándolos a la gerencia o presentándolos a los ejecutivos, o presentándolos a un público más amplio. 
+
+Todo lo que importa es la utilización responsable del conjunto de datos. Pero como analista de datos, estás parado en la intersección entre la gente que tratará de beneficiarse de la tecnología en desarrollo y esos en tu organización que están tratando de tomar decisiones mejor informadas respecto de si avanzarán o no con la produccionización de la tecnología. Puede parecer que hay mucho peso en esto, y lo hay, pero también es muy cambiante y habla del volumen del impacto de tu trabajo.
 
 ### Sitios y recursos para datos abiertos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Por suerte para los analistas de datos, hay muchos sitios y recursos confiables disponibles para obtener datos abiertos. Es importante recordar que aún los datos que tienen buena reputación deben ser evaluados constantemente, pero los siguientes sitios web son un punto de partida útil:
+
+1. [Sitio de datos del gobierno de los Estados Unidos](https://data.gov/): Data.gov es una de las fuentes de datos más completas de los Estados Unidos. Este recurso proporciona a los usuarios los datos y las herramientas que necesitan para hacer investigaciones, e incluso los ayuda a desarrollar aplicaciones web y móviles y diseñar visualizaciones de datos. 
+
+2. [Oficina de Censos de los Estados Unidos](https://www.census.gov/data.html): Esta fuente de datos abiertos ofrece información demográfica de los gobiernos federales, estatales y locales, y también de entidades comerciales en los Estados Unidos. 
+
+3. [Red de datos abiertos](https://www.opendatanetwork.com/): Esta fuente de datos es un motor de búsqueda realmente poderoso y con filtros de avanzada. Aquí puedes encontrar datos sobre temas de finanzas, seguridad pública, infraestructura, vivienda y desarrollo.
+
+4. [Conjuntos de datos públicos de Google Cloud](https://cloud.google.com/public-datasets): El Programa de conjuntos de datos públicos de Google Cloud ofrece una selección de conjuntos de datos públicos que puedes encontrar ya cargados en BigQuery.  
+
+5. [Dataset Search](https://datasetsearch.research.google.com/): Dataset Search es un motor de búsqueda diseñado específicamente para conjuntos de datos; puedes usarlo para buscar conjuntos de datos específicos. 
 
 ### Actividades practicas: Conjuntos de datos Kaggle 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Resumen de la actividad
+
+Primero, harás un recorrido para encontrar el conjunto de datos específico. Luego, tendrás la posibilidad de elegir tus propios conjuntos de datos con los que desees trabajar. Por último, aplicarás lo que aprendiste en este módulo para determinar el tipo de dato en tus conjuntos de datos, y si los datos son sesgados o imparciales.
+
+Al finalizar esta actividad, serás capaz de utilizar muchas de las funciones útiles que ofrece Kaggle. Esto te permitirá encontrar datos para proyectos e interactuar con la comunidad de datos, lo cual es importante para desarrollar habilidades y establecer redes de contactos en tu carrera como analista de datos.
+
+#### Explorar los conjuntos de datos de Kaggle
+
+Exploremos la función de los conjuntos de datos.
+
+Elegir un conjunto de datos
+
+1. Luego, haz clic en el ícono Datos, en la barra de Navegación de la izquierda. Esto te lleva a la página de inicio de Conjuntos de datos. A partir de aquí, puedes crear un conjunto de datos nuevo o buscar los conjuntos de datos creados por otros usuarios de Kaggle.
+
+![image](./img/module%2001%20img%2003.png)
+
+2. Ahora, revisemos un conjunto de datos específico. Escribe Animal Crossing en la barra de búsqueda para encontrar conjuntos de datos relacionados con el videojuego de Nintendo Animal Crossing.
+
+![image](./img/module%2001%20img%2004.png)
+
+3. Hay más de una opción, así que haz clic en Animal Crossing New Horizons Catalog. Esto te llevará a la página de destino de ese conjunto de datos. 
+
+![image](./img/module%2001%20img%2005.png)
+
+Encabezado:El encabezado en la parte superior de la página contiene la siguiente información sobre el conjunto de datos:
+
+- Su título
+
+- Una breve descripción de su contenido
+
+- El nombre de su creador
+
+- Cuándo se hizo la última actualización
+
+- Su versión actual
+
+**Insignia:** En el extremo superior derecho del encabezado, encontrarás tres elementos más:
+
+- Una insignia en forma de círculo
+
+- Un ícono en forma de acento circunflejo ( ^ )
+
+- Un número 
+
+La insignia se refiere al sistema de progresión de Kaggle. Si quieres, puedes leer más acerca de este tema [aquí](https://www.kaggle.com/progression/).
+
+**Votos a favor:** Hacer clic en el acento circunflejo te permitirá “votar a favor” del conjunto de datos. El número muestra el número de veces que la comunidad Kaggle votó a favor de este conjunto de datos.
+
+**Pestañas:** Debajo del encabezado hay una barra con seis pestañas: Datos, Tareas, Blocs de notas, Debate, Actividad y Metadatos. Tómate un momento para hacer clic en cada una de estas pestañas y explorar sus contenidos. Después, vuelve a la pestaña Datos.
+
+Ahora, puedes desplazarte por la página. Encontrarás una casilla que contiene tres palabras: Usabilidad, Licencia y Pestañas.
+
+**Usabilidad :** muestra cuán completa es la página web del conjunto de datos (y no el conjunto de datos propiamente dicho). Kaggle alienta a la comunidad a agregar información en la página web de los conjuntos de datos para facilitar la comprensión de los conjuntos de datos. Por ejemplo, una breve descripción o un encabezado de columna. Pasa el mouse por encima de la puntuación de Usabilidad para ver qué contiene la página del conjunto de datos.
+
+**Licencias** establece cómo se puede usar el conjunto de datos. Haz clic en nombre de licencia para conocer más acerca de esa licencia en particular.
+
+**Pestañas** se refiere a diferentes temas o categorías. Por ejemplo, si haces clic en la pestaña videojuegos, irás a una página que te muestra todo lo relacionado con videojuegos en Kaggle. Esto incluye competencias, bloc de notas y conjuntos de datos.
+
+El próximo cuadro hacia abajo, contiene una descripción detallada del conjunto de datos. Los usuarios de Kaggle suelen incluir información sobre el origen del conjunto de datos y cómo se creó.
+
+Y, por último, pero no por eso menos importante, está el Explorador de datos.
+
+#### Usar el explorador de datos
+
+El menú del Explorador de datos muestra que el conjunto de datos Animal Crossing contiene 30 archivos .csv. Si haces clic en el nombre de un archivo, se desplegará la información en la ventana de la derecha para ese archivo específico. Intenta hacer clic en umbrellas.csvpara verificarlo.
+
+#### Recorrer el explorador de conjuntos de datos
+
+Observa que el Explorador de datos tiene tres opciones de visualización: **Detalle**, **Compacto** y **Columna**. Por ahora, nos abocaremos a la pestaña Detalle.
+
+![image](./img/module%2001%20img%2006.png)
+
+La descripción que aparece en la parte superior de la pestaña Detalle muestra que el archivo umbrellas.csv contiene datos sobre todos los paraguas (umbrellas) en el videojuego. Ahora, echemos un vistazo a las columnas. Cada encabezado de columna tiene tres elementos:
+
+- Un pequeño ícono a la izquierda muestra el tipo de dato.
+
+- El nombre de la columna.
+
+- Un ícono con tres barras que permite ordenar los datos si haces clic encima de él.
+
+Debajo de cada encabezado de columna hay un cuadro que contiene un resumen de los datos. Esto te permite darte rápidamente una idea de lo que contiene el conjunto de datos. Por ejemplo, el resumen para la columna Nombre muestra que hay 67 valores únicos para los nombres “umbrella” (paraguas). El resumen para la columna DIY muestra que 9 de las recetas de “umbrella” (paraguas) son DIY o “do it yourself” (hazlo tú mismo). Tómate un momento para explorar los resúmenes de las otras columnas.
+
+Y esto completa nuestro recorrido. Eso es mucha información. Siéntete libre de volver a repasar este tema.
 
 ### Cuestionario práctico 📑
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-12%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+1. ¿Qué aspecto de la ética de datos promueve el acceso libre a los datos, su uso y también el uso compartido?
+
+    - Consentimiento
+    
+      ❌ Incorrecto.
+  
+    - Apertura
+    
+      ✅ Correcto. Apertura es el aspecto de la ética de datos que promueve el acceso libre a los datos, su uso y también el uso compartido.
+    
+    - Privacidad
+    
+      ❌ Incorrecto.
+      
+    - Transparencia de la transacción
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuáles son los principales beneficios de los datos abiertos? Selecciona todas las opciones que correspondan.
+
+    - Los datos abiertos hacen que los datos correctos estén ampliamente disponibles.
+    
+      ✅ Correcto. Entre los beneficios de los datos abiertos se encuentran la amplia difusión de datos correctos y la combinación de datos de diferentes campos del conocimiento.
+  
+    - Los datos abiertos combinan datos de diferentes campos del conocimiento.
+    
+      ✅ Correcto. Entre los beneficios de los datos abiertos se encuentran la amplia difusión de datos correctos y la combinación de datos de diferentes campos del conocimiento.
+    
+    - Los datos abiertos restringen el acceso de los datos a determinados grupos de personas.
+    
+      ❌ Incorrecto.
+      
+    - Los datos abiertos aumentan la cantidad de datos disponibles para la compra. 
+    
+      ❌ Incorrecto.
+
+
+3. La participación universal es un estándar de los datos abiertos. ¿Cuáles son los aspectos clave de la participación universal? Selecciona todas las opciones que correspondan.
+
+    - Ciertos grupos de personas deben compartir sus datos privados. 
+    
+      ❌ Incorrecto.
+  
+    - Todos deben poder usar, reutilizar y redistribuir los datos abiertos. 
+    
+      ✅ Correcto. Los aspectos clave de la participación universal sostienen que todo el mundo debe poder utilizar, reutilizar y redistribuir los datos abiertos. Además, nadie puede imponer restricciones en los datos para discriminar a una persona o a un grupo. 
+    
+    - Nadie puede imponer restricciones en los datos para discriminar a una persona o a un grupo. 
+    
+      ✅ Correcto. Los aspectos clave de la participación universal sostienen que todo el mundo debe poder utilizar, reutilizar y redistribuir los datos abiertos. Además, nadie puede imponer restricciones en los datos para discriminar a una persona o a un grupo. 
+      
+    - Todas las corporaciones pueden vender datos abiertos.
+    
+      ❌ Incorrecto.
 
 ---
 
