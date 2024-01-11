@@ -41,11 +41,11 @@ Este tercer modulo se divide en:
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Hola de nuevo. Hasta ahora, has visto cómo se pueden reunir y analizar los datos para resolver todo tipo de problemas. El siguiente paso es aprender todo sobre bases de datos a modo de repaso. Una base de datos es un conjunto de datos almacenados en un sistema informático, pero el almacenamiento es solo el comienzo. Descubrirás cómo las bases de datos posibilitan encontrar la información exacta que necesitas para tu análisis. También aprenderás cómo ordenar los datos para acercar aquellos que necesites para generar informes perspicaces y mucho más. Luego profundizaremos estos temas muy, pero muy a fondo. Estoy hablando de metadatos. Es probable que hayas escuchado a alguien decir que algo es “autoconsciente” (en inglés, “meta”). En general, están hablando de algo que se refiere a sí mismo o que está siendo consciente de sí mismo. Por ejemplo, si el personaje de un libro sabe que está dentro de un libro, es autoconsciente.. Si realizas un documental sobre cómo hacer documentales, eso también es algo autoconsciente. Y aquí, en Google, constantemente analizo la forma en que analizo los datos. No hay duda de que eso es autoconsciente.
+Hola de nuevo. Hasta ahora, has visto cómo se pueden reunir y analizar los datos para resolver todo tipo de problemas. El siguiente paso es aprender todo sobre bases de datos a modo de repaso. Una base de datos es un conjunto de datos almacenados en un sistema informático, pero el almacenamiento es solo el comienzo. Descubrirás cómo las bases de datos posibilitan encontrar la información exacta que necesitas para tu análisis. También aprenderás cómo ordenar los datos para acercar aquellos que necesites para generar informes perspicaces y mucho más. Luego profundizaremos estos temas muy, pero muy a fondo. Estoy hablando de metadatos. Es probable que hayas escuchado a alguien decir que algo es “**autoconsciente**” (en inglés, “**meta**”). En general, están hablando de algo que se refiere a sí mismo o que está siendo consciente de sí mismo. Por ejemplo, si el personaje de un libro sabe que está dentro de un libro, es autoconsciente.. Si realizas un documental sobre cómo hacer documentales, eso también es algo autoconsciente. Y aquí, en Google, constantemente analizo la forma en que analizo los datos. No hay duda de que eso es autoconsciente.
 
 Hago eso para que mi trabajo cuente con una revisión de calidad, para asegurarme de que mis métodos son justos. Y para asegurarme de que estoy prestando atención a cualquier sesgo que pueda afectar el resultado. Como analista, debes hacer esto también. A veces nos acercamos demasiado a nuestros datos. Y es clave tomar distancia y preguntarnos a nosotros mismos si nuestros procesos tienen sentido. Pero regresemos un poco hacia atrás y definamos metadatos. Los metadatos son datos sobre los datos. Como ya dije: es muy profundo.
 
-Los metadatos son muy importantes cuando trabajas con bases de datos. Piensa en ellos como una guía de referencia. Sin esa guía lo único que tienes es un montón de datos sin un contexto que explique lo que significan. Los metadatos indican de dónde vienen los datos, cuándo y cómo se crearon, y de qué se tratan.
+**Los metadatos son muy importantes cuando trabajas con bases de datos**. Piensa en ellos como una guía de referencia. Sin esa guía lo único que tienes es un montón de datos sin un contexto que explique lo que significan. **Los metadatos indican de dónde vienen los datos, cuándo y cómo se crearon, y de qué se tratan.**
 
 A continuación, aprenderás cómo tomar datos de una base de datos u otra fuente y agregarlos a una hoja de cálculo. Podrás hacer esto importando datos directamente o utilizando SQL para generar la solicitud. Y una vez que tengas los datos en una hoja de cálculo, las posibilidades son infinitas. Todo lo que estamos a punto de aprender es una parte muy importante de la fase de preparación del proceso de análisis de datos. Es cómo los analistas de datos descubren qué tipo de datos serán útiles para ellos. Si tienes los datos correctos, es muy probable que puedas resolver los problemas de tu empresa de forma exitosa. ¿Estás listo para aprovechar el increíble poder de las bases de datos? Empecemos.
 
@@ -53,16 +53,164 @@ A continuación, aprenderás cómo tomar datos de una base de datos u otra fuent
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Las bases de datos son herramientas esenciales para los analistas de datos. Yo las utilizo constantemente. Todos los datos a los que accedo están almacenados en bases de datos. Las bases de datos almacenan y organizan datos, lo que facilita la gestión y el acceso a la información por parte de los analistas de datos. Nos ayudan a obtener información de forma más rápida, a tomar decisiones basadas en datos y a resolver problemas. Ya has oído hablar un poco acerca de qué son las bases de datos y cómo las usan los analistas de datos. Ahora vamos a aprender más sobre las funciones y los componentes de las bases de datos. Aquí puedes ver una estructura simple de una base de datos. Contiene tablas con información sobre un fabricante de automóviles. El nivel superior incluye concesionarios de automóviles, detalles de productos y piezas de repuesto. Luego, si examinas a fondo el siguiente nivel tras seleccionar una de esas tablas, encontrarás detalles más específicos sobre cada una de ellas. Esto se denomina una base de datos relacional. Una base de datos relacional es una base de datos que contiene una serie de tablas relacionadas que pueden conectarse mediante sus relaciones. Para que dos tablas tengan una relación, debe haber uno o más campos iguales dentro de ambas tablas. Por ejemplo, en este caso, branch ID puede verse en esta tabla y en esta otra. Si existe el mismo campo en ambas tablas, podemos utilizarlo para conectar las dos tablas. El campo con branch ID es clave para conectar estas tablas. Hay dos tipos de claves. Unaclave primaria es un identificador que hace referencia a una columna en la que cada valor es único. Puedes considerarla como un identificador único para cada fila de la tabla. Para nuestra tabla del concesionario, que contiene información sobre las distintas sucursales del concesionario, branch ID es la clave primaria. De manera similar, para la tabla que contiene detalles de los productos de cada automóvil, nuestra clave primaria es el número de inspección del vehículo (VIN). Como analista, es posible que necesites crear tablas. Si decides incluir una clave primaria, debe ser única, lo que quiere decir que no puede haber dos filas con la misma clave primaria. Tampoco puede tener un valor nulo o en blanco. También hay claves externas. Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. En otras palabras, una clave externa es cómo una tabla puede conectarse con otra. Dado que nuestra tabla con las piezas de repuesto contiene información sobre cada parte del automóvil, la clave primaria es part ID. Cada fila de nuestra tabla de piezas de repuesto representa una pieza única. Todas las otras claves de esta tabla, como el número de inspección del vehículo, son claves externas que permiten que la tabla de las piezas de repuesto esté conectada con las otras tablas. Como puedes ver, una tabla solo puede tener una clave primaria, pero puede contar con muchas claves externas. Comprender la clave primaria y las claves externas puede ser complicado, pero tendrás más oportunidades para practicarlas próximamente. A modo de resumen general, una clave primaria se utiliza para asegurar que los datos de una columna específica son únicos. Solamente identifica un registro en una tabla de base de datos relacional. Solo se permite una clave primaria en una tabla y no puede contener valores nulos o en blanco. Una clave externa es una columna o un grupo de columnas de una tabla de base de datos relacional que proporciona un enlace entre los datos y las dos tablas. Se refiere al campo de una tabla que es la clave primaria de otra tabla. Por último, es importante recordar que puede haber más de una clave externa en una tabla. Puedes volver a mirar el video para que puedas estar seguro de que comprendes bien las claves primarias y externas. A continuación, comenzarás a practicar cómo acceder y analizar los datos de bases de datos reales. Será una gran oportunidad para mejorar tu comprensión de claves primarias y externas, la organización de la base de datos y cómo puedes utilizar las bases de datos en tu carrera como futuro analista.
+Las bases de datos son herramientas esenciales para los analistas de datos. Yo las utilizo constantemente. Todos los datos a los que accedo están almacenados en bases de datos. Las bases de datos almacenan y organizan datos, lo que facilita la gestión y el acceso a la información por parte de los analistas de datos. Nos ayudan a obtener información de forma más rápida, a tomar decisiones basadas en datos y a resolver problemas. Ya has oído hablar un poco acerca de qué son las bases de datos y cómo las usan los analistas de datos. Ahora vamos a aprender más sobre las funciones y los componentes de las bases de datos. Aquí puedes ver una estructura simple de una base de datos. Contiene tablas con información sobre un fabricante de automóviles. El nivel superior incluye concesionarios de automóviles, detalles de productos y piezas de repuesto. Luego, si examinas a fondo el siguiente nivel tras seleccionar una de esas tablas, encontrarás detalles más específicos sobre cada una de ellas. Esto se denomina una base de datos relacional. 
+
+![image](./img/module%3001%20img%3001.png)
+
+**Una base de datos relacional es una base de datos que contiene una serie de tablas relacionadas que pueden conectarse mediante sus relaciones**. Para que dos tablas tengan una relación, debe haber uno o más campos iguales dentro de ambas tablas. Por ejemplo, en este caso, branch ID puede verse en esta tabla y en esta otra. Si existe el mismo campo en ambas tablas, podemos utilizarlo para conectar las dos tablas. El campo con branch ID es clave para conectar estas tablas. Hay dos tipos de claves. **Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único**. Puedes considerarla como un identificador único para cada fila de la tabla. Para nuestra tabla del concesionario, que contiene información sobre las distintas sucursales del concesionario, branch ID es la clave primaria. De manera similar, para la tabla que contiene detalles de los productos de cada automóvil, nuestra clave primaria es el número de inspección del vehículo (VIN). Como analista, es posible que necesites crear tablas. **Si decides incluir una clave primaria, debe ser única, lo que quiere decir que no puede haber dos filas con la misma clave primaria. Tampoco puede tener un valor nulo o en blanco.**
+
+También hay claves externas. Una clave externa es un campo en una tabla que es una clave primaria en otra tabla. En otras palabras, **una clave externa es cómo una tabla puede conectarse con otra**. Dado que nuestra tabla con las piezas de repuesto contiene información sobre cada parte del automóvil, la clave primaria es part ID. Cada fila de nuestra tabla de piezas de repuesto representa una pieza única. Todas las otras claves de esta tabla, como el número de inspección del vehículo, son claves externas que permiten que la tabla de las piezas de repuesto esté conectada con las otras tablas. Como puedes ver, una tabla solo puede tener una clave primaria, pero puede contar con muchas claves externas. 
+
+Comprender la clave primaria y las claves externas puede ser complicado, pero tendrás más oportunidades para practicarlas próximamente. A modo de resumen general, una clave primaria se utiliza para asegurar que los datos de una columna específica son únicos. Solamente identifica un registro en una tabla de base de datos relacional. **Solo se permite una clave primaria en una tabla y no puede contener valores nulos o en blanco. Una clave externa es una columna o un grupo de columnas de una tabla de base de datos relacional que proporciona un enlace entre los datos y las dos tablas**. Se refiere al campo de una tabla que es la clave primaria de otra tabla. Por último, **es importante recordar que puede haber más de una clave externa en una tabla**.
+
+![image](./img/module%3001%20img%3002.png)
+
+![image](./img/module%3001%20img%3003.png)
 
 ### Bases de datos en el análisis computacional de datos 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Las bases de datos permiten a los analistas manipular, almacenar y procesar datos. Esto les ayuda a buscar datos de manera mucho más eficiente para obtener la mejor información. 
+
+#### Bases de datos relacionales
+
+Una base de datos relacional es una base de datos que contiene una serie de tablas que se pueden conectar para mostrar relaciones. Básicamente, permiten a los analistas de datos organizar y vincular datos en función de lo que los datos tienen en común. 
+
+En una tabla no relacional, encontrarás todas las variables posibles que podría interesarte analizar agrupadas conjuntamente. Esto puede hacer que sean realmente difíciles de clasificar. Esa es una de las razones por las que las bases de datos relacionales son tan comunes en el análisis de datos: simplifican muchos procesos de análisis y hacen que los datos sean más fáciles de encontrar y de usar en toda una base de datos. 
+
+#### La clave de las bases de datos relacionales
+
+Las tablas de una base de datos relacional están conectadas por los campos que tienen en común. Es posible que recuerdes haber aprendido sobre las claves primarias y externas antes. Para repasar rápidamente, una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. En otras palabras, es una columna de una tabla que se utiliza para identificar de forma única cada registro dentro de esa tabla. El valor asignado a la clave primaria en una fila determinada debe ser único en toda la tabla. Por ejemplo, si customer_id es la clave primaria para la tabla del cliente, no puede haber dos clientes con el mismo customer_id. 
+
+Por el contrario, una **clave externa** es un campo en una tabla que es una clave primaria en otra tabla. Una tabla puede tener solo una clave primaria, pero puede tener varias claves externas. Esas claves son las que generan las relaciones entre las tablas en una base de datos relacional, lo que ayuda a organizar y conectar los datos entre varias tablas en la base de datos. 
+
+Algunas tablas no requieren una clave primaria. Por ejemplo, una tabla de ingresos puede tener muchas claves externas y ninguna clave primaria. Una clave primaria también puede construirse a partir de varias columnas de una tabla. Este tipo de clave primaria se denomina clave compuesta. Por ejemplo, si customer_id y location_id son dos columnas de una clave compuesta en la tabla de un cliente, los valores asignados a esos campos en cualquier fila dada deben ser únicos en toda la tabla.
+
+![image](./img/module%3001%20img%3004.png)
+
+#### ¿SQL? Estás hablando mi idioma 
+
+Las bases de datos utilizan un lenguaje especial para comunicarse denominado lenguaje de consulta. El lenguaje de consulta estructurado (SQL) es un tipo de lenguaje de consulta que permite a los analistas de datos comunicarse con la base de datos. De este modo, un analista de datos usará SQL para crear una consulta con el fin de ver los datos específicos que quiere visualizar en un conjunto más grande. En una base de datos relacional, los analistas de datos pueden escribir consultas para obtener información de las tablas relacionadas. SQL es una herramienta poderosa para trabajar con bases de datos; ¡por eso aprenderás más sobre esta herramienta a continuación! 
 
 ### Examinar un conjunto de datos: Un recorrido práctico y guiado 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Las claves crean relaciones entre tablas en bases de datos relacionales. En este ejercicio, identificarás similitudes y diferencias entre claves primarias y externas.
+
+1. Una tabla puede tener solo una _____.
+
+    - Llave primaria (PK)
+    
+      ✅ Correcto. Una clave primaria es única y puede existir solo una vez dentro de una tabla determinada. No puede contener valores nulos o en blanco.
+  
+    - Llave foránea (FK)
+    
+      ❌ Incorrecto.
+    
+    - Ambas
+    
+      ❌ Incorrecto.
+      
+    - Ninguna
+    
+      ❌ Incorrecto.
+
+
+2. Una tabla puede tener muchas _____.
+
+    - Llave primaria (PK)
+    
+      ❌ Incorrecto.
+  
+    - Llave foránea (FK)
+    
+      ✅ Correcto. Una clave externa es un campo que es una clave primaria en otra tabla. Las tablas pueden contener varias claves externas.
+    
+    - Ambas
+    
+      ❌ Incorrecto.
+      
+    - Ninguna
+    
+      ❌ Incorrecto.
+
+
+3. No puede tener valores nulos o en blanco _____.
+
+    - Llave primaria (PK)
+    
+      ✅ Correcto. Una clave primaria es única y puede existir solo una vez dentro de una tabla determinada. No puede contener valores nulos o en blanco.
+  
+    - Llave foránea (FK)
+    
+      ❌ Incorrecto. En el caso de la llave foránea (FK), puede permitirse que contenga valores nulos. Una llave foránea nula indica que no hay una relación correspondiente con la tabla referenciada. Por ejemplo, en una relación "muchos a uno", donde varios registros de una tabla pueden relacionarse con un solo registro en otra, algunos registros pueden no tener una relación establecida y, por lo tanto, tendrían valores nulos en la llave foránea.
+    
+    - Ambas
+    
+      ❌ Incorrecto. 
+      
+    - Ninguna
+    
+      ❌ Incorrecto. 
+
+
+4. Es un campo en una tabla que es una clave primaria en otra tabla.
+
+    - Llave primaria (PK)
+    
+      ❌ Incorrecto.
+  
+    - Llave foránea (FK)
+    
+      ✅ Correcto. Una clave externa es un campo que es una clave primaria en otra tabla. Las tablas pueden contener varias claves externas.
+    
+    - Ambas
+    
+      ❌ Incorrecto.
+      
+    - Ninguna
+    
+      ❌ Incorrecto.
+
+
+5. Se utiliza para conectar tablas en bases de datos relacionales.
+
+    - Llave primaria (PK)
+    
+      ❌ Incorrecto.
+  
+    - Llave foránea (FK)
+    
+      ❌ Incorrecto.
+    
+    - Ambas
+    
+      ✅ Correcto. Tanto las claves primarias como las externas conectan tablas en bases de datos relacionales. Las tablas pueden tener solo una clave primaria, pero pueden tener varias claves externas.
+      
+    - Ninguna
+    
+      ❌ Incorrecto.
+
+
+6. Se utiliza para conectar tablas en bases de datos relacionales.
+
+    - Llave primaria (PK)
+    
+      ✅ Correcto. Una clave primaria es única y puede existir solo una vez dentro de una tabla determinada. No puede contener valores nulos o en blanco.
+  
+    - Llave foránea (FK)
+    
+      ❌ Incorrecto.
+    
+    - Ambas
+    
+      ❌ Incorrecto.
+      
+    - Ninguna
+    
+      ❌ Incorrecto.
 
 
 ### Cuestionario práctico 📑
@@ -71,7 +219,63 @@ Las bases de datos son herramientas esenciales para los analistas de datos. Yo l
 
 Pon a prueba tus conocimientos sobre cómo trabajar con conjuntos de datos.
 
+1. Completa el espacio en blanco: Un _____ es un identificador que hace referencia a una columna de una base de datos en la que cada valor es único. 
 
+    - campo
+    
+      ❌ Incorrecto.
+  
+    - clave externa
+    
+      ❌ Incorrecto.
+    
+    - clave primaria
+    
+      ✅ Correcto. Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. Una clave externa es un campo en una tabla que es una clave primaria en la tabla original.
+      
+    - relación
+    
+      ❌ Incorrecto.
+
+
+2. Completa el espacio en blanco: Una base de datos relacional contiene una serie de _____ que se pueden conectar para formar relaciones.
+
+    - hojas de cálculo
+    
+      ❌ Incorrecto.
+  
+    - celdas
+    
+      ❌ Incorrecto.
+    
+    - tablas
+    
+      ✅ Correcto. Una base de datos relacional contiene una serie de tablas que se pueden conectar para formar relaciones.
+      
+    - campos
+    
+      ❌ Incorrecto.
+
+
+3. Un beneficio clave de trabajar con bases de datos normalizadas es que ayudan a reducir la redundancia de datos. ¿Cuál de las siguientes opciones es un ejemplo de redundancia?
+
+    - Una base de datos que forma dos o más relaciones
+    
+      ❌ Incorrecto.
+  
+    - Los mismos datos se almacenan en dos lugares diferentes.
+    
+      ✅ Correcto. Los mismos datos que se almacenan en dos lugares diferentes son un ejemplo de redundancia.
+    
+    - Los miembros del equipo en las distintas oficinas que trabajan con los mismos datos.
+    
+      ❌ Incorrecto.
+      
+    - Una base de datos que contiene dos claves externas.
+    
+      ❌ Incorrecto.
+
+      
 ---
 
 ## 2. Gestionar datos con metadatos 🗄️ 
