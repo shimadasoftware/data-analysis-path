@@ -332,3 +332,29 @@ The ability of data systems and services to openly connect and share data.
 - Reuse and redistribution: Open data must be provided under terms that allow reuse and redistribution, including the possibility of using it with other data sets.
   
 - Universal participation: Everyone must be able to use, reuse and redistribute data. There should be no discrimination based on areas, people or groups. No one can set restrictions on the data, such as making it only available in a particular industry.
+
+## Module 3
+
+### Database 
+A collection of data stored in a computer system.
+
+### Metadata 
+Data about data. Metadata tells you where the data comes from, when and how it was created, and what it's all about.
+
+### Relational database
+A database that contains a series of related tables that can be connected via their relationships.
+
+### Primary key
+An identifier that references a column in which each value is unique. 
+
+- Used to ensure data in a specific column is unique
+- Uniquely identifies a record in a relational database table
+- Only one primary key is allowed in a table
+- Cannot contain null or blank values
+
+### Foreign key
+A field within a table that is a primary key in another table.
+
+- A column or group of columns in a relational database table that provides a link between the data in two tables
+- Refers to the field in a table that’s the primary key of another table
+- More than one foreign key is allowed to exist in a table
