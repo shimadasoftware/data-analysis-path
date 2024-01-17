@@ -306,11 +306,79 @@ También incluiría el autor y el título del libro. Luego pasamos a los metadat
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+Echa un vistazo a cualquier dato que encuentres. ¿Qué es? ¿De dónde provino? ¿Es útil? ¿Cómo lo sabes? Aquí es donde entran en juego los metadatos para proporcionar una mejor comprensión de los datos. En pocas palabras, los metadatos son datos sobre datos. En la gestión de la base de datos, proporcionan información sobre otros datos y ayudan a los analistas de datos a interpretar los contenidos de los datos en una base de datos.
+
+Independientemente de si estás trabajando con una gran cantidad de datos o con una pequeña, los metadatos son la marca de un equipo de análisis bien informado, que ayuda a comunicar datos a toda la empresa y a simplificar la reutilización de los datos. Básicamente, los metadatos informan el quién, qué, cuándo, dónde, cuál, cómo y por qué de los datos.
+
+#### Elementos de los metadatos
+
+Antes de mirar ejemplos de metadatos, es importante comprender qué tipo de información suelen proporcionar los metadatos.
+
+#### Título y descripción
+
+¿Cuál es el nombre del archivo o del sitio web que estás examinando? ¿Qué tipo de contenido tiene?
+
+#### Etiquetas y categorías
+
+¿Cuál es la descripción general de los datos que tienes? ¿Los datos están indexados o descriptos de algún modo específico? 
+
+#### Quién los creó y cuándo
+
+¿De dónde vinieron los datos y cuándo se crearon? ¿Son recientes o existen desde hace mucho tiempo?
+
+#### Quién los modificó por última vez y cuándo
+
+¿Se realizaron cambios en los datos?  De ser así, ¿las modificaciones eran recientes?
+
+#### Quién puede acceder a ellos o actualizarlos
+
+¿Este conjunto de datos es público? ¿Se necesitan permisos especiales para personalizar o modificar el conjunto de datos?
+
+#### Ejemplos de metadatos
+
+En el mundo digital actual, los metadatos están en todos lados y es una práctica cada vez más común brindar metadatos en muchos medios e información con la que interactúas. Aquí tienes algunos ejemplos de la vida real sobre dónde encontrar metadatos:
+
+#### Fotografías
+
+Cuando se toma una fotografía con una cámara, se recopilan y se guardan metadatos relacionados con el nombre del archivo en la cámara, la fecha, la hora y la geolocalización.
+
+#### Correos electrónicos
+
+Cuando envías o recibes un correo electrónico, hay muchos metadatos visibles, como la línea del asunto, el destinatario, y la fecha y la hora del envío. También hay metadatos ocultos que incluyen nombres de servidores, direcciones IP, formatos HTML y detalles de software.
+
+#### Hojas de cálculo y documentos
+
+Las hojas de cálculo y los documentos contienen una gran cantidad de datos, así que no resulta sorprendente que los metadatos también los acompañen. Los títulos, el autor, la fecha de creación, el número de páginas, los comentarios del usuario, así como los nombres de las pestañas, de las tablas y de las columnas son metadatos que pueden encontrarse en hojas de cálculo y en documentos. 
+
+#### Sitios web
+
+Cada página web tiene un número de campos de metadatos estándar; por ejemplo, etiquetas y categorías, nombre del creador del sitio, título y descripción de la página web, hora de creación y cualquier iconografía. 
+
+#### Archivos digitales
+
+Por lo general, si haces clic con el botón derecho en cualquier archivo de la computadora, verás sus metadatos. Pueden consistir en el nombre de un archivo, su tamaño, la fecha de creación y de modificación, y el tipo de archivo. 
+
+#### Libros
+
+Los metadatos no son solamente digitales. Cada libro tiene una cantidad de metadatos estándares en las tapas y en el interior que te informarán sobre el título, el nombre del autor, la tabla de contenidos, la información editorial, la descripción de copyright, el índice y una breve descripción de los contenidos del libro.
+
+#### Los datos como los conoces
+
+Conocer el contenido y el contexto de tus datos, así como la forma en la que están estructurados, es muy valioso en tu carrera como analista de datos. A la hora de analizar los datos, es importante que siempre entiendas el panorama general. No solo se trata de los datos que estás observando, sino de cómo se integran esos datos. Los metadatos garantizan que puedas encontrar, utilizar, preservar y reutilizar los datos en el futuro. Recuerda que será tu responsabilidad gestionar y utilizar los datos en su totalidad; los metadatos son tan importantes como los datos.
+
 ### Utilizar metadatos como un analista 🎬
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Ahora que sabes qué son los metadatos, es hora de explorar por qué los analistas de datos los utilizan. Ya sabes que los datos necesitan ser identificados y descriptos antes de que puedan ayudarte a resolver un problema o a tomar una decisión efectiva para la empresa. Poner los datos en contexto es probablemente lo más valioso que hacen los metadatos, pero hay muchos más beneficios de utilizar metadatos. Este es uno de ellos. Los metadatos crean una única fuente de verdad al mantener las cosas coherentes y uniformes. Nosotros, los analistas de datos, amamos la coherencia. Siempre buscamos este tipo de uniformidad en nuestros datos y en nuestras bases de datos. Después de todo, los datos que son uniformes pueden organizarse, clasificarse, almacenarse, accederse y utilizarse de manera efectiva. Además, cuando una base de datos es coherente, es mucho más fácil descubrir relaciones entre los datos que están dentro de ella y los datos que están en otro lugar. Los metadatos también permiten que los datos sean más confiables al asegurar que sean exactos, precisos, relevantes y oportunos. Eso hace que sea más fácil para los analistas de datos identificar las causas raíz de cualquier problema que pueda surgir. La conclusión es que, cuando los datos con los que trabajamos son de buena calidad, las cosas se vuelven más simples y mejoran los resultados. Una de las formas en que los analistas de datos se aseguran de que sus datos sean coherentes y confiables es mediante el uso de algo llamado repositorio de metadatos. Un repositorio de metadatos es una base de datos creada específicamente para almacenar metadatos. Los repositorios de metadatos pueden almacenarse en una locación física o pueden ser virtuales, como los datos que existen en la nube. Estos repositorios describen de dónde vienen los metadatos, los mantienen accesibles para que puedan ser utilizados de forma rápida y simple, y los mantienen en una estructura común para quienes necesiten utilizarlos. Los repositorios de metadatos hacen que sea más fácil y rápido reunir muchas fuentes para el análisis de datos. Para hacer esto, describen el estado y la ubicación de los metadatos, la estructura de las tablas que están dentro y cómo fluyen los datos por el repositorio. Incluso registran quién accede a los metadatos y cuándo. Aquí hay un ejemplo del mundo real. Como analista del cuidado de la salud en Google, utilizo datos de segunda y de tercera fuente. Como sabes, los datos de segunda fuente son datos que recopila un grupo directamente de su audiencia y que, luego, se venden. Los datos de tercera fuente vienen de fuentes externas que no son las recopiladoras originales de los datos. Los obtienen de páginas web o de programas que extraen los datos de distintas plataformas donde se generaron originalmente. Es un poco complejo, pero lo más importante es recordar que los datos de terceras partes no provienen del interior de tu propia empresa. Si mi equipo necesita trabajar con datos que no fueron creados en Google, eso quiere decir que a veces nosotros no sabemos demasiado sobre su calidad y credibilidad, pero necesitamos estar seguros de que nuestros datos pueden ser confiables y que se recopilaron de manera responsable. Después de todo, si los datos no son confiables, nuestros resultados tampoco serán confiables. Por eso es tan importante comprender los metadatos de la base de datos externa. Nos permite confirmar que los datos están limpios, son precisos, relevantes y oportunos. Eso es muy importante si los datos provienen de otra organización. Otro paso importante cuando uno trabaja con datos externos es confirmar que estamos autorizados a utilizarlos. Solemos contactar al dueño para asegurarnos de que podemos acceder a ellos o comprarlos. En resumen, los repositorios de metadatos son útiles por todas estas razones. Además, me ayudan a garantizar que mi equipo está extrayendo el contenido correcto para un proyecto particular y que lo está utilizando de forma apropiada. Podemos confirmar esto porque los metadatos describen de manera clara cómo y cuándo se recopilaron los datos, cómo están organizados y mucho más. Pronto aprenderás mucho más sobre el uso de metadatos en análisis computacional de datos, y si piensas que los metadatos son particularmente fascinantes, descubrirás algunas opciones profesionales muy emocionantes que se enfocan en los metadatos. Mantente atento.
+Ahora que sabes qué son los metadatos, es hora de explorar por qué los analistas de datos los utilizan. Ya sabes que los datos necesitan ser identificados y descriptos antes de que puedan ayudarte a resolver un problema o a tomar una decisión efectiva para la empresa. Poner los datos en contexto es probablemente lo más valioso que hacen los metadatos, pero hay muchos más beneficios de utilizar metadatos. Este es uno de ellos. Los metadatos crean una única fuente de verdad al mantener las cosas coherentes y uniformes. Nosotros, los analistas de datos, amamos la coherencia. Siempre buscamos este tipo de uniformidad en nuestros datos y en nuestras bases de datos. Después de todo, los datos que **son uniformes pueden organizarse, clasificarse, almacenarse, accederse y utilizarse de manera efectiva**. Además, cuando una base de datos es coherente, es mucho más fácil descubrir relaciones entre los datos que están dentro de ella y los datos que están en otro lugar. 
+
+**Los metadatos también permiten que los datos sean más confiables al asegurar que sean exactos, precisos, relevantes y oportunos**. Eso hace que sea más fácil para los analistas de datos identificar las causas raíz de cualquier problema que pueda surgir. La conclusión es que, cuando los datos con los que trabajamos son de buena calidad, las cosas se vuelven más simples y mejoran los resultados. Una de las formas en que los analistas de datos se aseguran de que sus datos sean coherentes y confiables es mediante el uso de algo llamado repositorio de metadatos. 
+
+**Un repositorio de metadatos es una base de datos creada específicamente para almacenar metadatos**. Los repositorios de metadatos pueden **almacenarse en una locación física o pueden ser virtuales, como los datos que existen en la nube**. Estos repositorios describen de dónde vienen los metadatos, los mantienen accesibles para que puedan ser utilizados de forma rápida y simple, y los mantienen en una estructura común para quienes necesiten utilizarlos. Los repositorios de metadatos hacen que sea más fácil y rápido reunir muchas fuentes para el análisis de datos. Para hacer esto, describen el estado y la ubicación de los metadatos, la estructura de las tablas que están dentro y cómo fluyen los datos por el repositorio. Incluso registran quién accede a los metadatos y cuándo. 
+
+Aquí hay un ejemplo del mundo real. Como analista del cuidado de la salud en Google, utilizo datos de segunda y de tercera fuente. Como sabes, los datos de segunda fuente son datos que recopila un grupo directamente de su audiencia y que, luego, se venden. Los datos de tercera fuente vienen de fuentes externas que no son las recopiladoras originales de los datos. Los obtienen de páginas web o de programas que extraen los datos de distintas plataformas donde se generaron originalmente. Es un poco complejo, pero lo más importante es recordar que los datos de terceras partes no provienen del interior de tu propia empresa. Si mi equipo necesita trabajar con datos que no fueron creados en Google, eso quiere decir que a veces nosotros no sabemos demasiado sobre su calidad y credibilidad, pero necesitamos estar seguros de que nuestros datos pueden ser confiables y que se recopilaron de manera responsable. Después de todo, si los datos no son confiables, nuestros resultados tampoco serán confiables. Por eso es tan importante comprender los metadatos de la base de datos externa. Nos permite confirmar que los datos están limpios, son precisos, relevantes y oportunos. Eso es muy importante si los datos provienen de otra organización. 
+
+Otro paso importante cuando uno trabaja con datos externos es confirmar que estamos autorizados a utilizarlos. Solemos contactar al dueño para asegurarnos de que podemos acceder a ellos o comprarlos. En resumen, los repositorios de metadatos son útiles por todas estas razones. Además, me ayudan a garantizar que mi equipo está extrayendo el contenido correcto para un proyecto particular y que lo está utilizando de forma apropiada. Podemos confirmar esto porque los metadatos describen de manera clara cómo y cuándo se recopilaron los datos, cómo están organizados y mucho más. Pronto aprenderás mucho más sobre el uso de metadatos en análisis computacional de datos, y si piensas que los metadatos son particularmente fascinantes, descubrirás algunas opciones profesionales muy emocionantes que se enfocan en los metadatos. Mantente atento.
 
 ### Gestión de metadatos 🎬
 
@@ -329,6 +397,81 @@ Los metadatos y los repositorios de metadatos son herramientas muy poderosas de 
 [![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 Pon a prueba tus conocimientos sobre metadatos.
+
+1. Una empresa grande tiene varias recopilaciones de datos en sus diversos departamentos. ¿Qué tipo de metadatos indica exactamente en cuántas recopilaciones se encuentra un dato?
+
+    - Administrativos
+    
+      ❌ Incorrecto.
+  
+    - Descriptivos
+    
+      ❌ Incorrecto.
+    
+    - Estructurales
+    
+      ✅ Correcto. Los metadatos estructurales indican exactamente en cuántas recopilaciones se encuentran ciertos datos. Proporciona información sobre cómo se organizan los datos y si forman parte de una o de más de una recopilación de datos. 
+      
+    - Representativos
+    
+      ❌ Incorrecto.
+
+
+2. ¿La fecha y el momento en que se tomó una foto es un ejemplo de qué tipo de metadatos?
+
+    - Administrativos
+    
+      ✅ Correcto. La fecha y el momento en que se tomó una foto es un ejemplo de metadatos administrativos. Los metadatos administrativos indican la fuente técnica y los detalles para un activo digital.
+  
+    - Descriptivos
+    
+      ❌ Incorrecto.
+    
+    - Estructurales
+    
+      ❌ Incorrecto.
+      
+    - Representativos
+    
+      ❌ Incorrecto.
+
+
+3. ¿La fecha y el momento en que se tomó una foto es un ejemplo de qué tipo de metadatos?
+
+    - Administrativos
+    
+      ❌ Incorrecto.
+  
+    - Descriptivos
+    
+      ✅ Correcto. Los números de ID son metadatos descriptivos. Los metadatos descriptivos describen a un dato y se pueden utilizar para identificarlo en cualquier momento.
+    
+    - Estructurales
+    
+      ❌ Incorrecto.
+      
+    - Representativos
+    
+      ❌ Incorrecto.
+
+
+4. Una empresa necesita fusionar datos de terceros con sus propios datos. ¿Cuál de las siguientes acciones ayudarán a que este proceso sea exitoso? Selecciona todas las opciones que correspondan.
+
+    - Utilizar los metadatos para estandarizar los datos.
+    
+      ✅ Correcto. La empresa puede utilizar los metadatos para estandarizar los datos y evaluar la calidad y credibilidad de los datos de terceros.
+  
+    - Alterar los metadatos de la empresa para reflejar más minuciosamente los metadatos entrantes.
+    
+      ❌ Incorrecto.
+    
+    - Utilizar los metadatos para evaluar la calidad y credibilidad de los datos de terceros.
+    
+      ✅ Correcto. La empresa puede utilizar los metadatos para estandarizar los datos y evaluar la calidad y credibilidad de los datos de terceros.
+      
+    - Reemplazar los metadatos de los datos entrantes con los metadatos de su propia empresa.
+    
+      ❌ Incorrecto.
 
 
 ---
