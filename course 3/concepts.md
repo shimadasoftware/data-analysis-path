@@ -1,6 +1,6 @@
 # Conceptos 💬
 
-## Modulo 1
+## Módulo 1
 
 ### Cómo se pueden recopilar los datos
 Entrevistas (Interviews)
@@ -85,7 +85,7 @@ Datos en los que cada sujeto de datos tiene una sola fila con múltiples columna
 ### Datos largos 
 Datos en los que cada fila es un punto temporal por sujeto, por lo que cada sujeto tendrá datos en varias filas.
 
-## Modulo 2
+## Módulo 2
 
 ### Sesgo (Bias)
 Preferencia a favor o en contra de una persona, grupo de personas o cosa.
@@ -163,6 +163,50 @@ La capacidad de los sistemas y servicios de datos para conectarse y compartir da
 - La reutilización y la redistribución: Los datos abiertos deben suministrarse conforme a términos que permitan la reutilización y la redistribución, incluso la posibilidad de utilizarlos con otros conjuntos de datos.
   
 - La participación universal: Todos deben poder usar, reutilizar y redistribuir los datos. No debería haber ninguna discriminación por áreas, personas o grupos. Nadie puede establecer restricciones en los datos, como hacer que solo estén disponibles en una industria en particular.
+
+
+## Módulo 3
+
+### Base de datos
+Una colección de datos almacenados en un sistema informático.
+
+### Metadatos 
+Datos sobre datos. Los metadatos le dicen de dónde provienen los datos, cuándo y cómo se crearon, y de qué se trata. Beneficios: 
+- Los metadatos crean una única fuente de verdad al mantener las cosas consistentes y uniformes.
+- Los metadatos también hacen que los datos sean más confiables al garantizar que sean exactos, precisos, relevantes y oportunos.
+- Los repositorios de metadatos hacen que sea más fácil y rápido reunir múltiples fuentes para el análisis de datos.
+
+### Repositorio de metadatos 
+- Describir el estado y ubicación de los metadatos.
+- Describir las estructuras de las mesas del interior.
+- Describir cómo fluyen los datos a través del repositorio.
+- Realizar un seguimiento de quién accede a los metadatos y cuándo.
+
+### 3 tipos comunes de metadatos 
+- Descriptivo: Metadatos que describen un dato y pueden usarse para identificarlo en un momento posterior.
+- Estructural: Metadatos que indican cómo se organiza un dato y si forma parte de una o más de una recopilación de datos.
+- Administrativo: Metadatos que indican la fuente técnica de un activo digital.
+
+### Dato de governancia 
+Un proceso para garantizar la gestión formal de los activos de datos de una empresa. 
+
+### Base de datos relacional 
+Una base de datos que contiene una serie de tablas relacionadas que se pueden conectar a través de sus relaciones.
+
+### Clave primaria 
+Un identificador que hace referencia a una columna en la que cada valor es único. 
+
+- Se utiliza para garantizar que los datos de una columna específica sean únicos.
+- Identifica de forma única un registro en una tabla de base de datos relacional.
+- Sólo se permite una clave primaria en una tabla.
+- No puede contener valores nulos o en blanco
+
+### Clave externa 
+Un campo dentro de una tabla que es una clave principal en otra tabla. 
+
+- Una columna o grupo de columnas en una tabla de base de datos relacional que proporciona un vínculo entre los datos de dos tablas.
+- Se refiere al campo de una tabla que es la clave principal de otra tabla.
+- Se permite que exista más de una clave externa en una tabla.
 
 
 ---
@@ -340,6 +384,24 @@ A collection of data stored in a computer system.
 
 ### Metadata 
 Data about data. Metadata tells you where the data comes from, when and how it was created, and what it's all about.
+Benefits:
+- Metadata creates a single source of truth by keeping things consistent and uniform.
+- Metadata also makes data more reliable by making sure it's accurate, precise, relevant, and timely.
+- Metadata repositories make it easier and faster to bring together multiple sources for data analysis.
+
+### Metadata repository
+- Describe the state and location of the metadata.
+- Describe the structures of the tables inside.
+- Describe how the data flows through the repository.
+- Keep track of who accesses the metadata and when.
+
+### 3 Common types of metadata
+- Descriptive: Metadata that describes a piece of data and can be used to identify it at a later point in time.
+- Structural: Metadata that indicates how a piece of data is organized and whether it is part of one, or more than one, data collection.
+- Administrative: Metadata that indicates the technical source of a digital asset.
+
+### Data governance
+A process to ensure the formal management of a company's data assets.
 
 ### Relational database
 A database that contains a series of related tables that can be connected via their relationships.
@@ -358,3 +420,4 @@ A field within a table that is a primary key in another table.
 - A column or group of columns in a relational database table that provides a link between the data in two tables
 - Refers to the field in a table that’s the primary key of another table
 - More than one foreign key is allowed to exist in a table
+
