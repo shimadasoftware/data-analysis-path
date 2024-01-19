@@ -293,7 +293,6 @@ Pon a prueba tus conocimientos sobre cómo trabajar con conjuntos de datos.
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-
 Ahora que conoces las distintas formas de organizar datos en una base de datos, veamos cómo puedes describir esos datos. En este video comenzaremos a explorar los metadatos, que son un aspecto muy importante de la gestión de la base de datos. Sin embargo, el concepto “metadatos” es abstracto. Empecemos con un ejemplo simple y cotidiano. ¿Sabías que cada vez que tomas una fotografía con un teléfono inteligente se recopilan datos automáticamente y se almacenan junto con esa fotografía? Echa un vistazo. Elije cualquier fotografía de tu computadora. Aquí hay una linda toma de los perros de mi amigo, Rudy y Matilda. Haz clic con el botón derecho sobre tu fotografía y selecciona “Obtener información” o “Propiedades”.
 
 Así podrás ver los metadatos de tu fotografía, que te dirán el tipo de archivo que es, la fecha y la hora en que la tomaste, la geolocalización o dónde la tomaste, qué tipo de dispositivo utilizaste para tomarla y mucho más. Asombroso, ¿verdad? Aquí tienes otro ejemplo. Cada vez que envías o recibes un correo electrónico, los metadatos acompañan ese mensaje. Puedes encontrarlos haciendo clic en “Ver original” o “Ver detalles del mensaje”.
@@ -301,6 +300,8 @@ Así podrás ver los metadatos de tu fotografía, que te dirán el tipo de archi
 Los metadatos de un correo electrónico incluyen su asunto, el remitente, el destinatario, y la fecha y la hora en que fue enviado. Los metadatos incluso saben qué tan rápido fue enviado una vez que el remitente presionó “Enviar”. Los metadatos son información que se utiliza para describir los datos que algo contiene, como una fotografía o un correo electrónico. Recuerda que los metadatos no son los datos. En cambio, son datos sobre datos. En el análisis computacional de datos, los metadatos ayudan al analista de datos a interpretar el contenido de los datos de una base de datos. Por eso los metadatos son tan importantes cuando trabajas con bases de datos. Le indican al analista de qué se tratan los datos. Eso posibilita poner los datos a trabajar para resolver problemas y tomar decisiones basadas en datos. Como analista de datos, hay tres tipos comunes de metadatos con los que te vas a cruzar: descriptivos, estructurales y administrativos. Los metadatos descriptivos son metadatos que describen una pieza de datos y pueden utilizarse para identificarla más adelante. Por ejemplo, los metadatos descriptivos de un libro que se encuentra en una biblioteca incluirían el código que ves en el lomo, que se conoce como código normalizado internacional para libros, también denominado ISBN.
 
 También incluiría el autor y el título del libro. Luego pasamos a los metadatos estructurales, que son los metadatos que indican cómo se organiza un dato y si forma parte de una o más recopilaciones de datos. Volvamos a la biblioteca. Un ejemplo de datos estructurales sería cómo se reúnen las páginas de un libro para crear los diferentes capítulos. Es importante dar cuenta de que los metadatos estructurales también hacen un seguimiento de la relación entre dos cosas. Por ejemplo, pueden mostrarnos que el documento digital del manuscrito de un libro era en realidad la versión original de un libro que hoy está impreso. Finalmente, tenemos los metadatos administrativos. Los metadatos administrativos son metadatos que indican la fuente técnica de un recurso digital. Cuando observamos los metadatos de la fotografía, esos eran metadatos administrativos. Te dirán el tipo de archivo que era, la fecha y la hora en que tomaste la fotografía, y mucho más. Aquí tienes una reflexión final que te ayudará a comprender los metadatos. Si estás yendo a la biblioteca a buscar un libro, podrías buscar el título de un libro, el autor, la extensión y la cantidad de capítulos. Esos son metadatos, y pueden decirte mucho sobre el libro, pero tendrás que leer realmente el libro para saber de qué se trata. Del mismo modo, puedes leer sobre análisis computacional de datos pero debes tomar este curso para obtener al certificado de Google Data Analytics. Sigue adelante para obtener esa nueva perspectiva.
+
+![image](./img/module%3001%20img%3005.png)
 
 ### Los metadatos son tan importantes como los datos en sí 📖
 
@@ -489,19 +490,164 @@ Pon a prueba tus conocimientos sobre metadatos.
 ### Temario: 
 
 - Trabaja con más fuentes de datos (Vídeo - 3 min)
-- De una fuente externa a una hoja de cálculo (Lectura - 10 min)
 - Importar datos desde hojas de cálculo y bases de datos (Vídeo - 3 min)
 - Explorar conjuntos de datos publicos (Lectura - 10 min)
 - Pon a prueba tus conocimientos sobre el acceso a las fuentes de datos (Cuestionario práctico - 3 preguntas)
 
-### Diversión con metadatos 🎬
+### Trabaja con más fuentes de datos 🎬
 
-[![Tiempo](https://img.shields.io/badge/Tiempo-2%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+[![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-Mi nombre es Megan y soy directora de mediciones de agencia en Google. Básicamente, ayudo a desmitificar las mediciones y el análisis de datos para agencias publicitarias. Ya sean las personas a cargo de la ejecución de los planes de medios para los anunciantes como las personas interesadas en medir el impacto que tienen los medios para sus clientes. He estado haciendo esto durante unos 17 años y he visto la evolución en el espacio de la disponibilidad de datos, de diferentes técnicas de modelado que han avanzado y se han vuelto más accesibles y ha sido un viaje realmente interesante ver cómo ha evolucionado, cómo el análisis de datos se ha vuelto más masivo y cómo las personas están más entusiasmadas por ello. Los metadatos son básicamente la clave de tu conjunto de datos mayor. Esto ayuda a describir qué hay en las filas y las columnas de los datos con los que estarás trabajando. Los metadatos son una especie de taquigrafía o una versión de las guías de estudio CliffsNotes de un conjunto de información más complejo. Pueden ser útiles en el sentido de ayudarte a manejar el contenido de un solo conjunto de datos al que puedas tener acceso.
+En este video, hablaremos sobre los diferentes lugares a los que van los analistas de datos para conectar con los datos. Hay muchos tipos de datos y es importante saber cómo acceder a ellos. Anteriormente, aprendiste que hay dos tipos básicos de datos que utilizan los analistas de datos: **internos y externos**. 
 
-Es una parte importante del proceso de descubrimiento de un proyecto de análisis de datos mientras trabajas con un cliente o un proveedor para comprender los recursos con los que contarás para resolver un problema y qué es lo que falta. Te da las claves para desbloquear los datos de modo simple y directo y es una gran herramienta de comunicación. Cuando estaba trabajando para un publicitario, una de las cosas que estábamos tratando de hacer era construir algo llamado lago de datos. En esencia, se trata de reunir todas las fuentes de datos que quieras utilizar en un análisis en un solo lugar, lo que puede resultar realmente riesgoso. Uno de los beneficios de los metadatos era imaginar que teníamos fuentes que podían superponerse, donde había fuentes de datos que tenían cosas en común. Y cuáles son las piezas únicas de información que estábamos obteniendo de cada uno de esos conjuntos de datos. De modo que al pensar cómo encarar este proyecto realmente enorme e importante pudimos utilizar los metadatos para alcanzar en forma rápida y fácil los constructos básicos que estamos tratando de manejar. Cuando estás trabajando con personas que pueden no realizar análisis de datos en su trabajo normal llegar al momento en que dicen "claro", ayudarlos a entender cómo las herramientas de medición y análisis de datos pueden ayudarlos a lograr sus metas, es muy importante. Y darte cuenta de que hiciste algo que previamente era inaccesible un poco más accesible para el equipo y lo has convertirlo en algo más cómodo para poner en práctica es realmente importante y algo genial como resultado de una sociedad. 
+**Los datos internos son datos que están alojados en los sistemas propios de una empresa**. Normalmente, también son generados desde dentro de la misma empresa. Es posible que escuches que los datos internos son descriptos como datos primarios. **Los datos externos son datos que se alojan y son generados fuera de una organización**. Pueden venir de una variedad de lugares, incluso de otras empresas, fuentes gubernamentales, los medios, asociaciones profesionales, escuelas y muchos más. A veces, los **datos externos son denominados datos secundarios**. 
 
+Reunir datos internos puede ser complicado. Según tu proyecto de análisis computacional de datos, puedes necesitar datos de muchas fuentes y departamentos diferentes, que pueden incluir ventas, marketing, gestión de las relaciones con los clientes, finanzas, recursos humanos e incluso archivos de datos. Pero el esfuerzo lo vale. Los datos internos tienen muchas ventajas para una empresa. Proporcionan información que es relevante para los problemas que estás tratando de resolver y son de acceso gratuito porque son de la empresa. Con los datos internos, los analistas pueden trabajar en todos los proyectos de datos sin siquiera salir de sus cuatro paredes. Pero, a veces, los datos internos no proporcionan un panorama general. En esos casos, los analistas de datos pueden recurrir a datos externos y aplicar esa información a sus análisis. 
+
+Por ejemplo, como analista del cuidado de la salud, a menudo nos asociamos con otras organizaciones de cuidados de la salud o con organizaciones sin fines de lucro, y usamos sus datos para brindar un análisis más profundo y agregar una perspectiva que esté más al nivel de la industria. En un video anterior, aprendiste que la apertura ha creado muchos datos para analizar, en gran medida a través de iniciativas de datos abiertos. Como recordatorio, apertura o datos abiertos se refiere al acceso, uso e intercambio libre de los datos. Por ejemplo, el gobierno de los Estados Unidos crea cientos de miles de conjuntos de datos que están disponibles para el público en Data.gov. Esos conjuntos de datos contienen información sobre patrones climáticos, progresos de la educación, tazas de delincuencia, transportes y mucho más. 
+
+Hay muchas razones para que existan estas iniciativas de datos abiertos. Una es otorgarle más transparencia a las actividades del gobierno, como permitir que el público vea dónde se gasta el dinero. También ayuda a educar a los ciudadanos en relación con la votación y a problemas locales. Los datos abiertos también mejoran el servicio público, ya que les brindan a las personas formas para ser parte de la planificación pública o de proporcionar retroalimentación al gobierno. Para finalizar, los datos abiertos conducen a la innovación y al crecimiento económico, al ayudar a las personas y a las empresas a comprender mejor sus mercados. Google almacena un montón de bases de datos públicos que brindan información sobre ciencia, transporte, economía, el clima y mucho más. Como ejemplo, una empresa de bicicletas de uso compartido podría usar datos sobre el tráfico que se encuentran en nuestra base de datos sobre transporte público para ver si hay mucho tráfico en las calles. Luego, podría elegir esas ubicaciones para colocar sus bicicletas con el fin de reducir los automóviles que hay en la calle y brindarles a las personas otra opción de transporte. Ya estás familiarizado con los datos internos y externos y cómo acceder a ellos. A continuación, aprenderemos cómo importar todos los datos que has recopilado de diferentes fuentes en una hoja de cálculo.
+
+### Importar datos desde hojas de cálculo y bases de datos 🎬
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-3%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+A esta altura, ya has aprendido todo sobre datos internos y externos, y cómo prepararlos para utilizarlos. Ahora comenzaremos el proceso de importación real de datos desde distintas fuentes. A veces quieres cargar una hoja de cálculo desde tus archivos, por ejemplo, un archivo CSV. CSV significa valores separados por coma. Un archivo CSV guarda datos en formato de tabla. Ahora traigamos ese archivo a una hoja de cálculo nueva.
+
+Comenzaremos por seleccionar un archivo y, luego, lo importaremos.
+
+![image](./img/module%3001%20img%3006.png)
+
+A continuación, elegiremos cargar un archivo. Búscalo, ábrelo e insértalo como una hoja nueva.
+
+![image](./img/module%3001%20img%3007.png)
+
+Los archivos CSV usan texto normal y están delineados por caracteres. Así que cada columna o campo es muy diferente de la otra a la hora de importar. Como sabes, los archivos CSV están separados por comas y, en general, la aplicación de la hoja de cálculo detectará automáticamente esas separaciones. Sin embargo, a veces, puedes necesitar indicar que un separador es otro carácter o un espacio, y para ello seleccionas las distintas opciones en esta ventana.
+
+![image](./img/module%3001%20img%3008.png)
+
+Asimismo, si estás planificando trabajar con un conjunto de datos, en general, lo convertirías a texto, números u otras opciones desde aquí. Pero un texto normal está bien para los propósitos de un informe. Así que podemos dejar tranquilos esos campos. Finalmente, selecciona Importar datos.
+
+Ahora nuestro archivo CSV está listo para funcionar en nuestra hoja de cálculo. Paso la mayor cantidad de tiempo en el trabajo analizando hojas de cálculo llenas de información sobre cuidados de la salud. En general, comienzo por buscar en un conjunto de datos más grande. Luego, extraigo un subconjunto a una hoja de cálculo para poder trabajar con él. Quizás quiero analizar el crecimiento año por año en la demanda de usuario en Google Search para ciertos servicios de cuidado de la salud, como telemedicina. O quizás quiero mirar conjuntos de datos de organizaciones o agencias externas sobre cuidados de la salud para obtener más información sobre esta tendencia. Por ejemplo, con telemedicina quizás observaría una hoja de cálculo que enumera los proveedores de telemedicina. Hay muchas formas en que las hojas de cálculo pueden ayudarte a encontrar la información que necesitas. Una fuente que utilizo mucho es el repositorio de datos de la Organización Mundial de la Salud.
+
+En ese sitio cualquiera puede acceder a datos de fuente abierta. Como puedes ver, hay cientos de datos disponibles. Puedes buscar por tema, categoría, indicador y país. También puedes acceder a los metadatos de la Organización Mundial de la Salud si quieres aprender más sobre los datos en este repositorio.
+
+![image](./img/module%3001%20img%3009.png)
+
+Para nuestro ejemplo, buscaremos doctores por país y año.
+
+![image](./img/module%3001%20img%3010.png)
+
+Esa información será útil para un proyecto de análisis de datos que busque cuántos doctores están disponibles para tratar pacientes en una cierta población en comparación con otras poblaciones. Para obtener estos datos comenzaremos en esta página web, que contiene el conjunto de datos que queremos. Luego, descargaremos los datos como un archivo CSV.
+
+Después, abriremos una hoja de cálculo nueva e importaremos el archivo seleccionando Archivo, Importar.
+
+Luego, cargarás tu archivo y seleccionarás Importar datos.
+
+Tras revisar los datos para asegurarte de que se vean limpios, podemos ponerles un título y comenzar a trabajar.
+
+Sé que es demasiada información para recordar, pero te sentirás más cómodo a medida que vayas practicando. A continuación, aprenderemos cómo ordenar y filtrar tus datos para enfocarte en la información que te resulte pertinente.
+
+![image](./img/module%3001%20img%3011.png)
+
+### Explorar conjuntos de datos publicos 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Datos abiertos ayuda a crear muchos conjuntos de datos públicos a los que puedes acceder para tomar decisiones basadas en datos. Aquí hay algunos recursos que puedes utilizar para comenzar a buscar conjuntos de datos públicos por tu cuenta:
+
+Los Conjuntos de datos públicos de Google Cloud permiten a los analistas de datos acceder a conjuntos de datos públicos de gran demanda y facilitan el descubrimiento de información en la nube. 
+ 
+[Dataset Search](https://datasetsearch.research.google.com/) puede ayudarte a encontrar conjuntos de datos disponibles en línea mediante la búsqueda de palabras clave. 
+
+[Kaggle](https://www.kaggle.com/datasets) tiene una función de búsqueda de Datos abiertos que puede ayudarte a encontrar conjuntos de datos para practicar.
+
+Por último, [BigQuery](https://cloud.google.com/bigquery/public-data?hl=es-419) almacena más de 150 conjuntos de datos públicos a los que puedes acceder y utilizar. 
+
+#### Conjuntos de datos públicos sobre salud
+
+[Datos del Observatorio Mundial de la Salud](https://www.who.int/data/collections): Puedes buscar conjuntos de datos en esta página o explorar las colecciones de datos destacadas de la Organización Mundial de la Salud.  
+
+[El conjunto de datos del Archivo de imágenes de cáncer (TCIA)](https://cloud.google.com/healthcare-api/docs/resources/public-datasets/tcia?hl=es-419): Al igual que el conjunto de datos anterior, estos datos están almacenados en los conjuntos de datos públicos de Google Cloud y puedes cargarlos a BigQuery.
+
+[1000 genomas](https://cloud.google.com/life-sciences/docs/resources/public-datasets/1000-genomes?hl=es-419): Este es otro conjunto de datos de los recursos públicos de la Google Cloud que puedes cargar a BigQuery. 
+
+#### Conjuntos de datos públicos sobre el clima
+
+[Centro Nacional de Datos Climáticos](https://www.ncdc.noaa.gov/data-access/quick-links): La página de enlaces rápidos del Centro Nacional de Datos Climáticos (NCDC) tiene una selección de conjuntos de datos que puedes explorar. 
+
+[Galería del conjunto de datos públicos de la Asociación Nacional de Asuntos Oceánicos y Atmosféricos](https://www.climate.gov/maps-data/datasets): La Galería del conjunto de datos públicos de la Asociación Nacional de Asuntos Oceánicos y Atmosféricos (NOAA) contiene una colección de conjuntos de datos que puedes consultar.
+
+#### Conjuntos de datos públicos sobre política y sociedad
+
+[El Estado de la infancia a nivel mundial de UNICEF](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): El conjunto de datos de UNICEF incluye una colección de tablas que puedes descargar.
+
+[Estadísticas del mercado laboral de la Encuesta continua de población](https://www.bls.gov/cps/tables.htm): Esta página contiene enlaces hacia muchos conjuntos de datos disponibles que puedes explorar.
+
+[El proyecto abierto sobre mantenimiento del orden en Stanford](https://openpolicing.stanford.edu/): Puedes descargar este conjunto de datos como un archivo .CSV para tu propio uso.
+
+
+### Cuestionario práctico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Pon a prueba tus conocimientos sobre el acceso a las fuentes de datos.
+
+1. Un archivo CSV guarda datos en formato de tabla. ¿Qué significa CSV?
+
+    - Variables científicas compatibles
+    
+      ❌ Incorrecto.
+  
+    - Valores estimados de hojas de cálculo
+    
+      ❌ Incorrecto.
+    
+    - Valores separados por coma
+    
+      ✅ Correcto. CSV significa valores separados por coma.
+      
+    - Variables estructuradas por celdas
+    
+      ❌ Incorrecto.
+
+
+2. Un analista de datos desea agregar datos de un archivo CSV a una hoja de cálculo. ¿Este es un ejemplo de qué proceso?
+
+    - Importación de datos
+    
+      ✅ Correcto. Un analista de datos que agrega datos de un archivo CSV en una hoja de cálculo es un ejemplo de la importación de datos.
+  
+    - Archivado de datos
+    
+      ❌ Incorrecto.
+    
+    - Edición de datos
+    
+      ❌ Incorrecto.
+      
+    - Normalización de datos
+    
+      ❌ Incorrecto.
+
+
+3. ¿Un archivo CSV les facilita a los analistas de datos completar qué tipo de tareas? Selecciona todas las opciones que correspondan.
+
+    - Importar datos a una nueva hoja de cálculo
+    
+      ✅ Correcto. Un archivo CSV les facilita a los analistas de datos examinar una pequeña parte de un conjunto de datos grande, importar datos a una nueva hoja de cálculo y distinguir valores entre sí.
+  
+    - Examinar un pequeño subconjunto de un conjunto de datos grande
+    
+      ✅ Correcto. Un archivo CSV les facilita a los analistas de datos examinar una pequeña parte de un conjunto de datos grande, importar datos a una nueva hoja de cálculo y distinguir valores entre sí.
+    
+    - Gestionar varias pestañas en una hoja de cálculo
+    
+      ❌ Incorrecto.
+      
+    - Distinguir valores entre sí
+    
+      ✅ Correcto. Un archivo CSV les facilita a los analistas de datos examinar una pequeña parte de un conjunto de datos grande, importar datos a una nueva hoja de cálculo y distinguir valores entre sí.
 
 ---
 
