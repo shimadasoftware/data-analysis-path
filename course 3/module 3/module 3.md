@@ -686,8 +686,86 @@ Luego selecciona Aceptar. El filtro esconde momentáneamente todo lo que no cump
 
 Ordenar y filtrar datos son herramientas muy importantes de la caja de herramientas de un analista de datos. En el siguiente video descubrirás más formas de acotar la búsqueda a la información exacta que necesitas para cualquier proyecto de análisis de datos.
 
+### Cuestionario práctico 📑
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-20%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Pon a prueba tus conocimientos sobre ordenación y filtrado.
+
+1. ¿Cuál es el proceso de organizar los datos en un sistema de clasificación significativo para que sea más fácil entenderlos, analizarlos y visualizarlos?
+
+    - Capacidad para priorizar
+    
+      ❌ Incorrecto.
+  
+    - Reformulación
+    
+      ❌ Incorrecto.
+    
+    - Filtrado
+    
+      ❌ Incorrecto.
+      
+    - Ordenación
+    
+      ✅ Correcto. La ordenación es el proceso de organizar los datos en un orden significativo para que sea más fácil entenderlos, analizarlos y visualizarlos.
 
 
+2. Una analista de datos revisa una base de datos nacional de las ventas de inmobiliaria. Solo le interesan las ventas de los condominios. ¿Cómo puede el analista acotar su alcance?
+
+    - Ordenar por ventas no relacionadas con los condominios
+    
+      ❌ Incorrecto.
+  
+    - Ordenar por ventas de condominios
+    
+      ❌ Incorrecto.
+    
+    - Filtrar por ventas no relacionadas con condominios
+    
+      ✅ Correcto. El analista puede acotar su alcance filtrando las ventas que no están relacionadas con los condominios. Esto le permitirá ver solo los datos sobre las ventas de condominios.
+      
+    - Filtrar las ventas de condominios
+    
+      ❌ Incorrecto.
+
+
+3. Un analista de datos trabaja para una empresa de alquiler de automóviles. Tiene una hoja de cálculo que enumera los números de ID y las fechas en las que se devolvieron los automóviles. ¿Cómo puede ordenar la hoja de cálculo para buscar los automóviles devueltos recientemente?
+
+    - Por el ID numérico del vehículo, en orden ascendente.
+    
+      ❌ Incorrecto.
+  
+    - Por el ID numérico del vehículo, en orden descendente.
+    
+      ❌ Incorrecto.
+    
+    - Por la fecha de devolución, en orden ascendente.
+    
+      ❌ Incorrecto.
+      
+    - Por la fecha de devolución, en orden descendente.
+    
+      ✅ Correcto. Para ordenar la hoja de cálculo para buscar los automóviles devueltos más recientemente, deberá ordenar por fecha de devolución, en orden descendente.
+
+
+4. Completa el espacio en blanco: Para mantener una fila de encabezado en la parte superior de una hoja de cálculo, destaca la fila y selecciona _____ desde el menú Ver.
+
+    - Anclar
+    
+      ❌ Incorrecto.
+  
+    - Inmovilizar
+    
+      ✅ Correcto. Para mantener una fila de encabezado en la parte superior de una hoja de cálculo, destaca la fila y selecciona Inmovilizar desde el menú Ver.
+    
+    - Bloquear
+    
+      ❌ Incorrecto.
+      
+    - Configurar
+    
+      ❌ Incorrecto.
 
 ---
 
