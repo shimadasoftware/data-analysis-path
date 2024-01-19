@@ -208,6 +208,40 @@ Un campo dentro de una tabla que es una clave principal en otra tabla.
 - Se refiere al campo de una tabla que es la clave principal de otra tabla.
 - Se permite que exista más de una clave externa en una tabla.
 
+### Datos internos 
+Datos que viven dentro de los propios sistemas de una empresa.
+
+### Datos externos 
+Datos que viven y se generan fuera de una organización.
+
+### CSV 
+Significa valores separados por comas. Un archivo CSV guarda datos en formato de tabla.
+
+### Ordenar datos 
+Organizar los datos en un orden significativo para que sean más fáciles de comprender, analizar y visualizar.
+
+### Ordenar datos 
+Organizar los datos en un orden significativo para que sean más fáciles de comprender, analizar y visualizar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -421,3 +455,17 @@ A field within a table that is a primary key in another table.
 - Refers to the field in a table that’s the primary key of another table
 - More than one foreign key is allowed to exist in a table
 
+### Internal data
+Data that lives within a company's own systems.
+
+### External data
+Data that lives and is generated outside an organization.
+
+### CSV 
+Its means Comma-separated values. A CSV file saves data in a table format.
+
+### Sorting data
+Arranging data into a meaningful order to make it easier to understand, analyze, and visualize.
+
+### Filtering
+Showing only the data that meets a specific criteria while hiding the rest.
