@@ -416,6 +416,9 @@ The ability of data systems and services to openly connect and share data.
 ### Database 
 A collection of data stored in a computer system.
 
+### SQL
+Structured Query Language.
+
 ### Metadata 
 Data about data. Metadata tells you where the data comes from, when and how it was created, and what it's all about.
 Benefits:
@@ -469,3 +472,44 @@ Arranging data into a meaningful order to make it easier to understand, analyze,
 
 ### Filtering
 Showing only the data that meets a specific criteria while hiding the rest.
+
+
+## Module 4
+
+### Benefits of organizing data
+- Makes it easier to find and use
+- Helps you avoid making mistakes during your analysis
+- Helps to protect your data
+
+### Best practices when organizing data
+
+- Naming conventions: Consistent guidelines that describe the content, date, or version of a file in its name.
+
+- Foldering: Organize your files into folders. 
+
+- Archiving older files: Move old projects to a separate location to create an archive and cut down on clutter.
+
+- Align your naming and storage practices with your team
+
+- Develop metadata practices
+
+### File naming conventions 
+Consistent guidelines that describe the content, date, or version of a file in its name.
+
+File naming DO's:  
+- Work out your conventions early
+- Align file naming with your team
+- Make sure file names are meaningful
+- Keep file names short and sweet
+- Format dates yyyymmdd: SalesReport20201125
+- Lead revision numbers with O: SalesReport20201125v02
+- Use hyphens, underscores, or capitalized letters: SalesReport_2020_11.25 v02
+
+### Data security
+Protecting data from unauthorized access or corruption by adopting safety measures.
+
+### Networking
+Professional relationship building
+
+### Mentor
+A professional who shares their knowledge, skills, and experience to help you develop and grow
