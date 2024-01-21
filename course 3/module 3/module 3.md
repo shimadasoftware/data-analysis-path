@@ -848,11 +848,11 @@ Para hacer esto, puedes hacer coincidir los valores de números específicos con
 
 - 5th to 9th grade
 
-![image](./img/module%2001%20img%2033.png)
+![image](./img/module%2001%20img%2034.png)
 
 - secondary education
 
-![image](./img/module%2001%20img%2034.png)
+![image](./img/module%2001%20img%2035.png)
 
 - higher education
 
@@ -932,26 +932,31 @@ Ahora, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de 
 
 #### Desarrollo
 
-Almacenamiento de datos:
+- Almacenamiento de datos:
 Las hojas de cálculo almacenan datos en celdas organizadas en filas y columnas, permitiendo una estructura tabular flexible. Las bases de datos utilizan tablas relacionadas para almacenar datos de manera más eficiente, manteniendo la integridad y la consistencia mediante claves primarias y foráneas.
 
-Interacción con datos:
+- Interacción con datos:
 Las hojas de cálculo ofrecen fórmulas y funciones para realizar cálculos y análisis. Las bases de datos permiten consultas SQL avanzadas, relaciones entre tablas y procedimientos almacenados, facilitando la gestión y manipulación de grandes conjuntos de datos de manera eficiente.
 
-Potencia:
+- Potencia:
 Las bases de datos son más potentes para gestionar grandes volúmenes de datos y garantizar la integridad. Las hojas de cálculo son adecuadas para análisis rápidos y cálculos simples, pero pueden volverse limitadas en términos de escalabilidad y control de acceso.
 
-Ordenación:
+- Ordenación:
 La ordenación en hojas de cálculo facilita la visualización de datos, pero puede ser manual y consumir tiempo. En las bases de datos, la ordenación se realiza de manera más eficiente mediante consultas SQL, pero puede ser más compleja de implementar.
 
-Filtrado:
+- Filtrado:
 El filtrado en hojas de cálculo es intuitivo y rápido, pero puede carecer de flexibilidad en comparación con las consultas de bases de datos. En bases de datos, el filtrado se realiza con mayor precisión mediante condiciones complejas, pero puede requerir conocimientos de SQL.
 
-Similitudes:
+- Similitudes:
 Ambas hojas de cálculo y bases de datos permiten organizar datos en tablas, realizar cálculos y análisis, y ofrecen funciones de búsqueda. Ambas también son herramientas esenciales para la gestión de información en entornos profesionales.
 
-Diferencias:
+- Diferencias:
 Las bases de datos son más robustas para el manejo de grandes conjuntos de datos, garantizando la integridad y permitiendo consultas complejas. Las hojas de cálculo son más simples y accesibles para análisis rápidos pero pueden carecer de la estructura y seguridad de las bases de datos.
+
+✅ Correcto. ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Una buena reflexión sobre este tema incluiría cómo las hojas en las hojas de cálculo son similares y diferentes también de las tablas en las bases de datos.
+
+Los analistas de datos utilizan varias formas de datos en su trabajo diario. Por ejemplo, un analista podría utilizar una hoja de cálculo para un proyecto, pero una base de datos para otro. Una empresa podría utilizar una hoja de cálculo para realizar un seguimiento de datos de ingresos internos, pero podría utilizar una base de datos para almacenar información dinámica del consumidor. Comprender qué tipo es adecuado usar en una situación específica es crucial para ser un analista de datos eficaz. En las próximas actividades, aprenderás acerca de las bases de datos y sobre cómo difieren de las hojas de cálculo.
+
 
 ### Cuestionario práctico 📑
 
@@ -1070,17 +1075,29 @@ Entonces, a menos que elijas suscribirte a BigQuery, no deberás pagar nada. Per
 
 ¡Hola! En este video, vamos a aprender sobre cada parte del espacio de trabajo SQL de BigQuery para que puedas usarlo durante este curso y a lo largo de tu carrera como analista de datos. Es una herramienta sumamente valiosa y muy popular, así que es muy útil entender cómo funciona. Siéntete libre de seguirlo en tu pantalla a medida que exploramos BigQuery. Notarás que mi pantalla se ve un poco diferente a la tuya, ya que BigQuery actualiza constantemente su interfaz. No te preocupes si pasa eso, ya que las pequeñas diferencias no te impedirán comprender los conceptos básicos. Para empezar, ve a la página de destino de BigQuery, luego inicia sesión en la cuenta que creaste anteriormente. 
 
-![image](./img/module%2001%20img%2039.png)
-
 ![image](./img/module%2001%20img%2040.png)
+
+Para navegar en el espacio de trabajo SQL, selecciona el menú del lado izquierdo de la pantalla y deslízate hasta el encabezado ''Macrodatos''. Luego, pasa el mouse por encima de la etiqueta BigQuery y haz clic en ''Espacio de trabajo SQL'', en el menú desplegable. Ahora que ya estamos en el espacio de trabajo SQL, vamos a buscar conjuntos de datos públicos, seleccionar un conjunto de datos a través del Explorador de datos, ejecutar una consulta y cargar nuestros propios datos para consultar. 
 
 ![image](./img/module%2001%20img%2041.png)
 
+Primero, vamos a buscar un conjunto de datos públicos para usar. Para seleccionar un conjunto de datos públicos, navega hasta el menú del Explorador, en el lado izquierdo de la pantalla. Haz clic en el botón "Agregar datos", en la parte superior derecha del menú. Luego, en el menú desplegable, selecciona "Explorar conjuntos de datos públicos". Esto abrirá el marketplace y te mostrará los conjuntos de datos públicos disponibles. Vayamos a la barra de búsqueda de marketplace y busca “noaa_lightning”, el conjunto de datos que usaremos en la próxima actividad.
+
 ![image](./img/module%2001%20img%2042.png)
+
+Haz clic en el conjunto de datos "Cloud-to-Ground Lightning Strikes". Esto nos traerá una descripción y una vista previa del conjunto de datos que captura observaciones sobre la actividad de rayos y los patrones meteorológicos en los Estados Unidos. Haz clic en "Ver conjunto de datos". Esto te hará volver al espacio de trabajo SQL y creará una pestaña para el conjunto de datos. 
 
 ![image](./img/module%2001%20img%2043.png)
 
 ![image](./img/module%2001%20img%2044.png)
+
+Luego, podemos volver a la pestaña del Editor que hemos abierto, o hacer clic en "Componer consulta nueva" para empezar a escribir con SQL. Observa a la izquierda y verás que la lista desplegable de datos públicos de BigQuery está en el menú del Explorador. Podemos hacer clic en la flecha para ampliar la lista de datos de BigQuery y seleccionar un nuevo conjunto de datos. Vamos a seleccionar el primer conjunto de datos, "austin_311", en la lista desplegable. Cuando lo hagamos, se ampliará para mostrar la tabla en el conjunto de datos. Podemos abrir el conjunto de datos para obtener una vista previa.
+
+![image](./img/module%2001%20img%2045.png)
+
+La pestaña Esquema contiene los nombres de cada columna en el conjunto de datos. La pestaña Detalles contiene metadatos adicionales, como la fecha de creación del conjunto de datos. La pestaña Vista previa contiene las primeras filas en el conjunto de datos. En esta página, podemos hacer clic en "Consultar" para crear automáticamente una nueva ventana de editor con la plantilla para una consulta ya completada. A partir de aquí, pon un asterisco después de Select, donde aparece nuestro cursor, luego, ejecuta la consulta. Felicitaciones, ejecutaste una consulta de SQL en BigQuery. La consulta que ejecutaste arrojó filas en el conjunto de datos que se completan en una ventana debajo de la interfaz de editor. Aquí también se visualizarán los resultados de cualquier consulta que ejecutes. Digamos que ya tienes los resultados de una consulta que quieres cargar a BigQuery y analizar usando SQL. Para agregar tus propios datos a BigQuery, elige el ID del proyecto que quieres agregar. 
+ 
+Selecciona el ícono de los tres puntos verticales para abrir las opciones del proyecto, luego elige "Crear conjunto de datos". Dale un nombre al conjunto de datos que te ayude a identificarlo, más adelante, por ejemplo, "upload_test_dataset". Luego haz clic en "Crear conjunto de datos". A continuación, ve al menú del Explorador y elige los tres puntos verticales junto al conjunto de datos, debajo del menú desplegable de "Proyectos". Ahora, seleccionaremos el ícono para crear una tabla, que abre una ventana emergente. Debajo de Fuente y crear tabla desde, seleccionamos "Cargar" o cualquier método que prefieras para cargar tus datos. Aquí, podemos cargar cualquier archivo de datos, por ejemplo, un archivo CSV. Vamos a darle a nuestra tabla un nombre útil como "test_table". Asegúrate de que el esquema esté configurado para detectar y seleccionar automáticamente "Crear tabla". 
 
 ![image](./img/module%2001%20img%2046.png)
 
@@ -1088,7 +1105,7 @@ Entonces, a menos que elijas suscribirte a BigQuery, no deberás pagar nada. Per
 
 ![image](./img/module%2001%20img%2048.png)
 
-Para navegar en el espacio de trabajo SQL, selecciona el menú del lado izquierdo de la pantalla y deslízate hasta el encabezado ''Macrodatos''. Luego, pasa el mouse por encima de la etiqueta BigQuery y haz clic en ''Espacio de trabajo SQL'', en el menú desplegable. Ahora que ya estamos en el espacio de trabajo SQL, vamos a buscar conjuntos de datos públicos, seleccionar un conjunto de datos a través del Explorador de datos, ejecutar una consulta y cargar nuestros propios datos para consultar. Primero, vamos a buscar un conjunto de datos públicos para usar. Para seleccionar un conjunto de datos públicos, navega hasta el menú del Explorador, en el lado izquierdo de la pantalla. Haz clic en el botón "Agregar datos", en la parte superior derecha del menú. Luego, en el menú desplegable, selecciona "Explorar conjuntos de datos públicos". Esto abrirá el marketplace y te mostrará los conjuntos de datos públicos disponibles. Vayamos a la barra de búsqueda de marketplace y busca “noaa_lightning”, el conjunto de datos que usaremos en la próxima actividad. Haz clic en el conjunto de datos "Cloud-to-Ground Lightning Strikes". Esto nos traerá una descripción y una vista previa del conjunto de datos que captura observaciones sobre la actividad de rayos y los patrones meteorológicos en los Estados Unidos. Haz clic en "Ver conjunto de datos". Esto te hará volver al espacio de trabajo SQL y creará una pestaña para el conjunto de datos. Luego, podemos volver a la pestaña del Editor que hemos abierto, o hacer clic en "Componer consulta nueva" para empezar a escribir con SQL. Observa a la izquierda y verás que la lista desplegable de datos públicos de BigQuery está en el menú del Explorador. Podemos hacer clic en la flecha para ampliar la lista de datos de BigQuery y seleccionar un nuevo conjunto de datos. Vamos a seleccionar el primer conjunto de datos, "austin_311", en la lista desplegable. Cuando lo hagamos, se ampliará para mostrar la tabla en el conjunto de datos. Podemos abrir el conjunto de datos para obtener una vista previa. La pestaña Esquema contiene los nombres de cada columna en el conjunto de datos. La pestaña Detalles contiene metadatos adicionales, como la fecha de creación del conjunto de datos. La pestaña Vista previa contiene las primeras filas en el conjunto de datos. En esta página, podemos hacer clic en "Consultar" para crear automáticamente una nueva ventana de editor con la plantilla para una consulta ya completada. A partir de aquí, pon un asterisco después de Select, donde aparece nuestro cursor, luego, ejecuta la consulta. Felicitaciones, ejecutaste una consulta de SQL en BigQuery. La consulta que ejecutaste arrojó filas en el conjunto de datos que se completan en una ventana debajo de la interfaz de editor. Aquí también se visualizarán los resultados de cualquier consulta que ejecutes. Digamos que ya tienes los resultados de una consulta que quieres cargar a BigQuery y analizar usando SQL. Para agregar tus propios datos a BigQuery, elige el ID del proyecto que quieres agregar. Selecciona el ícono de los tres puntos verticales para abrir las opciones del proyecto, luego elige "Crear conjunto de datos". Dale un nombre al conjunto de datos que te ayude a identificarlo, más adelante, por ejemplo, "upload_test_dataset". Luego haz clic en "Crear conjunto de datos". A continuación, ve al menú del Explorador y elige los tres puntos verticales junto al conjunto de datos, debajo del menú desplegable de "Proyectos". Ahora, seleccionaremos el ícono para crear una tabla, que abre una ventana emergente. Debajo de Fuente y crear tabla desde, seleccionamos "Cargar" o cualquier método que prefieras para cargar tus datos. Aquí, podemos cargar cualquier archivo de datos, por ejemplo, un archivo CSV. Vamos a darle a nuestra tabla un nombre útil como "test_table". Asegúrate de que el esquema esté configurado para detectar y seleccionar automáticamente "Crear tabla". Hay mucho más por conocer sobre BigQuery. Siéntete libre de volver a ver este video en cualquier momento y sigue practicando. Nos vemos pronto.
+Hay mucho más por conocer sobre BigQuery. Siéntete libre de volver a ver este video en cualquier momento y sigue practicando. Nos vemos pronto.
 
 ### BigQuery en acción 🎬
 
@@ -1160,19 +1177,284 @@ La próxima actividad está realizada en BigQuery. Esta lectura proporciona inst
 
 Nota: Al final de esta lectura, también proporcionamos recursos adicionales introductorios que se encuentran en algunas plataformas de la base de datos SQL, por si eliges trabajar con ellos en lugar de BigQuery. 
 
-TO DO!!!!
+#### Tipos de cuentas BigQuery
+Hay dos tipos de cuentas diferentes: espacio aislado y prueba gratuita. Una cuenta de espacio aislado te permite practicar consultas y explorar conjuntos de datos públicos de forma gratuita, pero tiene [restricciones](https://cloud.google.com/bigquery/docs/sandbox#limits) adicionales además de los cupos estándares y los límites. Si prefieres utilizar BigQuery con sus limitaciones estándares, puedes configurar una cuenta gratuita. Más detalles:
+
+- **Una cuenta gratuita** de espacio aislado no pide un método de pago. Sin embargo, tiene un límite de 12 proyectos. Tampoco permite insertar nuevos registros a una base de datos o actualizar el campo de valores de registros existentes. Las operaciones de lenguaje de manipulación de datos (DML) no están permitidas en el espacio aislado.
+
+- **Una cuenta de prueba gratuita** requiere un método de pago para establecer una cuenta facturable, pero ofrece plena funcionalidad durante el período de prueba.
+
+Con ambos tipos de cuenta puedes subir de categoría a una cuenta paga en cualquier momento y conservar todos tus proyectos existentes. Si configuras una cuenta gratuita pero no quieres subir de categoría a una cuenta paga, cuando finaliza tu período de prueba puedes configurar una cuenta gratuita de espacio aislado en ese momento. No obstante, los proyectos de tu cuenta gratuita no se transferirán a la cuenta de espacio aislado. Sería como empezar de cero otra vez.
+
+#### Configura una cuenta de espacio aislado gratuita para usar en este programa.
+
+- Sigue estas [instrucciones paso a paso](https://cursive.io/shared/2da0e63f3-9de7-476f-997b-93fff70d7cb6) o mira el video 
+[Configurar BigQuery](https://www.coursera.org/learn/data-preparation/lecture/YCkys/setting-up-bigquery-including-sandbox-and-billing-options), incluso el espacio aislado y las opciones de facturación.
+
+- Para obtener información más detallada sobre el uso del espacio aislado, comienza con la documentación 
+[Utilizar el espacio aislado de BigQuery](https://cloud.google.com/bigquery/docs/sandbox?hl=en_US). 
+
+Una vez que termines de configurar tu cuenta, verás el nombre del proyecto creado para la cuenta en el banner y en SANDBOX, arriba del cuadro de mando de BigQuery.
+
+#### Cómo obtener el cuadro de mando de BigQuery
+
+Copia el siguiente enlace en tu navegador: console.cloud.google.com/bigquery.
+
+Nota: En tu navegador, dirígete a console.cloud.google.com y te llevará al panel principal de la plataforma de Google Cloud. Para navegar en BigQuery desde el panel, sigue los siguientes pasos:
+
+- Haz clic en el ícono del menú Navegación (botón de hamburguesa) en el banner.
+
+- Desplaza el cursor hacia abajo hasta la sección MACRODATOS.
+
+- Haz clic en BigQuery y selecciona Espacio de trabajo SQL.
+
+Mira el video [Cómo utilizar BigQuery](https://www.coursera.org/learn/preparar-datos-para-la-exploracion/item/YWn81) como introducción para cada una de las partes del espacio de trabajo SQL de BigQuery.
+
+#### Explorar un conjunto de datos público en BigQuery 
+
+Explorarás un conjunto de datos público en la próxima actividad, así que puedes realizar estos pasos más adelante si prefieres.
+
+Consulta estas [instrucciones paso a paso](https://scribehow.com/shared/Selecting_a_BigQuery_public_dataset__Qr3pplQVTOC7rn6HXRTZJw). 
+
+#### Carga un archivo CSV a BigQuery
+
+Te proporcionamos estos pasos para que ahora puedas trabajar por tu cuenta con un conjunto de datos. Cargarás archivos CSV a BigQuery más adelante en el programa.
+
+Consulta estas [instrucciones paso a paso](https://scribehow.com/shared/2dea0d610-ef6b-4ba8-8e44-d40dfeb0454b). 
 
 ### Actividades prácticas: Introducción a BigQuery 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Resumen de la actividad
+
+Hasta ahora, te han presentado BigQuery, un almacén de datos en Google Cloud que pueden utilizar los analistas de datos para realizar consultas, filtrar conjuntos de datos grandes, agregar resultados y realizar operaciones complejas. En esta actividad, explorarás la interfaz de BigQuery; cargarás datos públicos a tu consola y escribirás algunas consultas SQL simples mediante SELECT, FROM y WHERE.
+
+Cuando completes esta actividad, estarás más familiarizado con la escritura de consultas en la interfaz de BigQuery. Esto te permitirá practicar SQL, que es importante para trabajar con bases de datos en tu carrera como analista de datos.
+
+#### Explorar BigQuery
+
+Para esta actividad, necesitarás una cuenta de BigQuery. Si todavía no tienes una cuenta, puedes seguir las instrucciones del artículo 
+[Cómo utilizar BigQuery](https://www.coursera.org/learn/data-preparation/supplement/DYOQK/using-bigquery). Una vez que tienes la cuenta, puedes comenzar a explorar.
+
+1. Inicia sesión en [BigQuery](https://cloud.google.com/bigquery?hl=es_419).
+
+2. Luego, haz clic en el botón Ir a la consola en la página de inicio de BigQuery. Esto abrirá una nueva pestaña con tu consola.
+
+3. Tómate un momento para explorar la consola. En el lado izquierdo, encontrarás el menú Explorador; esto incluye una barra de búsqueda que puedes utilizar para buscar los recursos, los proyectos anclados y el botón + AGREGAR DATOS. En el lado derecho, encontrarás el Editor de consulta. Aquí es donde escribirás las consultas y verás los conjuntos de datos. También aquí puedes encontrar tu historial de trabajo, historial de consulta y consultas guardadas. 
+
+#### Acceder a datos públicos en BigQuery
+
+Para comenzar realmente a escribir consultas, necesitarás algunos datos con los que trabajar. Una vez que te familiarices con la interfaz de BigQuery, puedes acceder al conjunto de datos público directamente desde tu consola.
+
+1. Haz clic en el botón + AGREGAR DATOS en el Panel del menú del explorador y selecciona Explorar conjuntos de datos públicos.Esto abrirá un menú nuevo donde puedas buscar conjuntos de datos públicos que ya estén disponibles mediante Google Cloud. 
+
+2. En el menú del conjunto de datos que acabas de abrir, escribe london bicycleen el cuadro de búsqueda en la parte superior, esto mostrará los resultados del conjunto de datos London Bicycle Hires de Greater London Authority. Haz clic en el conjunto de datospara obtener más información.
+
+3. Desde la página de información del conjunto de datos, haz clic en el botón azul VER CONJUNTO DE DATOS. Esto abrirá tu consola en una pestaña nueva con este conjunto de datos cargado.
+
+Advertirás que bigquery-public-data está ahora marcado en tu panel del Explorador. Ahora puedes explorar y consultar estos conjuntos de datos públicos.
+
+4. Haz clic en la flechaal lado de bigquery-public-data y desplázate hacia abajo de la lista de conjuntos de datos públicos hasta encontrar los datos london_bicycles. Cuando haces clic en el conjunto de datos, aparecerán dos tablas. Haz clic en cycle_hire.
+
 ![image](./img/module%2001%20img%2053.png)
+
+Esto generará una nueva pestaña en tu Editor de consultas con información sobre el esquema de la tabla.
+
+5. Luego de revisar el esquema de la tabla, puedes echar un vistazo sobre qué datos contiene la tabla cycle_hire, haciendo clic en la pestaña Previsualizar. Esto te proporcionará una mejor idea sobre el tipo de datos con los que trabajarás.
+
+Una vez que hayas finalizado de previsualizar los datos, puedes escribir una consulta.
+
+#### Consultar tus datos
+
+Hasta ahora, has aprendido tres partes básicas de una consulta: SELECT, FROM y WHERE. A modo de repaso, aquí presentamos qué representan esas partes básicas en la consulta:
+
+````
+SELECT es la sección de una consulta que indica sobre qué datos deseas que SQL te muestre resultados.
+
+FROM es la sección de una consulta que indica de qué tabla provienen los datos deseados.
+
+WHERE es la sección de una consulta que indica los filtros que deseas aplicar a tu conjunto de datos.
+
+````
+
+- Escribir una consulta básica
+
+Ahora, crea un simple comando utilizando las partes básicas de una consulta que acabas de aprender. Por ejemplo, puedes seleccionar una columna específica de la tabla cycle_hire, por ejemplo, la columna end_station_name.
+
+1. Inicia la consulta con una cláusula SELECT e indica qué columna deseas seleccionar de la tabla, en este caso, escribirás end_station_name.
+
+2. Luego de haber indicado qué columna seleccionaste, escribe tu cláusula FROM. Deberás especificar la tabla desde la que estás consultando y escribir la siguiente ubicación: `bigquery-public-data.london_bicycles.cycle_hire`;
+
+La consulta completa deberá aparecer así: 
+
+````
+SELECT
+
+ end_station_name
+
+FROM
+
+ `bigquery-public-data.london_bicycles.cycle_hire`;
+````
 
 ![image](./img/module%2001%20img%2054.png)
 
+3. Ejecuta tu consulta completa haciendo clic en el botón EJECUTAR.
+
+La ejecución de la consulta demorará unos segundos. Una vez finalizada, encontrarás la lista de los nombres de estación que solicitaste en el panel de la consola Resultados de la consulta.
+
+- Escribir una consulta para responder una pregunta
+
+Luego de ejecutar la primera consulta básica, intenta responder una pregunta específica acerca de los datos. Por ejemplo, ¿cuáles fueron los rental_ids para todos los viajes en bicicleta que duraron 20 minutos o más?
+
+1. Haz clic en COMPONER CONSULTA NUEVA para iniciar una nueva consulta. Comienza nuevamente con tu instrucción SELECT. Esta vez, querrás incluir todas las columnas de la tabla para esta consulta. Puedes utilizar un asterisco para indicar que estás seleccionando todos los datos de la siguiente manera: SELECT COUNT(*) AS num_of_trips
+
+2. Luego, agregarás tu instrucción FROM. Utilizarás el mismo conjunto de datos que en la consulta anterior: FROM `bigquery-public-data.london_bicycles.cycle_hire`.
+
+3. Por último, agregarás una instrucción WHERE para especificar que deseas filtrar solo para recorridos en bicicleta de 20 minutos o más. Si revisas la previsualización de estos datos, podrías notar que la duración se registra en segundos, por lo que especificarás 1200 segundos en tu consulta. Puedes escribir eso como WHERE duration>=1200;
+
+Tu consulta completa se escribirá de la siguiente manera:
+
+````
+SELECT
+
+COUNT(*) AS num_of_trips
+
+FROM
+
+`bigquery-public-data.london_bicycles.cycle_hire`
+
+WHERE
+
+duration >= 1200;
+````
+
+4. Ejecuta tu consulta completa haciendo clic en el botón EJECUTAR.
+
 ![image](./img/module%2001%20img%2055.png)
 
+La ejecución de la consulta demorará unos segundos. Una vez finalizada, encontrarás una lista de recorridos de esta tabla que cumplan con tu criterio. Hay más de 7 millones de filas con recorridos de bicicletas de 20 minutos o más.
+
+#### ¿Preparado para un desafío?
+
+Si te sientes cómodo utilizando las consultas para responder preguntas, intenta crear y ejecutar consultas para responder cualquiera de las siguientes preguntas:
+
+- ¿Cuáles son los nombres de las estaciones desde donde se inició bike_id 1710?
+
+````
+SELECT start_station_id, start_station_name, bike_id FROM `bigquery-public-data.london_bicycles.cycle_hire` WHERE bike_id = 1710;
+````
+![image](./img/module%2001%20img%2081.png)
+
+- ¿Cuántos bike_ids han finalizado en "Moor Street, Soho"?
+
+````
+SELECT COUNT(bike_id) FROM `bigquery-public-data.london_bicycles.cycle_hire` WHERE end_station_name = 'Moor Street, Soho';
+````
+![image](./img/module%2001%20img%2082.png)
+
+- ¿Cuál es el station_id para "Canton Street, Poplar"?
+
+````
+SELECT 
+DISTINCT(start_station_id) AS station_id, start_station_name 
+FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+WHERE start_station_name = 'Canton Street, Poplar';
+````
+![image](./img/module%2001%20img%2083.png)
+
+ó
+
+````
+SELECT 
+DISTINCT(end_station_id) AS station_id, end_station_name 
+FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+WHERE end_station_name = 'Canton Street, Poplar';
+````
+![image](./img/module%2001%20img%2084.png)
+
+Nota: Para saber la cantidad de registros se puede agregar el COUNT:
+
+````
+SELECT 
+COUNT(end_station_id) AS station_id, end_station_name 
+FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+WHERE end_station_name = 'Canton Street, Poplar';
+````
+
+Nota: Para saber la cantidad de registros únuicos se puede agregar el COUNT:
+
+````
+SELECT 
+COUNT(DISTINCT(end_station_id)) AS station_id, end_station_name 
+FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+WHERE end_station_name = 'Canton Street, Poplar';
+````
+
+- ¿Cuál es el nombre de la estación cuyo ID es 111?
+
+````
+SELECT start_station_id, start_station_name FROM `bigquery-public-data.london_bicycles.cycle_hire` WHERE start_station_id = 111;
+````
+![image](./img/module%2001%20img%2085.png)
+
+- ¿Cuántos bike_ids distintos tenían duraciones de viajes mayores que 2400 segundos (o 40 minutos)?
+
+````
+SELECT COUNT(DISTINCT(bike_id)) AS total_bikes FROM `bigquery-public-data.london_bicycles.cycle_hire` WHERE duration > 2400;
+````
+![image](./img/module%2001%20img%2086.png)
+
+#### Confirmación y reflexión
+
+Ejecuta otra consulta en tu tabla:
+
+````
+SELECT end_station_name FROM `bigquery-public-data.london_bicycles.cycle_hire` WHERE rental_id = 57635395;
+````
+
+1. ¿En qué estación finalizó el recorrido en bicicleta con rental_id 57635395?
+
+    - Tower Gardens, Tower
+    
+      ❌ Incorrecto.
+  
+    - East Village, Queen Elizabeth Olympic Park
+    
+      ✅ Correcto. La dirección incluida en la columna end_station_name para la fila 1 de tu tabla de resultados era East Village, Queen Elizabeth Olympic Park. Para hallar esto, ejecutaste una consulta con éxito. Al avanzar, seguirás utilizando las instrucciones SELECT, FROM y WHERE en tus consultas para interactuar con las bases de datos que utilizan SQL. Esto te ayudará a crear consultas SQL más complicadas cuando, en el futuro, estés analizando datos.
+    
+    - Southwark Street, Bankside
+    
+      ❌ Incorrecto.
+      
+    - Notting Hill Gate Station, Notting Hill
+    
+      ❌ Incorrecto.
+
 ![image](./img/module%2001%20img%2056.png)
+
+2. En esta actividad, tuviste oportunidad de familiarizarte más con BigQuery y de escribir consultas SQL. En el cuadro de texto a continuación, escribe 2 o 3 oraciones (entre 40 y 60 palabras) en respuesta a cada una de las siguientes preguntas:
+
+- ¿Cómo crees que puedes utilizar los conjuntos de datos en BigQuery para que te ayude a desarrollar tus destrezas relacionadas con el análisis de datos?
+
+- ¿De qué manera piensas que tener un conocimiento sobre la sintaxis básica de las consultas te ayudará a escribir consultas más complicadas en el futuro?
+
+Desarrollo:
+
+- Uso de conjuntos de datos en BigQuery:
+
+La exploración y análisis de conjuntos de datos en BigQuery proporciona una plataforma robusta para desarrollar habilidades analíticas. Al trabajar con grandes volúmenes de datos en tiempo real, se mejora la capacidad para identificar patrones, tendencias y realizar análisis profundos, fortaleciendo así las habilidades analíticas.
+
+- Importancia del conocimiento en sintaxis de consultas:
+
+Entender la sintaxis básica de las consultas en BigQuery es fundamental para construir una base sólida en análisis de datos. Este conocimiento facilita la creación de consultas más complejas, permitiendo la extracción específica de información, combinación de datos de múltiples tablas y aplicación de funciones analíticas avanzadas, brindando así una mayor profundidad en el análisis de conjuntos de datos complejos.
+
+✅ Correcto
+¡Felicitaciones por completar esta actividad práctica! Exploraste BigQuery, subiste datos públicos a tu consola y generaste algunas consultas. Una buena respuesta incluiría que los conjuntos de datos públicos de BigQuery pueden ayudarte a practicar la escritura de SQL.
+
+Poder crear consultas SQL es una destreza importante para los analistas de datos, debido a que con frecuencia deben trabajar con bases de datos. En las próximas actividades, seguirás trabajando con bases de datos y escribiendo consultas con SQL: una herramienta esencial del kit de herramientas del analista de datos.
+
 
 ### Actividades prácticas: Crea una tabla de datos personalizada en BigQuery 📖
 
@@ -1742,19 +2024,23 @@ Estás trabajando con una tabla de una base de datos que contiene datos del clie
 
 Escribes la consulta SQL a continuación. Agrega una cláusula WHERE que mostrará resultados solo de clientes que se encuentren en Berlín.
 
+````
 SELECT
 *
 FROM
 customer
 WHERE
 city = 'Berlin' 
+````
 
+````
 +-------------+------------+-----------+---------+---------------------+--------+-------+---------+-------------+------------------+------+---------------------------+----------------+
 | customer_id | first_name | last_name | company | address             | city   | state | country | postal_code | phone            |  fax | email                     | support_rep_id |
 +-------------+------------+-----------+---------+---------------------+--------+-------+---------+-------------+------------------+------+---------------------------+----------------+
 |          36 | Hannah     | Schneider |    None | Tauentzienstraße 8  | Berlin |  None | Germany | 10789       | +49 030 26550280 | None | hannah.schneider@yahoo.de |              5 |
 |          38 | Niklas     | Schröder  |    None | Barbarossastraße 19 | Berlin |  None | Germany | 10779       | +49 030 2141444  | None | nschroder@surfeu.de       |              3 |
 +-------------+------------+-----------+---------+---------------------+--------+-------+---------+-------------+------------------+------+---------------------------+----------------+
+````
 
 8. ¿Cuántos clientes se encuentran en Berlín?
 
