@@ -1773,3 +1773,76 @@ city = 'Berlin'
     - 12
     
       ❌ Incorrecto.
+
+
+1.
+Pregunta 1
+Las bases de datos relacionales muestran las relaciones entre las tablas. ¿Qué campos representan la conexión entre estas tablas? Selecciona todas las opciones que correspondan.
+
+1 / 1 punto
+
+Claves externas
+
+Correcto
+Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
+
+
+Claves primarias
+
+Correcto
+Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
+
+
+Claves secundarias
+
+
+ Claves  relacionales
+
+
+
+ 2.
+Pregunta 2
+Cuando se trabaja con datos provenientes de una fuente externa, ¿en qué pueden los metadatos ayudar a los analistas de datos? Selecciona todas las opciones que correspondan.
+
+1 / 1 punto
+
+Garantizar que los datos estén limpios y sean confiables
+
+Correcto
+Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
+
+
+Combinar los datos desde más de una fuente
+
+Correcto
+Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
+
+
+Interpretar el contenido de una base de datos
+
+Correcto
+Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
+
+
+Elegir qué análisis ejecutar
+
+
+Pregunta 6
+Una organización sin fines de lucro mantiene una lista de cuántas computadoras portátiles suministra a cada escuela del país. En la tabla, hay una columna que se denomina number_of_laptops. Un analista de datos desea determinar a qué escuelas se les dieron menos computadoras portátiles. ¿Cómo debe ordenar los datos para mostrar resultados de estas escuelas en primer lugar?
+
+1 / 1 punto
+
+Ordenar alfabéticamente en orden descendente.
+
+
+Ordenar numéricamente en orden ascendente.
+
+
+Ordenar alfabéticamente en orden ascendente.
+
+
+Ordenar numéricamente en orden descendente.
+
+Correcto
+El analista de datos debe ordenar la columna number_of_laptops numéricamente en orden ascendente. 
+
