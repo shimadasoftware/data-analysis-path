@@ -1699,11 +1699,129 @@ Puedes comenzar con estos recursos:
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Resumen de la actividad
 
+En lecciones anteriores, aprendiste cómo aplicar fórmulas en las hojas de cálculo. En esta actividad, practicaremos cómo utilizar las fórmulas con las consultas SQL.
+
+Al finalizar esta actividad, podrás utilizar SQL para escribir consultas para los conjuntos de datos. Esto te permitirá explorar los conjuntos de datos públicos en BigQuery, lo cual es importante para escribir consultas en tu carrera como analista de datos.
+
+#### Configurar tus datos
+
+1. Inicia sesión en el [espacio aislado de BigQuery](https://cloud.google.com/bigquery/docs/sandbox?hl=es-419). Si cuentas con una versión de prueba gratuita de BigQuery, puedes utilizarla. En la página de BigQuery, haz clic en el botón Ir a BigQuery.
+
+- Nota: El espacio aislado de BigQuery actualiza frecuentemente su interfaz de usuario. Los últimos cambios posiblemente no se vean reflejados en las capturas de pantalla presentadas en esta actividad, pero los principios siguen siendo los mismos. Adaptarse a los cambios de las actualizaciones de software es una destreza esencial para los analistas de datos, y es útil para ti para practicar la resolución de problemas. También puedes comunicarte con tu comunidad de alumnos en el foro de debate para obtener ayudar.
+
+2. Si nunca has creado un proyecto de BigQuery antes, haz clic en CREAR PROYECTO en el lado derecho de la pantalla. Si has creado un proyecto antes, puedes utilizar uno existente o crear uno nuevo haciendo clic en la lista desplegable del proyecto en la barra del encabezado azul y seleccionando NUEVO PROYECTO.
+
+3. Coloca un nombre al proyecto que te permita identificarlo luego. Puedes colocarle un ID de proyecto único o utilizar uno generado automáticamente. No te preocupes por seleccionar una organización si no sabes qué colocar.
+
+4. Ahora, verás la interfaz del Editor. En la mitad de la pantalla hay una ventana donde puedes escribir el código y, hacia la izquierda, está el menú del Explorador donde puedes buscar conjuntos de datos.
+
+- Elegir un conjunto de datos
+
+Sigue estos pasos para encontrar y elegir un conjunto de datos para esta actividad:
+
+1. En la esquina superior izquierda de la pantalla, busca la pestaña Explorador (Explorer).
+
+2. Haz clic en el botón + AGREGAR (+ ADD) del menú Explorador (Explorer), navega hacia abajo por la lista en la ventana Agregar y selecciona Conjuntos de datos públicos (Public Datasets).
+
+Se abrirá un menú nuevo en el que podrás buscar conjuntos de datos públicos que ya estén disponibles a través de Google Cloud.
+
+3. En la barra Buscar en Marketplace (Search Marketplace), busca “Árboles de la ciudad de Nueva York”. Haz clic en el resultado y, luego, en Ver conjunto de datos (View Dataset). Esto te llevará nuevamente a la interfaz de zona de pruebas de BigQuery en una pestaña nueva. 
+
+- Nota: Es posible que con esta acción se fije el menú desplegable de bigquery-public-data al menú Explorador con una estrella destacada. De esta forma, puedes explorar tablas y conjuntos de datos adicionales para futuras lecciones.
+
+4. En BigQuery, encontrarás información sobre el conjunto de datos que seleccionaste. Revisa la descripción del conjunto de datos. 
+
+Por ejemplo, puedes localizar el ID del conjunto de datos que necesitarás para escribir una consulta en SQL y, así, advertir a qué base de datos, conjunto de datos y tabla te orientarás. En este caso, la conexión de la base de datos es “bigquery-public-data” y el ID del conjunto de datos es “árboles_ciudad_nueva_york”, por lo que aún deberás identificar qué tabla quieres consultar.Para hacerlo, comienza con una revisión minuciosa delconjunto de datos.
+
+- Elige una tabla
+
+1. Ingresa el ID del conjunto de datos, “árboles_ciudad_nueva_york”, en la barra de búsqueda del menú Explorador.
+
+Si no se generan resultados, puedes buscarlo manualmente borrando el texto de la barra de búsqueda, haciendo clic en la flecha al lado de bigquery-public-data y desplazándote para encontrar el conjunto de datos correcto.
+
+2. Una vez que hayas encontrado el conjunto de datos “árboles_ciudad_nueva_york”, haz clic en la flecha que está junto a él para expandirlo y examinar las tablas que contiene.
 
 ![image](./img/module%2001%20img%2077.png)
 
+Estas son todas tablas incluidas en el conjunto de datos. Puedes consultar los datos de todos los árboles catalogados en la ciudad de Nueva York para tres años específicos.
 
+3. Haz clic en la tabla censo_árboles_2005 (tree_census_2005) para que aparezca la información de la tabla.
+
+![image](./img/module%2001%20img%2078.png)
+
+4. En el lado derecho de la ventana de información, haz clic en Consulta (Query) y, luego, selecciona “En una pestaña nueva” (In new tab).
+
+De esta forma, se completará la ventana con una consulta. Observa que la consulta no contiene información entre “SELECT” y “FROM”. 
+
+#### Escribe una consulta
+
+- Consulta los datos
+
+Todavía deberás completar la consulta agregando lo que desees. 
+
+1. Inserta un asterisco * después de la selección, para que en la consulta se lea SELECT * FROM seguido de la ubicación de la tabla. 
+
+2. Ejecuta la consulta. En el ejemplo proporcionado, tu resultado debería ser similar a lo siguiente:
+
+![image](./img/module%2001%20img%2079.png)
+
+Esta consulta devuelve resultados de las primeras 1,000 filas de la tabla. 
+
+3. Escribe una consulta para averiguarel diámetro promedio de todos los árboles de Nueva York en 2005. En lugar de un asterisco, escribe AVG(tree_dbh).
+
+![image](./img/module%2001%20img%2080.png)
+
+Aparecerá la respuesta: 12.833 (que significa que el diámetro promedio de los árboles de la ciudad de Nueva York en 2005 era de 12.833 pulgadas).
+
+- Escribe tus propias consultas
+
+Ahora, genera algunas preguntas y respóndelas con tus propias consultas en SQL. Por ejemplo, en el mismo conjunto de datos del ejemplo, se intentan explorar los mismos datos para 1995 y 2015. 
+
+Eres libre de elegir otro conjunto de datos disponible públicamente en BigQuery y de escribir tus propias consultas para una práctica adicional. Hay muchas opciones interesantes.
+
+#### Confirmación y reflexión
+
+1. Según el conjunto de datos que usaste en esta actividad, ¿cuál fue el diámetro promedio de los árboles de la ciudad de Nueva York en 2015?
+
+    - 12.981
+    
+      ❌ Incorrecto.
+  
+    - 11.439
+    
+      ❌ Incorrecto. 
+    
+    - 11.279
+    
+      ✅ Correcto. El diámetro promedio de los árboles de la ciudad de Nueva York en 2015 fue de 11.279 pulgadas. De ahora en adelante, podrás escribir otras consultas en SQL para devolver los resultados de los conjuntos y las bases de datos. No debes incluir el signo igual ni las comillas. De esta forma podrás encontrar los datos que necesitas para futuros proyectos.
+      
+    - 12.334 
+    
+      ❌ Incorrecto. 
+
+![image](./img/module%2001%20img%2087.png)
+
+2. Durante esta actividad, practicaste cómo escribir consultas en SQL para devolver resultados de la información de los conjuntos de datos. En el siguiente cuadro de texto, escribe 2 o 3 oraciones (entre 40 y 60 palabras) en respuesta a cada una de las siguientes preguntas:
+
+- ¿Qué crees que ocurriría si escribieras cada componente de una consulta correctamente, pero cambiaras el orden?
+
+- ¿Cómo puedes utilizar las consultas en SQL para crecer como analista de datos?
+
+- Desarrollo:
+
+Orden de componentes en consulta SQL:
+
+Cambiar el orden de los componentes en una consulta SQL no afectará su validez si cada parte está escrita correctamente. Sin embargo, el resultado puede variar, ya que el orden influye en la interpretación de las instrucciones, afectando la presentación y organización de los datos recuperados.
+
+Uso de consultas SQL para crecimiento como analista de datos:
+
+Las consultas SQL son fundamentales para el crecimiento como analista de datos al permitir la extracción, filtrado y análisis de datos específicos. Al dominar consultas complejas, se pueden realizar análisis más profundos, combinando múltiples fuentes de datos, identificando patrones y generando informes personalizados, fortaleciendo así las habilidades analíticas y la toma de decisiones informada.
+
+✅ Correcto. ¡Felicitaciones por completar esta actividad práctica! En una respuesta sólida, se incluiría cómo realizar consultas a los conjuntos de datos públicos es una gran manera de practicar con SQL. Más allá de eso, considera lo siguiente: 
+
+Los analistas de datos utilizan SQL para interactuar con las bases de datos y visualizar la información que necesitan analizar. Este es un conocimiento importante que te preparará para cursos futuros y muchos aspectos de tu carrera como analista de datos. En las próximas actividades, aprenderás y practicarás cómo escribir consultas más avanzadas que te ayudarán a dominar SQL, una herramienta esencial para el kit de herramientas de todo analista de datos.
 
 
 ### Cuestionario práctico 📑
@@ -1817,7 +1935,11 @@ A
 
 - Analista de datos: Alguien que recopila, transforma y organiza los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada.
 
+- Anonimización de datos: El proceso de proteger los datos privados o confidenciales de las personas eliminando información que pueda asociarse a ellas.
+
 - Apertura (openness): El aspecto de la ética de datos que promueve el acceso libre a los datos, su uso y también el uso compartido.
+
+- Archivo CSV (valores separados por coma): Archivo de texto delimitado que utiliza una coma para separar los valores.
 
 - Archivo de audio: Almacenamiento digitalizado de audio generalmente en MP3, AAC u otro formato comprimido.
 
@@ -1831,7 +1953,11 @@ B
 
 - Base de datos: Recopilación de datos almacenados en un sistema informático.
 
+- Base de datos normalizada: Base de datos en la que solo se almacenan datos relacionados en cada tabla.
+
 - Base de datos relacional: Base de datos que contiene una serie de tablas que se pueden conectar para mostrar relaciones.
+
+- Bloc de notas: Entorno de programación interactivo y editable para generar informes de datos y mostrar destrezas en el uso de datos.
   
 - Bordes: Líneas que se pueden agregar alrededor de dos o más celdas en una hoja de cálculo.
 
@@ -1845,6 +1971,10 @@ C
 
 - Ciencia de datos: Un campo de estudio que utiliza datos brutos para crear nuevas formas de modelar y entender lo desconocido.
 
+- Clave externa: Campo en una tabla de una base de datos que constituye una clave primaria en otra tabla (Ver “Clave primaria”).
+
+- Clave primaria: Identificador en una base de datos que hace referencia a una columna en la que cada valor es único (Ver “Clave externa”).
+
 - Conjunto de datos: Una colección de datos que pueden ser manipulados o analizados como una unidad.
 
 - Consentimiento: El aspecto de la ética de datos que considera el derecho de una persona de conocer cómo y por qué se utilizarán sus datos personales antes de estar de acuerdo de proporcionarlos.
@@ -1854,6 +1984,8 @@ C
 - Contexto: La condición en la que algo existe o sucede.
 
 - Controlador de relleno: Cuadro en la esquina inferior derecha de una celda seleccionada de una hoja de cálculo que se puede arrastrar a través de las celdas vecinas para seguir una instrucción.
+
+- Convenciones de nomenclatura: Pautas uniformes para el nombre de un archivo que describen el contenido, la fecha de creación y la versión.
 
 - COUNT: Función de la hoja de cálculo que cuenta el número de celdas en un rango que cumplen con un criterio especificado.
 
@@ -1932,6 +2064,8 @@ F
 
 - Foto digital: Una imagen electrónica o computarizada, generalmente en formato BMP o JPG.
 
+- FROM: La sección de una consulta que indica de donde provienen los datos seleccionados.
+  
 - Fuente de datos correctos: Fuente de datos confiable, original, integral, actual y citada (ROCCC). 
 
 - Fuente de datos erróneos: Fuente de datos que no es confiable, original, integral, actual ni citada (ROCCC). 
@@ -1941,6 +2075,10 @@ F
 - Función matemática: Función que se utiliza como parte de una fórmula matemática.
 
 G
+
+- Geolocalización: La ubicación geográfica de una persona o dispositivo mediante información digital.
+
+- Gobierno de datos: Proceso para garantizar la gestión formal de los recursos de datos de una empresa.
 
 - Gráfico dinámico: Gráfico creado a partir de los campos en una tabla dinámica.
 
@@ -1978,6 +2116,14 @@ M
 
 - Mentalidad técnica: La capacidad de dividir las cosas en pasos o piezas más pequeñas y trabajar con ellas de forma ordenada y lógica.
 
+- Metadatos administrativos: Metadato que indica el origen técnico de un recurso digital.
+
+- Metadatos descriptivos: Metadatos que describen datos y que se pueden utilizar para identificarlos más adelante.
+
+- Metadatos estructurales: Metadatos que indican cómo se organizan ciertos datos y si forman parte de una recopilación de datos o de varias.
+
+- Metadatos: Datos sobre datos.
+
 - Metodología SMART: Herramienta para determinar la eficacia de una pregunta basándose en si es específica, medible, orientada a la acción, relevante y con plazos determinados.
 
 - Métrica: Tipo único y cuantificable de datos que pueden utilizarse para medición.
@@ -2009,6 +2155,8 @@ O
 - Orden de las operaciones: Uso de paréntesis para agrupar los valores de la hoja de cálculo a fin de aclarar el orden en el que deben realizarse las operaciones.
 
 - Ordenación: Proceso de organizar los datos en un sistema de clasificación significativo para que sean más fáciles de entender, analizar y visualizar.
+
+- Organización Mundial de la Salud: Organización cuya función principal es la de controlar y coordinar la salud a nivel internacional dentro del sistema de las Naciones Unidas.
 
 P
 
@@ -2050,17 +2198,27 @@ R
 
 - Redes sociales: Sitios web y aplicaciones en los que los usuarios crean y comparten contenido o interactúan entre sí.
 
+- Redundancia: Cuando los mismos datos se almacenan en dos o más lugares.
+
 - Referencia de celda: Celda o rango de celdas en una hoja de cálculo que se usa generalmente en fórmulas y funciones.
 
 - Reformulación: Proceso de replantear un problema o desafío, que se redirecciona luego hacia una posible resolución. 
 
+- Registro: Conjunto de datos relacionados en una tabla de datos, generalmente sinónimo de “fila”.
+
 - Retorno de la inversión (ROI): Fórmula que utiliza las métricas de inversión y ganancias para evaluar el éxito de una inversión.
+
+- Reglamento General de Protección de Datos de la Unión Europea (GDPR): Organismo formulador de políticas en la Unión Europea, creado para ayudar a proteger a las personas y sus datos.
+
+- Repositorio de metadatos: Base de datos creada para almacenar metadatos.
 
 - Reglamento General de Protección de Datos de la Unión Europea (GDPR): Organismo formulador de políticas en la Unión Europea, creado para ayudar a proteger a las personas y sus datos.
 
 - Registro: Conjunto de datos relacionados en una tabla de datos, generalmente sinónimo de fila.
 
 S
+
+- SELECT: Sección de una consulta que indica el subconjunto de un conjunto de datos.
 
 - Sesgo: Preferencia consciente o no a favor o en contra de una persona, un grupo de personas o una cosa.
 
@@ -2112,6 +2270,9 @@ V
 - Visualización: (Consulta la visualización de datos).
 
 W
+
+WHERE: La sección de una consulta que especifica los criterios que deben cumplir los datos solicitados.
+
 X
 Y
 Z
@@ -2281,74 +2442,39 @@ city = 'Berlin'
       ❌ Incorrecto.
 
 
-1.
-Pregunta 1
-Las bases de datos relacionales muestran las relaciones entre las tablas. ¿Qué campos representan la conexión entre estas tablas? Selecciona todas las opciones que correspondan.
+9. Las bases de datos relacionales muestran las relaciones entre las tablas. ¿Qué campos representan la conexión entre estas tablas? Selecciona todas las opciones que correspondan.
 
-1 / 1 punto
-
-Claves externas
-
-Correcto
-Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
-
-
-Claves primarias
-
-Correcto
-Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
-
-
-Claves secundarias
+    - Claves externas
+    
+      ✅ Correcto. Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
+  
+    - Claves primarias
+    
+      ✅ Correcto. Las claves primarias y externas representan la conexión entre las tablas en una base de datos relacional.
+    
+    - Claves secundarias
+    
+      ❌ Incorrecto.
+      
+    - Claves relacionales
+    
+      ❌ Incorrecto.
 
 
- Claves  relacionales
+10. Cuando se trabaja con datos provenientes de una fuente externa, ¿en qué pueden los metadatos ayudar a los analistas de datos? Selecciona todas las opciones que correspondan.
 
-
-
- 2.
-Pregunta 2
-Cuando se trabaja con datos provenientes de una fuente externa, ¿en qué pueden los metadatos ayudar a los analistas de datos? Selecciona todas las opciones que correspondan.
-
-1 / 1 punto
-
-Garantizar que los datos estén limpios y sean confiables
-
-Correcto
-Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
-
-
-Combinar los datos desde más de una fuente
-
-Correcto
-Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
-
-
-Interpretar el contenido de una base de datos
-
-Correcto
-Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
-
-
-Elegir qué análisis ejecutar
-
-
-Pregunta 6
-Una organización sin fines de lucro mantiene una lista de cuántas computadoras portátiles suministra a cada escuela del país. En la tabla, hay una columna que se denomina number_of_laptops. Un analista de datos desea determinar a qué escuelas se les dieron menos computadoras portátiles. ¿Cómo debe ordenar los datos para mostrar resultados de estas escuelas en primer lugar?
-
-1 / 1 punto
-
-Ordenar alfabéticamente en orden descendente.
-
-
-Ordenar numéricamente en orden ascendente.
-
-
-Ordenar alfabéticamente en orden ascendente.
-
-
-Ordenar numéricamente en orden descendente.
-
-Correcto
-El analista de datos debe ordenar la columna number_of_laptops numéricamente en orden ascendente. 
-
+    - Garantizar que los datos estén limpios y sean confiables
+    
+      ✅ Correcto. Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
+  
+    - Combinar los datos desde más de una fuente
+    
+      ✅ Correcto. Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
+    
+    - Elegir qué análisis ejecutar
+    
+      ❌ Incorrecto.
+      
+    - Garantizar que los datos estén limpios y sean confiables
+    
+      ✅ Correcto. Los metadatos ayudan a los analistas de datos a entender el contenido de una base de datos, a garantizar que los datos estén limpios y sean confiables, y a entender cómo combinar los datos desde más de una fuente. 
