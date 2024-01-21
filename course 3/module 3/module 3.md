@@ -1455,36 +1455,256 @@ Entender la sintaxis básica de las consultas en BigQuery es fundamental para co
 
 Poder crear consultas SQL es una destreza importante para los analistas de datos, debido a que con frecuencia deben trabajar con bases de datos. En las próximas actividades, seguirás trabajando con bases de datos y escribiendo consultas con SQL: una herramienta esencial del kit de herramientas del analista de datos.
 
-
 ### Actividades prácticas: Crea una tabla de datos personalizada en BigQuery 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Resumen de la actividad
+
+Recientemente, estuviste pensando sobre cómo identificar los orígenes de datos que serían útiles para el análisis. También pasaste un tiempo en la actividad anterior explorando un conjunto de datos públicos en BigQuery y escribiendo algunas consultas SQL básicas. Además de utilizar datos públicos en BigQuery, deberás poder importar datos de otras fuentes. En esta actividad, crearás una tabla y un conjunto de datos personalizados, que cargarás en una tabla y consulta nuevas.
+
+Al finalizar esta actividad, podrás cargar tus propios datos en BigQuery para realizar el análisis. Esto te permitirá importar tus propias fuentes de datos en BigQuery, que es una destreza que necesitarás para analizar los datos de las distintas fuentes.
+
+Lo que necesitarás
+
+Para comenzar, descarga el archivo Zip con datos de nombres de bebés. Este archivo contiene alrededor de 7 MB de datos sobre nombres populares de bebés extraídos del sitio web de la Administración del Seguro Social de los Estados Unidos.
+
+Haz clic en el enlace del archivo Zip con datos de nombres de bebés y descárgalo. 
+
+Enlace a los datos de nombres de bebés: [names.zip](https://storage.googleapis.com/gwg-content/gdac006/names.zip)
+
 ![image](./img/module%2001%20img%2057.png)
+
+#### Crear una tabla personalizada
+
+Una vez que hayas descargado el archivo Zip, puedes importarlo en BigQuery para realizar consultas y análisis. Para ello, necesitarás crear un nuevo conjunto de datos y una tabla personalizada.
+
+- Paso 1: Descomprimir el archivo
+
+Deberás descomprimir el archivo que descargaste en tu computadora para acceder a este en BigQuery. Una vez que hayas descomprimido el archivo, encontrarás un archivo .pdf denominado NationalReadMe que contiene más información acerca del conjunto de datos. Este conjunto de datos realiza un seguimiento de la popularidad de los nombres de bebés por cada año. Puedes encontrar archivos de texto etiquetados por el año que contienen. Abre yob2014.txt para previsualizar los datos. Verás que es un archivo .csv con tres columnas. Recuerda dónde guardaste esta carpeta para poder consultarla luego.
 
 ![image](./img/module%2001%20img%2058.png)
 
+- Paso 2: Crear un conjunto de datos
+
+Antes de poder cargar tu archivo txt y crear una tabla para realizar consultas, deberás crear un conjunto de datos para cargar tus datos y almacenar tus tablas.
+
+1. Ve al Panel del explorador en tu espacio de trabajo y haz clic en los tres puntos al lado de tu proyecto marcadopara abrir un menú. Desde aquí, selecciona Crear conjunto de datos.
+
 ![image](./img/module%2001%20img%2059.png)
+
+2. Esto abrirá el menú de Crear conjunto de datos en el lado derecho de tu consola. Aquí es donde completarás información sobre el conjunto de datos. Escribirás el ID del conjunto de datos como nombres de bebés y configurarás la ubicación de los datos en los Estados Unidos (EE. UU.). Una vez que hayas finalizado de completar esta información, puedes hacer clic en el botón azul CREAR CONJUNTO DE DATOS en la parte inferior del menú.
 
 ![image](./img/module%2001%20img%2060.png)
 
+- Paso 3: Crear tabla
+
+Ahora que tienes un conjunto de datos personalizado almacenado en el espacio de tu proyecto, aquí es donde agregarás la tabla.
+
+1. Desde el conjunto de datos babynames, haz clic en el botón CREAR TABLA. Esto abrirá otro menú en el lado derecho de tu consola. 
+
+2. En la sección Origen, seleccionarás la opción Cargar en Crear tabla desde. Luego, harás clic en el botón Examinar para abrir tus archivos. Busca y abre el archivo yob2014.txt. Selecciona el formato de archivo .csv. En la sección Destino, coloca el nombre names_2014 a tu tabla. En Esquema, selecciona Editar como textoy escribe el siguiente código: string,gender:string,count:integer. Esto establecerá los tipos de datos de las tres columnas de la tabla. Deja el resto de los parámetros tal como están y selecciona Crear tabla.
+
 ![image](./img/module%2001%20img%2061.png)
+
+3. Una vez que hayas creado la tabla, aparecerá en el panel de tu explorador en el conjunto de datos que creaste antes.
 
 ![image](./img/module%2001%20img%2062.png)
 
+Haz clic en la tabla para abrirla en tu espacio de trabajo. Aquí, puedes revisar el esquema de la tabla. Luego, ve a la pestaña Previsualizar para explorar tus datos. La tabla debe tener tres columnas: nombre, género y recuento.
+
+#### Consulta tu tabla personalizada
+
+Ahora que tu tabla está configurada, estás listo para comenzar a escribir consultas y responder preguntas acerca de estos datos. Por ejemplo, supongamos que estabas interesado en los principales cinco nombres de bebés para niños en los Estados Unidos en 2014.
+
+Haz clic en COMPONER CONSULTA NUEVA para iniciar una nueva consulta para esta tabla. Luego, copia y pega este código:
+
+````
+SELECT name, count FROM `babynames.names_2014` WHERE gender = 'M' ORDER BY count DESC LIMIT 5
+````
+
+Esta consulta SELECCIONA las columnas de nombre y recuento de la tabla names_2014. Mediante la cláusula WHERE, estás filtrando para un género específico para tus resultados. Luego, estás ordenando cómo deseas que aparezcan los resultados con ORDENAR POR. Debido a que estás ordenando por el recuento en orden descendente, obtendrás los nombres y los recuentos correspondientes de mayor a menor. Y, por último, el LÍMITE le indica a SQL que solo muestre los resultados de los cinco nombres más populares y los recuentos.
+
+Una vez que hayas escrito esto en tu consola, selecciona EJECUTAR para obtener los resultados de la consulta. 
+
 ![image](./img/module%2001%20img%2063.png)
+
+- ¿Preparado para un desafío?
+
+Si te sientes cómodo creando tus propias tablas personalizadas, intenta cargar más archivos del conjunto de datos de nombres de bebés en tablas que puedas consultar. Por ejemplo, podrías cargar cada uno de los archivos desde 2015 hasta 2019 para descubrir los principales nombres de bebés de esos años.
+
+#### Confirmación y reflexión
+
+Luego de realizar la consulta en tu nueva tabla, ¿cuál fue el tercer nombre de bebé más popular para niños en 2014?
+
+    - William
+    
+      ❌ Incorrecto.
+  
+    - Noah
+    
+      ❌ Incorrecto. 
+    
+    - Jacob
+    
+      ❌ Incorrecto.
+      
+    - Mason
+    
+      ✅ Correcto. Para averiguar que Mason fue el tercer nombre de bebé más popular para niños en 2014, consultaste tu tabla personalizada y revisaste los resultados. Al avanzar, podrás cargar tus propias fuentes de datos en BigQuery para futuros proyectos de análisis. Esto te permitirá practicar cómo escribir consultas SQL para más fuentes de datos, que será una destreza clave como analista de datos.
+
 
 ### Guia detallada prácticas recomendadas en SQL 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+#### Uso de mayúsculas y distinción entre mayúsculas y minúsculas
 
+Con SQL, el uso de mayúsculas no suele importar. Puedes escribir SELECT, seleccionar o SeLeCT. ¡Todas las opciones funcionan! Pero si utilizas mayúsculas como parte de un estilo coherente, tus consultas se verán más profesionales.
+
+Para escribir consultas SQL como un profesional, siempre es bueno usar mayúsculas en los iniciadores de cláusulas (por ejemplo, SELECT, FROM, WHERE, etcétera). Las funciones también deberían estar escritas con mayúsculas (por ejemplo, SUM()). Los nombres de las columnas deberían estar escritos en minúscula (consulta la sección sobre snake_case que se encuentra más adelante en esta guía). Los nombres de las columnas deberían estar escritos en CamelCase (consulta la sección sobre CamelCase que se encuentra más adelante en esta guía). Esto ayuda a que tus consultas sean coherentes y fáciles de leer, y no impactarán en los datos que extraigas cuando las realices. En el único momento en que es importante el uso de mayúsculas es cuando se encuentran dentro de citas (podrás leer más sobre citas más adelante).
+
+Los proveedores de bases de datos SQL pueden utilizar variaciones ligeramente diferentes de SQL. Estas variaciones se denominan dialectos SQL. Algunos dialectos SQL distinguen entre mayúsculas y minúsculas. BigQuery es uno de ellos. Vertica es otro. Pero la mayoría, como MySQL, PostgreSQL y SQL Server no distinguen entre mayúsculas y minúsculas. Esto quiere decir que si buscas country_code = ‘us’, te mostrará todas las entradas que contengan 'us', 'uS', 'Us' y 'US'. Esto no sucederá con BigQuery. BigQuery distingue entre mayúsculas y minúsculas, de manera que esa misma búsqueda solo te mostrará entradas en las que el country_code sea exactamente 'us'. Si el country_code es 'US', BigQuery no incluirá esas entradas en los resultados.
+
+#### Comillas simples o dobles: '' o " "
+
+En la mayoría de los casos, tampoco es importante si utilizas comillas simples ' ' o comillas dobles " " cuando nos referimos a las cadenas. Por ejemplo, SELECT es un iniciador de cláusula. Si escribes SELECT entre comillas, como 'SELECT' o "SELECT", SQL lo tomará como una cadena de texto. Tu consulta será errónea porque necesita una cláusula SELECT.
+
+Pero hay dos situaciones en las que sí importa qué tipo de comillas utilices:
+
+1. Cuando quieres que las cadenas sean identificables en cualquier dialecto SQL 
+
+2. Cuando tu cadena contiene un apóstrofo o comillas
+
+Dentro de cada dialecto SQL, hay reglas sobre lo que es aceptado y lo que no. Pero una regla general que comparten casi todos los dialectos SQL es el uso de comillas simples para cadenas. Esto ayuda a evitar confusiones. Así que si queremos referirnos a Estados Unidos en una cláusula WHERE (por ejemplo, country_code = 'US'), utiliza comillas simples para encerrar la palabra 'US'.
+
+La segunda situación es cuando tu cadena tiene comillas dentro. Imagina que tienes una columna de comidas favoritas en una tabla denominada FavoriteFoods y otra columna que corresponde a cada amigo. 
+
+![image](./img/module%2001%20img%2064.png)
+
+Puedes ver que la comida favorita de Rachel contiene un apóstrofo. Si usaras comillas simples en una cláusula WHERE para encontrar al amigo que tiene esta comida favorita, el resultado sería:
+
+![image](./img/module%2001%20img%2065.png)
+
+**Esto no funcionará.** Si ejecutas esta consulta, obtendrás un error. Esto sucede porque SQL reconoce una cadena de texto como algo que comienza con una comilla 'y termina con otra comilla '. Así, en la consulta errónea de arriba, SQL piensa que la comida favorita (Favorite_food) que estás buscando es 'Shepherd'. Solo 'Shepherd' porque el apóstrofo de Shepherd’s finaliza la cadena.
+
+En términos generales, este debería ser el único momento en el que deberías utilizar comillas dobles en lugar de comillas simples. Entonces, tu consulta debería verse así:
+
+![image](./img/module%2001%20img%2066.png)
+
+SQL entiende cadenas de texto que comienzan con una comilla simple ' o con una comilla doble ". Dado que esta cadena comienza con comillas dobles, SQL esperará que otra comilla doble marque el final de la cadena. Esto asegurará el apóstrofo, así que volverá a "Shepherd’s pie" y no a 'Shepherd'.
+
+#### Comentarios como recordatorios
+
+A medida que te sientas más cómodo con SQL, podrás leer y comprender las consultas de un vistazo. Pero nunca está de más que tengas comentarios en la consulta para recordar lo que estás tratando de hacer. Y si compartes tu consulta, eso ayudará a que otros también puedan comprenderla. 
+
+Por ejemplo:
+
+![image](./img/module%2001%20img%2067.png)
+
+Puedes utilizar # en lugar de dos guiones, --, en la consulta de arriba, pero recuerda que no todos los dialectos SQL reconocen # (MySQL no reconoce #). Por lo tanto, se recomienda usar -- de manera coherente. Cuando agregas un comentario a una consulta utilizando --, el motor de consulta de la base de datos ignorará todo lo que esté en la misma línea luego de --. Continuará procesando la consulta a partir de la próxima línea.
+
+#### Nombres en snake_case para columnas 
+
+Siempre es importante que te asegures que el rendimiento de tu consulta tiene nombres fáciles de entender. Si creas una nueva columna (ya sea desde un cálculo o desde nuevos campos concatenados), la nueva columna recibirá un nombre genérico predeterminado (por ejemplo, f0). Por ejemplo:
+
+![image](./img/module%2001%20img%2068.png)
+
+La siguiente tabla muestra los resultados de esta consulta: f0: 8 f1: 4 total_tickets: 8 Number_of_purchases: 4
+
+Los resultados son:
+
+![image](./img/module%2001%20img%2069.png)
+
+Las primeras dos columnas se denominan f0 y f1 porque no recibieron un nombre en la consulta anterior. Los nombres SQL predeterminados son f0, f1, f2, f3 y así sucesivamente. Denominamos las últimas dos columnas total_tickets y number_of_purchases, así que los nombres de estas columnas aparecen en los resultados de la consulta. Por eso siempre es bueno ponerles nombres útiles a las columnas, en especial cuando utilizamos funciones. Luego de realizar la consulta, quieres tener la capacidad de comprender rápidamente tus resultados, como las dos columnas que describimos en el ejemplo.
+
+Además de eso, notarás que los nombres de las columnas tienen guiones bajos entre las palabras. Los nombres nunca deben tener espacios. Si 'total_tickets' tuviera un espacio y fuera 'total tickets', SQL cambiaría el nombre SUM(tickets) por 'total'. Debido al espacio, SQL utilizará 'total' como el nombre y no comprenderá lo que quieres decir con 'tickets'. Entonces, los espacios son malos para los nombres en SQL. Nunca utilices espacios.
+
+Lo mejor es utilizar snake_case. Eso quiere decir que 'total tickets', que tiene un espacio en el medio de las dos palabras, debe escribirse como 'total_tickets', con un guion bajo en lugar de un espacio. 
+
+#### CamelCase para los nombres de las tablas
+
+También puedes utilizar CamelCase cuando le pongas nombre a tu tabla. CamelCase significa que escribes con mayúscula la primera letra de cada palabra, como si fueran las dos jorobas de un camello bactriano. La tabla TicketsByOccasion utiliza CamelCase. Es opcional escribir con mayúscula la primera letra de la primera palabra en CamelCase; también se utiliza camelCase. Algunas personas diferencian los dos estilos y los llaman CamelCase y PascalCase, y utilizan camelCase para indicar que la primera letra no va en mayúscula, como si fuera un dromedario; por ejemplo, ticketsByOccasion
+
+En resumen, CamelCase es una elección de estilo. También puedes denominar tus tablas de las siguientes maneras: 
+
+- Todas las letras en minúscula o todas las letras en mayúscula, como ticketsbyoccasion o TICKETSBYOCCASION.
+
+- Con snake_case, como tickets_by_occasion. 
+
+Recuerda que la opción de escribir todas las letras en minúscula o todas las letras en mayúscula puede dificultar la lectura del nombre de tu tabla, por eso no es recomendable para uso profesional.
+
+La segunda opción, snake_case, es técnicamente correcta. Si las palabras están separadas por guiones bajos, el nombre de tu tabla es fácil de leer, pero puede ser bastante largo porque estás agregando los guiones bajos. Además, lleva más tiempo escribirlo. Si utilizas mucho esa tabla, puede convertirse en un fastidio.
+
+En resumen, depende de ti utilizar snake_case o CamelCase a la hora de ponerle nombre a tus tablas. Solo asegúrate de que el nombre de tu tabla sea fácil de leer y coherente. También asegúrate de averiguar si tu empresa prefiere nombrar las tablas de una manera específica. Si es así, siempre sigue su convención de nomenclatura para ser coherente.
+
+#### Sangría
+
+Como regla general, es preferible mantener la longitud de cada línea en una consulta <= 100 caracteres. Esto hará que tus consultas sean fáciles de leer. Por ejemplo, observa esta consulta con una línea de >100 caracteres.
+
+![image](./img/module%2001%20img%2070.png)
+
+Esa consulta es difícil de leer e igual de complicada para solucionar o editar. Por otro lado, aquí hay una consulta en la que nos limitamos a la regla de <= 100 caracteres:
+
+![image](./img/module%2001%20img%2071.png)
+
+Ahora es más fácil comprender lo que estás tratando de hacer en la cláusula SELECT. Ambas consultas se desarrollarán sin problema porque la sangría no tiene importancia en SQL. No obstante, una sangría adecuada sigue siendo importante para que las líneas sean cortas. Y cualquiera que lea tu consulta la valorará, ¡incluso tú mismo!
+
+#### Comentarios de muchas líneas
+
+Si realizas comentarios que ocupan muchas líneas, puedes utilizar -- para cada línea. O si tienes más de dos líneas de comentarios, sería más prolijo y fácil utilizar /* para comenzar el comentario y */ para cerrarlo. Por ejemplo, puedes utilizar el método -- como se muestra debajo:
+
+![image](./img/module%2001%20img%2072.png)
+
+-- Fecha: 15 de septiembre de 2020 -- Analista: Jazmin Cisneros -- Objetivo: Cuenta el número de filas de la tabla SELECT COUNT(*) cantidad de filas -- el * representa todo, así que cuenta todo FROM tabla
+
+O puedes utilizar el método /* */ como se muestra debajo:
+
+![image](./img/module%2001%20img%2073.png)
+
+/* Fecha: 15 de septiembre de 2020 Analista: Jazmin Cisneros Objetivo: Cuenta el número de filas de la tabla */ SELECT COUNT(*) AS number_of_rows -- el * representa todo, así que cuenta todo FROM tabla
+
+En SQL no importa el método que utilices. SQL ignora los comentarios independientemente de si utilizas: #, -- o /* y */. Así que depende de ti y de tu preferencia personal. El método /* y */ para realizar comentarios de muchas líneas suele verse más prolijo y ayuda a separar los comentarios de la consulta. Pero no hay un método correcto o uno incorrecto.
+
+#### Editores de texto SQL
+
+Cuando te unes a una empresa, puedes esperar que cada una use su propia plataforma SQL y su propio dialecto SQL. La plataforma SQL que utilicen (por ejemplo, BigQuery, MySQL o SQL Server) será donde escribas y realices tus consultas SQL. Pero recuerda que no todas las plataformas SQL tienen editores de texto nativos para escribir en código SQL. Los editores de texto SQL te proporcionan una interfaz donde puedes escribir tus consultas SQL de manera más sencilla y con códigos coloridos. De hecho, ¡escribimos con un editor de texto SQL todos los códigos con los que hemos estado trabajando hasta ahora!
+
+#### Ejemplos con Sublime Text
+
+Si tu plataforma SQL no tiene códigos de colores, quizás quieras utilizar un editor de texto como 
+[Sublime Text](https://www.sublimetext.com/) o [Atom](https://atom.io/). La siguiente sección muestra cómo se ve SQL en Sublime Text. Aquí hay una consulta realizada con Sublime Text:
+
+![image](./img/module%2001%20img%2074.png)
+
+Con Sublime Text también puedes realizar ediciones avanzadas, como eliminar sangrías en varias líneas al mismo tiempo. Por ejemplo, imagina que tu consulta tiene sangrías en lugares equivocados y se ve así:
+
+![image](./img/module%2001%20img%2075.png)
+
+Esto es muy difícil de leer, así que es probable que quieras eliminar las sangrías y comenzar de nuevo. En una plataforma regular SQL, tendrías que ir línea por línea y presionar RETROCESO para borrar cada sangría por línea. Pero en Sublime, puedes eliminar todas las sangrías al mismo tiempo si seleccionas todas las líneas y presionas Comando (o CTRL en Windows) + [. Esto eliminará todas las sangrías de cada línea. Luego puedes seleccionar las líneas a las que quieras agregarle sangría (por ejemplo, líneas 2, 4 y 6), y presionar la tecla Comando (o la tecla CTRL en Windows) y seleccionar esas líneas. Luego, mientras mantienes presionada la tecla Comando (o la tecla CTRL en Windows), presiona ] para agregar sangrías a las líneas 2, 4 y 6 al mismo tiempo. Esto ordenará tu consulta y, en cambio, se verá así:
+
+![image](./img/module%2001%20img%2076.png)
+
+Sublime Text también acepta expresiones regulares. Puedes utilizar expresiones regulares (o regex) para buscar y reemplazar patrones de cadena en las consultas. Aquí no nos dedicaremos a las expresiones regulares, pero quizás quieras aprender más sobre ellas por tu cuenta, ya que son una herramienta muy poderosa. 
+
+Puedes comenzar con estos recursos:
+
+[Buscar y reemplazar en Sublime Text](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/search_and_replace/search_and_replace_overview.html)
+
+[Tutorial de expresiones regulares](https://www.regular-expressions.info/tutorialcnt.html) (si no sabes qué son las expresiones regulares)
+
+[Hoja de referencia de expresiones regulares](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
 
 ### Actividades prácticas: Aplicar SQL 📖
 
 [![Tiempo](https://img.shields.io/badge/Tiempo-30%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
+
+
 ![image](./img/module%2001%20img%2077.png)
+
+
+
 
 ### Cuestionario práctico 📑
 
