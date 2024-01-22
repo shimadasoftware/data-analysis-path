@@ -47,6 +47,6 @@ A continuación, se enumeran los módulos de este curso:
   <li><a href="./module%202/module%202.md">Módulo 2: Sesgo, credibilidad, privacidad, ética y acceso</a></li>
   <li><a href="./module%203/module%203.md">Módulo 3: Bases de datos: Donde se alojan los datos</a></li>
   <li><a href="./module%204/module%204.md">Módulo 4: Organizar y proteger tus datos</a></li>
-  <li><a href="./module%203/module%205.md">Módulo 5: Opcional: participar en la comunidad de los datos</a></li>
-  <li><a href="./module%204/module%206.md">Módulo 6: Desafio del curso</a></li>
+  <li><a href="./module%205/module%205.md">Módulo 5: Opcional: participar en la comunidad de los datos</a></li>
+  <li><a href="./module%206/module%206.md">Módulo 6: Desafio del curso</a></li>
 </ul>
