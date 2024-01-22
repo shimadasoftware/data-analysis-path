@@ -309,7 +309,6 @@ Pon a prueba tus conocimientos sobre como organizar los datos.
 
 - Funciones de seguridad en hojas de cálculo (Vídeo - 3 min)
 - Equilibrio entre seguridad y análisis (Lectura - 10 min)
-- Autorreflexión: Proteger tus recursos (Cuestionario practico - 1 pregunta)
 - Pon a prueba tus conocimientos sobre la seguridad de datos (Cuestionario practico - 3 preguntas)
 
 ### Funciones de seguridad en hojas de cálculo 🎬
@@ -328,6 +327,28 @@ Como analista de datos, la seguridad de los datos será una prioridad. Pero inde
 
 Como es habitual después de este video, tendrás tu desafío semanal. Sé que puedes hacerlo. Luego, después del desafío semanal, hay un material opcional sobre cómo conectarse a la comunidad de datos en línea. A medida que empieces a crear tu carrera en el análisis computacional de datos, será muy valioso conectarte con otras personas, aprender sobre nuevas tendencias en el campo y compartir tu trabajo. Creo que podrás aprovechar mucho estos videos. Te ayudarán a desarrollar una presencia en línea profesional y a encontrar maneras de comunicarte con personas que trabajen en tu campo, lo que es clave, ya que las redes se desarrollan cada vez más en línea y las oportunidades de trabajo remoto pasan a ser la norma. Pero si tienes confianza en tu presencia en línea, puedes pasar al desafío del curso. Buena suerte con este desafío semanal. ¡Nos vemos pronto!
 
+
+### Equilibrio entre seguridad y análisis 📖
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-10%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+#### La batalla entre la seguridad y el análisis computacional de datos
+
+Seguridad de datos significa emplear medidas de seguridad para proteger los datos contra el acceso no autorizado o contra la corrupción. Por lo general, el propósito de la seguridad de datos es impedir que usuarios no autorizados accedan a datos confidenciales o los vean. Los analistas de datos deben encontrar la manera de equilibrar la seguridad de los datos con sus necesidades reales de análisis. Esto puede ser engañoso. Queremos que nuestros datos estén seguros, pero también queremos usarlos lo más pronto posible para que podamos hacer observaciones significativas y oportunas. 
+
+Para esto, las empresas deben encontrar formas de equilibrar sus medidas de seguridad de datos con sus necesidades de acceso a los datos. 
+
+Por suerte, hay algunas medidas de seguridad que pueden ayudar a las empresas a lograr eso. Las dos de las que hablaremos aquí son el cifrado y la tokenización. 
+
+**El cifrado** usa un algoritmo único para alterar los datos y hacer que los usuarios y las aplicaciones que no conocen el algoritmo puedan usarlos. Este algoritmo se guarda como una “clave” que puede usarse para revertir el cifrado; por lo tanto, si tienes la clave, puedes usar los datos en su forma original.  
+
+**La tokenización** reemplaza los elementos de datos que quieres proteger con datos generados aleatoriamente que se denominan “token”. Los datos originales se almacenan en otra ubicación y se asignan en los tokens. Para acceder a los datos originales completos, el usuario o la aplicación debe tener permiso para usar los datos tokenizados y la asignación del token. Esto significa que, si se piratean los datos tokenizados, los datos originales siguen estando seguros en otra ubicación. 
+
+El cifrado y la tokenización son algunas de las opciones de seguridad de datos que existen. Hay muchas otras, como los dispositivos de autenticación para la tecnología de inteligencia artificial (IA). 
+
+Como analista de datos junior, probablemente, no tendrás la responsabilidad de crear estos sistemas. Muchas empresas tienen equipos completos dedicados a la seguridad de datos o contratan empresas externas que se especializan en seguridad de datos para crear estos sistemas. Pero es importante saber que todas las empresas tienen la responsabilidad de mantener los datos seguros y de entender algunos de los posibles sistemas que el futuro empleador podría usar. 
+
+
 ### Cuestionario de diagnóstico 📑
 
 Pon a prueba tus conocimientos sobre como organizar los datos.
@@ -335,24 +356,54 @@ Pon a prueba tus conocimientos sobre como organizar los datos.
 [![Tiempo](https://img.shields.io/badge/Tiempo-40%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
 
-1. Los analistas de datos usan pautas para describir la versión, el contenido y la fecha de creación de un archivo. ¿Cómo se llaman estas pautas?
+1. Completa el espacio en blanco: La seguridad de datos implica usar _____ para proteger los datos contra el acceso no autorizado o contra la corrupción.
 
-    - Metadatos
+    - validación de datos
     
       ❌ Incorrecto.
   
-    - Normalizada 
+    - medidas de seguridad 
+    
+      ✅ Correcto. La seguridad de datos implica usar medidas de seguridad para proteger los datos contra el acceso no autorizado o contra la corrupción.
+    
+    - sistema de carpetas
     
       ❌ Incorrecto.
-    
-    - Relacional
-    
-      ✅ Correcto. Las claves primarias y externas son dos identificadores conectados dentro de tablas separadas en una base de datos relacional.
       
-    - Primaria
+    - metadatos
     
       ❌ Incorrecto.
 
+
+2. Cuando se usan medidas de seguridad de datos, los analistas pueden elegir entre proteger toda una hoja de cálculo o solo ciertas celdas que están dentro de la hoja de cálculo.
+
+    - Verdadero
+    
+      ✅ Correcto. Cuando se usan medidas de seguridad de datos, los analistas pueden elegir entre proteger toda una hoja de cálculo o solo ciertas celdas que están dentro de la hoja de cálculo. La seguridad de datos puede usarse para proteger toda una hoja de cálculo, partes específicas de una hoja de cálculo o, incluso, solo una celda. 
+  
+    - Falso 
+    
+      ❌ Incorrecto.
+
+
+3. ¿Qué herramientas pueden usar los analistas de datos para controlar quién tiene acceso a una hoja de cálculo o quién puede editarla? Selecciona todas las opciones que correspondan.
+
+    - Pestañas
+    
+      ❌ Incorrecto.
+  
+    - Filtros 
+    
+      ❌ Incorrecto.
+    
+    - Permisos para compartir
+    
+      ✅ Correcto. Los analistas de datos usan el cifrado y los permisos para compartir con el fin de controlar quién tiene acceso a una hoja de cálculo o quién puede editarla.
+      
+    - Cifrado
+    
+      ✅ Correcto. Los analistas de datos usan el cifrado y los permisos para compartir con el fin de controlar quién tiene acceso a una hoja de cálculo o quién puede editarla.
+      
 
 ---
 
