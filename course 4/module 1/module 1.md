@@ -385,6 +385,40 @@ Conocer los aspectos básicos te ayudará a tomar decisiones correctas al moment
 
 ### Cómo usar el poder estadístico 🎬
 
+¡Hola! Probablemente todos hemos soñado con tener un superpoder al menos una vez en nuestras vidas. Yo sé cuál. Me encantaría poder volar. Pero hay otro superpoder del cual quizá no hayas oído hablar: el poder estadístico.
+
+El poder estadístico es la probabilidad de obtener resultados significativos de una prueba. Creo que este no es un superpoder con el cual hayan soñado. Aun así, es un poder bastante genial. Para los analistas de datos, tus proyectos pueden comenzar con la prueba o el estudio. La prueba de hipótesis es una forma de ver si una encuesta o experimento tiene resultados significativos. Aquí hay un ejemplo: Digamos que trabajas en una cadena de restaurantes que está planificando una campaña de marketing para sus nuevos batidos. Debes realizar una prueba de publicidad en un grupo de clientes antes de realizarla a nivel nacional.
+
+En la prueba, quieres verificar si a los clientes les gusta o no la campaña. También quieres descartar cualquier factor externo a la publicidad que pueda llevarlos a indicar que no les gusta ese aviso.
+
+Utilizar a todos tus clientes llevaría mucho tiempo y sería muy caro. Por lo tanto, necesitas saber cuántos clientes necesitarás para demostrar que la publicidad es efectiva. Cincuenta probablemente no serían suficientes. Incluso si eligieras 50 clientes al azar, podrías terminar con clientes a quienes no les gustan para nada los batidos. Y si eso sucede, no podrás medir la efectividad de tu publicidad para obtener más pedidos de batidos dado que ninguno de los que están en el tamaño de la muestra los pediría. Es por eso por lo que necesitas un tamaño mayor de muestra: para que puedas asegurarte de obtener un buen número de todos los tipos de personas para tu prueba. Usualmente, cuanto más grande es el tamaño de la muestra, mayor será la posibilidad de obtener resultados estadísticamente significativos con tu prueba. Y ese es el poder estadístico.
+
+En este caso, usar tantos clientes como sea posible mostrará las diferencias reales entre los grupos a quienes les gusta o no versus las personas cuya decisión no estaba basada en absoluto en la publicidad.
+
+Existen formas de calcular con precisión el poder estadístico, pero no vamos a verlas ahora. Puede que necesites hacer ese cálculo por ti mismo como analista de datos.
+
+Por ahora, debes saber que el poder estadístico generalmente se muestra como un valor de uno. De manera que si tu poder estadístico es 0.6; es lo mismo que decir 60%. En la prueba de la publicidad del batido, si calculaste un poder estadístico de 60%, eso significa que existe un 60% de posibilidades de que obtengas un resultado estadísticamente significativo en la eficacia de la publicidad.
+
+"Estadísticamente significativo" es un término utilizado en estadísticas. Si quieres aprender más sobre el significado técnico, puedes buscar en línea. Pero en términos básicos, si una prueba es estadísticamente significativa, eso significa que los resultados de la prueba son reales y no un error causado por factores aleatorios.
+
+De manera que hay 60% de chances de que los resultados de la prueba de publicidad del batido sean confiables y reales y un 40% de chances de que el resultado de la prueba sea incorrecto.
+
+Usualmente, se necesita un poder estadístico de al menos 0.8 u 80% para considerar que tus resultados son estadísticamente significativos.
+
+Consideremos un escenario más. Quedémonos con los batidos porque, bueno, porque me gustan los batidos. Imagina que trabajas en una cadena de restaurantes que quiere lanzar un nuevo batido con sabor a torta de cumpleaños con sabor a batido.
+
+El costo de producción de este batido será más caro que el de tus otros batidos. Tu empresa espera que el entusiasmo por el nuevo sabor atraiga a más clientes y dinero para compensar el costo. Quieren probarlo primero en algunos restaurantes. Entonces, pensemos cuántos locales deberías usar para que tus resultados sean confiables.
+
+Primero, deberías pensar qué es lo que evita que consigas resultados estadísticamente significativos. ¿Hay otros restaurantes que estén ofreciendo otras promociones que puedan atraer a nuevos clientes? ¿Algunos de esos restaurantes tienen clientes que siempre compran el producto más nuevo, sin importar qué es? ¿Algunos de esos restaurantes comenzaron algunas construcciones que evitarían que los clientes fueran al restaurante?
+
+Para lograr un poder estadístico más alto, deberías considerar todos estos factores antes de decidir cuántos locales incluir en el tamaño de la muestra para tu estudio.
+
+Quieres asegurarte de que cualquier efecto se deba, más probablemente, al nuevo sabor del batido, no a otros factores.
+
+Los efectos mensurables serían un incremento en las ventas o el número de clientes en los locales en el tamaño de tu muestra. Muy bien, eso es todo por ahora. Próximamente, vamos a explorar los tamaños de las muestras en detalle, para obtener una mejor idea de cómo impactan en tus pruebas y estudios.
+
+Mientras tanto, has aprendido un poco más sobre los batidos y los superpoderes. Y, por supuesto, sobre el poder estadístico. Lamentablemente, solo el poder estadístico puede ser realmente útil para los analistas de datos. Sin embargo, ponerme mi capa y volar a comprar un batido justo ahora suena bastante bien.
+
 
 ### Qué hacer cuando no hay datos 📖
 
@@ -419,11 +453,38 @@ Tal como sucede con otros tipos de conjuntos de datos, deberás estar atento a l
 
 
 
-
 ### Cómo determinar el mejor tamaño de la muestra 🎬
 
 
+
+
 ### Calculadora de tamaño de muestra 📖
+
+En esta lectura, aprenderás los conceptos básicos de las calculadoras de tamaño de muestras, cómo utilizarlas y cómo interpretar los resultados. Una calculadora de tamaño de muestras te indica cuántas personas necesitas para la encuesta (o cuántas cosas necesitas evaluar) para obtener resultados que representen a la población objetivo. Veamos algunos términos con los que te encontrarás al utilizar una calculadora de tamaño de muestras:
+
+- Nivel de confianza: El grado de probabilidad de que el tamaño de tu muestra refleje con precisión a la mayoría de la población.
+
+- Margen de error: Cantidad máxima que se espera que los resultados de la muestra difieran de los de la población real.
+
+- Población: Es el número total del cual deseas extraer tu muestra.
+
+- Muestra: Es una parte representativa de la población.
+
+Tasa de respuesta estimada: Si estás realizando una encuesta de personas, esta tasa representa qué porcentaje esperas que complete tu encuesta de las personas que recibieron la encuesta.
+
+#### Cómo usar una calculadora de tamaño de muestras
+
+Para usar una calculadora de tamaño de muestras, necesitas conocer el tamaño de la población, el nivel de confianza y el margen de error aceptable que se definió para poder ingresar esa información en la herramienta. Si cuentas con toda esa información, a continuación, podrás ver ejemplos sobre cómo funciona la calculadora de tamaño de muestras:
+
+- Calculadora de tamaño de muestras de surveymonkey.com
+
+- Calculadora de tamaño de muestras de raosoft.com
+
+#### Qué hacer con los resultados
+
+Después de que hayas cargado la información en alguna de estas calculadoras, aparecerá el tamaño de muestra sugerido. Recuerda que el tamaño de muestra calculado es el número mínimo que debes utilizar para alcanzar lo que cargaste como nivel de confianza y margen de error esperado. Si estás trabajando con una encuesta, también deberás pensar cuál es la tasa de respuesta estimada para definir cuántas encuestas necesitas enviar. Por ejemplo, si necesitas un tamaño de muestra de 100 personas y tu tasa de respuesta estimada es del 10%, necesitarás enviar tu encuesta a 1,000 personas para alcanzar las 100 respuestas que necesitas para tu análisis. 
+
+Ahora que conoces los conceptos básicos, intenta realizar algunos cálculos utilizando las calculadoras de tamaño de muestras y vuelve a esta lectura si necesitas repasar algunas definiciones. 
 
 
 ### Cuestionario 📖
