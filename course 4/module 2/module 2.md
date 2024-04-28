@@ -36,7 +36,6 @@ Este primer modulo se divide en:
 - Poner a prueba tus conocimientos sobre datos limpios versus sucios
 
 
-
 ### A limpiarlos! 🎬
 
 ¿Puedes adivinar cuánto cuestan los datos erróneos o imprecisos a las empresas cada año? ¿Miles de dólares? ¿Millones? ¿Miles de millones? De acuerdo con IBM, el costo anual por datos de baja calidad es de $3.1 billones en los Estados Unidos solamente. Son muchos ceros. Ahora, ¿puedes adivinar la causa número uno de los datos de baja calidad? No es la implementación de un nuevo sistema o un problema técnico informático. El factor más común es, en realidad, el error humano. 
@@ -284,28 +283,84 @@ Ejemplo de cada uno de los principios:
       ❌ Incorrecto.
 
 
+### Cuestionario: Poner a prueba tus conocimientos sobre datos limpios versus sucios 📖
+
+
+1. Describe la diferencia entre nulo y cero en un conjunto de datos.
+
+   - Nulo representa un valor de cero. Cero representa una celda vacía. 
+    
+      ❌ Incorrecto.
+
+   - Nulo significa datos inválidos. Cero indica datos faltantes.
+    
+      ❌ Incorrecto.
+
+   - Nulo representa un número insignificante. Cero representa el número cero.
+    
+      ❌ Incorrecto.
+
+    - Nulo indica que un valor no existe. Cero es una respuesta numérica.  
+    
+      ✅ Correcto. Nulo indica que un valor no existe. Cero es una respuesta numérica.
+
+ 
+2. ¿Cuáles son los procesos y procedimientos más comunes que manejan los ingenieros de datos? Selecciona todas las opciones que correspondan.
+
+   - Verificar resultados del análisis de datos 
+    
+      ❌ Incorrecto.
+
+   - Dar a los datos una infraestructura confiable
+    
+      ✅ Correcto. Los ingenieros de datos transforman los datos en un formato útil para el análisis; le dan una infraestructura confiable, y desarrollan, mantienen y prueban bases datos y sistemas relacionados.
+
+   - Desarrollar, mantener y probar bases de datos y sistemas relacionados
+    
+      ✅ Correcto. Los ingenieros de datos transforman los datos en un formato útil para el análisis; le dan una infraestructura confiable, y desarrollan, mantienen y prueban bases datos y sistemas relacionados.
+
+    - Transformar los datos en un formato útil para el análisis  
+    
+      ✅ Correcto. Los ingenieros de datos transforman los datos en un formato útil para el análisis; le dan una infraestructura confiable, y desarrollan, mantienen y prueban bases datos y sistemas relacionados.
+
+
+3. ¿Cuáles son los procesos y procedimientos más comunes que manejan los especialistas en almacenamiento de datos? Selecciona todas las opciones que correspondan.
+
+   - Garantizar que los datos se limpien correctamente 
+    
+      ❌ Incorrecto.
+
+   - Garantizar que se hagan copias de seguridad de los datos para evitar pérdidas
+    
+      ✅ Correcto. Los especialistas en almacenamiento de datos son responsables de garantizar que los datos estén disponibles, sean seguros y estén respaldados por copias de seguridad para evitar pérdidas.
+
+   - Garantizar que los datos estén disponibles
+    
+      ✅ Correcto. Los especialistas en almacenamiento de datos son responsables de garantizar que los datos estén disponibles, sean seguros y estén respaldados por copias de seguridad para evitar pérdidas.
+
+    - Garantizar que los datos sean seguros  
+    
+      ✅ Correcto. Los especialistas en almacenamiento de datos son responsables de garantizar que los datos estén disponibles, sean seguros y estén respaldados por copias de seguridad para evitar pérdidas.
 
 
 
-### Poner a prueba tus conocimientos sobre datos limpios versus sucios 📖
+4. Un analista de datos está limpiando un conjunto de datos. Quiere confirmar que los usuarios hayan ingresado correctamente los códigos postales de cinco dígitos mediante la verificación de los datos en cierta columna de una hoja de cálculo. ¿Qué sería lo más útil como próximo paso?
 
+   - Dar formato a las celdas en la columna como número 
+    
+      ❌ Incorrecto.
 
+   - Cambiar el ancho de columna para que coincida solo con cinco dígitos 
+    
+      ❌ Incorrecto.
 
+   - Usar la función MAX para determinar el valor máximo en las celdas en la columna
+    
+      ❌ Incorrecto.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - Usar la herramienta de longitud de campo para especificar el número de caracteres en cada celda de la columna  
+    
+      ✅ Correcto. Usar la herramienta de longitud de campo para especificar el número de caracteres en cada celda de la columna sería lo más útil.
 
 
 ---
@@ -323,8 +378,12 @@ Ejemplo de cada uno de los principios:
 
 ### Herramientas y técnicas para la limpieza de datos 🎬
 
+¡Hola! En este vídeo nos concentraremos en algunos problemas asociados con los datos sucios. Entre los que se incluyen ortografía y otros errores de texto, etiquetas desordenadas, formatos y longitud de campos, datos faltantes y duplicados. Esto te ayudará a reconocer los problemas más rápido y te dará la información necesaria para corregirla cuando encuentras algo similar durante tu propio análisis. Es algo increíblemente importante en el análisis computacional de datos. Pues bien, volvamos a nuestra hoja de cálculo de la oficina de legales. Para repasar rápidamente, empezaremos por observar los diferentes tipos de datos sucios que muestra. Algunas veces, alguien puede ingresar un dato con errores. Otras veces, pueden no conservar los formatos de los datos en forma uniforme. Es también común dejar un campo en blanco. También se llama valor nulo, como aprendimos antes. Y si alguien agrega el mismo dato más de una vez, se crea un duplicado. Desglosemos eso. Luego, aprenderemos sobre algunos otros tipos de datos sucios y estrategias para limpiarlos. Errores ortográficos, variaciones en la ortografía, letras mezcladas, puntuación incoherente y errores de tipeo en general suceden cuando alguien ingresa incorrectamente un dato. Como analista de datos, también trabajarás con diferentes monedas. Por ejemplo, un conjunto de datos podría estar expresado en dólares estadounidenses y otro en euros y no queremos que se mezclen. Queremos encontrar ese tipo de error y corregirlo de esta manera. Aprenderás más acerca de esto pronto. Los datos limpios dependen mayormente de las reglas de integridad de datos que sigue una organización, tales como pautas sobre ortografía y puntuación. Por ejemplo, una empresa de bebidas puede pedir a todos los que trabajan en una base de datos que ingresen datos sobre el volumen en onzas en lugar de en tazas. Es excelente cuando una organización aplica este tipo de reglas, realmente ayuda a minimizar el esfuerzo que se necesita para limpiar los datos. No obstante, puedes eliminarlos completamente, como dijimos antes, siempre hay posibilidad de que exista el error humano. El siguiente tipo de dato sucio que muestra nuestra hoja de cálculo como inconsistencia es el formato; algo que debería estar en formato de moneda se visualiza como porcentaje. Hasta que no se corrija ese error, la oficina de legales no tendrá idea de cuánto dinero pagó ese cliente por sus servicios. Aprenderemos diferentes formas de resolver este y otros problemas muy pronto. Ya hablamos previamente de los valores nulos, pero como recordatorio, los valores nulos son campos en blanco. Este tipo de dato sucio requiere un poco más de trabajo que solo corregir un error de ortografía o cambiar un formato. En este ejemplo, el analista de datos deberá investigar qué cliente hizo una consulta el 4 de julio de 2020. Luego, cuando encuentre la información correcta, la agregará a la hoja de cálculo. Otro tipo común de dato sucio es el duplicado. Puede que dos personas diferentes hayan agregado esta cita el 13 de agosto sin reparar en que alguien más ya lo había hecho. O puede ser que la persona que ingresó los datos haya copiado y pegado por accidente. Cualquiera sea la razón, es el trabajo del analista de datos identificar el error y corregirlo borrando uno de los duplicados. Pues bien, ahora sigamos con otros tipos de datos sucios. El primero tiene que ver con el etiquetado. Para entender el etiquetado, imagina tratar que una computadora identifique correctamente a los osos panda entre imágenes de diferentes tipos de animales. Debes mostrarle a la computadora miles de imágenes de osos panda, todas etiquetadas como osos panda. Cualquier imagen etiquetada incorrectamente por ejemplo, una que diga solo "oso" causará problemas. La siguiente causa de los datos sucios es tener una longitud de campo inconsistente. Ya aprendiste que un campo es un único dato en una fila o columna de una hoja de cálculo. La longitud de campo es una herramienta para determinar cuántos caracteres pueden incluirse en un campo, asignar una cierta longitud a estos campos en tu hoja de cálculo es una gran manera de evitar errores. Por ejemplo, si tienes una columna para el año de nacimiento de una persona, sabes que la longitud del campo es cuatro porque todos los años tienen una longitud de cuatro dígitos. Algunas aplicaciones de la hoja de cálculo tienen un modo simple de especificar las longitudes de campo y asegurarse de que los usuarios solo puedan ingresar un cierto número de caracteres en un campo. Esto es parte de la validación de datos. La validación de datos es una herramienta para corroborar la exactitud y la calidad de los datos antes de agregarlos o importarlos. La validación de datos es una forma de limpiar datos, de la cual pronto aprenderás más. Pero primero debes familiarizarte con más técnicas para limpiar los datos. Es una parte muy importante de los datos en este trabajo y espero compartir contigo estas estrategias de limpieza de datos.
+
 
 ### Limpieza de datos de multiples fuentes 🎬
+
+¡Bienvenido nuevamente! Hasta ahora has aprendido mucho acerca de los datos sucios y cómo limpiar los errores más comunes en un conjunto de datos. Ahora vamos a dar otro paso y hablaremos de cómo limpiar múltiples conjuntos de datos. Limpiar los datos que provienen de dos o más fuentes es muy común para los analistas de datos. Sin embargo, esto trae aparejados desafíos interesantes. Un buen ejemplo es una fusión, un acuerdo que une a dos organizaciones en una nueva. En el campo de la logística, recientemente ocurrieron muchos cambios, en su mayoría, por el furor del comercio electrónico. Con tantas personas comprando en línea, tiene sentido que las empresas responsables de llevar esos productos a sus casas estén en medio de un gran terremoto. Cuando las grandes cosas suceden en una industria, es común que dos organizaciones se unan y se conviertan en una más fuerte a través de una fusión. Hablemos de cómo eso afectará nuestra asociación de logística. A modo de recordatorio, esta hoja de cálculo contiene la lista de los números de identificación de los miembros de la asociación, nombre y apellido, dirección, cuánto paga cada miembro por la cuota, cuándo vence la membresía y los tipos de membresías. Ahora pensemos qué pasaría si la Asociación Internacional de Logística decidiera unirse con la Asociación de Logística Global a fin de ayudar a sus miembros a manejar la increíble demanda del comercio electrónico. Primero, todos los datos de cada organización deben combinarse utilizando la fusión de datos. Fusionar datos es el proceso de combinar dos o más conjuntos de datos en un único conjunto de datos. Esto presenta un desafío único porque, cuando se combinan dos conjuntos de datos totalmente distintos, está casi garantizado que la información estará mal alineada y no será uniforme. Por ejemplo, la hoja de cálculo de la Asociación de Logística Global tiene una columna separada para el departamento, la oficina o el número de unidad de una persona, pero la Asociación Internacional de Logística combina esa información con la dirección postal. Esto se debe corregir para que el número de columnas con la dirección sea uniforme. A continuación, observemos cómo la Asociación de Logística Global utiliza el correo electrónico como identificación de los miembros, mientras que la Asociación Internacional de Logística utiliza números. Esto es un gran problema porque las personas en determinadas industrias, como en la logística, en general, se unen a múltiples asociaciones profesionales. Existe una gran posibilidad de que esos conjuntos de datos incluyan información de la membresía sobre exactamente la misma persona, pero de maneras diferentes. Es muy importante eliminar esos duplicados. También, la Asociación de Logística Global tiene más tipos de miembros que la otra organización. Además, utiliza el término "Joven profesional" en lugar de "Estudiante asociado". Pero ambos describen a los miembros que aún están estudiando o que se encuentran comenzando su carrera. Si estuviste fusionando esos dos conjuntos de datos, debes trabajar con tu equipo para corregir el hecho de que dos asociaciones describen a sus afiliados de manera diferente. Ahora entenderás por qué la fusión de las organizaciones también requiere fusionar los datos, lo cual puede ser delicado. Pero hay muchas otras razones por las que los analistas de datos fusionan los conjuntos de datos. Por ejemplo, en uno de mis últimos trabajos, fusioné muchos datos de múltiples fuentes para obtener información sobre las compras de los clientes. Este tipo de datos me ayudó a identificar los patrones de compra de los clientes. Al fusionar conjuntos de datos, siempre comienzo formulándome algunas preguntas clave para evitar caer en la redundancia y confirmar que los conjuntos de datos son compatibles. En el análisis computacional de datos, la compatibilidad describe si dos o más conjuntos de datos pueden trabajar juntos o no. La primera pregunta que puedes hacerte es: ¿tengo todos los datos que necesito? Para obtener información sobre las compras de los clientes, quise asegurarme de tener los datos de los clientes, sus compras y dónde las realizaron. Luego, me preguntaría: ¿los datos que necesito están en estos conjuntos de datos? Como aprendiste antes en este programa, esto implica considerar todo el conjunto de datos analíticamente. Mirar todos los datos antes de empezar a usarlos me permite intuir de qué se trata el trabajo, cómo se ve el esquema, si es relevante para mi conocimiento de las compras de los clientes y si son datos limpios. Eso nos lleva a la siguiente pregunta. ¿Deben limpiarse los conjuntos de datos o están listos para ser utilizados? Debido a que estoy trabajando con más de una fuente, también me pregunto: ¿los conjuntos de datos se limpiaron según los mismos estándares? Por ejemplo, ¿qué campos se repiten regularmente? ¿Cómo se manejan los valores faltantes? ¿Hace cuánto se actualizaron los datos? Encontrar las respuestas a estas preguntas y entender si necesito solucionar algún problema al inicio de un proyecto es un paso muy importante para la fusión de los datos. En ambos ejemplos que abordamos aquí, los analistas de datos podrían utilizar cualquiera de las herramientas de la hoja de cálculo o las consultas de SQL para limpiar, fusionar y preparar un conjunto de datos para su análisis. Dependiendo de la herramienta que decidas utilizar, la limpieza de datos puede tornarse un proceso simple o muy complejo. Pronto aprenderás a elegir lo mejor para cada situación. Como comentario final, programar lenguajes como el lenguaje R también es muy útil para limpiar datos. Aprenderás a utilizar el lenguaje R y otros conceptos que pronto cubriremos.
 
 
 ### Dificultades comunes en la limpieza de datos 📖
@@ -361,14 +420,75 @@ Consulta estas listas de los "diez mejores" para la limpieza de datos en Microso
 - [10 consejos de Google Workspace para limpiar datos](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19): Aprende las prácticas recomendadas para la limpieza de datos en Google Sheets.
 
 
-
 ### Actividades prácticas: Limpieza de datos con hojas de cálculo 📖
 
 
 
-### Pon a prueba tus conocimientos sobre las técnicas de limpieza de datos 📖
+### Cuestionario: Pon a prueba tus conocimientos sobre las técnicas de limpieza de datos 📖
 
 
+###  Poner a prueba tus conocimientos sobre datos limpios versus sucios 📖
+
+
+1. Completa el espacio en blanco: Cada base de datos tiene su propio formato, lo que puede hacer que los datos parezcan desordenados. Los analistas de datos usan la herramienta _____ para crear una apariencia prolija y uniforme visualmente de las hojas de cálculo.
+
+   - revisar ortografía 
+    
+      ❌ Incorrecto.
+
+   - formato condicional
+    
+      ❌ Incorrecto. Los analistas de datos usan la herramienta “borrar formatos” para crear una apariencia visual prolija y uniforme de las hojas de cálculo.
+
+   - autocorrección
+    
+      ✅ Correcto. 
+
+    - borrar formatos
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuál es el proceso para combinar dos o más conjuntos de datos en un único conjunto de datos?
+
+   - Validación de datos 
+    
+      ❌ Incorrecto.
+
+   - Fusión de datos 
+    
+      ✅ Correcto. Fusionar datos es el proceso para combinar dos o más conjuntos de datos en un único conjunto de datos.
+
+   - Transferencia de datos
+    
+      ❌ Incorrecto.
+
+    - Composición de datos
+    
+      ❌ Incorrecto.
+
+
+✅ Correcto.
+
+3. Completa el espacio en blanco: En análisis computacional de datos, _____ describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
+
+   - la compatibilidad 
+    
+      ❌ Incorrecto.
+
+   - la alineación
+    
+      ❌ Incorrecto. La compatibilidad describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
+
+   - la concordancia
+    
+      ❌ Incorrecto.
+
+    - la idoneidad
+    
+      ❌ Incorrecto.
+
+      
 ---
 
 ## 3. Limpieza de datos en hojas de cálculo 🙋🏻‍♀️ 
@@ -386,6 +506,18 @@ Consulta estas listas de los "diez mejores" para la limpieza de datos en Microso
 
 
 ### Características de la limpieza de datos en las hojas de cálculo 🎬
+
+Hola de nuevo. Como ya aprendiste, existen muchos modos diferentes de limpiar datos. Ya te mostré algunos ejemplos de cómo se pueden limpiar los datos manualmente, por ejemplo, buscar y corregir errores de escritura o eliminar espacios vacíos o duplicados. También aprendimos que muchas aplicaciones de las hojas de cálculo tienen herramientas que ayudan a simplificar y acelerar el proceso de limpieza de datos. Existen muchas herramientas eficientes que el analista de datos utiliza todo el tiempo, por ejemplo, formato condicional, eliminación de duplicados, formato de fechas, ajuste de cadenas y subcadenas de texto, y división de texto en columnas. Ahora, exploraremos este tema en mayor detalle.
+
+Lo primero que veremos es algo denominado formato condicional. El formato condicional se trata de una herramienta de la hoja de cálculo que cambia la forma en que se ven las celdas cuando los valores cumplen ciertas condiciones. Del mismo modo, puede indicarte cuándo una celda no cumple con las condiciones establecidas. Las indicaciones visuales como esta son muy útiles para los analistas de datos, especialmente cuando se trabaja con una hoja de cálculo grande con muchos datos. Asegurarte de resaltar algunos puntos específicos hace que la información sea más fácil de comprender y analizar. Para limpiar datos, saber cuándo esos datos no siguen la condición es muy útil. Volvamos a la hoja de cálculo de la asociación de logística para comprobar el formato condicional en acción. Utilizaremos el formato condicional para resaltar celdas en blanco. De ese modo, sabemos dónde falta información para que podamos agregarla a la hoja de cálculo. Para esto, comenzaremos por seleccionar el rango que queremos buscar. En este ejemplo no nos enfocaremos en la dirección 3 ni en la dirección 5. Estos campos incluirán todas las columnas en nuestra hoja de cálculo, excepto por F y H. Luego, iremos a Formato y elegiremos Formato condicional. Excelente. Nuestro rango queda indicado automáticamente en el campo. La regla de formato se aplicará para dar formato a las celdas si la celda está vacía. Por último, elegiremos el estilo de formato. Elegiré un color rosado fuerte para que mis espacios en blanco se destaquen. Luego, haz clic en "Hecho" y las celdas en blanco quedarán destacadas inmediatamente.
+
+La siguiente herramienta de la hoja de cálculo elimina los duplicados. Como ya aprendiste, siempre es inteligente hacer una copia del conjunto de datos antes de eliminar algo. Hagamos eso ahora. Excelente, ahora podemos continuar. Recordarás que uno de los miembros de la asociación aparece dos veces en la lista de nuestra hoja de cálculo de ejemplo. Para solucionar este problema, vayamos a Datos y seleccionemos "Quitar duplicados". "Quitar duplicados" es una herramienta que busca automáticamente y elimina entradas duplicadas de una hoja de cálculo. Elige "Los datos tienen una fila de encabezado" porque nuestra hoja de cálculo tiene una fila arriba de todo que describe el contenido de cada columna. Luego, selecciona "Todo" porque queremos inspeccionar la totalidad de nuestra hoja de cálculo. Por último, "Quitar duplicados". Notarás que se encontró y eliminó la fila duplicada de inmediato.
+
+Otras herramientas útiles de la hoja de cálculo te permiten lograr formatos uniformes. Por ejemplo, algunos de los datos en esta hoja de cálculo están en un formato de fecha estándar. Esto puede ser confuso si quieres analizar cuándo se asociaron ciertas personas, la frecuencia en que renuevan sus afiliaciones o cuánto tiempo han sido socios. Para hacer que los datos sean uniformes, primero, selecciona la columna J, luego dirígete a "Formato", selecciona "Número" y, luego, "Fecha". Ahora todas nuestras fechas tienen un formato uniforme.
+
+Antes de pasar a la siguiente herramienta, quiero explicar qué es una cadena de texto. En análisis computacional de datos, una cadena de texto es un grupo de caracteres dentro de una celda, más frecuentemente compuesto por letras. Una característica importante de una cadena de texto es su longitud, que es el número de caracteres en ella. Aprenderemos más al respecto muy pronto. Por ahora, es útil saber también que una subcadena es un subconjunto más pequeño de una cadena de texto. Ahora, hablemos de SPLIT. SPLIT es una herramienta que divide una cadena de texto en un carácter especificado y ubica cada fragmento en una celda nueva y separada. SPLIT es útil cuando tienes más de un dato en una celda y quieres separarlos. Puede ser el nombre y apellido de una persona juntos en la lista o puede ser una celda que contiene la ciudad, el estado, el país y el código postal de una determinada persona, pero que, en realidad, quieres que cada uno de esos datos esté en una columna independiente. Digamos que esta asociación quiere analizar todas las diferentes certificaciones profesionales de sus miembros. Para hacerlo, quieres que cada certificación esté separada en su propia columna. En este momento, las certificaciones están separadas por una coma. Este es el texto específico que separa a cada elemento, también denominado delimitador. Separemos los datos. Resalta la columna y, luego, selecciona "Datos" y "Dividir texto en columnas". Esta aplicación de la hoja de cálculo sabrá automáticamente que la coma es el delimitador y separará cada certificación. Pero, algunas veces, puedes necesitar especificar cuál sería el delimitador. Puedes hacerlo aquí. Dividir el texto en columnas también es útil para corregir instancias en que los números se guardaron como texto. Algunos valores en tu hoja de cálculo pueden verse como números, pero están formateados como texto. Esto puede ocurrir cuando se copia y pega desde un lugar a otro o si el formato es incorrecto. Para este ejemplo, observemos nuestra nueva hoja de cálculo de un fabricante de cosméticos. Si el analista de datos quiere determinar las ganancias totales, puede sumar todo en la columna F. Pero hay un problema, una de las celdas tiene un error. Si la controlas, verás que el número "707" en esta celda es texto y no se puede cambiar a número. Cuando la hoja de cálculo trata de multiplicar el costo del producto por el número de unidades vendidas, no logras realizar ese cálculo. Pero si seleccionamos ordenar por columna y "Dividir texto en columna" el error se resuelve porque ahora se lo puede tratar como número.
+
+Luego, aprenderás sobre una herramienta que hace exactamente lo opuesto. CONCATENATE es una función que une múltiples cadenas de texto para formar una sola. Las hojas de cálculo son una parte muy importante del análisis computacional de datos. Ahorran tiempo y esfuerzo a los analistas de datos y ayudan a eliminar los errores todos los días. Pues bien, ya aprendiste algunas cosas sobre las herramientas de uso más comunes. Pero hay mucho más por venir. Después aprenderemos más sobre la limpieza de datos con las herramientas de las hojas de cálculo. ¡Hasta pronto!
 
 
 ### Optimización del proceso de limpieza de datos 🎬
