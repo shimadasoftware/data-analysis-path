@@ -246,9 +246,64 @@ Espero que estos ejemplos te hayan brindado un panorama de lo que estabas buscan
 - Si los datos se alinean solo parcialmente con un objetivo, cómo puedes modificar el objetivo o usa restricciones de datos para asegurarte de que el subconjunto de datos se alinea mejor con el objetivo comercial.
 
 
-### Cuestionario 📖
+### Cuestionario: Pon a prueba tus conocimientos sobre integridad de datos y objetivos analíticos 📖
 
 
+1. ¿Cuáles de los siguientes principios son elementos clave de la integridad de datos? Selecciona todas las opciones que correspondan.
+
+   - Exactitud
+    
+      ✅ Correcto. La integridad de datos es la exactitud, exhaustividad, coherencia y confiabilidad de los datos a lo largo de su ciclo de vida.
+
+   - Confiabilidad
+    
+      ✅ Correcto. La integridad de datos es la exactitud, exhaustividad, coherencia y confiabilidad de los datos a lo largo de su ciclo de vida.
+
+   - Selectividad
+    
+      ❌ Incorrecto.
+
+    - Coherencia
+    
+      ✅ Correcto. La integridad de datos es la exactitud, exhaustividad, coherencia y confiabilidad de los datos a lo largo de su ciclo de vida.
+
+
+2. ¿Qué procesos realizan los analistas de datos para hacer que los datos estén más organizados y sean más fáciles de leer?
+
+   - Replicación de datos 
+    
+      ❌ Incorrecto.
+
+   - Transferencia de datos
+    
+      ❌ Incorrecto.
+
+   - Uniformidad de datos
+    
+      ❌ Incorrecto.
+
+    - Manipulación de datos
+    
+      ✅ Correcto. Para hacer que los datos estén más organizados y sean más fáciles de leer, los analistas de datos aplican el proceso de manipulación de datos.
+
+
+3. Antes del análisis, una empresa recopila datos de países que usan diferentes formatos para la fecha. ¿Cuál de las siguientes actualizaciones mejorarían la integridad de los datos?
+
+   - Eliminar los datos que tengan un formato de fecha desconocido 
+    
+      ❌ Incorrecto.
+
+   - Organizar los datos por país 
+    
+      ❌ Incorrecto.
+
+   - Dejar las fechas en su formato original 
+    
+      ❌ Incorrecto.
+
+    - Modificar todas las fechas para que tengan el mismo formato
+    
+      ✅ Correcto. Modificar todas las fechas para que tengan el mismo formato mejoraría la integridad de los datos.
 
 
 ---
@@ -363,12 +418,66 @@ También debes evaluar el costo frente al beneficio de obtener resultados más p
 
 Conocer los aspectos básicos te ayudará a tomar decisiones correctas al momento de elegir el tamaño de la muestra. Siempre puedes plantear tus dudas en caso de que te encuentres con tamaños de muestras que sean demasiado pequeñas. Una calculadora de tamaño de muestras también es una gran herramienta para utilizar en este caso. Las calculadoras de tamaños de muestras te permiten ingresar el nivel de confianza y el margen de error deseados para una población de un tamaño determinado. Luego, calculan el tamaño de la muestra para lograr estadísticamente esos resultados. 
 
-### Cuestionario 📖
+
+### Cuestionario: Pon a prueba tus conocimientos sobre datos insuficientes 📖
+
+
+1. ¿Qué debería hacer un analista si no tiene los datos que necesita para alcanzar un objetivo comercial? Selecciona todas las opciones que correspondan.
+
+   - Crear y usar datos hipotéticos que se puedan alinear con las predicciones de análisis.
+    
+      ❌ Incorrecto.
+
+   - Recopilar datos relacionados en menor escala y solicitar tiempo adicional para encontrar datos más completos. 
+    
+      ✅ Correcto. Si el analista no tiene los datos que necesita para alcanzar un objetivo comercial, entonces debería recopilar información relacionada en menor escala y pedir tiempo adicional. Luego, podrá encontrar datos más completos o realizar el análisis con datos indirectos de otros conjuntos de datos.
+
+   - Realizar el análisis utilizando datos indirectos de otros conjuntos de datos. 
+    
+      ✅ Correcto. Si el analista no tiene los datos que necesita para alcanzar un objetivo comercial, entonces debería recopilar información relacionada en menor escala y pedir tiempo adicional. Luego, podrá encontrar datos más completos o realizar el análisis con datos indirectos de otros conjuntos de datos. 
+
+    - Continuar el análisis usando datos de fuentes menos confiables. 
+    
+      ❌ Incorrecto.
+
+
+2. ¿Cuál de las siguientes son limitaciones que podrían resultar en datos insuficientes? Selecciona todas las opciones que correspondan.
+
+   -  Datos que se actualizan continuamente
+    
+      ✅ Correcto. Las limitaciones que podrían resultar en datos insuficientes incluyen datos que se actualizan continuamente, datos desactualizados y datos que provienen de una única fuente.
+
+   - Datos duplicados
+    
+      ❌ Incorrecto.
+
+   - Datos desactualizados
+    
+      ✅ Correcto. Las limitaciones que podrían resultar en datos insuficientes incluyen datos que se actualizan continuamente, datos desactualizados y datos que provienen de una única fuente.
+
+    - Datos que provienen de una fuente única  
+    
+      ✅ Correcto. Las limitaciones que podrían resultar en datos insuficientes incluyen datos que se actualizan continuamente, datos desactualizados y datos que provienen de una única fuente.
 
 
 
+3. Un analista de datos quiere conocer cuántas personas de Utah tienen piscinas. Es muy improbable que pueda consultar a cada residente de Utah. En cambio, consulta a una cantidad suficiente de personas que sea representativa de la población. ¿Esto describe qué concepto del análisis computacional de datos?
 
+   - Margen de error
+    
+      ❌ Incorrecto.
 
+   - Significancia estadística
+    
+      ❌ Incorrecto.
+
+   - Muestra
+    
+      ✅ Correcto. Esto describe a una muestra, que es una parte de toda la población que representa.
+
+    - Nivel de confianza
+    
+      ❌ Incorrecto.
 
 
 ---
@@ -503,8 +612,56 @@ Después de que hayas cargado la información en alguna de estas calculadoras, a
 Ahora que conoces los conceptos básicos, intenta realizar algunos cálculos utilizando las calculadoras de tamaño de muestras y vuelve a esta lectura si necesitas repasar algunas definiciones. 
 
 
-### Cuestionario 📖
+### Cuestionario: Pon a prueba tus conocimientos sobre datos insuficientes 📖
 
+
+1. Un equipo de investigación realiza un experimento para determinar si un sistema de seguridad nuevo es más efectivo que su versión previa. ¿Qué tipo de resultados se necesitan para que el experimento sea estadísticamente significativo?
+
+   - Resultados que son reales y no causados por factores aleatorios 
+    
+      ✅ Correcto. Para que un experimento sea estadísticamente significativo, los resultados deben ser reales y no causados por factores aleatorios.
+
+   - Resultados hipotéticos que necesiten más pruebas
+    
+      ❌ Incorrecto.
+
+   - Resultados que tienen baja probabilidad de ocurrir nuevamente
+    
+      ❌ Incorrecto.
+
+    - Resultados que son inexactos y que deberían ser ignorados
+    
+      ❌ Incorrecto.
+
+
+2. Para lograr un alto nivel de confianza en una encuesta al cliente, ¿qué debería reflejar en forma precisa el tamaño de la muestra?
+
+   - Las predicciones de los interesados
+    
+      ❌ Incorrecto.
+
+   - Las tendencias de otras encuestas al cliente 
+    
+      ❌ Incorrecto.
+
+   - Toda la población 
+    
+      ✅ Correcto. Para lograr un alto nivel de confianza en una encuesta al cliente, el tamaño de la muestra debería reflejar en forma precisa a toda la población.
+
+    - Los miembros más valiosos de la población
+    
+      ❌ Incorrecto.
+
+
+3. El analista de datos determina el tamaño de muestra apropiado para una encuesta. Puede controlar su trabajo asegurándose de que el porcentaje de nivel de confianza más el porcentaje de margen de error sumen en total 100%.
+
+   - Verdadero
+    
+      ❌ Incorrecto.
+
+   - Falso 
+    
+      ✅ Correcto. El porcentaje de nivel de confianza y el porcentaje de margen de error no deben sumar en total 100%. Los porcentajes son independientes uno de otro.
 
 
 
@@ -584,9 +741,44 @@ Como ya has establecido el tamaño de tu población, el tamaño de la muestra y 
 El margen de error se utiliza para determinar qué tan cerca se encuentran los resultados de tu muestra con los resultados que hubieras obtenido si hubieras consultado a toda la población. El margen de error te ayuda a entender e interpretar los resultados de la encuesta o de la prueba en la vida real.  Calcular el margen de error es particularmente útil al momento que te entregan los datos para analizar. Luego de usar la calculadora para calcular el margen de error, conocerás cuánto pueden diferir los resultados de la muestra de los resultados de la población completa. 
 
 
-### Cuestionario 📖
+### Cuestionario: Pon a prueba tus conocimientos sobre el margen de error 📖
+
+1. Completa el espacio en blanco: El margen de error es la cantidad _______ que se espera que los resultados de la muestra difieran de los de la población real. 
+
+   - promedio
+    
+      ❌ Incorrecto.
+
+   - máxima
+    
+      ✅ Correcto. El margen de error es la cantidad máxima que se espera que los resultados de la muestra difieran de los de la población real. 
+
+   - mínima
+    
+      ❌ Incorrecto.
+
+    - media
+    
+      ❌ Incorrecto.
 
 
+2. En una encuesta sobre un producto de limpieza nuevo, el 75% de los consultados contestaron que comprarían el producto nuevamente. El margen de error de la encuesta es del 5%. Basados en el margen de error, ¿qué rango de porcentaje refleja la verdadera respuesta de la población? 
+
+   - Entre el 73% y el 78%
+    
+      ❌ Incorrecto.
+
+   - Entre el 70% y el 80%
+    
+      ✅ Correcto. Basados en el margen de error, entre el 70 y el 80% refleja de manera precisa la verdadera respuesta de la población. Se cálcula el rango inferior: Resta el margen de error del porcentaje observado para obtener el límite inferior del rango 75% − 5% = 70%. Asimismo, se calcula el rango superior: suma el margen de error al porcentaje observado para obtener el límite superior del rango 75% + 5% = 80%.
+
+   - Entre el 70% y el 75%
+    
+      ❌ Incorrecto.
+
+    - Entre el 75% y el 80%
+    
+      ❌ Incorrecto.
 
 ---
 
@@ -601,82 +793,219 @@ El margen de error se utiliza para determinar qué tan cerca se encuentran los r
 ### Glosario: Términos y definiciones 📖
 
 
-### Cuestionario 📖
+### Cuestionario: Desafío semanal 1 📖
 
 
+1. ¿Cuál de las siguientes condiciones son necesarias para asegurar la integridad de los datos? Selecciona todas las opciones que correspondan.
 
+   - Privacidad
+    
+      ❌ Incorrecto.
 
+   - Exhaustividad
+    
+      ✅ Correcto. La exactitud y la exhaustividad de los datos son necesarias para asegurar la integridad de los datos. 
 
+   - Poder estadístico
+    
+      ❌ Incorrecto.
 
+    - Exactitud
+    
+      ✅ Correcto. La exactitud y la exhaustividad de los datos son necesarias para asegurar la integridad de los datos.  
 
 
+2. Una empresa de salud guarda copias de sus datos en diferentes sitios en todo el país. Los datos se comprometen porque cada sitio crea una copia del original en distintos momentos del día. ¿Cuál de los siguientes procesos causa el compromiso de los datos?
 
+   - Replicación de datos
+    
+      ✅ Correcto.
 
+   - Transferencia de datos
+    
+      ❌ Incorrecto. No es esta.
 
+   - Manipulación de datos
+    
+      ❌ Incorrecto.
 
+    - Recopilación de datos
+    
+      ❌ Incorrecto.
 
 
+3. Un analista de datos recibe un conjunto de datos para analizar. El conjunto de datos incluye datos sobre el total de la población de cada país de los últimos 20 años. Con base en los datos disponibles, el analista debería poder determinar los motivos por los cuales parte de la población de un país determinado aumentó en el período 2016-2017.
 
+   - Verdadero
+    
+      ❌ Incorrecto. No es esta.
 
+   - Falso
+    
+      ✅ Correcto. El analista podría necesitar más datos para identificar los motivos del aumento de la población. 
 
 
+4. Un analista de datos recibe un conjunto de datos para analizar. Para utilizar la plantilla de este conjunto de datos, haz clic en el enlace de abajo y selecciona “Usar plantilla”. Las filas 10 y 11 tienen datos duplicados.
 
+   - Verdadero
+    
+      ❌ Incorrecto.
 
+   - Falso
+    
+      ✅ Correcto. Las filas 10 y 11 no tienen datos duplicados.
 
 
+5. Un analista de datos en una organización sin fines de lucro está trabajando con un conjunto de datos sobre financiación para negocios de temporada de verano. A pesar de que para fin de mes ya logró tener muchos datos útiles, reconoce que son insuficientes. Por lo tanto, decide esperar hasta el final de la temporada para comenzar a trabajar con el conjunto de datos. ¿Qué tipo de datos insuficientes describe este ejemplo?
 
+   - Los datos están limitados geográficamente
+    
+      ❌ Incorrecto.
 
+   - Datos desactualizados
+    
+      ❌ Incorrecto.
 
+   - Usar datos de una sola fuente
+    
+      ❌ Incorrecto.
 
+    - Los datos que se siguen actualizando
+    
+      ✅ Correcto. Este ejemplo describe los datos insuficientes que se siguen actualizando. Si tu conjunto de datos se sigue actualizando, eso significa que los datos aún están ingresando y pueden estar incompletos. 
 
 
+6. Cuando recopilamos datos por medio de una encuesta, las empresas ahorran dinero por consultar al 100% de una población.
 
+   - Verdadero
+    
+      ❌ Incorrecto.
 
+   - Falso
+    
+      ✅ Correcto. Usar el 100% de una población es ideal, pero puede ser muy caro recopilar datos de toda una población completa.
 
 
+7. Completa el espacio en blanco: El sesgo del muestreo en la recopilación de datos es cuando una muestra no es representativa ____________________.
 
+   - de la población más afectada por los datos 
+    
+      ❌ Incorrecto.
 
+   - del conjunto de datos sobre la población
+    
+      ❌ Incorrecto.
 
+   - de un subconjunto de la población
+    
+      ❌ Incorrecto.
 
+    - de toda la población en su conjunto
+    
+      ✅ Correcto. El sesgo del muestreo en la recopilación de datos es cuando una muestra no es representativa de toda la población en su conjunto. 
 
 
+8. Algunas veces, durante el análisis, un analista descubre que es necesario ajustar el objetivo comercial. Cuando esto sucede, el analista debe tomar la iniciativa de hacerlo sin involucrar a otros para ser respetuoso del tiempo del otro.
 
+   - Verdadero
+    
+      ❌ Incorrecto.
 
+   - Falso
+    
+      ✅ Correcto. Si el analista de datos cree que el objetivo comercial debe ser ajustado, es importante que primero lo converse con los interesados.
 
 
+9. Completa el espacio en blanco: El/la ____________ se refiere a la exactitud, exhaustividad, coherencia y confiabilidad de los datos a lo largo de su ciclo de vida.
 
+   - integridad de datos
+    
+      ✅ Correcto. La integridad de datos es la exactitud, exhaustividad, coherencia y confiabilidad de los datos a lo largo de su ciclo de vida.
 
+   - análisis de datos
+    
+      ❌ Incorrecto. 
 
+   - replicación de datos
+    
+      ❌ Incorrecto.
 
+    - muestreo de datos
+    
+      ❌ Incorrecto.
 
 
+10. Un analista financiero importa un conjunto de datos a su computadora desde un dispositivo de almacenamiento. Mientras se está importando, se interrumpe la conexión y se comprometen los datos. ¿Cuál de los siguientes procesos causa el compromiso de los datos?
 
+   - Replicación de datos
+    
+      ❌ Incorrecto.
 
+   - Transferencia de datos
+    
+      ✅ Correcto. La transferencia de datos causó el compromiso. La interrupción de la transferencia de datos puede hacer que un conjunto de datos quede incompleto.
 
+   - Manipulación de datos
+    
+      ❌ Incorrecto.
 
+    - Recopilación de datos
+    
+      ❌ Incorrecto.
 
 
+11. Un analista de datos recibe un conjunto de datos para analizar. El conjunto de datos incluye datos sobre el total de la población de cada país de los últimos 20 años. ¿Para cuál de las siguientes preguntas el analista podría necesitar más datos para abordarla? 
 
+   - Qué país tuvo la mayor población en 2015?
+    
+      ❌ Incorrecto.
 
+   - ¿Cuál fue la razón del aumento de la población en un determinado país?
+    
+      ✅ Correcto. El analista podría necesitar más datos para identificar los motivos del aumento de la población. 
 
+   - ¿Cuál fue la población de un país determinado en 2020?
+    
+      ❌ Incorrecto.
 
+    - ¿Qué país tuvo la menor población en 2017?
+    
+      ❌ Incorrecto.
 
 
+12. En el proceso de análisis de datos, ¿cómo se relaciona una muestra con una población?
 
+   - Una muestra es un ejemplo ideal tomado de una población.
+    
+      ❌ Incorrecto.
 
+   - Una muestra es una parte de una población que es representativa de esa población. 
+    
+      ✅ Correcto. Una muestra se relaciona con una población, ya que representa a una población en menor escala. 
 
+   - La muestra es una selección de datos duplicada que se toma de la población.
+    
+      ❌ Incorrecto.
 
+    - Una muestra es un promedio de todos los datos que representan a la población.
+    
+      ❌ Incorrecto.
 
 
+13. Los datos y los objetivos comerciales pueden no alinearse por diferentes razones. ¿Cuál de los siguientes problemas podrían obstaculizar la alineación? Selecciona todas las opciones que correspondan.
 
+   - Visualización de datos
+    
+      ❌ Incorrecto.
 
+   - El sesgo del muestreo
+    
+      ✅ Correcto. Datos insuficientes y el sesgo del muestreo pueden obstaculizar la alineación.
 
+   - Datos insuficientes 
+    
+      ✅ Correcto. Datos insuficientes y el sesgo del muestreo pueden obstaculizar la alineación.
 
-
-
-
-
-
-
-
-
+    - Integridad de datos
+    
+      ❌ Incorrecto.
