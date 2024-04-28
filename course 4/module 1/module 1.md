@@ -455,7 +455,23 @@ Tal como sucede con otros tipos de conjuntos de datos, deberás estar atento a l
 
 ### Cómo determinar el mejor tamaño de la muestra 🎬
 
+El poder estadístico es la probabilidad de obtener resultados significativos de una prueba. Creo que este no es un superpoder con el cual hayan soñado. Aun así, es un poder bastante genial. Para los analistas de datos, tus proyectos pueden comenzar con la prueba o el estudio. La prueba de hipótesis es una forma de ver si una encuesta o experimento tiene resultados significativos. Aquí hay un ejemplo: Digamos que trabajas en una cadena de restaurantes que está planificando una campaña de marketing para sus nuevos batidos. Debes realizar una prueba de publicidad en un grupo de clientes antes de realizarla a nivel nacional.
 
+En la prueba, quieres verificar si a los clientes les gusta o no la campaña. También quieres descartar cualquier factor externo a la publicidad que pueda llevarlos a indicar que no les gusta ese aviso. Utilizar a todos tus clientes llevaría mucho tiempo y sería muy caro. Por lo tanto, necesitas saber cuántos clientes necesitarás para demostrar que la publicidad es efectiva. Cincuenta probablemente no serían suficientes. Incluso si eligieras 50 clientes al azar, podrías terminar con clientes a quienes no les gustan para nada los batidos. Y si eso sucede, no podrás medir la efectividad de tu publicidad para obtener más pedidos de batidos dado que ninguno de los que están en el tamaño de la muestra los pediría. Es por eso por lo que necesitas un tamaño mayor de muestra: para que puedas asegurarte de obtener un buen número de todos los tipos de personas para tu prueba. Usualmente, cuanto más grande es el tamaño de la muestra, mayor será la posibilidad de obtener resultados estadísticamente significativos con tu prueba. Y ese es el poder estadístico.
+
+En este caso, usar tantos clientes como sea posible mostrará las diferencias reales entre los grupos a quienes les gusta o no versus las personas cuya decisión no estaba basada en absoluto en la publicidad. Existen formas de calcular con precisión el poder estadístico, pero no vamos a verlas ahora. Puede que necesites hacer ese cálculo por ti mismo como analista de datos.
+
+Por ahora, debes saber que el poder estadístico generalmente se muestra como un valor de uno. De manera que si tu poder estadístico es 0.6; es lo mismo que decir 60%. En la prueba de la publicidad del batido, si calculaste un poder estadístico de 60%, eso significa que existe un 60% de posibilidades de que obtengas un resultado estadísticamente significativo en la eficacia de la publicidad.
+
+"Estadísticamente significativo" es un término utilizado en estadísticas. Si quieres aprender más sobre el significado técnico, puedes buscar en línea. Pero en términos básicos, si una prueba es estadísticamente significativa, eso significa que los resultados de la prueba son reales y no un error causado por factores aleatorios.
+
+De manera que hay 60% de chances de que los resultados de la prueba de publicidad del batido sean confiables y reales y un 40% de chances de que el resultado de la prueba sea incorrecto. Usualmente, se necesita un poder estadístico de al menos 0.8 u 80% para considerar que tus resultados son estadísticamente significativos. Consideremos un escenario más. Quedémonos con los batidos porque, bueno, porque me gustan los batidos. Imagina que trabajas en una cadena de restaurantes que quiere lanzar un nuevo batido con sabor a torta de cumpleaños con sabor a batido.
+
+El costo de producción de este batido será más caro que el de tus otros batidos. Tu empresa espera que el entusiasmo por el nuevo sabor atraiga a más clientes y dinero para compensar el costo. Quieren probarlo primero en algunos restaurantes. Entonces, pensemos cuántos locales deberías usar para que tus resultados sean confiables.
+
+Primero, deberías pensar qué es lo que evita que consigas resultados estadísticamente significativos. ¿Hay otros restaurantes que estén ofreciendo otras promociones que puedan atraer a nuevos clientes? ¿Algunos de esos restaurantes tienen clientes que siempre compran el producto más nuevo, sin importar qué es? ¿Algunos de esos restaurantes comenzaron algunas construcciones que evitarían que los clientes fueran al restaurante? Para lograr un poder estadístico más alto, deberías considerar todos estos factores antes de decidir cuántos locales incluir en el tamaño de la muestra para tu estudio. Quieres asegurarte de que cualquier efecto se deba, más probablemente, al nuevo sabor del batido, no a otros factores.
+
+Los efectos mensurables serían un incremento en las ventas o el número de clientes en los locales en el tamaño de tu muestra. Muy bien, eso es todo por ahora. Próximamente, vamos a explorar los tamaños de las muestras en detalle, para obtener una mejor idea de cómo impactan en tus pruebas y estudios. Mientras tanto, has aprendido un poco más sobre los batidos y los superpoderes. Y, por supuesto, sobre el poder estadístico. Lamentablemente, solo el poder estadístico puede ser realmente útil para los analistas de datos. Sin embargo, ponerme mi capa y volar a comprar un batido justo ahora suena bastante bien.
 
 
 ### Calculadora de tamaño de muestra 📖
@@ -504,8 +520,68 @@ Ahora que conoces los conceptos básicos, intenta realizar algunos cálculos uti
 
 ### Evaluar la confiabilidad de tus datos 🎬
 
+Como analista de datos, es importante que calcules el tamaño de las muestras y las variables como el nivel de confianza y el margen de error antes de comenzar a realizar cualquier tipo de pruebas o encuestas. Es la mejor forma de asegurar la objetividad de tus resultados y te brinda una mayor posibilidad de obtener resultados estadísticamente importantes. Pero si ya conoces el tamaño de la muestra, como, por ejemplo, cuando recibes resultados de encuestas para analizar; entonces, puedes calcular el margen de error tú mismo. De ese modo tendrás una mejor idea de cuál es la diferencia entre tu muestra y tu población. 
+
+Empezaremos por el principio con una definición más completa. El margen de error es el máximo que se espera que difieran los resultados de la muestra de los de la población real. Pensemos en un ejemplo de margen de error. Sería genial encuestar o realizar una prueba sobre una población entera, pero generalmente es imposible o poco práctico. Entonces, en cambio, se toma una muestra de la población más grande. Basado en el tamaño de la muestra, el margen de error resultante nos mostrará lo distinto que pueden ser los resultados comparados con los resultados si hubiéramos encuestado a toda la población. 
+
+El margen de error te ayuda a entender lo confiable que son los datos de la prueba de tu hipótesis. Cuanto más cerca a cero esté el margen de error, más cerca los resultados de tu muestra coincidirán con los resultados de la población total. Por ejemplo, digamos que realizaste una encuesta nacional utilizando una muestra de la población. Le preguntaste a personas que trabajan cinco días a la semana si les gustaría la idea de trabajar cuatro días a la semana. De modo que tu encuesta dice que el 60% prefiere una semana de cuatro días. El margen de error fue del 10%, lo cual indica que entre el 50 y 70% de las personas les gustó la idea. 
+
+De esta manera, si tuviéramos que encuestar a todos los trabajadores de cinco días en toda la nación, entre el 50 y el 70% estaría de acuerdo con nuestros resultados. Ten en cuenta que nuestro rango es entre el 50 y el 70%. Esto es así porque el margen de error se cuenta en ambas direcciones de los resultados de la encuesta de 60%. Si estableces un nivel de confianza de 95% para tu encuesta, habrá una posibilidad del 95% de que las respuestas de toda la población estén entre el 50 y el 70% que dirán que sí, que quieren una semana laboral de cuatro días. Dado que tu margen de error se superpone con la marca de 50%, no puedes asegurar que al público le agrada la idea de una semana laboral de cuatro días. En ese caso, tendrás que decir que tu encuesta fue no concluyente. 
+
+Ahora, si querías un margen de error más bajo, por ejemplo, 5% con un rango entre 55 y 65%, podrías incrementar el tamaño de la muestra. Pero si te indicaron el tamaño de la muestra, puedes calcular el margen de error tú mismo. De ese modo, puedes decidir por ti mismo el nivel de probabilidad de que tus resultados sean estadísticamente significativos con base en tu margen de error. 
+
+En general, a mayor cantidad de personas que incluyas en tu encuesta, será más probable que tu muestra sea representativa de toda la población. Disminuir el nivel de confianza también tendría el mismo efecto, pero eso haría menos probable que tu encuesta sea precisa. 
+
+Es decir que, para calcular el margen de error, necesitas tres cosas: el tamaño de la población, el tamaño de la muestra, y el nivel de confianza. Y del mismo modo que con el tamaño de la muestra, puedes encontrar muchas calculadoras en línea si buscas "calculadora de margen de error". Pero vamos a mostrarte en una hoja de cálculo del mismo modo que cuando calculamos el tamaño de la muestra. Digamos que estás realizando un estudio sobre la eficacia de un medicamento nuevo. Tienes un tamaño de muestra de 500 participantes cuya enfermedad afecta al 1% de la población mundial. Es decir, aproximadamente 80 millones de personas, que es la población para tu estudio. Dado que es un estudio sobre medicamentos, necesitas tener un nivel de confianza del 99%. También necesitas tener un margen de error bajo. 
+
+Vamos a calcularlo. Vamos a escribir los números para la población, el nivel de confianza y el tamaño de la muestra, en las celdas correspondientes de la hoja de cálculo. Y nuestro resultado es un margen de error cercano a 6%, más o menos. Cuando el estudio del medicamento esté completo, aplicarás el margen de error a tus resultados para determinar su nivel de confiabilidad. Las calculadoras como esta en las hojas de cálculo son una de las muchas herramientas que puedes utilizar para asegurar la integridad de tus datos. 
+
+Y también es bueno recordar que verificar la integridad de los datos y alinearlos con tus objetivos te pondrá en buena forma para completar tus análisis. Tener conocimientos sobre tamaño de muestras, poder estadístico, margen de error y otros temas que hemos tratado ayudará a que tus análisis se realicen sin problemas. Son muchos conceptos nuevos para asimilar. Si te gustaría revisarlos en cualquier momento, puedes encontrarlos todos en el glosario, ¡o puedes ver nuevamente el vídeo! Pronto explorarás los pros y los contras de los datos limpios. ¡La aventura de los datos continúa! ¡Y me alegra que avances con ellos! ¡Tú puedes!
+
 
 ### Todo sobre el margen de error 📖
+
+El margen de error es la cantidad máxima que se espera que los resultados de la muestra difieran de los de la población real. El margen de error, técnicamente, indica el rango de valores por debajo y sobre el resultado promedio de la muestra. Se espera que el resultado promedio de toda la población se ubique en ese rango. Podríamos comprender mejor el concepto del margen de error con los ejemplos que aparecen a continuación.
+
+#### Margen de error en béisbol
+
+Imagina que estás jugando al béisbol y que te toca batear. El público grita desaforadamente y tú te preparas para intentar golpear la pelota. El lanzador lanza una bola rápida a unos 90-95 mph, que tarda unos 400 milisegundos (ms) en llegar al guante del receptor. Haces un swing y fallas el primer lanzamiento porque te demoraste un poquito. Te preguntas si deberías haber hecho el swing un poco antes o un poco después para conseguir atajarla y hacer un jonrón. Esa diferencia de tiempo puede considerarse el margen de error, y nos indica lo cerca o lo lejos que estuvo tu velocidad de reacción respecto del promedio de velocidad de reacción necesaria para atajar la pelota.    
+
+#### Margen de error en el área de marketing
+
+El margen de error también es importante en el área de marketing. Utilicemos las pruebas A/B como ejemplo. La prueba A/B (o prueba dividida) analiza dos variaciones de la misma página web para determinar qué página es más exitosa para atraer tráfico de usuarios y generar ingresos. El tráfico de usuarios que se monetiza se conoce como tasa de conversión. La prueba A/B permite a los profesionales del marketing probar los mensajes de correo electrónico, los anuncios y las páginas destino para encontrar los datos de lo que funciona y lo que no. Los profesionales del marketing utilizan el intervalo de confianza (determinado por la tasa de conversión y el margen de error) para interpretar los resultados. 
+
+Por ejemplo, vamos a suponer que realizas una prueba A/B para comparar la efectividad de dos asuntos de correo electrónico diferentes para tentar a las personas a abrir el mensaje. Descubres que el texto del asunto A: “Oferta especial solo para ti” tuvo un índice de apertura del 5% en comparación con el texto del asunto B: “No te pierdas esta oportunidad” que tuvo un 3%. 
+
+¿Eso significa que el texto del asunto A es mejor que el texto del asunto B? Depende de tu margen de error. Si el margen de error fue del 2%; entonces, el índice de apertura o el intervalo de confianza del texto del asunto A se encuentra entre el 3% y el 7%. Dado que la base inferior del intervalo se solapa con los resultados del texto del asunto B en un 3%, no se puede concluir que exista una diferencia estadísticamente significativa entre el texto del asunto A y el B. Es importante evaluar el margen de error al momento de sacar conclusiones basadas en los resultados de la prueba. 
+
+#### ¿Quieres calcular tu margen de error? 
+
+Todo lo que necesitas es el tamaño de la población, el nivel de confianza y el tamaño de la muestra. Para entender mejor esta calculadora, analiza estos términos:
+
+- Nivel de confianza: Es un porcentaje que indica la probabilidad de que tu muestra incluya de manera precisa a la mayor parte de la población 
+
+- Población: El número total del cual extraes tu muestra
+
+- Muestra: Es una parte representativa de la población
+
+- Margen de error: Cantidad máxima que se espera que los resultados de la muestra difieran de los de la población real
+
+En muchos casos, se utiliza un nivel de confianza del 90% al 95%. Pero, dependiendo de tu industria, podrías querer establecer un nivel de confianza más estricto. El nivel de confianza del 99% es razonable para algunas industrias, por ejemplo, para la industria farmacéutica.  
+
+Como ya has establecido el tamaño de tu población, el tamaño de la muestra y el nivel de confianza, carga la información en una calculadora de margen de error como las que aparecen a continuación: 
+
+En muchos casos, se utiliza un nivel de confianza del 90% al 95%. Pero, dependiendo de tu industria, podrías querer establecer un nivel de confianza más estricto. El nivel de confianza del 99% es razonable para algunas industrias, por ejemplo, para la industria farmacéutica.  
+
+Como ya has establecido el tamaño de tu población, el tamaño de la muestra y el nivel de confianza, carga la información en una calculadora de margen de error como las que aparecen a continuación: 
+
+- [Calculadora de margen de error de Good Calculators (calculadoras en línea gratuitas)](https://goodcalculators.com/margin-of-error-calculator/)
+
+- [Calculadora de margen de error de CheckMarket](https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator)  
+
+#### Conclusión clave
+
+El margen de error se utiliza para determinar qué tan cerca se encuentran los resultados de tu muestra con los resultados que hubieras obtenido si hubieras consultado a toda la población. El margen de error te ayuda a entender e interpretar los resultados de la encuesta o de la prueba en la vida real.  Calcular el margen de error es particularmente útil al momento que te entregan los datos para analizar. Luego de usar la calculadora para calcular el margen de error, conocerás cuánto pueden diferir los resultados de la muestra de los resultados de la población completa. 
 
 
 ### Cuestionario 📖
