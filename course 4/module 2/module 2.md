@@ -426,10 +426,6 @@ Consulta estas listas de los "diez mejores" para la limpieza de datos en Microso
 
 ### Cuestionario: Pon a prueba tus conocimientos sobre las técnicas de limpieza de datos 📖
 
-
-###  Poner a prueba tus conocimientos sobre datos limpios versus sucios 📖
-
-
 1. Completa el espacio en blanco: Cada base de datos tiene su propio formato, lo que puede hacer que los datos parezcan desordenados. Los analistas de datos usan la herramienta _____ para crear una apariencia prolija y uniforme visualmente de las hojas de cálculo.
 
    - revisar ortografía 
@@ -442,11 +438,11 @@ Consulta estas listas de los "diez mejores" para la limpieza de datos en Microso
 
    - autocorrección
     
-      ✅ Correcto. 
+      ❌ Incorrecto.
 
     - borrar formatos
     
-      ❌ Incorrecto.
+      ✅ Correcto. Los analistas de datos usan la herramienta “borrar formatos” para crear una apariencia visual prolija y uniforme de las hojas de cálculo.
 
 
 2. ¿Cuál es el proceso para combinar dos o más conjuntos de datos en un único conjunto de datos?
@@ -468,13 +464,11 @@ Consulta estas listas de los "diez mejores" para la limpieza de datos en Microso
       ❌ Incorrecto.
 
 
-✅ Correcto.
-
 3. Completa el espacio en blanco: En análisis computacional de datos, _____ describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
 
    - la compatibilidad 
     
-      ❌ Incorrecto.
+      ✅ Correcto. La compatibilidad describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
 
    - la alineación
     
@@ -522,6 +516,54 @@ Luego, aprenderás sobre una herramienta que hace exactamente lo opuesto. CONCAT
 
 ### Optimización del proceso de limpieza de datos 🎬
 
+¡Bienvenido nuevamente! Ya conoces algunas herramientas muy útiles para limpiar datos incluidas en las aplicaciones de las hojas de cálculo. Ahora exploraremos cómo las funciones pueden optimizar tus esfuerzos para garantizar la integridad de los datos.
+
+Como recordatorio, una función es un conjunto de instrucciones que realizan un cálculo específico usando los datos de una hoja de cálculo. La primera función que abordaremos se denomina COUNTIF. COUNTIF es la función que devuelve un número de celdas que coinciden con un valor específico. Básicamente, cuenta el número de veces que aparece un valor en un rango de celdas.
+
+Volvamos a nuestra hoja de cálculo de una asociación profesional. En este ejemplo, queremos asegurarnos de que los precios de la membresía a la asociación en la lista sean precisos. Utilizaremos COUNTIF para controlar algunos de los problemas comunes, como números negativos o valores muy inferiores o superiores a lo esperado.
+
+Para comenzar, encontremos el valor de afiliación más bajo: $100 por asociado. Ese será el número más bajo que existe en esa columna. Si una celda tiene un valor inferior a 100, COUNTIF nos dará el alerta.
+
+Agregaremos unas filas más al final de nuestra hoja de cálculo, luego, debajo de la columna H, escribe "valor de afiliación menor a $100". A continuación, escribe la función en la celda contigua. Cada función tiene una cierta sintaxis que hay que seguir para que funcione. La sintaxis es una estructura predeterminada que incluye toda la información necesaria y su lugar exacto.
+
+La sintaxis de la función COUNTIF debería ser la siguiente: `=COUNTIF(rango, "valor")`. Donde "rango" es de I2 hasta I72 y el "valor" es inferior a 100. Esto le indica a la función que atraviese la columna I y devuelva un conteo de todas las celdas que contienen un número inferior a 100. ¡Y resulta que solo hay uno!
+
+Al revisar los datos, encontramos que un dato se ingresó por error como número negativo. Corrijamos eso. Ahora usaremos COUNTIF para buscar cualquier valor mayor a lo esperado. El tipo más costoso de membresía es de $500 para socios corporativos. Escribe la función en la celda. Esta vez aparecerá de esta forma: `=COUNTIF(rango, "valor")`. De I2 hasta I72 es todavía el rango, pero el "valor" es superior a 500. También hay uno. Vamos a analizarlo. Esta entrada tiene un cero extra. Debería ser $100.
+
+La próxima función que abordaremos se llama LEN. LEN es una función que indica la longitud de una cadena de texto al contar el número de caracteres en una cadena de texto. Esto es útil cuando se limpian datos, si tienes un determinado dato en tu hoja de cálculo que sabes que debe tener una cierta longitud.
+
+La sintaxis de LEN es `=LEN(rango)`. Insertaremos una nueva columna después del número de ID de socio. Luego, el `=LEN(rango)` nos indica que hay seis caracteres en la celda A2. Continuemos con la función en toda la columna y veamos si hay algún resultado que no sea seis.
+
+Pero, en lugar de hacerlo manualmente recorriendo toda la hoja de cálculo para buscar estas instancias, utilizaremos el formato condicional. Hablamos del formato condicional anteriormente. Se trata de una herramienta de la hoja de cálculo que cambia cómo aparecen las celdas cuando los valores cumplen condiciones específicas. Practiquemos ahora.
+
+Selecciona toda la columna B, excepto el encabezado. Luego dirígete a Formato y elige Formato condicional. La regla de formato está para dar formato a celdas que no arrojen seis como resultado. Haz clic en "Hecho". La celda que contiene el siete queda resaltada.
+
+Ahora, vamos a hablar de LEFT y RIGHT. LEFT es la función que te brinda un cierto número de caracteres a la izquierda de una cadena de texto. RIGHT es la función que te brinda un cierto número de caracteres a la derecha de una cadena de texto.
+
+Como recordatorio rápido, una cadena de texto es un grupo de caracteres dentro de una celda, compuesta comúnmente por letras, números o ambos.
+
+Para ver estas funciones en acción, volvamos a la hoja de cálculo del fabricante de cosméticos que ya usamos. Esta hoja de cálculo contiene códigos de productos. Cada producto tiene un código numérico de cinco dígitos y un identificador de texto de cuatro letras. Pero digamos que solo queremos trabajar con uno o el otro.
+
+Puedes usar LEFT o RIGHT para obtener el conjunto específico de caracteres o números que necesitas. Practicaremos limpiar nuestros datos usando la función LEFT primero. La sintaxis de LEFT es `=LEFT(rango, num_caracteres)`. Aquí, nuestro proyecto requiere solo los código numéricos de cinco dígitos. En una columna separada, escribe `=LEFT(rango, 5)`. Nuestra función se debe ver así. Presiona "Enter". Ahora, tenemos una subcadena que es la parte numérica del código de producto solamente. Haz clic y arrastra esta función por toda la columna para separar el resto de los códigos de producto solo por número.
+
+Bien, ahora, digamos que nuestro proyecto solo necesita el identificador de texto de cuatro caracteres. Para eso, usaremos la función RIGHT y la función comenzará en la siguiente columna. La sintaxis es `=RIGHT(rango, num_caracteres)`. Escribe `=RIGHT(rango, 4)`. Luego, arrastra la función por toda la columna. Ahora podemos analizar el producto en nuestra hoja de cálculo de acuerdo con alguna de las subcadenas. El código numérico de cinco dígitos o el identificador de texto de cuatro caracteres.
+
+Espero que esto clarifique cómo utilizar LEFT y RIGHT para extraer subcadenas de la izquierda y derecha de una cadena. Ahora, aprendamos a extraer datos que se encuentran en el medio. Aquí usaremos algo llamado MID.
+
+MID es la función que te brinda un segmento desde la mitad de una cadena de texto. La sintaxis para MID es: `=MID(rango, punto_inicio, num_caracteres)`. Al utilizar MID, siempre necesitas colocar un punto de referencia. En otras palabras, puedes establecer dónde debería comenzar la función. Después de eso, escribes cuántos caracteres quieres en el medio.
+
+En una nueva columna, escribe `=MID(rango, 4, 2)`. Presiona "Enter" y ¡eureka!, solo obtenemos la abreviatura del estado. Continúa utilizando la función MID en el resto de la columna.
+
+Hemos aprendido algunas funciones que ayudan a separar cadenas de texto específicas. Pero, ¿qué pasa si queremos combinarlas? Para eso, utilizaremos CONCATENATE, que es una función que une dos o más cadenas de texto.
+
+La sintaxis es `=CONCATENATE(cadena1, cadena2, ...)`. Solo para practicar, digamos que necesitamos volver a unir las cadenas de texto de la izquierda y de la derecha para volver a formar códigos completos de producto. En una nueva columna, comencemos nuestra función. Escribe `=CONCATENATE(cadena1, cadena2)`. Luego, arrastra eso por toda la columna y, así de sencillo, nuestros códigos de producto vuelven a unirse.
+
+La última función que abordaremos es TRIM. TRIM es una función que quita los espacios de más al principio, al final o repetidos en los datos.
+
+La sintaxis para TRIM es: `=TRIM(rango)`. En una columna separada, escribe `=TRIM(rango)`. TRIM corregirá los espacios extra.
+
+Ahora conocemos algunas funciones útiles que pueden hacer de tu limpieza de datos un éxito. Como siempre, siéntete libre de volver a ver este vídeo y practicar por tu cuenta. Continuaremos agregando conocimientos sobre estas herramientas en breve y también tendrás la oportunidad de practicar. Muy pronto, estos pasos para limpiar datos serán algo totalmente natural, como cepillarte los dientes.
+
 
 ### Automatización del flujo de trabajo 📖
 
@@ -552,19 +594,107 @@ Hay un montón de herramientas disponibles que pueden ayudar a automatizar tus p
 
 ### Diferentes perspectivas de los datos 🎬
 
+¡Hola! Parece que estás listo para comenzar. En el mundo del análisis de datos, como dijo Wayne Dyer, cambiar la forma en que vemos las cosas puede cambiar las cosas que vemos. En el análisis computacional de datos, esto es especialmente cierto. Cada proyecto de análisis de datos es único, y es crucial adaptar nuestros enfoques para cada situación específica.
+
+En este video, exploraremos diferentes métodos utilizados por los analistas de datos para cambiar su perspectiva sobre los datos, lo que los lleva a realizar una limpieza más eficiente y efectiva de los mismos. Algunos de estos métodos incluyen ordenar y filtrar datos, trabajar con tablas dinámicas, utilizar la función VLOOKUP y realizar trazados para identificar valores atípicos.
+
+Comencemos con el ordenamiento y el filtrado. Estas herramientas no solo son útiles para organizar y personalizar los datos, sino que también son excelentes para la limpieza de datos. Ordenar los datos puede ayudar a identificar entradas duplicadas o a organizar los datos de manera que sea más fácil encontrar la información necesaria. Por otro lado, los filtros son útiles para encontrar datos específicos que cumplen con ciertos criterios, lo que facilita separar la información relevante del resto.
+
+Otro método para cambiar la perspectiva sobre los datos es mediante el uso de tablas dinámicas. Estas herramientas son excelentes para resumir y visualizar datos de manera rápida y clara. Pueden proporcionar una vista rápida y sin desorden de tus datos, lo que facilita identificar tendencias o patrones importantes.
+
+Vamos a crear una tabla dinámica utilizando la hoja de cálculo de los fabricantes de cosméticos nuevamente. Seleccionaremos los datos que queremos usar y crearemos una nueva tabla dinámica. Digamos que queremos analizar los productos más rentables. Podemos ordenar la tabla dinámica en función de las ganancias totales y filtrar los productos que generan al menos $10,000 en órdenes de compra.
+
+Después de identificar los productos más rentables, es posible que necesitemos obtener más información sobre ellos. Aquí es donde entra en juego la función VLOOKUP. VLOOKUP nos permite buscar un valor específico en una columna y devolver la información correspondiente de otra columna. Esta función es útil cuando necesitamos buscar información en diferentes hojas de cálculo o bases de datos.
+
+Por último, el trazado de datos nos permite visualizar los datos de una manera que nos ayude a identificar rápidamente cualquier anomalía o valor atípico. Por ejemplo, podemos trazar los precios de los productos en un gráfico de columnas para identificar cualquier precio anormalmente bajo o alto.
+
+En resumen, cambiar la forma en que vemos los datos nos permite identificar y limpiar más eficientemente cualquier dato incorrecto o inconsistente. Estos métodos son herramientas poderosas en el arsenal de cualquier analista de datos y pueden marcar la diferencia en la calidad y precisión de los resultados obtenidos.
+
+¡Gran trabajo hasta aquí! ¿Listo para practicar estos nuevos conceptos y continuar aprendiendo más estrategias para garantizar la integridad de los datos?
+
 
 ### Incluso mas técnicas de limpieza de datos 🎬
+
+¡Hola de nuevo! Es genial que estemos profundizando en los aspectos generales relacionados con la limpieza de datos. El mapeo de datos es una parte fundamental de este proceso, ya que nos permite hacer coincidir campos entre diferentes bases de datos para garantizar la compatibilidad y la integridad de los datos durante la migración, la integración y otras actividades de administración de datos.
+
+Como ya hemos aprendido, los diferentes sistemas almacenan los datos de manera diferente, lo que puede resultar en discrepancias en los formatos de los datos. Por ejemplo, un estado puede estar almacenado como "Maryland" en una hoja de cálculo y como "MD" en otra. El mapeo de datos nos ayuda a identificar y abordar estas diferencias para garantizar que los datos sean compatibles cuando se transfieren y combinen.
+
+El proceso de mapeo de datos comienza identificando qué datos deben moverse, incluyendo las tablas y los campos dentro de ellas. Luego, definimos el formato deseado para los datos una vez que lleguen a su destino. Esto puede incluir decisiones sobre el tipo de datos que se utilizarán, como números o direcciones de correo electrónico.
+
+El mapeo de datos puede ser simple o complejo, dependiendo del esquema y el número de claves primarias y externas en la fuente de datos. Para proyectos más desafiantes, existen herramientas de software especializadas en mapeo de datos que pueden automatizar y simplificar este proceso.
+
+Al seleccionar una herramienta de software para mapear datos, es importante asegurarse de que sea compatible con el tipo de archivo con el que estás trabajando, como Excel, SQL, Tableau, entre otros.
+
+Ahora, vamos a practicar el mapeo manual de datos. Esto implica determinar el contenido de cada sección de datos y asegurarnos de que los datos terminen en el lugar correcto en la fuente de datos fusionada. También puede implicar la transformación de los datos en un formato uniforme utilizando funciones como la concatenación.
+
+Una vez que los datos están mapeados correctamente, es hora de transferirlos a su destino utilizando diversas herramientas y métodos, como consultas, asistentes de importación o simplemente arrastrar y soltar. Después, realizaremos pruebas para asegurarnos de que los datos estén limpios y tengan el formato adecuado antes de comenzar su análisis.
+
+En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de datos que garantiza la integridad y la compatibilidad de los datos durante su transferencia y combinación. Es fundamental para evitar errores que puedan afectar los resultados del análisis y proporciona una hoja de ruta clara para garantizar que los datos lleguen seguros a su destino.
 
 
 ### Actividades practicas: Limpiar datos con funciones de la hoja de cálculo 📖
 
 
-
 ### Registro de aprendizaje: Desarrolla tu enfoque para la limpieza de datos 📖
 
 
+### Cuestionario: Pon a prueba tus conocimientos sobre la limpieza de datos en hojas de calculo 📖
 
-### Pon a prueba tus conocimientos sobre la limpieza de datos en hojas de calculo 📖
+1. Completa el espacio en blanco: Cada base de datos tiene su propio formato, lo que puede hacer que los datos parezcan desordenados. Los analistas de datos usan la herramienta _____ para crear una apariencia prolija y uniforme visualmente de las hojas de cálculo.
+
+   - revisar ortografía 
+    
+      ❌ Incorrecto.
+
+   - formato condicional
+    
+      ❌ Incorrecto. Los analistas de datos usan la herramienta “borrar formatos” para crear una apariencia visual prolija y uniforme de las hojas de cálculo.
+
+   - autocorrección
+    
+      ❌ Incorrecto.
+
+    - borrar formatos
+    
+      ✅ Correcto. Los analistas de datos usan la herramienta “borrar formatos” para crear una apariencia visual prolija y uniforme de las hojas de cálculo.
+
+
+2. ¿Cuál es el proceso para combinar dos o más conjuntos de datos en un único conjunto de datos?
+
+   - Validación de datos 
+    
+      ❌ Incorrecto.
+
+   - Fusión de datos 
+    
+      ✅ Correcto. Fusionar datos es el proceso para combinar dos o más conjuntos de datos en un único conjunto de datos.
+
+   - Transferencia de datos
+    
+      ❌ Incorrecto.
+
+    - Composición de datos
+    
+      ❌ Incorrecto.
+
+
+3. Completa el espacio en blanco: En análisis computacional de datos, _____ describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
+
+   - la compatibilidad 
+    
+      ✅ Correcto. La compatibilidad describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
+
+   - la alineación
+    
+      ❌ Incorrecto. La compatibilidad describe qué tan bien dos o más conjuntos de datos pueden trabajar juntos.
+
+   - la concordancia
+    
+      ❌ Incorrecto.
+
+    - la idoneidad
+    
+      ❌ Incorrecto.
 
 
 ---
@@ -580,3 +710,239 @@ Hay un montón de herramientas disponibles que pueden ayudar a automatizar tus p
 
 
 ### Desafio semanal 2 📖
+
+
+1. Como parte del proceso de limpieza de datos, un analista de datos crea una regla para resaltar cualquier celda vacía con un color azul brillante. Este es un ejemplo de visualización de datos.
+
+   - Verdadero 
+    
+      ❌ Incorrecto.
+
+   - Falso
+    
+      ✅ Correcto.
+
+
+2. El delimitador es un carácter que indica el principio o el fin de un elemento de datos. ¿La herramienta de división de texto en columnas utiliza un delimitador para realizar qué tarea?
+
+   - Dividir una columna en dos 
+    
+      ❌ Incorrecto.
+
+   - Separar subcadenas duplicadas
+    
+      ❌ Incorrecto. 
+
+   - Especificar dónde separar una cadena de texto
+    
+      ✅ Correcto.
+
+    - Cambiar el formato de una columna de texto 
+    
+      ❌ Incorrecto. 
+
+
+✅ Correcto.
+3. Para que una función funcione correctamente, el analista de datos debe seguir la estructura predeterminada de cada función. ¿Cómo se llama esa estructura?
+
+   - Algoritmo 
+    
+      ❌ Incorrecto.
+
+   - Sintaxis
+    
+      ❌ Incorrecto. 
+
+   - Resumen
+    
+      ❌ Incorrecto.
+
+    - Validación
+    
+      ❌ Incorrecto.
+
+
+✅ Correcto.
+4. Estás trabajando con la siguiente selección de una hoja de cálculo. ¿Cuál es la función correcta para extraer el código postal de cinco dígitos de Brandon, FL? 
+
+   - =LEFT(5,B4) 
+    
+      ❌ Incorrecto.
+
+   - =LEFT(B4,5)
+    
+      ❌ Incorrecto. 
+
+   - =RIGHT(5,B4)
+    
+      ❌ Incorrecto.
+
+    - =RIGHT(B4,5)
+    
+      ❌ Incorrecto. 
+
+
+✅ Correcto.
+5. El analista de datos de un departamento de recursos humanos está trabajando con la siguiente selección de una hoja de cálculo. Quiere crear números de identificación (ID) de empleados en la columna D. Los ID deben incluir el año de contratación y los últimos cuatro dígitos del Número de Seguro Social (SS#). ¿Qué función creará el ID 20142683 para el empleado en la fila 3?
+
+   - =CONCATENATE(A3+B3) 
+    
+      ❌ Incorrecto.
+
+   - =CONCATENATE(A3,B3)
+    
+      ❌ Incorrecto. 
+
+   - =CONCATENATE(A3!B3)
+    
+      ❌ Incorrecto.
+
+    - =CONCATENATE(A3*B3)
+    
+      ❌ Incorrecto.
+
+
+✅ Correcto.
+6. El analista de datos de una empresa de comercio electrónico está trabajando con una hoja de cálculo que contiene las ventas del último mes. El producto más caro que vende la empresa cuesta $49.99, así que quiere confirmar rápidamente que todos los datos de la columna Ventas sean $49.99 o inferiores. ¿Qué función puede usar?
+
+   - COUNTIF 
+    
+      ❌ Incorrecto.
+
+   - COUNT
+    
+      ❌ Incorrecto. 
+
+   - SUMIF
+    
+      ❌ Incorrecto.
+
+    - SUM
+    
+      ❌ Incorrecto. 
+
+
+✅ Correcto.
+7. VLOOKUP busca un valor en una fila y brinda la información correspondiente.
+
+   - Verdadero 
+    
+      ❌ Incorrecto.
+
+   - Falso
+    
+      ❌ Incorrecto. 
+
+
+✅ Correcto.
+8. Para evaluar el funcionamiento conjunto de dos o más fuentes de datos, los analistas de datos usan el mapeo de datos. 
+
+   - Verdadero 
+    
+      ❌ Incorrecto.
+
+   - Falso
+    
+      ❌ Incorrecto. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
