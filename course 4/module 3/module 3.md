@@ -454,10 +454,333 @@ ORDER BY country;
 
 ### Temario: 
 
-- A limpiarlos! 
-- Por qué es importante limpiar los datos
-- Por qué me encanta limpiar datos
-- ¿Qué son los datos sucios?
-- Reconocer y subsanar los datos sucios
-- Integridad de datos/datos limpios y sucios
-- Poner a prueba tus conocimientos sobre datos limpios versus sucios
+- Desafío semanal 3
+
+
+1. ¿Los analistas de datos eligen SQL por cuál de las siguientes razones? Selecciona todas las opciones que correspondan. 
+
+   - SQL es un programa de software muy potente
+    
+      ❌ Incorrecto.
+     
+   - SQL es un estándar muy conocido en la comunidad profesional
+    
+      ✅ Correcto. Los analistas de datos eligen SQL porque es un estándar muy conocido en la comunidad profesional. Además, SQL puede manejar grandes cantidades de datos. 
+
+   - SQL es un lenguaje de programación que también puede crear aplicaciones web 
+    
+      ❌ Incorrecto.
+
+    - SQL puede manejar grandes cantidades de datos  
+    
+      ✅ Correcto. Los analistas de datos eligen SQL porque es un estándar muy conocido en la comunidad profesional. Además, SQL puede manejar grandes cantidades de datos. 
+
+
+2. ¿En cuál de las siguientes situaciones un analista de datos usaría SQL en lugar de una hoja de cálculo? Selecciona todas las opciones que correspondan. 
+
+   - Al registrar consultas y cambios a lo largo de un proyecto
+    
+      ✅ Correcto. Un analista de datos usaría SQL en lugar de una hoja de cálculo para trabajar con una gran cantidad de datos. SQL también puede extraer rápidamente información de muchas fuentes diferentes en una base de datos y registrar consultas y cambios a lo largo de un proyecto.
+     
+   - Al usar la función COUNTIF para encontrar información específica
+    
+      ❌ Incorrecto.
+
+   - Cuando se extrae rápidamente información de muchas fuentes diferentes en una base de datos
+    
+      ✅ Correcto. Un analista de datos usaría SQL en lugar de una hoja de cálculo para trabajar con una gran cantidad de datos. SQL también puede extraer rápidamente información de muchas fuentes diferentes en una base de datos y registrar consultas y cambios a lo largo de un proyecto.
+
+    - Cuando trabaja con una gran cantidad de datos  
+    
+      ✅ Correcto. Un analista de datos usaría SQL en lugar de una hoja de cálculo para trabajar con una gran cantidad de datos. SQL también puede extraer rápidamente información de muchas fuentes diferentes en una base de datos y registrar consultas y cambios a lo largo de un proyecto.
+
+ 
+3. Un analista de datos crea muchas tablas nuevas en la base de datos de su empresa. Cuando el proyecto está terminado, el analista quiere eliminar las tablas para que no desordenen la base de datos. ¿Qué comandos SQL puede usar para eliminar las tablas? 
+
+   - DROP TABLE IF EXISTS 
+    
+      ✅ Correcto. El analista puede utilizar la consulta DROP TABLE IF EXISTS para eliminar las tablas para que no desordenen la base de datos. 
+     
+   - CREATE TABLE IF NOT EXISTS 
+    
+      ❌ Incorrecto.
+
+   - UPDATE 
+    
+      ❌ Incorrecto.
+
+    - INSERT INTO  
+    
+      ❌ Incorrecto.
+
+
+4. Estás trabajando con una tabla de la base de datos que contiene datos de facturas. La tabla incluye columnas para invoice_id y billing_state. Quieres eliminar las entradas duplicadas para el estado de facturación y ordenar los resultados por el ID de la factura.
+
+Escribe la consulta SQL a continuación. Añade una cláusula DISTINCT que elimine las entradas duplicadas de la columna billing_state.
+
+NOTA: Los tres puntos (...) indican dónde añadir la cláusula.
+
+```
+SELECT DISTINCT billing_state
+FROM invoice
+ORDER BY invoice_id;
+```
+
+```
++---------------+
+| billing_state |
++---------------+
+|          None |
+|            AB |
+|            MA |
+|        Dublin |
+|            CA |
+|            WA |
+|            NV |
+|            WI |
+|            NS |
+|           NSW |
+|            SP |
+|            NT |
+|            VV |
+|            RJ |
+|            DF |
+|            BC |
+|            AZ |
+|            ON |
+|            MB |
+|            RM |
+|            TX |
+|            UT |
+|            FL |
+|            IL |
+|            QC |
++---------------+
+(Output limit exceeded, 25 of 26 total rows shown)
+```
+
+¿Qué estado de facturación aparece en la fila 17 del resultado de la consulta?
+
+   - CA
+    
+      ❌ Incorrecto.
+     
+   - NV
+    
+      ❌ Incorrecto.
+
+   - WI
+    
+      ❌ Incorrecto.
+
+    - AZ 
+    
+      ✅ Correcto. La cláusula DISTINCT billing_state eliminará las entradas duplicadas de la columna billing_state. La consulta completa es SELECT DISTINCT billing_state FROM invoice ORDER BY invoice_id. La cláusula DISTINCT elimina las entradas duplicadas del resultado de la consulta. El estado de facturación AZ aparece en la fila 17 del resultado de la consulta.
+
+
+5. Estás trabajando con la tabla de una base de datos que contiene datos del cliente. La tabla incluye columnas sobre la ubicación del cliente, como city, state, country y postal_code. Quieres encontrar códigos postales con más de 7 caracteres.
+
+Escribe la consulta SQL a continuación. Añade una función LENGTH que mostrará los códigos postales que tengan más de 7 caracteres.
+
+```
+SELECT *
+FROM customer
+WHERE LENGTH(postal_code) > 7;
+```
+
+```
++-------------+------------+-----------+--------------------------------------------------+---------------------------------+---------------------+-------+----------------+-------------+--------------------+--------------------+-------------------------------+----------------+
+| customer_id | first_name | last_name | company                                          | address                         | city                | state | country        | postal_code | phone              | fax                | email                         | support_rep_id |
++-------------+------------+-----------+--------------------------------------------------+---------------------------------+---------------------+-------+----------------+-------------+--------------------+--------------------+-------------------------------+----------------+
+|           1 | Luís       | Gonçalves | Embraer - Empresa Brasileira de Aeronáutica S.A. | Av. Brigadeiro Faria Lima, 2170 | São José dos Campos | SP    | Brazil         | 12227-000   | +55 (12) 3923-5555 | +55 (12) 3923-5566 | luisg@embraer.com.br          |              3 |
+|          10 | Eduardo    | Martins   | Woodstock Discos                                 | Rua Dr. Falcão Filho, 155       | São Paulo           | SP    | Brazil         | 01007-010   | +55 (11) 3033-5446 | +55 (11) 3033-4564 | eduardo@woodstock.com.br      |              4 |
+|          11 | Alexandre  | Rocha     | Banco do Brasil S.A.                             | Av. Paulista, 2022              | São Paulo           | SP    | Brazil         | 01310-200   | +55 (11) 3055-3278 | +55 (11) 3055-8131 | alero@uol.com.br              |              5 |
+|          12 | Roberto    | Almeida   | Riotur                                           | Praça Pio X, 119                | Rio de Janeiro      | RJ    | Brazil         | 20040-020   | +55 (21) 2271-7000 | +55 (21) 2271-7070 | roberto.almeida@riotur.gov.br |              3 |
+|          13 | Fernanda   | Ramos     | None                                             | Qe 7 Bloco G                    | Brasília            | DF    | Brazil         | 71020-677   | +55 (61) 3363-5547 | +55 (61) 3363-7855 | fernadaramos4@uol.com.br      |              4 |
+|          16 | Frank      | Harris    | Google Inc.                                      | 1600 Amphitheatre Parkway       | Mountain View       | CA    | USA            | 94043-1351  | +1 (650) 253-0000  | +1 (650) 253-0000  | fharris@google.com            |              4 |
+|          17 | Jack       | Smith     | Microsoft Corporation                            | 1 Microsoft Way                 | Redmond             | WA    | USA            | 98052-8300  | +1 (425) 882-8080  | +1 (425) 882-8081  | jacksmith@microsoft.com       |              5 |
+|          18 | Michelle   | Brooks    | None                                             | 627 Broadway                    | New York            | NY    | USA            | 10012-2612  | +1 (212) 221-3546  | +1 (212) 221-4679  | michelleb@aol.com             |              3 |
+|          20 | Dan        | Miller    | None                                             | 541 Del Medio Avenue            | Mountain View       | CA    | USA            | 94040-111   | +1 (650) 644-3358  | None               | dmiller@comcast.com           |              4 |
+|          53 | Phil       | Hughes    | None                                             | 113 Lupus St                    | London              | None  | United Kingdom | SW1V 3EN    | +44 020 7976 5722  | None               | phil.hughes@gmail.com         |              3 |
++-------------+------------+-----------+--------------------------------------------------+---------------------------------+---------------------+-------+----------------+-------------+--------------------+--------------------+-------------------------------+----------------+
+```
+
+¿Cuál es el apellido del cliente que aparece en la fila 10 del resultado de la consulta?
+
+   - Rocha
+    
+      ❌ Incorrecto.
+     
+   - Ramos
+    
+      ❌ Incorrecto.
+
+   - Brooks
+    
+      ❌ Incorrecto.
+
+    - Hughes 
+    
+      ✅ Correcto. La función LENGTH(postal_code) > 7 mostrará los códigos postales que tengan más de 7 caracteres. La consulta completa es SELECT * FROM customer WHERE LENGTH(postal_code) > 7. La función LENGTH cuenta el número de caracteres que contiene una cadena. Hughes es el apellido del cliente que aparece en la fila 10 del resultado de la consulta.
+
+
+6. En las bases de datos SQL, ¿qué tipo de datos se refiere a un número que contiene un decimal? 
+
+   - Cadena
+    
+      ❌ Incorrecto.
+     
+   - Booleano
+    
+      ❌ Incorrecto.
+
+   - Entero
+    
+      ❌ Incorrecto.
+
+    - Flotante 
+    
+      ✅ Correcto. En las bases de datos SQL, el tipo de datos flotante se refiere a un número que contiene un decimal. 
+
+
+7. Un analista de datos está trabajando con datos de ventas de productos. Importa nuevos datos a una base de datos. La base de datos reconoce los datos del precio del producto como cadenas de texto. ¿Qué función SQL puede usar el analista para convertir las cadenas de texto en flotantes? 
+
+   - CAST
+    
+      ✅ Correcto. El analista puede usar la función CAST para convertir cadenas de texto en flotantes.
+     
+   - SUBSTR
+    
+      ❌ Incorrecto.
+
+   - TRIM
+    
+      ❌ Incorrecto.
+
+    - LENGTH 
+    
+      ❌ Incorrecto.
+
+
+8. Completa el espacio en blanco: La función ______ puede usarse para mostrar valores que no son nulos en una lista.
+
+   - CAST 
+    
+      ❌ Incorrecto.
+     
+   - COALESCE
+    
+      ✅ Correcto. La función COALESCE puede usarse para mostrar valores que no son nulos en una lista.
+
+   - CONCAT
+    
+      ❌ Incorrecto.
+
+    - TRIM 
+    
+      ❌ Incorrecto.
+
+
+9. Estás trabajando con una tabla de la base de datos que contiene datos de facturas. La tabla incluye columnas sobre la ubicación de la facturación, como billing_city, billing_statey  billing_country. Quieres recuperar las 4 primeras letras del nombre de cada ciudad. Decides utilizar la función SUBSTR para recuperar las 4 primeras letras del nombre de cada ciudad y usar el comando AS para almacenar el resultado en una nueva columna llamada new_city.
+
+Escribe la consulta SQL a continuación. Añade una instrucción a tu consulta SQL que recupere las 4 primeras letras del nombre de cada ciudad y almacene el resultado en una nueva columna como new_city.
+
+NOTA: Los tres puntos (...) indican dónde añadir la instrucción.
+
+```
+SELECT 
+    invoice_id,
+    SUBSTR(billing_city, 1, 4) AS new_city
+FROM invoice
+ORDER BY billing_city;
+   
+```
+
+```
++------------+----------+
+| invoice_id | new_city |
++------------+----------+
+|         32 | Amst     |
+|        161 | Amst     |
+|        184 | Amst     |
+|        206 | Amst     |
+|        258 | Amst     |
+|        379 | Amst     |
+|        390 | Amst     |
+|         23 | Bang     |
+|         45 | Bang     |
+|         97 | Bang     |
+|        218 | Bang     |
+|        229 | Bang     |
+|        284 | Bang     |
+|          7 | Berl     |
+|         29 | Berl     |
+|         30 | Berl     |
+|         40 | Berl     |
+|         52 | Berl     |
+|         95 | Berl     |
+|        104 | Berl     |
+|        224 | Berl     |
+|        225 | Berl     |
+|        236 | Berl     |
+|        247 | Berl     |
+|        269 | Berl     |
++------------+----------+
+(Output limit exceeded, 25 of 412 total rows shown)
+```
+
+¿Qué número de identificación de factura aparece en la fila 7 del resultado de la consulta?
+
+   - 97
+    
+      ❌ Incorrecto.
+     
+   - 390
+    
+      ✅ Correcto. La instrucción SUBSTR(billing_city, 1, 4) AS new_city recuperará las 4 primeras letras del nombre de cada ciudad y almacenará el resultado en una nueva columna como new_city. La consulta completa es SELECT invoice_id, SUBSTR(billing_city, 1, 4) AS new_city FROM invoice ORDER BY billing_city. La función SUBSTR extrae una subcadena de una cadena. Esta función indica a la base de datos que devuelva 4 caracteres de cada ciudad de facturación, empezando por el primero. El número de identificación de factura 390 aparece en la fila 7 del resultado de la consulta.
+
+   - 206
+    
+      ❌ Incorrecto.
+
+    - 23 
+    
+      ❌ Incorrecto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
