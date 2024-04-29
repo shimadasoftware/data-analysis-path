@@ -720,7 +720,7 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
 
    - Falso
     
-      ✅ Correcto.
+      ✅ Correcto. Resaltar celdas vacías con un color azul brillante es un ejemplo de formato condicional.
 
 
 2. El delimitador es un carácter que indica el principio o el fin de un elemento de datos. ¿La herramienta de división de texto en columnas utiliza un delimitador para realizar qué tarea?
@@ -735,14 +735,13 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
 
    - Especificar dónde separar una cadena de texto
     
-      ✅ Correcto.
+      ✅ Correcto. La herramienta de división de texto en columnas usa un delimitador para especificar dónde separar una cadena de texto.
 
     - Cambiar el formato de una columna de texto 
     
       ❌ Incorrecto. 
 
 
-✅ Correcto.
 3. Para que una función funcione correctamente, el analista de datos debe seguir la estructura predeterminada de cada función. ¿Cómo se llama esa estructura?
 
    - Algoritmo 
@@ -751,7 +750,7 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
 
    - Sintaxis
     
-      ❌ Incorrecto. 
+      ✅ Correcto. Esa estructura se llama sintaxis. La sintaxis es una estructura predeterminada que incluye toda la información requerida y su ubicación adecuada.
 
    - Resumen
     
@@ -762,8 +761,9 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
       ❌ Incorrecto.
 
 
-✅ Correcto.
 4. Estás trabajando con la siguiente selección de una hoja de cálculo. ¿Cuál es la función correcta para extraer el código postal de cinco dígitos de Brandon, FL? 
+
+![image](./img/module%2001%20img%2004.png)
 
    - =LEFT(5,B4) 
     
@@ -779,11 +779,12 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
 
     - =RIGHT(B4,5)
     
-      ❌ Incorrecto. 
+      ✅ Correcto. La sintaxis correcta es =RIGHT(B4,5). La función RIGHT arroja un número establecido de caracteres a la derecha de una cadena de texto. B4 es la celda especificada. Y 5 es el número de caracteres que debe arrojar.
 
 
-✅ Correcto.
 5. El analista de datos de un departamento de recursos humanos está trabajando con la siguiente selección de una hoja de cálculo. Quiere crear números de identificación (ID) de empleados en la columna D. Los ID deben incluir el año de contratación y los últimos cuatro dígitos del Número de Seguro Social (SS#). ¿Qué función creará el ID 20142683 para el empleado en la fila 3?
+
+![image](./img/module%2001%20img%2005.png)
 
    - =CONCATENATE(A3+B3) 
     
@@ -791,7 +792,7 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
 
    - =CONCATENATE(A3,B3)
     
-      ❌ Incorrecto. 
+      ✅ Correcto. Para crear el ID 20142683 para el empleado en la fila 3, la función es =CONCATENATE(A3,B3). CONCATENATE une dos o más cadenas de texto. (A3,B3) son las ubicaciones de las cadenas que se unirán.
 
    - =CONCATENATE(A3!B3)
     
@@ -802,12 +803,11 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
       ❌ Incorrecto.
 
 
-✅ Correcto.
 6. El analista de datos de una empresa de comercio electrónico está trabajando con una hoja de cálculo que contiene las ventas del último mes. El producto más caro que vende la empresa cuesta $49.99, así que quiere confirmar rápidamente que todos los datos de la columna Ventas sean $49.99 o inferiores. ¿Qué función puede usar?
 
    - COUNTIF 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Puede usar COUNTIF, que es una función que muestra el número de celdas que coinciden con un valor o parámetro especificado.
 
    - COUNT
     
@@ -822,127 +822,158 @@ En resumen, el mapeo de datos es una parte crucial del proceso de limpieza de da
       ❌ Incorrecto. 
 
 
-✅ Correcto.
 7. VLOOKUP busca un valor en una fila y brinda la información correspondiente.
 
    - Verdadero 
     
-      ❌ Incorrecto.
+      ❌ Incorrecto. 
 
    - Falso
     
-      ❌ Incorrecto. 
+      ✅ Correcto. VLOOKUP busca un valor en una columna y brinda la información correspondiente.
 
 
-✅ Correcto.
 8. Para evaluar el funcionamiento conjunto de dos o más fuentes de datos, los analistas de datos usan el mapeo de datos. 
 
    - Verdadero 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para evaluar el funcionamiento conjunto de dos o más fuentes de datos, los analistas de datos usan el mapeo de datos. 
 
    - Falso
     
       ❌ Incorrecto. 
 
 
+9. Completa el espacio en blanco: El formato condicional es una herramienta de la hoja de cálculo que cambia la forma en que _____ las celdas cuando los valores cumplen con una condición específica. 
 
+   - celdas 
+    
+      ✅ Correcto. El formato condicional es una herramienta de la hoja de cálculo que cambia la forma en que aparecen las celdas cuando los valores cumplen con una condición específica. 
 
+   - consultas
+    
+      ❌ Incorrecto. 
 
+   - filtros
+    
+      ❌ Incorrecto. 
 
+    - gráficos
+    
+      ❌ Incorrecto. 
 
 
+10. Un analista de datos usa la función SPLIT para dividir una cadena de texto en un carácter especificado y colocar cada fragmento en una celda nueva, aparte. ¿Cómo se llama el carácter especificado que separa cada elemento?
 
+   - Unidad 
+    
+      ❌ Incorrecto.
 
+   - Subcadena
+    
+      ❌ Incorrecto. 
 
+   - Delimitador
+    
+      ✅ Correcto. Cuando se usa la función SPLIT, el carácter especificado que separa cada elemento se llama delimitador.
 
+    - Partición
+    
+      ❌ Incorrecto. 
 
 
+11. Un analista está limpiando un nuevo conjunto de datos que contiene 500 filas. Quiere asegurarse de que los datos desde la celda B2 hasta la celda B300 no contengan un número superior a 50. ¿Cuáles de las siguientes sintaxis de la función COUNTIF podrían usarse para responder a esa cuestión? Selecciona todas las opciones que correspondan.
 
+   - =COUNTIF(B2:B300,>50) 
+    
+      ❌ Incorrecto. 
 
+   - =COUNTIF(B2:B300,”<=50”)
+    
+      ✅ Correcto. Una sintaxis posible es =COUNTIF(B2:B300,">50"). Indica el número de celdas que son superiores a 50. Otra opción es =COUNTIF(B2:B300,"<=50"). Indica el número de celdas que son inferiores o iguales a 50. Cualquiera de ellas puede confirmar que los datos no contengan un número superior a 50. 
 
+   - =COUNTIF(B2:B300,">50")
+    
+      ✅ Correcto. Una sintaxis posible es =COUNTIF(B2:B300,">50"). Indica el número de celdas que son superiores a 50. Otra opción es =COUNTIF(B2:B300,"<=50"). Indica el número de celdas que son inferiores o iguales a 50. Cualquiera de ellas puede confirmar que los datos no contengan un número superior a 50. 
 
+    - =COUNTIF(B2:B300,<=50)
+    
+      ❌ Incorrecto.
 
 
+12. Un analista de datos necesita combinar dos conjuntos de datos. Cada conjunto de datos proviene de un sistema diferente, y los sistemas almacenan los datos de diferentes maneras. ¿Qué puede hacer el analista de datos para garantizar que los datos sean compatibles?
 
+   - Fusionar los datos    
+    
+      ❌ Incorrecto.
 
+   - Mapear los datos
+    
+      ✅ Correcto. Los analistas de datos usan el mapeo de datos para observar las diferencias en las fuentes de datos con el fin de asegurarse de que los datos sean compatibles.
 
+   - Usar una visualización de datos
+    
+      ❌ Incorrecto.
 
+    - Aplicar una estructura de datos
+    
+      ❌ Incorrecto. 
 
 
 
+13. El formato condicional es una herramienta de la hoja de cálculo que cambia la forma en que aparecen las celdas cuando los valores cumplen con una condición específica. ¿Los analistas de datos pueden usar el formato condicional para hacer cuál o cuáles de las siguientes tareas? Selecciona todas las opciones que correspondan. 
 
+   - Resaltar celdas para lograr un análisis más eficaz 
+    
+      ✅ Correcto. Los analistas de datos usan el formato condicional para identificar celdas en blanco o información faltante y para resaltar celdas para lograr un análisis más eficaz.
 
+   - Clasificar datos en series de celdas en un orden significativo
+    
+      ❌ Incorrecto. 
 
+   - Identificar celdas en blanco o información faltante
+    
+      ✅ Correcto. Los analistas de datos usan el formato condicional para identificar celdas en blanco o información faltante y para resaltar celdas para lograr un análisis más eficaz.
 
+    - Calcular ecuaciones matemáticas
+    
+      ❌ Incorrecto. 
 
 
+14. Un analista de datos desea buscar cierto valor en una columna y obtener la información correspondiente. ¿Qué función debe usar?
 
+   - VLOOKUP    
+    
+      ✅ Correcto. VLOOKUP se usa para buscar cierto valor en una columna y luego obtener la información correspondiente.
 
+   - VALUE
+    
+      ❌ Incorrecto. 
 
+   - FIND
+    
+      ❌ Incorrecto.
 
+    - MATCH
+    
+      ❌ Incorrecto. 
 
 
+15. Completa el espacio en blanco: El mapeo de datos es el proceso de _____ campos entre una fuente de datos y otra.
 
+   - vincular    
+    
+      ❌ Incorrecto.
 
+   - hacer coincidir
+    
+      ✅ Correcto. El mapeo de datos es el proceso de hacer coincidir campos entre una fuente de datos y otra.
 
+   - extraer
+    
+      ❌ Incorrecto.
 
+    - combinar
+    
+      ❌ Incorrecto. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
