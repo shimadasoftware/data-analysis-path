@@ -126,6 +126,68 @@ Puede que no necesites conocer todos los dialectos de SQL, pero es útil saber q
 ### Cuestionario: Pon a prueba tus conocimientos sobre SQL 📖
 
 
+1. ¿Cuáles de los siguientes son los beneficios de usar SQL? Selecciona todas las opciones que correspondan. 
+
+   - SQL ofrece potentes herramientas para la limpieza de datos. 
+    
+      ✅ Correcto. SQL puede manejar grandes cantidades de datos, puede ser adaptado y usado con múltiples programas de bases de datos, y ofrece potentes herramientas para la limpieza de datos.
+
+   - SQL puede manejar grandes cantidades de datos.
+    
+      ✅ Correcto. SQL puede manejar grandes cantidades de datos, puede ser adaptado y usado con múltiples programas de bases de datos, y ofrece potentes herramientas para la limpieza de datos.
+
+   - Se puede utilizar SQL para programar microprocesadores en servidores de bases de datos.
+    
+      ❌ Incorrecto.
+
+    - Se puede adaptar y utilizar SQL con múltiples programas de bases de datos. 
+    
+      ✅ Correcto. SQL puede manejar grandes cantidades de datos, puede ser adaptado y usado con múltiples programas de bases de datos, y ofrece potentes herramientas para la limpieza de datos.
+
+
+2. ¿Cuál de las siguientes tareas pueden realizar los analistas de datos utilizando tanto hojas de cálculo como SQL? Selecciona todas las opciones que correspondan. 
+
+   - Realizar operaciones aritméticas   
+    
+      ✅ Correcto. Los analistas pueden usar SQL y hojas de cálculo para realizar operaciones aritméticas, usar fórmulas y unir datos.
+
+   - Unir datos  
+    
+      ✅ Correcto. Los analistas pueden usar SQL y hojas de cálculo para realizar operaciones aritméticas, usar fórmulas y unir datos.
+ 
+   - Usar fórmulas
+    
+      ✅ Correcto. Los analistas pueden usar SQL y hojas de cálculo para realizar operaciones aritméticas, usar fórmulas y unir datos.
+
+    - Procesar grandes cantidades de datos de forma eficiente 
+    
+      ❌ Incorrecto.
+
+
+3. SQL es un lenguaje que se usa para comunicarse con las bases de datos. Como la mayoría de los lenguajes, SQL tiene dialectos. ¿Cuáles son las ventajas de aprender y usar el SQL estándar? Selecciona todas las opciones que correspondan. 
+
+   - Las bases de datos traducen automáticamente el SQL estándar a otros dialectos. 
+    
+      ❌ Incorrecto.
+
+   - El SQL estándar requiere un pequeño número de cambios de sintaxis para adaptarse a otros dialectos.
+    
+      ✅ Correcto. El SQL estándar funciona con la mayoría de las bases de datos y requiere un pequeño número de cambios sintácticos para adaptarse a otros dialectos. 
+
+   - El SQL estándar es mucho más fácil de aprender que otros dialectos.
+    
+      ❌ Incorrecto.
+
+    - El SQL estándar funciona con la mayoría de las bases de datos.
+    
+      ✅ Correcto. El SQL estándar funciona con la mayoría de las bases de datos y requiere un pequeño número de cambios sintácticos para adaptarse a otros dialectos. 
+
+
+
+
+
+
+
 
 
 ---
