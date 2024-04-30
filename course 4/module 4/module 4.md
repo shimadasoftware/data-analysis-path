@@ -1,3 +1,25 @@
+# <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 4: Verificar e informar los resultados de tu limpieza de datos
+
+**©** Copyright es reservado para la plataforma Google y Coursera.
+
+[![Tiempo](https://img.shields.io/badge/Tiempo-120%20minutos-blue.svg)](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+
+Limpiar tus datos es un paso esencial en el proceso de análisis de datos. Verificar e informar la limpieza de datos que realizaste es una forma de mostrar que los datos están listos para el próximo paso. En esta parte del curso, descubrirás los procesos relacionados con la verificación y la creación de informes sobre la limpieza de datos, así como sus beneficios.
+
+## Objetivos
+
+- Describir el proceso implicado en la verificación de los resultados de la limpieza de datos
+- Describir qué implica la limpieza de datos manual
+- Describir los elementos y la importancia de los informes sobre limpieza de datos
+- Describir los beneficios de documentar el proceso de limpieza de datos
+
+Este primer modulo se divide en:
+
+1. Limpiar datos manualmente
+2. Documenta los resultados y el proceso de limpieza
+3. Desafio semanal 4
+
+
 ---
 
 ## 1. Limpiar datos manualmente 🙋🏻‍♀️ 
@@ -84,7 +106,6 @@
       ❌ Incorrecto.
 
 
-
 ---
 
 ## 2. Documenta los resultados y el proceso de limpieza 🙋🏻‍♀️ 
@@ -153,15 +174,9 @@
       ✅ Correcto. Documentar la limpieza de datos posibilita la transparencia en tu proceso, mantiene a los miembros del equipo informados y demuestra a los interesados del proyecto que eres responsable.
 
 
-
-      
-
-
-
-
 ---
 
-## 2. Documenta los resultados y el proceso de limpieza 🙋🏻‍♀️ 
+## 3. Desafio semanal 4 🙋🏻‍♀️ 
 
 ### Temario: 
 
