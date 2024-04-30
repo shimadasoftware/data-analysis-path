@@ -535,6 +535,275 @@ Felicitaciones, llegaste al final de este curso. Eso significa que es momento de
 
 ### Desafío del curso 📖
 
+**Escenario 1, preguntas 1-5**
+
+Estás trabajando como analista de datos en una empresa pequeña de analítica. Tu empresa organiza una reunión inicial para comentar un proyecto con un cliente nuevo, Meer-Kitty Diseño de Interiores. Los objetivos de la agenda incluyen revisar las metas del año, responder preguntas y charlar sobre sus datos disponibles. 
+
+Antes de la reunión, vuelves a leer la pestaña Acerca de nosotros en su sitio web y también revisas su plan de negocio, cuyos enlaces son los siguientes:
+
+Meer-Kitty Diseño de Interiores tiene dos objetivos. Quieren ampliar su audiencia en línea, es decir, que la mayor cantidad posible de personas conozcan la empresa y la marca. También quiere lanzar una línea de pinturas de alta calidad para interiores para que se venda en tiendas y en línea. Primero que nada, decides analizar los datos sobre pinturas de interiores. 
+
+Para usar la plantilla de opiniones de la encuesta, haz clic en el enlace de abajo y selecciona Usar plantilla.
+
+Enlace a la plantilla: [Opiniones de la encuesta de Kitty](https://docs.google.com/spreadsheets/d/1RyMfqJlBpaDUN7o9HfYSpv2lVWk7SEf2Rn_mk427c-Q/template/preview) O Si no tienes una cuenta de Google, puedes descargar el archivo haciendo clic en el siguiente archivo adjunto.
+
+Cuando ingresas a la pestaña de opiniones de la encuesta de Meer-Kitty, afortunadamente ves que los datos disponibles están en línea con el objetivo de negocio. Sin embargo, cuando investigas un poco sobre el nivel de confianza para este tipo de encuesta, notas que necesitas al menos 120 respuestas distintas para que los resultados de la encuesta sean útiles. En este caso, el conjunto de datos tiene dos limitaciones: En primer lugar, hay solo 40 respuestas; además, un fanático de Meer-Kitty, el usuario 588, completó la encuesta 11 veces. 
+
+Como la encuesta tiene muy pocas respuestas y muchos duplicados que desvían los resultados, ¿qué opciones tienes? Selecciona todas las opciones que correspondan.
+
+✅ Correcto.
+1. Como la encuesta tiene muy pocas respuestas y muchos duplicados que desvían los resultados, ¿qué opciones tienes? Selecciona todas las opciones que correspondan
+
+   - Charlar con los interesados y pedir mas tiempo.   
+    
+      ❌ Incorrecto.
+
+   - Encontrar otro conjunto de datos sobre pintura de interiores. 
+    
+      ❌ Incorrecto.
+ 
+   - Eliminar los duplicados de los datos y llevar a cabo el analisis.
+    
+      ❌ Incorrecto.
+
+    - Repetir la encuesta para crear un conjunto de datos nuevo y mejorado.
+    
+      ❌ Incorrecto.
+
+
+**Escenario 1, continuación**
+
+Durante la reunión, también te enteras de que hay videos alojados en el sitio web de Meer-Kitty. Para cada producto que ofrecen, hay un video que les brinda a los clientes más información. Cuantas más vistas tiene un video, más interés hay por parte de los consumidores. 
+
+Tu objetivo es detectar cuáles son los videos más populares, de modo que Meer-Kitty sepa qué temas explorar en el futuro. Lamentablemente, Meer-Kitty solo tiene tres meses de datos disponibles porque lanzaron los videos en el sitio web hace poco. 
+
+2. Sin datos suficientes para detectar tendencias a largo plazo sobre los temas que las personas quieren ver en los videos, ¿qué opciones tienes? Selecciona todas las opciones que correspondan.
+
+   - Encontrar una fuente alternativa de datos que te permita cumplir tu objetivo.  
+    
+      ❌ Incorrecto.
+
+   - Pedir que esperen a tener más datos y brindarle a Meer-Kitty un cronograma actualizado.
+    
+      ❌ Incorrecto.
+ 
+   - Avanzar con los datos que ya tienes y determinar así los temas más populares de los videos.
+    
+      ❌ Incorrecto.
+
+   - Conversar con los interesados de Meer-Kitty y pedirles que adapten el objetivo. 
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+**Escenario 1, continuación**
+
+Ahora que descubriste algunas de las limitaciones de los datos de Meer-Kitty, quieres conversar con los interesados sobre lo que te preocupa. Además de que no tienes datos suficientes sobre las tendencias de los videos, tu mayor preocupación respecto de la encuesta sobre pintura de interior tiene que ver con que los datos no representan a la población en su totalidad. 
+
+Está claro que uno de los encuestados, el fanático, está sobrerrepresentado. Esto significa que los datos no representan a la población en su totalidad.
+
+3. Cuando, a futuro, se hagan encuestas para Meer-Kitty, ¿cuáles son algunas de las mejores prácticas que puedes establecer para abordar problemas respecto del sesgo del muestreo? Selecciona todas las opciones que correspondan.
+
+   - Usar un muestreo aleatorio
+    
+      ❌ Incorrecto.
+
+   - Aumentar el tamaño de la muestra
+    
+      ❌ Incorrecto.
+ 
+   - Usar datos de una sola fuente
+    
+      ❌ Incorrecto.
+
+   - Usar datos que se sigan actualizando
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+**Escenario 1, continuación**
+
+Los interesados entienden tu preocupación y están de acuerdo en repetir la encuesta sobre pintura de interior. En unas pocas semanas, tienes un conjunto de datos mucho mejor, con más de 150 respuestas y ningún duplicado. 
+
+Para usar la plantilla de opiniones de la encuesta, haz clic en el enlace de abajo y selecciona Usar plantilla.
+
+Enlace a la plantilla: 
+[Opiniones de la encuesta de Kitty](https://docs.google.com/spreadsheets/d/1RyMfqJlBpaDUN7o9HfYSpv2lVWk7SEf2Rn_mk427c-Q/template/preview) O Si no tienes una cuenta de Google, puedes descargar el archivo haciendo clic en el siguiente archivo adjunto.
+
+Si estás usando la plantilla, consulta la pestaña de nuevas opiniones de la encuesta de Meer-Kitty. Notas que las preguntas 4 y 5 dependen de la respuesta a la pregunta 3. Así que debes determinar cuántas personas respondieron Sí a la pregunta 3 y luego comparar esa cifra con las respuestas a las preguntas 4 y 5. Así, podrás saber si las preguntas 4 y 5 tienen algún resultado nulo.
+
+4. Decides usar una herramienta de hoja de cálculo que modifica la forma en que ves las celdas cuando contienen la palabra Sí. Cuando usas esta herramienta, ¿qué es la palabra Sí?
+
+   - El valor en un rango CONCATENATE
+    
+      ❌ Incorrecto.
+
+   - El valor en una regla de formato condicional
+    
+      ❌ Incorrecto.
+ 
+   - El valor en un enunciado VLOOKUP
+    
+      ❌ Incorrecto.
+
+   - El valor en un rango COUNTA
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 1, continuación**
+
+Sigues limpiando los datos. Usas herramientas como quitar duplicados y COUNTIF para garantizar que el conjunto de datos esté completo y que sea correcto y pertinente para el problema que intentas resolver. Luego, completas el proceso de verificación y creación de informes para compartir con tu equipo los detalles de la limpieza de datos que hiciste. 
+
+Durante la revisión, tu equipo nota que uno de los aspectos de la limpieza de datos podría mejorar el conjunto de datos aún más. Te indican que la nueva encuesta también tiene una nueva pregunta en la Columna G: “¿Cuáles son tus colores favoritos para pintura de interior?” Esta pregunta es de respuesta libre, así que los participantes escribieron sus respuestas. Algunas personas incluyeron más de un color de pintura. Para determinar cuáles son los colores más populares, será necesario poner cada color en una celda.
+
+5. ¿Qué función de la hoja de cálculo te permite poner cada uno de los colores de la Columna G en una celda nueva, por separado?
+
+   - SPLIT
+    
+      ❌ Incorrecto.
+
+   - MID
+    
+      ❌ Incorrecto.
+ 
+   - Dividir
+    
+      ❌ Incorrecto.
+
+   - Delimitar
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 2, preguntas 6-10**
+
+Ya finalizaste este programa y estás haciendo entrevistas para un puesto de científico de datos junior. El puesto es en la empresa B. Spoke Market Research, que analiza las condiciones del mercado usando encuestas de clientes y otros métodos de investigación. A continuación, encontrarás la descripción detallada del trabajo:
+
+Hasta ahora, tuviste una entrevista por teléfono con un reclutador y te aseguraste una segunda entrevista con el equipo de B. Spoke. A continuación, puedes ver el correo electrónico del reclutador:
+
+Llegas a la entrevista 15 minutos antes. Enseguida, te acompañan hasta una sala de conferencias, donde conoces a Jodie Choi, la directora de ciencia de datos. Después de darte la bienvenida, comienza la entrevista conductual. 
+
+Para tu primera pregunta, la entrevistadora quiere saber más acerca de tu experiencia con hojas de cálculo. Te dice: Algunas veces, el equipo necesita datos alojados en distintas hojas de cálculo. Así que usamos las funciones de la hoja de cálculo para encontrar la información que necesitamos.
+
+6. ¿Qué función usarías para buscar cierto valor en una columna de la hoja de cálculo y obtener la información correspondiente?
+
+   - COUNTIF
+    
+      ❌ Incorrecto.
+
+   - VLOOKUP 
+    
+      ❌ Incorrecto.
+ 
+   - SEARCH
+    
+      ❌ Incorrecto.
+
+   - RETURN
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 2, continuación**
+
+Ahora, la entrevistadora quiere ahondar en tu conocimiento sobre las herramientas que funcionan tanto en las hojas de cálculo como en SQL. Te explica que, a veces, los datos que recibe el equipo de las encuestas de los clientes tienen entradas duplicadas. 
+
+7. Te dice: Las hojas de cálculo tienen una herramienta muy útil que se llama quitar duplicados. En SQL, puedes usar DISTINCT para hacer lo mismo. ¿En qué parte del enunciado de SQL debes incluir DISTINCT?
+
+   - El enunciado FROM
+    
+      ❌ Incorrecto.
+
+   - El enunciado SELECT 
+    
+      ❌ Incorrecto.
+ 
+   - El enunciado WHERE
+    
+      ❌ Incorrecto.
+
+   - El enunciado UPDATE
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 2, continuación**
+
+Ahora, la entrevistadora te explica que el equipo de datos suele trabajar con grandes cantidades de datos de encuestas del cliente. Después de recibir los datos, los importan a una tabla de SQL. Pero, a veces, el nuevo conjunto de datos se importa de forma errónea y es necesario cambiarle el formato. 
+
+8. Pregunta: ¿Existe una función de SQL que puede convertir tipos de datos como moneda, fecha y horario en una tabla de SQL?
+
+   - Sí, los tipos de datos, incluidos los horarios, las fechas y las monedas, pueden convertirse. 
+    
+      ❌ Incorrecto.
+
+   - No, solo se puede convertir la moneda.
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 2, continuación**
+
+Ahora, la entrevistadora te explica que uno de sus clientes es un minorista en línea que necesita crear números de producto para un inventario muy grande. Su equipo lo hace combinando las cadenas de texto para número de producto, fecha de fabricación y color. 
+
+9. Pregunta: Si se presentara la situación en que deseas agregar cadenas juntas para crear nuevas cadenas de texto, ¿qué función de SQL usarías?
+
+   - COALESCE
+    
+      ❌ Incorrecto.
+
+   - CONCAT 
+    
+      ❌ Incorrecto.
+ 
+   - COMBINE
+    
+      ❌ Incorrecto.
+
+   - CREATE
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
+
+**Escenario 2, continuación**
+
+Para tu pregunta final, la entrevistadora te explica que, por lo general, su equipo tiene que usar datos con espacios extra al principio o al final. 
+
+10 Pregunta: ¿Qué función de SQL te permite eliminar esos espacios extra para que haya uniformidad?
+
+   - LENGTH
+    
+      ❌ Incorrecto.
+
+   - SUBSTR 
+    
+      ❌ Incorrecto.
+ 
+   - LEN
+    
+      ❌ Incorrecto.
+
+   - TRIM
+    
+      ❌ Incorrecto.
+
+✅ Correcto.
+
 
 ### Felicidades 🎬
 
