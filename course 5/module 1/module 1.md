@@ -1,4 +1,4 @@
-# <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 2: Organizar los datos para iniciar el análisis
+# <img src="https://github.com/shimadasoftware/data-analysis-path/assets/73977456/9dfa6ce6-b8d0-44d0-b472-74f530bd4728" alt="Italian Trulli" style="width:25px;height:25px;"> Módulo 1: Organizar los datos para iniciar el análisis
 
 **©** Copyright es reservado para la plataforma Google y Coursera.
 
