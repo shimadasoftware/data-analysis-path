@@ -262,7 +262,7 @@
 
    - Divulgación
     
-      ❌ Incorrecto.
+      ❌ Incorrecto. 
 
    - Documentación
     
