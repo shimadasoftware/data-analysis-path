@@ -551,12 +551,12 @@ Cuando ingresas a la pestaña de opiniones de la encuesta de Meer-Kitty, afortun
 
 Como la encuesta tiene muy pocas respuestas y muchos duplicados que desvían los resultados, ¿qué opciones tienes? Selecciona todas las opciones que correspondan.
 
-✅ Correcto.
+
 1. Como la encuesta tiene muy pocas respuestas y muchos duplicados que desvían los resultados, ¿qué opciones tienes? Selecciona todas las opciones que correspondan
 
    - Charlar con los interesados y pedir mas tiempo.   
     
-      ❌ Incorrecto.
+      ✅ Correcto. Con tantos duplicados, la mejor opción es charlar con los interesados y pedir más tiempo. Luego, puedes repetir la encuesta para crear un conjunto de datos nuevo y mejorado.
 
    - Encontrar otro conjunto de datos sobre pintura de interiores. 
     
@@ -568,7 +568,7 @@ Como la encuesta tiene muy pocas respuestas y muchos duplicados que desvían los
 
     - Repetir la encuesta para crear un conjunto de datos nuevo y mejorado.
     
-      ❌ Incorrecto.
+      ✅ Correcto.
 
 
 **Escenario 1, continuación**
@@ -581,11 +581,11 @@ Tu objetivo es detectar cuáles son los videos más populares, de modo que Meer-
 
    - Encontrar una fuente alternativa de datos que te permita cumplir tu objetivo.  
     
-      ❌ Incorrecto.
+      ✅ Correcto. Sin datos suficientes para detectar tendencias a largo plazo, una opción es conversar con los interesados y pedirles que adapten el objetivo. También podrías pedirles que esperaran a tener más datos y brindarles un cronograma actualizado. Otra opción sería encontrar una fuente alternativa de datos que te permitiera cumplir tu objetivo.
 
    - Pedir que esperen a tener más datos y brindarle a Meer-Kitty un cronograma actualizado.
     
-      ❌ Incorrecto.
+      ✅ Correcto. Sin datos suficientes para detectar tendencias a largo plazo, una opción es conversar con los interesados y pedirles que adapten el objetivo. También podrías pedirles que esperaran a tener más datos y brindarles un cronograma actualizado. Otra opción sería encontrar una fuente alternativa de datos que te permitiera cumplir tu objetivo.
  
    - Avanzar con los datos que ya tienes y determinar así los temas más populares de los videos.
     
@@ -593,9 +593,9 @@ Tu objetivo es detectar cuáles son los videos más populares, de modo que Meer-
 
    - Conversar con los interesados de Meer-Kitty y pedirles que adapten el objetivo. 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Sin datos suficientes para detectar tendencias a largo plazo, una opción es conversar con los interesados y pedirles que adapten el objetivo. También podrías pedirles que esperaran a tener más datos y brindarles un cronograma actualizado. Otra opción sería encontrar una fuente alternativa de datos que te permitiera cumplir tu objetivo.
 
-✅ Correcto.
+
 
 **Escenario 1, continuación**
 
@@ -607,11 +607,11 @@ Está claro que uno de los encuestados, el fanático, está sobrerrepresentado. 
 
    - Usar un muestreo aleatorio
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para abordar algunos de los problemas respecto del sesgo del muestreo, es bueno usar un muestreo aleatorio de una población de manera que todos los tipos de muestra tengan las mismas chances de ser elegidos. Además, si aumentas el tamaño de la muestra, hay más probabilidades de encuestar a una parte de la población que la represente en su totalidad.
 
    - Aumentar el tamaño de la muestra
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para abordar algunos de los problemas respecto del sesgo del muestreo, es bueno usar un muestreo aleatorio de una población de manera que todos los tipos de muestra tengan las mismas chances de ser elegidos. Además, si aumentas el tamaño de la muestra, hay más probabilidades de encuestar a una parte de la población que la represente en su totalidad.
  
    - Usar datos de una sola fuente
     
@@ -621,7 +621,6 @@ Está claro que uno de los encuestados, el fanático, está sobrerrepresentado. 
     
       ❌ Incorrecto.
 
-✅ Correcto.
 
 **Escenario 1, continuación**
 
@@ -642,7 +641,7 @@ Si estás usando la plantilla, consulta la pestaña de nuevas opiniones de la en
 
    - El valor en una regla de formato condicional
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para modificar la forma en que aparecen las celdas cuando cumplen con cierto valor, usa el formato condicional. 
  
    - El valor en un enunciado VLOOKUP
     
@@ -652,7 +651,6 @@ Si estás usando la plantilla, consulta la pestaña de nuevas opiniones de la en
     
       ❌ Incorrecto.
 
-✅ Correcto.
 
 
 **Escenario 1, continuación**
@@ -665,7 +663,7 @@ Durante la revisión, tu equipo nota que uno de los aspectos de la limpieza de d
 
    - SPLIT
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para poner cada uno de los colores de la Columna G en una celda nueva, por separado, usa SPLIT. SPLIT es una función de la hoja de cálculo que divide el texto en base a un carácter específico y coloca cada fragmento en una nueva celda separada.
 
    - MID
     
@@ -678,8 +676,6 @@ Durante la revisión, tu equipo nota que uno de los aspectos de la limpieza de d
    - Delimitar
     
       ❌ Incorrecto.
-
-✅ Correcto.
 
 
 **Escenario 2, preguntas 6-10**
@@ -700,7 +696,7 @@ Para tu primera pregunta, la entrevistadora quiere saber más acerca de tu exper
 
    - VLOOKUP 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para buscar cierto valor en una columna de la hoja de cálculo y obtener la información correspondiente, usas VLOOKUP. 
  
    - SEARCH
     
@@ -710,7 +706,6 @@ Para tu primera pregunta, la entrevistadora quiere saber más acerca de tu exper
     
       ❌ Incorrecto.
 
-✅ Correcto.
 
 
 **Escenario 2, continuación**
@@ -725,7 +720,7 @@ Ahora, la entrevistadora quiere ahondar en tu conocimiento sobre las herramienta
 
    - El enunciado SELECT 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para quitar duplicados en SQL, incluye DISTINCT en el enunciado de SELECT.
  
    - El enunciado WHERE
     
@@ -734,8 +729,6 @@ Ahora, la entrevistadora quiere ahondar en tu conocimiento sobre las herramienta
    - El enunciado UPDATE
     
       ❌ Incorrecto.
-
-✅ Correcto.
 
 
 **Escenario 2, continuación**
@@ -746,13 +739,11 @@ Ahora, la entrevistadora te explica que el equipo de datos suele trabajar con gr
 
    - Sí, los tipos de datos, incluidos los horarios, las fechas y las monedas, pueden convertirse. 
     
-      ❌ Incorrecto.
+      ✅ Correcto. La función CAST se usa para convertir monedas, horarios y fechas en una tabla de SQL de un tipo de datos a otro. 
 
    - No, solo se puede convertir la moneda.
     
       ❌ Incorrecto.
-
-✅ Correcto.
 
 
 **Escenario 2, continuación**
@@ -767,7 +758,7 @@ Ahora, la entrevistadora te explica que uno de sus clientes es un minorista en l
 
    - CONCAT 
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para agregar cadenas y crear nuevas cadenas de texto, usa la función CONCAT.
  
    - COMBINE
     
@@ -776,8 +767,6 @@ Ahora, la entrevistadora te explica que uno de sus clientes es un minorista en l
    - CREATE
     
       ❌ Incorrecto.
-
-✅ Correcto.
 
 
 **Escenario 2, continuación**
@@ -800,9 +789,7 @@ Para tu pregunta final, la entrevistadora te explica que, por lo general, su equ
 
    - TRIM
     
-      ❌ Incorrecto.
-
-✅ Correcto.
+      ✅ Correcto. Para eliminar espacios extra y que haya uniformidad, usa la función TRIM. 
 
 
 ### Felicidades 🎬
