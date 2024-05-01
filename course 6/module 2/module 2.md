@@ -163,7 +163,7 @@ Module 2: Crear Visualizaciones de datos con Tableau
       ❌ Incorrecto.
 
 
-9. Se usa Tableau para crear visualizaciones dinámicas e interactivas. Las visualizaciones dinámicas pueden cambiar a lo largo del tiempo. ¿Qué significa que una visualización es interactiva?
+1. Se usa Tableau para crear visualizaciones dinámicas e interactivas. Las visualizaciones dinámicas pueden cambiar a lo largo del tiempo. ¿Qué significa que una visualización es interactiva?
 
    - La audiencia puede colaborar en los cambios de los datos
     
@@ -182,30 +182,30 @@ Module 2: Crear Visualizaciones de datos con Tableau
       ✅ Correcto.
 
 
-10. Estás trabajando con datos de Felicidad Global en Tableau. ¿Qué herramienta usas para seleccionar el área en el mapa que representa a América Central?
+3. Estás trabajando con datos de Felicidad Global en Tableau. ¿Qué herramienta usas para seleccionar el área en el mapa que representa a América Central?
 
    - Lasso 
     
-      ❌ Incorrecto.
+      ✅ Correcto.
 
    - Rectangular
     
-      ❌ Incorrecto.
+      ❌ Incorrecto. No es la respuesta correcta.
 
    - Radial
     
-      ✅ Correcto.
+      ❌ Incorrecto. No es la respuesta correcta.
 
    - Pan
     
       ❌ Incorrecto.
 
 
-11. Completa el espacio en blanco: Un analista de datos está trabajando con datos de Felicidad Global en Tableau. Para obtener una mejor visualización de Moldavia, usa la herramienta _____. 
+4. Completa el espacio en blanco: Un analista de datos está trabajando con datos de Felicidad Global en Tableau. Para obtener una mejor visualización de Moldavia, usa la herramienta _____. 
 
    - Lasso 
     
-      ❌ Incorrecto.
+      ❌ Incorrecto. No es la respuesta correcta.
 
    - Rectangular
     
@@ -220,7 +220,7 @@ Module 2: Crear Visualizaciones de datos con Tableau
       ✅ Correcto. Para obtener una mejor visualización de Moldavia, usa la herramienta Pan.
 
 
-12. Completa el espacio en blanco: En Tableau, una paleta _____ muestra dos rangos de valores. El color muestra el rango al que pertenece un punto de datos, y la intensidad del color muestra su magnitud. 
+5. Completa el espacio en blanco: En Tableau, una paleta _____ muestra dos rangos de valores. El color muestra el rango al que pertenece un punto de datos, y la intensidad del color muestra su magnitud. 
 
    - contraste 
     
@@ -239,4 +239,69 @@ Module 2: Crear Visualizaciones de datos con Tableau
       ✅ Correcto. Completa el espacio en blanco: En Tableau, una paleta divergente muestra dos rangos de valores. El color muestra el rango al que pertenece un punto de datos, y la intensidad del color muestra su magnitud. 
 
 
+1. Estás trabajando con datos de Felicidad Global en Tableau. ¿Qué herramienta usas para obtener una mejor visualización de Grecia? 
 
+   - Lasso  
+    
+      ❌ Incorrecto. No es la respuesta correcta.
+
+   - Radial
+    
+      ❌ Incorrecto.
+
+   - Rectangular
+    
+      ❌ Incorrecto.
+
+   - Pan
+    
+      ✅ Correcto. Para obtener una mejor visualización de Grecia, usa la herramienta Pan.
+
+
+2. Estás usando la herramienta Etiqueta en Tableau. ¿Qué te permitirá hacer con las visualizaciones del mapa de Alegría Global?
+
+   - Ocultar ciertos países en el mapa  
+    
+      ❌ Incorrecto. No es la respuesta correcta.
+
+   - Separar un país seleccionado en el mapa
+    
+      ❌ Incorrecto.
+
+   - Aumentar el tamaño de un país en el mapa
+    
+      ❌ Incorrecto.
+
+   - Mostrar la población de cada país en el mapa
+    
+      ✅ Correcto. La herramienta Etiqueta te permitirá mostrar la población de cada país en el mapa.
+
+
+7. Estás usando Tableau Public para crear una visualización de datos. Para mantener tu visualización oculta para otros usuarios, haces clic en el ícono Mostrar/Ocultar.
+
+   - verdadero
+    
+      ❌ Incorrecto.
+
+   - falso
+    
+      ✅ Correcto.
+
+
+3. Tableau se usa para crear visualizaciones interactivas y dinámicas. Una visualización es interactiva cuando la audiencia puede controlar qué datos ve. ¿Qué significa que una visualización es dinámica? 
+
+   - La visualización se puede descargar
+    
+      ❌ Incorrecto.
+
+   - La visualización no se puede modificar
+    
+      ❌ Incorrecto.
+
+   - La visualización puede incluir audio
+    
+      ❌ Incorrecto.
+
+   - La visualización puede cambiar a lo largo del tiempo
+    
+      ✅ Correcto. Una visualización es dinámica cuando puede cambiar a lo largo del tiempo.
