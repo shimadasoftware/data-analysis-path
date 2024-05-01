@@ -359,198 +359,286 @@ Los cálculos son una de las tareas más comunes que realizan los analistas de d
 
 ### Cuestionario: Desafío semanal 4 📖
 
+El cliente te ha pedido que envíes dos listas de correo por separado: uno a personas dentro de las 50 millas de Rock Springs; la otra a cualquier persona fuera de esa área. Por lo tanto, para investigar la distancia de cada donante desde la ciudad, primero tienes que descubrir dónde viven estas personas.
 
-✅ Correcto.     
+Podrías desplazarte por las 209 filas de datos, pero sabes que existe una forma más eficiente de organizar las ciudades. 
+
+¿Cuál de las siguientes funciones te permitirá ordenar tu hoja de cálculo por ciudad (columna K) en orden ascendente?
+   
 1. Un analista de datos quiere calcular la cantidad de filas que tienen un valor de SKU de “K102145”. ¿Qué función puede usar?
 
-   - eliminar
+   - =SORT(A2:R210, K, ASC)
     
       ❌ Incorrecto.
 
-   - nombrar
+   - =SORT(A2:R210, 11, ASC)
     
       ❌ Incorrecto.
 
-   - copiar
+   - =SORT(A2:R210, 11, TRUE)
     
-      ❌ Incorrecto.
+      ✅ Correcto. Para ordenar tu hoja de cálculo por ciudad en orden ascendente, usa la sintaxis de la función SORT =SORT(A2:R210, 11, TRUE). También puedes seleccionar A2-R210 y luego usar el menú desplegable para ordenar la hoja por la columna K de la A a la Z. 
 
-   - ocultar
-    
-      ❌ Incorrecto.
-
-
-✅ Correcto.     
-2. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
-    
-      ❌ Incorrecto.
-
-✅ Correcto.     
-3. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
-    
-      ❌ Incorrecto.
-
-✅ Correcto.     
-4. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
+   - =SORT(A2:R210, K, TRUE)
     
       ❌ Incorrecto.
 
 
-✅ Correcto.     
-5. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
+Escenario 1, continuación
+    
+2. Observas que a muchas celdas en la columna ciudad, columna K, les falta un valor. Por lo tanto, usas los códigos postales para investigar las ciudades correctas. Ahora, deseas agregar las ciudades a la fila de cada donante. Sin embargo, te preocupa cometer un error, por ejemplo, un error ortográfico.
 
-   - eliminar
+¿Qué herramienta de la hoja de cálculo puedes usar para agregar una lista desplegable con opciones predeterminadas para cada nombre de ciudad?
+
+   - VLOOKUP
     
       ❌ Incorrecto.
 
-   - nombrar
+   - Validación de datos
+    
+      ✅ Correcto. Usas la validación de datos para agregar listas desplegables con opciones predeterminadas para cada nombre de ciudad. Esto te permite controlar lo que puedes y no puedes escribir en tu hoja de cálculo.
+
+   - Lista
     
       ❌ Incorrecto.
 
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
-    
-      ❌ Incorrecto.
-
-
-✅ Correcto.     
-6. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
-    
-      ❌ Incorrecto.
-
-✅ Correcto.     
-7. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
-    
-      ❌ Incorrecto.
-
-✅ Correcto.     
-8. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
-
-   - eliminar
-    
-      ❌ Incorrecto.
-
-   - nombrar
-    
-      ❌ Incorrecto.
-
-   - copiar
-    
-      ❌ Incorrecto.
-
-   - ocultar
+   - Buscar
     
       ❌ Incorrecto.
 
 
-✅ Correcto.     
-9. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
+Escenario 1, continuación
+  
+3. Ahora, decides abordar la solicitud de Tayen de incluir una nota manuscrita en la pieza de publicidad por correo directo para todos los que hayan aportado como mínimo USD 100 el último año. 
 
-   - eliminar
+¿Cuál de las siguientes herramientas de la hoja de cálculo te permitirá cambiar la forma en que aparecen las celdas si contienen un valor de USD 100 o más?
+
+   - La función COUNTA
     
       ❌ Incorrecto.
 
-   - nombrar
+   - Formato condicional
+    
+      ✅ Correcto. Para cambiar la forma en que aparecen las celdas, usa el formato condicional. Elegir dar formato a las celdas si su valor es mayor que o igual a 100.   
+
+   - La función MAX
     
       ❌ Incorrecto.
 
-   - copiar
+   - Validación de datos
+    
+      ❌ Incorrecto.
+    
+
+4. En este punto, observas que la información sobre estado y código postal está en la misma celda. Sin embargo, el software de la lista de direcciones de correos electrónicos de la empresa exige que los estados estén en una línea separada de los códigos postales. 
+
+¿Qué función te permitirá mover la abreviatura del estado de 2 dígitos de la celda L2 a una columna propia? 
+
+   - =LEFT(L2,2)
     
       ❌ Incorrecto.
 
-   - ocultar
+   - =RIGHT(2,L2)
+    
+      ✅ Correcto. Podría ser.
+
+   - =RIGHT(L2,2)
+    
+      ❌ Incorrecto. No es la respuesta
+
+   - =LEFT(2,L2)
+    
+      ❌ Incorrecto.
+
+   
+5. Luego, duplicas tu conjunto de datos dos veces usando el menú Hoja de cálculo. Cambias el nombre de la primera hoja Donation Form List y eliminas las ciudades que están a una distancia de más de 50 millas de Rock Springs. Cambias el nombre de la segunda hoja Postcard List y eliminas las ciudades que están dentro de las 50 millas de Rock Springs.
+
+Luego, importas estos conjuntos de datos a tu base de datos con la lista de direcciones de correos electrónicos de la empresa. En una base de datos con la lista de direcciones de correos electrónicos, creas dos tablas: Donation_Form_List y Postcard_List. Decides limpiar Donation_Form_List primero. 
+
+El software que se usa para la lista de direcciones de correos electrónicos de la empresa requiere que las unidades estén en la misma línea que las direcciones. Sin embargo, actualmente están en dos columnas separadas (street_address y unit). 
+
+¿Qué función de SQL indicará a la base de datos que combine dos columnas en una columna nueva llamada “address”?
+
+   - COMBINE
+    
+      ❌ Incorrecto.
+
+   - CONCAT
+    
+      ✅ Correcto. La función CONCAT se usa para indicar a la base de datos que combine dos columnas en una columna nueva llamada “address”.
+
+   - COALESCE
+    
+      ❌ Incorrecto.
+
+   - CAST
+    
+      ❌ Incorrecto.
+     
+
+6. Tu base de datos contiene personas que viven en muchas áreas de Wyoming. Sin embargo, es importante que alinees tus datos internos con los datos de Food Justice Rock Springs. También debes separar tus datos en dos listas: Donation_Form_List y Postcard_List. Se basarán en la distancia de cada ciudad de Rock Springs.
+
+¿Qué función de SQL usas para seleccionar todos los datos de Donation_Form_List organizados por código postal?
+
+   - ARRANGE BY
+    
+      ❌ Incorrecto.
+
+   - SEQUENCE
+    
+      ❌ Incorrecto.
+
+   - ORDER BY
+    
+      ✅ Correcto. Para seleccionar todos los datos de Donation_Form_List organizados por código postal, usas la función ORDER BY. La función ORDER BY ordena los resultados devueltos en una consulta. 
+
+   - ORGANIZE
+    
+      ❌ Incorrecto.
+
+    
+7. Finalizas la limpieza de tus conjuntos de datos, así que decides revisar el correo electrónico de Tayen una vez más para asegurarte de que completaste la tarea íntegramente. Es bueno que hayas verificado porque olvidaste identificar a personas que se desempeñaron como miembros del directorio o el consejo directivo. Tayen desea escribirles y enviarles una nota de agradecimiento; por lo tanto, necesitas ubicarlos en la base de datos.
+
+Para recuperar solo esos registros que incluyen personas que se han desempeñado como miembros del directorio o del consejo directivo, ¿cuál es la consulta correcta?
+
+   - SELECT * FROM Donation_Form_List WHERE Board_Member = TRUE AND Trustee = TRUE
+    
+      ❌ Incorrecto.
+
+   - SELECT * FROM Donation_Form_List WHERE Board_Member = TRUE, Trustee = TRUE
+    
+      ❌ Incorrecto.
+
+   - SELECT * FROM Donation_Form_List WHERE Board_Member = "TRUE" AND Trustee = "TRUE"
+    
+      ❌ Incorrecto.
+
+   - SELECT * FROM Donation_Form_List WHERE Board_Member = "TRUE" OR Trustee = "TRUE"
+    
+      ✅ Correcto.  
+
+   
+8. Tu campaña de correos directos de la empresa fue muy exitosa, y Food Justice Rock Springs continuó asociándose con Directly Dynamic. Algo en que has estado trabajando es la asignación de números de identificación a todos los donantes. Esto te permitirá limpiar y organizar las listas de manera más efectiva.
+
+Mientras tanto, otro miembro del equipo ha estado creando una lista de potenciales donantes que contiene datos sobre personas que demostraron interés en involucrarse con Food Justice Rock Springs. A estas personas también se les asigna un ID único. Ahora, tienes que comparar la lista de donantes con el conjunto de datos en tu base de datos y recolectar determinados datos de ambos.
+
+¿Qué función de SQL combinará RIGHT y LEFT JOIN para devolver todos los registros coincidentes en ambas tablas?
+
+   - RIGHT JOIN
+    
+      ❌ Incorrecto.
+
+   - LEFT JOIN
+    
+      ❌ Incorrecto.
+
+   - OUTER JOIN
+    
+      ✅ Correcto. La función OUTER JOIN combinará RIGHT y LEFT JOIN para devolver todos los registros coincidentes en ambas tablas.  
+
+   - INNER JOIN 
+    
+      ❌ Incorrecto.
+
+  
+9. Tu próxima tarea es identificar la contribución promedio hecha por los donantes durante los últimos dos años. Tayen usará esta información para establecer una donación mínima para invitar a los donantes al próximo evento.
+
+Comienzas con 2019. Para obtener las contribuciones promedio en 2019 (contributions_2019), usas la función AVG. ¿Qué parte de tu instrucción en SQL indicará a la base de datos que debe encontrar este promedio y guardarlo en la variable AvgLineTotal?
+
+   - AVG(“contributions_2019”) IN AvgLineTotal
+    
+      ❌ Incorrecto.
+
+   - AVG(“contributions_2019”) AS AvgLineTotal
+    
+      ❌ Incorrecto.
+
+   - AVG(contributions_2019) AS AvgLineTotal
+    
+      ✅ Correcto. Para obtener las contribuciones promedio en 2019, la parte correcta de la consulta SQL es: AVG(contributions_2019) AS AvgLineTotal  
+
+   - AVG(contributions_2019) = “AvgLineTotal”
+    
+      ❌ Incorrecto.
+
+    
+10. Ahora que le proporcionaste el monto de la donación promedio, Tayen decide invitar a 50 personas a la gran apertura de un nuevo jardín comunitario. Vuelves a tu hoja de cálculo New Donor List para determinar cuánto aportó cada donante en los últimos dos años. Usarás esa información para identificar a los 50 donantes más importantes e invitarlos al evento. 
+
+¿Cuál es la sintaxis correcta para sumar los montos de las contribuciones en las celdas O2 y P2?
+
+   - =SUM(O2/P2)
+    
+      ❌ Incorrecto.
+
+   - =SUM(O2*P2)
+    
+      ❌ Incorrecto.
+
+   - =SUM(O2,P2)
+    
+      ✅ Correcto. Para sumar las celdas O2 y P2, usa la función =SUM(O2,P2). También puedes usar la fórmula =O2+P2.
+
+   - =SUM(“O2,P2”)
     
       ❌ Incorrecto.
 
 
-✅ Correcto.     
-10. Completa el espacio en blanco: Un analista de datos usa la asignación de alias para que sea más fácil leer y escribir una consulta. La asignación de alias implica _____ temporalmente una tabla o columna en una consulta.
+11. Tayen informa que también está pensando en invitar a todos los que hayan donado como mínimo USD 100 en 2018. Sin embargo, solo tiene cinco espacios abiertos. Te pide que informes cuántas personas aportaron como mínimo USD 100 para que pueda determinar si también las puede invitar al evento.
 
-   - eliminar
+La sintaxis correcta para contar cuántas donaciones de USD 100 o más aparecen en la columna O es =SUMIF(O2:O210,">=100").
+
+   - Verdadero
     
       ❌ Incorrecto.
 
-   - nombrar
+   - Falso
+    
+      ✅ Correcto. Para contar cuántas donaciones de USD 100 o más aparecen en la columna O, la sintaxis correcta es =COUNTIF(O2:O210,">=100").
+
+    
+12. La gran apertura del jardín comunitario fue un éxito. Además de los 55 donantes que Food Justice Rock Springs invitó, otros 20 potenciales donantes asistieron al evento. Ahora, Tayen desea saber más sobre las donaciones realizadas por los potenciales nuevos donantes en comparación con las de los donantes originales.
+
+¿Cuál es la sección de una consulta en SQL que calculará el porcentaje de contribuciones de los potenciales donantes?
+
+   - (Total_prospects + Total_donors = 100) AS Prospects_Percent
     
       ❌ Incorrecto.
 
-   - copiar
+   - (Total_prospects * Total_donors / 100) AS Prospects_Percent
     
       ❌ Incorrecto.
 
-   - ocultar
+   - (“Total_prospects” , “Total_donors” * 100) AS Prospects_Percent
+    
+      ❌ Incorrecto.
+
+   - (Total_prospects / Total_donors * 100) AS Prospects_Percent
+    
+      ✅ Correcto. Para identificar el porcentaje de contribuciones de los potenciales donantes, la consulta correcta es: (Total_prospects / Total_donors * 100) AS Prospects_Percent
+
+
+13. Tu equipo crea una lista de potenciales donantes altamente efectiva para Food Justice Rock Springs. Después de unos meses, muchos de estos potenciales donantes se convierten en donantes. Ahora, Tayen desea saber las tres ciudades más importantes donde viven estos nuevos donantes. Usará esa información para determinar si aún es verdad que existe una mayor probabilidad de que las personas que viven más cerca de Rock Springs donen.
+
+¿Qué cláusula agregas a la siguiente consulta para ordenar los donantes en cada ciudad de mayor a menor?
+
+```
+SELECT COUNT(DonorID), City
+FROM new_donor_list
+GROUP BY City
+```
+
+   - ORDER BY CITY(DonorID) DESC
+    
+      ❌ Incorrecto.
+
+   - ORDER BY COUNT(DonorID) ASC
+    
+      ❌ Incorrecto.
+
+   - ORDER BY COUNT(DonorID) DESC
+    
+      ✅ Correcto.
+
+   - ORDER BY CITY(DonorID) ASC
     
       ❌ Incorrecto.
